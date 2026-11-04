@@ -3,6 +3,7 @@ interactive_viz.py
 ==================
 Interactive Plotly visualizations for the 'Paying for Clean Air?' dashboard.
 Provides responsive, zoomable, and hoverable charts matching Inside Airbnb styling.
+Supports both Light and Dark themes dynamically with explicit background and font styling.
 """
 
 from __future__ import annotations
@@ -23,18 +24,31 @@ _AQI_COLOR_MAP = {
 }
 
 
-def plot_price_vs_aqi_interactive(df: pd.DataFrame) -> go.Figure:
+def _get_theme_colors(template: str):
+    is_dark = (template == "plotly_dark")
+    return {
+        "paper_bg": "#121417" if is_dark else "#ffffff",
+        "plot_bg": "#121417" if is_dark else "#ffffff",
+        "text_col": "#f1f5f9" if is_dark else "#0f172a",
+        "grid_col": "rgba(255, 255, 255, 0.08)" if is_dark else "rgba(0, 0, 0, 0.08)",
+        "line_col": "rgba(255, 255, 255, 0.15)" if is_dark else "rgba(0, 0, 0, 0.15)",
+        "is_dark": is_dark,
+    }
+
+
+def plot_price_vs_aqi_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
     """Interactive Scatter plot of Price (INR) vs AQI with OLS regression trendline."""
+    tc = _get_theme_colors(template)
     sub = df[["aqi", "price_inr", "city", "neighbourhood", "room_type", "aqi_category"]].dropna()
 
     if sub.empty:
         fig = go.Figure()
-        fig.add_annotation(text="No data available", showarrow=False)
+        fig.add_annotation(text="No data available", showarrow=False, font=dict(color=tc["text_col"]))
+        fig.update_layout(paper_bgcolor=tc["paper_bg"], plot_bgcolor=tc["plot_bg"])
         return fig
 
     # Regression statistics
     slope, intercept, r_value, p_value, _ = stats.linregress(sub["aqi"], sub["price_inr"])
-    p_str = "< 0.001" if p_value < 0.001 else f"= {p_value:.3f}"
 
     fig = px.scatter(
         sub,
@@ -44,7 +58,7 @@ def plot_price_vs_aqi_interactive(df: pd.DataFrame) -> go.Figure:
         color_discrete_map=_AQI_COLOR_MAP,
         hover_data={"city": True, "neighbourhood": True, "room_type": True, "aqi": True, "price_inr": ":,.0f"},
         labels={"aqi": "Air Quality Index (AQI)", "price_inr": "Nightly Price (₹ INR)", "aqi_category": "Air Quality"},
-        title=f"Airbnb Price vs. Air Quality Index (r = {r_value:.3f}, p {p_str})",
+        template=template,
     )
 
     # Add linear regression trendline
@@ -62,17 +76,45 @@ def plot_price_vs_aqi_interactive(df: pd.DataFrame) -> go.Figure:
     )
 
     fig.update_layout(
-        margin=dict(l=50, r=40, t=60, b=50),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        margin=dict(l=50, r=30, t=35, b=50),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="left",
+            x=0.0,
+            title=dict(text=""),
+            font=dict(color=tc["text_col"]),
+        ),
         hovermode="closest",
     )
-    fig.update_xaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
-    fig.update_yaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
+    fig.update_xaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    fig.update_yaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
     return fig
 
 
-def plot_aqi_city_ranking_interactive(df: pd.DataFrame) -> go.Figure:
+def plot_aqi_city_ranking_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
     """Interactive horizontal bar chart of mean AQI per city with color grading."""
+    tc = _get_theme_colors(template)
     city_aqi = (
         df.groupby("city", as_index=False)
         .agg(mean_aqi=("aqi", "mean"), listing_count=("listing_id", "count"))
@@ -81,7 +123,8 @@ def plot_aqi_city_ranking_interactive(df: pd.DataFrame) -> go.Figure:
 
     if city_aqi.empty:
         fig = go.Figure()
-        fig.add_annotation(text="No data available", showarrow=False)
+        fig.add_annotation(text="No data available", showarrow=False, font=dict(color=tc["text_col"]))
+        fig.update_layout(paper_bgcolor=tc["paper_bg"], plot_bgcolor=tc["plot_bg"])
         return fig
 
     fig = px.bar(
@@ -93,24 +136,44 @@ def plot_aqi_city_ranking_interactive(df: pd.DataFrame) -> go.Figure:
         color_continuous_scale=["#2ecc71", "#f1c40f", "#e67e22", "#e74c3c"],
         labels={"mean_aqi": "Mean AQI", "city": "City", "listing_count": "Listings"},
         hover_data={"listing_count": True, "mean_aqi": ":.1f"},
-        title="Mean Air Quality Index (AQI) by City",
+        template=template,
     )
 
-    fig.add_vline(x=50, line_dash="dash", line_color="#27ae60", annotation_text="Clean Air (≤50)")
-    fig.add_vline(x=100, line_dash="dash", line_color="#d35400", annotation_text="Moderate (≤100)")
+    fig.add_vline(x=50, line_dash="dash", line_color="#27ae60", annotation_text="Clean Air (≤50)", annotation_font_color=tc["text_col"])
+    fig.add_vline(x=100, line_dash="dash", line_color="#d35400", annotation_text="Moderate (≤100)", annotation_font_color=tc["text_col"])
 
     fig.update_layout(
-        margin=dict(l=50, r=40, t=60, b=50),
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        margin=dict(l=50, r=40, t=25, b=50),
         coloraxis_showscale=False,
-        height=max(400, len(city_aqi) * 22),
+        height=max(420, len(city_aqi) * 22),
     )
-    fig.update_xaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
-    fig.update_yaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
+    fig.update_xaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    fig.update_yaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
     return fig
 
 
-def plot_room_type_interactive(df: pd.DataFrame) -> go.Figure:
+def plot_room_type_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
     """Interactive grouped bar chart: Mean price by Room Type and City (Top 10)."""
+    tc = _get_theme_colors(template)
     top_cities = df["city"].value_counts().nlargest(10).index.tolist()
     sub = df[df["city"].isin(top_cities)]
 
@@ -127,28 +190,48 @@ def plot_room_type_interactive(df: pd.DataFrame) -> go.Figure:
         color="city",
         barmode="group",
         labels={"room_type": "Room Type", "mean_price_inr": "Mean Nightly Price (₹ INR)", "city": "City"},
-        title="Mean Nightly Price by Room Type (Top 10 Cities)",
+        template=template,
     )
 
     fig.update_layout(
-        margin=dict(l=50, r=40, t=95, b=60),
-        title=dict(y=0.96, x=0.01, xanchor="left", yanchor="top"),
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        margin=dict(l=50, r=20, t=25, b=50),
         legend=dict(
-            orientation="h",
-            yanchor="bottom",
-            y=1.02,
+            orientation="v",
+            yanchor="top",
+            y=1.0,
             xanchor="left",
-            x=0.0,
-            title=dict(text=""),
+            x=1.02,
+            title=dict(text="City", font=dict(color=tc["text_col"])),
+            font=dict(color=tc["text_col"]),
         ),
     )
-    fig.update_xaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
-    fig.update_yaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
+    fig.update_xaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    fig.update_yaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
     return fig
 
 
-def plot_city_price_boxplot_interactive(df: pd.DataFrame) -> go.Figure:
+def plot_city_price_boxplot_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
     """Interactive horizontal boxplot of prices per city sorted by median."""
+    tc = _get_theme_colors(template)
     order = (
         df.groupby("city")["price_inr"]
         .median()
@@ -163,36 +246,44 @@ def plot_city_price_boxplot_interactive(df: pd.DataFrame) -> go.Figure:
         category_orders={"city": order},
         color="city",
         labels={"price_inr": "Nightly Price (₹ INR)", "city": "City"},
-        title="Nightly Price Distribution by City (INR)",
+        template=template,
     )
 
     fig.update_layout(
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
         showlegend=False,
-        margin=dict(l=60, r=40, t=60, b=60),
-        height=max(450, len(order) * 24),
+        margin=dict(l=60, r=40, t=25, b=50),
+        height=max(450, len(order) * 22),
     )
     fig.update_xaxes(
         showline=True,
         linewidth=1.2,
-        linecolor="rgba(160, 170, 185, 0.6)",
+        linecolor=tc["line_col"],
         showgrid=True,
-        gridcolor="rgba(128, 128, 128, 0.15)",
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
         mirror=False,
     )
     fig.update_yaxes(
         showline=True,
         linewidth=1.2,
-        linecolor="rgba(160, 170, 185, 0.6)",
+        linecolor=tc["line_col"],
         showgrid=False,
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
         mirror=False,
     )
     return fig
 
 
-def plot_price_distribution_interactive(df: pd.DataFrame) -> go.Figure:
-    """Interactive Histogram of Nightly Prices segmented by AQI category."""
+def plot_price_distribution_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
+    """Interactive Histogram of Nightly Prices with Marginal Boxplots segmented by AQI category."""
+    tc = _get_theme_colors(template)
     sub = df.dropna(subset=["price_inr", "aqi_category"])
-    
+
     fig = px.histogram(
         sub,
         x="price_inr",
@@ -201,22 +292,148 @@ def plot_price_distribution_interactive(df: pd.DataFrame) -> go.Figure:
         nbins=50,
         marginal="box",
         labels={"price_inr": "Nightly Price (₹ INR)", "aqi_category": "Air Quality"},
-        title="Nightly Price Distribution Across Air Quality Categories",
+        template=template,
     )
 
     fig.update_layout(
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
         barmode="overlay",
-        margin=dict(l=50, r=40, t=60, b=50),
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+        height=430,
+        margin=dict(l=50, r=40, t=35, b=50),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="right",
+            x=1.0,
+            title=dict(text=""),
+            font=dict(color=tc["text_col"]),
+        ),
     )
     fig.update_traces(opacity=0.7)
-    fig.update_xaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
-    fig.update_yaxes(showline=True, linewidth=1, linecolor="rgba(128,128,128,0.3)", mirror=False)
+    fig.update_xaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    fig.update_yaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
     return fig
 
 
-def plot_correlation_heatmap_interactive(df: pd.DataFrame) -> go.Figure:
+def plot_availability_vs_price_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
+    """Interactive Scatter plot of Availability (days/year) vs Price (INR) with OLS trendline."""
+    tc = _get_theme_colors(template)
+    cols = ["availability_365", "price_inr", "room_type", "city", "neighbourhood"]
+    sub = df[[c for c in cols if c in df.columns]].dropna(subset=["availability_365", "price_inr"])
+
+    if sub.empty:
+        fig = go.Figure()
+        fig.add_annotation(text="No data available", showarrow=False, font=dict(color=tc["text_col"]))
+        fig.update_layout(paper_bgcolor=tc["paper_bg"], plot_bgcolor=tc["plot_bg"])
+        return fig
+
+    # Regression statistics
+    slope, intercept, r_value, p_value, _ = stats.linregress(sub["availability_365"], sub["price_inr"])
+    sig_str = "***" if p_value < 0.001 else ("**" if p_value < 0.01 else ("*" if p_value < 0.05 else "ns"))
+
+    color_col = "room_type" if "room_type" in sub.columns else None
+
+    fig = px.scatter(
+        sub,
+        x="availability_365",
+        y="price_inr",
+        color=color_col,
+        color_discrete_sequence=px.colors.qualitative.Set2,
+        opacity=0.6,
+        hover_data={"city": True, "neighbourhood": True, "room_type": True, "availability_365": True, "price_inr": ":,.0f"},
+        labels={"availability_365": "Availability (days/year)", "price_inr": "Nightly Price (₹ INR)", "room_type": "Room Type"},
+        template=template,
+    )
+
+    # Add linear regression trendline
+    x_range = np.linspace(sub["availability_365"].min(), sub["availability_365"].max(), 100)
+    y_pred = slope * x_range + intercept
+    fig.add_trace(
+        go.Scatter(
+            x=x_range,
+            y=y_pred,
+            mode="lines",
+            name="OLS Fit",
+            line=dict(color="#c0392b", width=2.5, dash="dash"),
+            hoverinfo="skip",
+        )
+    )
+
+    # Correlation annotation in bottom right corner
+    fig.add_annotation(
+        text=f"<b>r = {r_value:.3f}</b> ({sig_str})",
+        xref="paper",
+        yref="paper",
+        x=0.98,
+        y=0.04,
+        showarrow=False,
+        font=dict(size=11, color=tc["text_col"]),
+        bgcolor="rgba(25, 28, 33, 0.85)" if tc["is_dark"] else "rgba(255, 255, 255, 0.9)",
+        bordercolor="rgba(128, 128, 128, 0.4)",
+        borderwidth=1,
+        borderpad=5,
+    )
+
+    fig.update_layout(
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        height=430,
+        margin=dict(l=50, r=40, t=35, b=50),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="left",
+            x=0.0,
+            title=dict(text=""),
+            font=dict(color=tc["text_col"]),
+        ),
+        hovermode="closest",
+    )
+    fig.update_xaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    fig.update_yaxes(
+        showline=True,
+        linewidth=1,
+        linecolor=tc["line_col"],
+        gridcolor=tc["grid_col"],
+        tickfont=dict(color=tc["text_col"]),
+        title_font=dict(color=tc["text_col"]),
+        mirror=False,
+    )
+    return fig
+
+
+def plot_correlation_heatmap_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
     """Interactive Heatmap of correlation matrix."""
+    tc = _get_theme_colors(template)
     num_cols = [
         "price_inr", "aqi", "minimum_nights",
         "availability_365", "number_of_reviews", "review_scores_rating"
@@ -230,10 +447,13 @@ def plot_correlation_heatmap_interactive(df: pd.DataFrame) -> go.Figure:
         color_continuous_scale="RdBu_r",
         zmin=-1,
         zmax=1,
-        title="Feature Correlation Matrix",
         labels=dict(color="Correlation"),
+        template=template,
     )
     fig.update_layout(
-        margin=dict(l=50, r=40, t=60, b=50),
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        margin=dict(l=50, r=40, t=25, b=50),
     )
     return fig
