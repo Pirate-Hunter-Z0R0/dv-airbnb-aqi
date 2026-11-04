@@ -1,0 +1,351 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Singapore,811915,Little India,Entire home/apt,322.37,4,182,19,3.85,85.0,Moderate,1.308633,103.884223
+Singapore,880884,Little India,Entire home/apt,271.5,11,5,70,4.92,83.0,Moderate,1.351552,103.76838
+Singapore,417571,Little India,Entire home/apt,110.7,6,200,15,4.1,79.0,Moderate,1.387562,103.862116
+Singapore,450168,Marina Bay,Entire home/apt,213.57,7,127,1,4.73,44.0,Good,1.301529,103.879793
+Singapore,818395,Queenstown,Entire home/apt,197.17,21,268,0,4.23,88.0,Moderate,1.30279,103.883759
+Singapore,179314,Chinatown,Entire home/apt,239.38,22,357,41,4.38,65.0,Moderate,1.418367,103.816466
+Singapore,347399,Orchard,Entire home/apt,190.5,22,186,19,,64.0,Moderate,1.373921,103.76017
+Singapore,103986,Chinatown,Entire home/apt,284.65,16,229,77,5.0,20.0,Good,1.376031,103.813221
+Singapore,354430,Tanjong Pagar,Entire home/apt,123.1,14,108,9,4.17,58.0,Moderate,1.299098,103.840396
+Singapore,382806,Little India,Entire home/apt,141.03,22,288,44,4.34,63.0,Moderate,1.314443,103.877728
+Singapore,797971,Bugis,Entire home/apt,378.38,22,238,25,4.99,65.0,Moderate,1.353641,103.8163
+Singapore,596854,Queenstown,Private room,120.54,5,14,34,4.05,44.0,Good,1.390292,103.825391
+Singapore,805566,Sentosa,Entire home/apt,406.81,20,56,4,4.12,,,1.375866,103.865402
+Singapore,965237,Chinatown,Hotel room,194.64,2,162,85,3.51,94.0,Moderate,1.372701,103.885952
+Singapore,850004,Marina Bay,Hotel room,161.32,30,133,2,3.8,73.0,Moderate,1.374653,103.772693
+Singapore,733127,Chinatown,Private room,,3,246,53,4.07,62.0,Moderate,1.381682,103.754444
+Singapore,614286,Tanjong Pagar,Private room,294.52,21,73,1,3.59,46.0,Good,1.312926,103.758829
+Singapore,524700,Chinatown,Entire home/apt,228.28,4,221,2,4.98,68.0,Moderate,1.3367,103.871138
+Singapore,639244,Chinatown,Entire home/apt,118.58,25,330,9,4.57,25.0,Good,1.408117,103.801424
+Singapore,847329,Marina Bay,Entire home/apt,172.86,6,338,60,3.98,59.0,Moderate,1.404344,103.801723
+Singapore,588564,Tanjong Pagar,Entire home/apt,142.43,29,10,34,4.2,70.0,Moderate,1.320055,103.829427
+Singapore,639960,Bugis,Hotel room,450.0,8,332,6,4.04,70.0,Moderate,1.296258,103.766744
+Singapore,455582,Tanjong Pagar,Entire home/apt,245.58,6,218,3,4.11,,,1.365761,103.850832
+Singapore,724376,Queenstown,Entire home/apt,450.0,3,12,46,4.39,65.0,Moderate,1.301322,103.757535
+Singapore,184368,Sentosa,Private room,450.0,8,32,29,4.54,48.0,Good,1.417775,103.86156
+Singapore,628691,Tanjong Pagar,Entire home/apt,284.4,2,150,44,4.05,74.0,Moderate,1.292037,103.78934
+Singapore,688510,Chinatown,Private room,450.0,3,273,14,4.38,71.0,Moderate,1.287525,103.851547
+Singapore,116808,Marina Bay,Shared room,283.98,19,6,0,4.83,,,1.290148,103.789654
+Singapore,933659,Queenstown,Private room,325.7,2,106,108,5.0,88.0,Moderate,1.376938,103.889163
+Singapore,783936,Little India,Entire home/apt,216.11,3,23,89,4.19,85.0,Moderate,1.318203,103.752012
+Singapore,582196,Little India,Private room,132.46,1,337,3,4.87,74.0,Moderate,1.394082,103.843207
+Singapore,841662,Orchard,Entire home/apt,450.0,2,258,10,4.22,63.0,Moderate,1.300381,103.884874
+Singapore,229647,Queenstown,Entire home/apt,234.19,1,238,1,3.71,44.0,Good,1.347914,103.758955
+Singapore,251370,Bugis,Entire home/apt,313.08,2,250,12,4.1,5.0,Good,1.352467,103.888264
+Singapore,792976,Queenstown,Private room,318.02,15,112,13,4.56,61.0,Moderate,1.386674,103.796344
+Singapore,812336,Sentosa,Private room,376.68,8,347,5,3.99,47.0,Good,1.29486,103.830108
+Singapore,982067,Marina Bay,Entire home/apt,100.88,27,188,37,4.9,60.0,Moderate,1.371424,103.88738
+Singapore,692842,Chinatown,Entire home/apt,217.61,1,149,3,5.0,57.0,Moderate,1.393989,103.772196
+Singapore,342375,Queenstown,Shared room,450.0,2,314,27,4.51,68.0,Moderate,1.395263,103.865487
+Singapore,375405,Marina Bay,Private room,358.62,16,239,7,4.64,30.0,Good,1.282369,103.781264
+Singapore,313425,Sentosa,Private room,,1,260,104,4.13,,,1.388126,103.859301
+Singapore,883858,Queenstown,Entire home/apt,269.72,10,116,125,5.0,54.0,Moderate,1.327316,103.873602
+Singapore,488699,Bugis,Hotel room,,3,26,32,4.85,28.0,Good,1.378183,103.800045
+Singapore,437779,Chinatown,Private room,132.96,2,23,38,4.12,43.0,Good,1.352368,103.884625
+Singapore,514767,Queenstown,Entire home/apt,450.0,10,124,107,3.66,91.0,Moderate,1.35341,103.785666
+Singapore,170880,Sentosa,Entire home/apt,315.11,6,317,3,4.5,71.0,Moderate,1.420955,103.831918
+Singapore,214416,Chinatown,Private room,450.0,2,156,12,4.36,93.0,Moderate,1.419905,103.877108
+Singapore,964580,Little India,Entire home/apt,450.0,22,307,16,3.76,,,1.371303,103.854039
+Singapore,806899,Chinatown,Entire home/apt,406.22,9,292,9,3.84,55.0,Moderate,1.301135,103.785937
+Singapore,127353,Bugis,Entire home/apt,422.62,15,12,11,4.94,62.0,Moderate,1.352594,103.768511
+Singapore,455221,Sentosa,Entire home/apt,251.22,9,194,2,3.59,51.0,Moderate,1.362338,103.812374
+Singapore,865747,Bugis,Private room,259.52,2,271,22,3.88,57.0,Moderate,1.340699,103.760156
+Singapore,947986,Bugis,Entire home/apt,237.57,2,205,1,4.73,65.0,Moderate,1.312919,103.797819
+Singapore,506687,Tanjong Pagar,Entire home/apt,172.27,4,10,1,4.52,59.0,Moderate,1.418071,103.867018
+Singapore,747056,Queenstown,Private room,218.93,9,201,60,4.39,70.0,Moderate,1.411847,103.843056
+Singapore,141131,Little India,Shared room,211.5,10,176,0,3.77,44.0,Good,1.345618,103.75811
+Singapore,645337,Little India,Entire home/apt,148.91,19,244,48,,73.0,Moderate,1.380946,103.788181
+Singapore,886791,Queenstown,Entire home/apt,,7,8,8,4.5,46.0,Good,1.330207,103.875692
+Singapore,299763,Marina Bay,Entire home/apt,450.0,10,31,12,5.0,71.0,Moderate,1.381442,103.814693
+Singapore,863309,Orchard,Entire home/apt,394.25,3,100,80,3.94,63.0,Moderate,1.403667,103.861346
+Singapore,776376,Chinatown,Private room,450.0,10,34,60,4.69,45.0,Good,1.398482,103.876067
+Singapore,804900,Chinatown,Entire home/apt,264.24,21,286,11,3.9,90.0,Moderate,1.414256,103.874917
+Singapore,219106,Queenstown,Private room,116.47,1,194,3,4.53,25.0,Good,1.416486,103.761022
+Singapore,718302,Chinatown,Private room,165.32,4,216,30,4.37,37.0,Good,1.408811,103.781421
+Singapore,525340,Little India,Entire home/apt,387.62,28,96,102,4.55,33.0,Good,1.335658,103.866241
+Singapore,874822,Queenstown,Entire home/apt,90.0,30,32,35,4.01,58.0,Moderate,1.354632,103.8519
+Singapore,403133,Queenstown,Private room,450.0,15,152,41,4.45,65.0,Moderate,1.375444,103.850469
+Singapore,245501,Tanjong Pagar,Entire home/apt,210.23,1,11,98,4.64,88.0,Moderate,1.348853,103.820058
+Singapore,586905,Little India,Entire home/apt,98.34,21,213,0,4.25,66.0,Moderate,1.407642,103.885585
+Singapore,601870,Marina Bay,Private room,450.0,8,171,24,4.98,67.0,Moderate,1.355809,103.83854
+Singapore,506971,Bugis,Entire home/apt,167.63,20,357,84,3.84,49.0,Good,1.314072,103.76775
+Singapore,950669,Queenstown,Private room,450.0,23,138,5,3.9,57.0,Moderate,1.301136,103.83295
+Singapore,643065,Marina Bay,Entire home/apt,197.86,3,77,36,4.42,53.0,Moderate,1.291895,103.886704
+Singapore,631135,Little India,Entire home/apt,134.66,1,79,27,4.26,51.0,Moderate,1.39416,103.886586
+Singapore,679239,Tanjong Pagar,Hotel room,248.43,1,317,220,3.26,59.0,Moderate,1.351978,103.785466
+Singapore,329286,Sentosa,Private room,157.67,1,187,19,3.92,91.0,Moderate,1.368583,103.802176
+Singapore,549202,Queenstown,Entire home/apt,303.84,10,214,28,4.76,57.0,Moderate,1.365389,103.874235
+Singapore,545560,Chinatown,Shared room,192.22,5,184,37,4.66,61.0,Moderate,1.376117,103.835853
+Singapore,742887,Queenstown,Entire home/apt,336.6,11,29,40,4.19,39.0,Good,1.301026,103.785567
+Singapore,448705,Little India,Private room,265.91,8,329,26,4.95,68.0,Moderate,1.287962,103.867736
+Singapore,621353,Queenstown,Hotel room,450.0,28,250,165,4.23,58.0,Moderate,1.383787,103.756822
+Singapore,909896,Orchard,Entire home/apt,250.49,2,364,12,3.64,59.0,Moderate,1.330535,103.882447
+Singapore,506648,Queenstown,Entire home/apt,450.0,8,99,2,4.06,62.0,Moderate,1.417115,103.788885
+Singapore,978453,Tanjong Pagar,Private room,347.88,18,226,4,4.59,76.0,Moderate,1.321121,103.863585
+Singapore,910331,Tanjong Pagar,Entire home/apt,274.69,1,267,10,3.91,84.0,Moderate,1.365666,103.789365
+Singapore,329113,Bugis,Private room,357.19,23,89,104,4.7,57.0,Moderate,1.311845,103.869875
+Singapore,548064,Chinatown,Entire home/apt,258.36,24,275,117,4.46,71.0,Moderate,1.39824,103.811332
+Singapore,883325,Tanjong Pagar,Entire home/apt,132.16,9,119,19,3.59,52.0,Moderate,1.406188,103.817825
+Singapore,981911,Chinatown,Private room,179.47,13,166,25,4.1,45.0,Good,1.308809,103.876592
+Singapore,806935,Orchard,Entire home/apt,358.8,1,89,19,4.65,44.0,Good,1.298006,103.877467
+Singapore,985975,Marina Bay,Private room,450.0,2,225,32,4.6,46.0,Good,1.352851,103.877473
+Singapore,552690,Bugis,Entire home/apt,,3,101,11,5.0,26.0,Good,1.38745,103.775918
+Singapore,794328,Marina Bay,Entire home/apt,187.35,6,25,12,4.23,47.0,Good,1.288993,103.782255
+Singapore,780248,Chinatown,Entire home/apt,259.76,27,325,39,4.91,77.0,Moderate,1.388622,103.828206
+Singapore,143424,Bugis,Private room,155.95,10,48,11,4.59,46.0,Good,1.342568,103.786988
+Singapore,397720,Queenstown,Entire home/apt,104.73,9,77,6,4.6,70.0,Moderate,1.381998,103.870644
+Singapore,870858,Queenstown,Entire home/apt,182.55,3,353,74,4.86,83.0,Moderate,1.342159,103.865837
+Singapore,199599,Chinatown,Hotel room,289.27,12,306,25,4.64,77.0,Moderate,1.314539,103.877417
+Singapore,273031,Marina Bay,Entire home/apt,159.11,17,308,4,,56.0,Moderate,1.294518,103.801911
+Singapore,335905,Marina Bay,Entire home/apt,,4,37,8,4.65,82.0,Moderate,1.31068,103.864715
+Singapore,328768,Sentosa,Shared room,199.66,30,133,46,4.79,92.0,Moderate,1.335,103.756819
+Singapore,380149,Tanjong Pagar,Hotel room,318.71,2,215,14,4.33,,,1.294946,103.870221
+Singapore,606078,Chinatown,Entire home/apt,179.71,8,335,76,,93.0,Moderate,1.331031,103.768391
+Singapore,137331,Little India,Hotel room,263.5,18,66,66,4.08,57.0,Moderate,1.386553,103.772375
+Singapore,194877,Sentosa,Entire home/apt,124.39,7,199,3,3.87,87.0,Moderate,1.34201,103.806165
+Singapore,229303,Marina Bay,Shared room,392.15,1,16,8,,,,1.407481,103.759616
+Singapore,505127,Orchard,Entire home/apt,355.21,30,173,5,3.41,53.0,Moderate,1.326678,103.750114
+Singapore,841794,Sentosa,Private room,206.46,19,198,35,3.46,79.0,Moderate,1.345899,103.768142
+Singapore,268123,Sentosa,Entire home/apt,,17,11,68,4.74,52.0,Moderate,1.392674,103.865003
+Singapore,668199,Bugis,Private room,234.69,5,30,81,4.17,49.0,Good,1.335161,103.76275
+Singapore,935427,Marina Bay,Shared room,257.08,28,153,13,4.11,50.0,Good,1.389526,103.842726
+Singapore,822026,Sentosa,Hotel room,202.25,2,202,24,,63.0,Moderate,1.404216,103.779926
+Singapore,457323,Marina Bay,Entire home/apt,127.63,7,47,42,4.55,50.0,Good,1.413267,103.818125
+Singapore,243486,Tanjong Pagar,Entire home/apt,183.65,9,119,10,5.0,61.0,Moderate,1.307414,103.856187
+Singapore,482058,Marina Bay,Entire home/apt,289.17,12,137,35,3.29,55.0,Moderate,1.399746,103.874847
+Singapore,444727,Orchard,Hotel room,233.37,3,110,60,5.0,100.0,Moderate,1.318987,103.837967
+Singapore,503245,Chinatown,Entire home/apt,221.25,10,201,7,3.89,54.0,Moderate,1.321274,103.756109
+Singapore,356579,Sentosa,Private room,201.97,23,108,14,,40.0,Good,1.298298,103.830087
+Singapore,888687,Bugis,Entire home/apt,259.5,27,188,5,4.07,91.0,Moderate,1.345711,103.751556
+Singapore,881663,Little India,Entire home/apt,178.33,3,112,77,,69.0,Moderate,1.409355,103.76362
+Singapore,284425,Sentosa,Entire home/apt,211.12,4,3,37,3.75,19.0,Good,1.384386,103.814732
+Singapore,630707,Chinatown,Entire home/apt,401.47,8,325,21,3.47,23.0,Good,1.314304,103.756091
+Singapore,777066,Little India,Entire home/apt,215.91,13,62,148,5.0,64.0,Moderate,1.387775,103.870373
+Singapore,278137,Sentosa,Private room,121.39,16,323,35,3.94,84.0,Moderate,1.365787,103.839128
+Singapore,600529,Orchard,Entire home/apt,363.25,2,221,20,5.0,56.0,Moderate,1.331002,103.791158
+Singapore,721176,Sentosa,Private room,120.61,2,314,17,4.43,78.0,Moderate,1.311005,103.853994
+Singapore,392093,Tanjong Pagar,Private room,273.34,17,219,23,3.5,31.0,Good,1.316736,103.825582
+Singapore,471456,Chinatown,Shared room,225.54,7,34,0,4.58,59.0,Moderate,1.352072,103.761058
+Singapore,892162,Little India,Shared room,413.09,23,73,83,4.52,84.0,Moderate,1.323852,103.810235
+Singapore,434682,Little India,Private room,303.56,26,96,8,4.62,85.0,Moderate,1.412223,103.783112
+Singapore,465468,Sentosa,Shared room,349.81,12,164,5,3.72,55.0,Moderate,1.40457,103.791201
+Singapore,937509,Marina Bay,Entire home/apt,450.0,3,228,4,4.55,33.0,Good,1.285829,103.847217
+Singapore,773530,Queenstown,Entire home/apt,319.5,16,58,155,,61.0,Moderate,1.292085,103.819537
+Singapore,611598,Chinatown,Private room,122.46,2,104,103,4.77,22.0,Good,1.289714,103.777144
+Singapore,590699,Sentosa,Private room,230.16,22,89,108,4.55,66.0,Moderate,1.344609,103.801169
+Singapore,594014,Queenstown,Entire home/apt,450.0,28,188,1,4.45,55.0,Moderate,1.293684,103.780576
+Singapore,891551,Little India,Entire home/apt,450.0,11,107,19,4.31,51.0,Moderate,1.31104,103.850552
+Singapore,693671,Sentosa,Entire home/apt,369.34,29,318,81,3.51,69.0,Moderate,1.358666,103.823016
+Singapore,896890,Chinatown,Entire home/apt,370.31,16,81,43,3.9,28.0,Good,1.38843,103.834436
+Singapore,684335,Tanjong Pagar,Hotel room,310.95,26,54,18,4.63,61.0,Moderate,1.383727,103.814244
+Singapore,251604,Marina Bay,Private room,168.42,25,103,47,3.93,36.0,Good,1.365673,103.75468
+Singapore,255720,Tanjong Pagar,Private room,219.74,2,125,2,4.87,65.0,Moderate,1.321149,103.751036
+Singapore,854608,Orchard,Entire home/apt,233.39,24,99,65,4.15,97.0,Moderate,1.41725,103.886457
+Singapore,887113,Bugis,Entire home/apt,436.22,24,229,13,4.87,61.0,Moderate,1.417939,103.817426
+Singapore,404293,Tanjong Pagar,Entire home/apt,450.0,12,177,73,4.08,65.0,Moderate,1.364226,103.835251
+Singapore,999854,Tanjong Pagar,Private room,371.11,26,100,41,3.95,42.0,Good,1.34615,103.858774
+Singapore,187909,Bugis,Entire home/apt,127.69,10,155,107,3.9,46.0,Good,1.318372,103.848789
+Singapore,963083,Marina Bay,Entire home/apt,450.0,21,135,83,4.67,73.0,Moderate,1.406432,103.850558
+Singapore,965295,Tanjong Pagar,Entire home/apt,450.0,10,18,16,4.25,47.0,Good,1.382063,103.862209
+Singapore,589109,Little India,Entire home/apt,234.87,29,236,14,4.69,34.0,Good,1.416881,103.806773
+Singapore,770275,Little India,Entire home/apt,220.22,10,129,29,4.63,49.0,Good,1.408877,103.809013
+Singapore,834499,Little India,Entire home/apt,381.15,2,208,12,3.44,65.0,Moderate,1.381277,103.839324
+Singapore,228654,Tanjong Pagar,Entire home/apt,450.0,20,105,3,4.45,71.0,Moderate,1.338704,103.836688
+Singapore,108965,Orchard,Entire home/apt,161.19,28,244,10,3.51,37.0,Good,1.300844,103.837074
+Singapore,264833,Bugis,Private room,363.22,12,345,103,4.14,50.0,Good,1.392076,103.828243
+Singapore,109009,Bugis,Private room,130.63,3,251,28,,57.0,Moderate,1.338199,103.804967
+Singapore,903161,Sentosa,Private room,450.0,20,100,2,4.49,56.0,Moderate,1.410071,103.856718
+Singapore,381933,Tanjong Pagar,Private room,161.31,1,201,7,4.12,74.0,Moderate,1.360233,103.875135
+Singapore,293634,Little India,Entire home/apt,338.96,13,187,70,4.62,,,1.416841,103.855838
+Singapore,685272,Sentosa,Entire home/apt,122.8,3,49,39,4.46,61.0,Moderate,1.420005,103.768351
+Singapore,945982,Sentosa,Entire home/apt,450.0,22,22,106,3.81,82.0,Moderate,1.321492,103.881856
+Singapore,471595,Sentosa,Private room,187.91,1,258,65,3.86,28.0,Good,1.383885,103.824956
+Singapore,838333,Queenstown,Entire home/apt,450.0,22,346,110,4.3,,,1.38673,103.794798
+Singapore,697275,Tanjong Pagar,Entire home/apt,162.58,1,149,15,4.62,62.0,Moderate,1.3779,103.827185
+Singapore,400004,Marina Bay,Entire home/apt,285.07,9,332,182,,51.0,Moderate,1.317656,103.753583
+Singapore,612386,Orchard,Private room,315.29,19,135,18,4.69,52.0,Moderate,1.349932,103.762888
+Singapore,199565,Little India,Private room,450.0,19,53,17,3.71,78.0,Moderate,1.29754,103.789402
+Singapore,415409,Sentosa,Entire home/apt,213.52,3,268,144,4.62,68.0,Moderate,1.36234,103.827333
+Singapore,825991,Little India,Private room,216.11,6,152,21,3.84,53.0,Moderate,1.351093,103.752918
+Singapore,891722,Little India,Entire home/apt,238.98,28,277,194,3.91,90.0,Moderate,1.326947,103.786828
+Singapore,776709,Queenstown,Entire home/apt,167.26,1,175,11,4.08,7.0,Good,1.382832,103.874904
+Singapore,581892,Chinatown,Private room,144.54,23,317,13,4.28,60.0,Moderate,1.283309,103.807745
+Singapore,498172,Orchard,Private room,237.35,8,327,42,,76.0,Moderate,1.365484,103.848846
+Singapore,846947,Queenstown,Private room,,3,58,5,4.42,,,1.335989,103.868048
+Singapore,936803,Tanjong Pagar,Entire home/apt,204.76,8,145,60,4.89,91.0,Moderate,1.311698,103.850652
+Singapore,187684,Bugis,Private room,228.13,18,11,1,4.39,62.0,Moderate,1.321124,103.787729
+Singapore,958290,Little India,Entire home/apt,450.0,22,23,150,3.53,72.0,Moderate,1.418947,103.840853
+Singapore,372957,Little India,Hotel room,450.0,19,336,37,4.28,58.0,Moderate,1.382871,103.858447
+Singapore,349492,Bugis,Entire home/apt,450.0,1,175,34,3.86,54.0,Moderate,1.394516,103.754046
+Singapore,362297,Orchard,Private room,450.0,13,116,37,4.7,66.0,Moderate,1.350398,103.818548
+Singapore,869124,Orchard,Entire home/apt,163.59,12,205,1,3.58,48.0,Good,1.304461,103.827797
+Singapore,898699,Little India,Entire home/apt,409.08,23,27,96,4.79,42.0,Good,1.416601,103.775105
+Singapore,643540,Queenstown,Entire home/apt,308.13,14,356,27,4.63,52.0,Moderate,1.376971,103.833995
+Singapore,387662,Bugis,Private room,450.0,6,44,71,4.81,72.0,Moderate,1.326069,103.850787
+Singapore,421867,Orchard,Entire home/apt,268.95,12,11,30,4.22,52.0,Moderate,1.338509,103.789242
+Singapore,415329,Orchard,Private room,450.0,12,95,6,3.84,31.0,Good,1.297172,103.877438
+Singapore,904515,Tanjong Pagar,Entire home/apt,183.3,6,150,71,4.33,71.0,Moderate,1.316852,103.769137
+Singapore,799489,Little India,Private room,346.44,2,85,130,4.27,46.0,Good,1.302875,103.810533
+Singapore,767168,Chinatown,Entire home/apt,390.41,16,251,20,4.45,47.0,Good,1.408739,103.783159
+Singapore,372261,Orchard,Entire home/apt,,5,307,29,3.65,61.0,Moderate,1.337262,103.773825
+Singapore,970061,Marina Bay,Hotel room,184.24,1,343,49,4.7,29.0,Good,1.360871,103.826565
+Singapore,633397,Tanjong Pagar,Entire home/apt,450.0,30,333,32,4.94,80.0,Moderate,1.30936,103.787141
+Singapore,993850,Orchard,Entire home/apt,180.44,13,66,31,5.0,,,1.392692,103.771296
+Singapore,590664,Bugis,Entire home/apt,118.09,22,34,0,4.46,60.0,Moderate,1.381189,103.770757
+Singapore,469368,Little India,Shared room,214.63,7,0,32,3.59,38.0,Good,1.348275,103.775083
+Singapore,244747,Queenstown,Entire home/apt,347.85,12,31,60,4.33,66.0,Moderate,1.34681,103.868668
+Singapore,900202,Bugis,Entire home/apt,90.0,29,14,24,4.74,72.0,Moderate,1.330668,103.772029
+Singapore,699413,Orchard,Entire home/apt,379.55,28,146,8,4.4,69.0,Moderate,1.306332,103.786488
+Singapore,698426,Marina Bay,Entire home/apt,90.53,22,354,130,4.32,40.0,Good,1.393133,103.859928
+Singapore,870064,Orchard,Shared room,152.07,2,217,63,4.12,27.0,Good,1.355668,103.813007
+Singapore,295109,Little India,Entire home/apt,450.0,28,303,38,5.0,2.0,Good,1.328546,103.815184
+Singapore,202072,Orchard,Entire home/apt,332.35,19,10,29,4.5,76.0,Moderate,1.385451,103.827041
+Singapore,140324,Marina Bay,Private room,100.49,16,294,35,4.21,80.0,Moderate,1.358847,103.822552
+Singapore,684273,Tanjong Pagar,Shared room,287.34,3,56,7,5.0,,,1.338061,103.849143
+Singapore,195945,Little India,Entire home/apt,330.71,1,311,157,5.0,85.0,Moderate,1.347907,103.860975
+Singapore,235963,Sentosa,Entire home/apt,375.22,15,142,105,4.35,46.0,Good,1.293349,103.873579
+Singapore,876938,Marina Bay,Entire home/apt,450.0,4,140,79,4.07,62.0,Moderate,1.377673,103.859938
+Singapore,671606,Marina Bay,Hotel room,116.35,29,21,0,4.97,65.0,Moderate,1.314572,103.842517
+Singapore,202122,Chinatown,Entire home/apt,166.47,20,108,11,5.0,72.0,Moderate,1.374173,103.808536
+Singapore,167920,Tanjong Pagar,Hotel room,327.7,1,342,35,4.73,44.0,Good,1.355469,103.855843
+Singapore,547430,Tanjong Pagar,Entire home/apt,450.0,24,265,104,,69.0,Moderate,1.342559,103.754829
+Singapore,446342,Little India,Entire home/apt,450.0,19,347,4,5.0,60.0,Moderate,1.297041,103.797219
+Singapore,624619,Queenstown,Hotel room,96.32,27,68,2,4.23,71.0,Moderate,1.374238,103.766009
+Singapore,749409,Tanjong Pagar,Private room,192.14,7,65,11,5.0,66.0,Moderate,1.358748,103.801703
+Singapore,634172,Bugis,Private room,322.95,19,291,8,4.29,20.0,Good,1.286156,103.848642
+Singapore,590312,Little India,Hotel room,286.55,1,349,6,4.47,52.0,Moderate,1.386524,103.84801
+Singapore,559714,Sentosa,Entire home/apt,300.9,11,321,48,3.79,27.0,Good,1.343543,103.773305
+Singapore,266685,Marina Bay,Private room,276.42,28,114,57,4.99,71.0,Moderate,1.288123,103.842873
+Singapore,820561,Tanjong Pagar,Entire home/apt,335.64,21,53,34,4.07,72.0,Moderate,1.310327,103.75335
+Singapore,549876,Orchard,Entire home/apt,229.4,25,110,7,5.0,76.0,Moderate,1.328831,103.830593
+Singapore,439108,Chinatown,Entire home/apt,230.95,14,116,0,4.13,59.0,Moderate,1.379693,103.887406
+Singapore,815918,Sentosa,Hotel room,288.4,23,181,30,3.89,64.0,Moderate,1.317319,103.770019
+Singapore,624206,Sentosa,Entire home/apt,369.85,2,224,21,3.65,22.0,Good,1.295109,103.775684
+Singapore,835254,Marina Bay,Entire home/apt,,6,11,31,,79.0,Moderate,1.375147,103.873511
+Singapore,477205,Tanjong Pagar,Entire home/apt,289.7,19,286,18,4.64,79.0,Moderate,1.326778,103.812427
+Singapore,849814,Marina Bay,Entire home/apt,137.58,4,321,62,3.75,67.0,Moderate,1.38702,103.860451
+Singapore,411760,Sentosa,Entire home/apt,155.65,3,335,11,4.93,52.0,Moderate,1.295164,103.813191
+Singapore,869225,Chinatown,Entire home/apt,,27,137,19,4.07,54.0,Moderate,1.363634,103.75226
+Singapore,525676,Little India,Entire home/apt,450.0,16,290,4,3.59,62.0,Moderate,1.411874,103.821856
+Singapore,751381,Chinatown,Entire home/apt,214.93,7,11,5,4.49,61.0,Moderate,1.3877,103.773401
+Singapore,107738,Chinatown,Entire home/apt,352.05,17,325,91,4.2,25.0,Good,1.388065,103.835755
+Singapore,638419,Marina Bay,Entire home/apt,223.55,10,148,221,4.52,102.0,Unhealthy for Sensitive Groups,1.354945,103.77397
+Singapore,366676,Marina Bay,Entire home/apt,425.85,14,10,68,5.0,28.0,Good,1.382291,103.863767
+Singapore,878447,Chinatown,Entire home/apt,365.23,2,313,195,5.0,69.0,Moderate,1.338589,103.813875
+Singapore,613246,Tanjong Pagar,Shared room,192.71,7,3,18,3.56,43.0,Good,1.395518,103.825226
+Singapore,443938,Bugis,Entire home/apt,296.24,1,248,55,4.19,47.0,Good,1.325612,103.765041
+Singapore,193759,Chinatown,Hotel room,107.76,3,293,34,3.88,79.0,Moderate,1.325137,103.774697
+Singapore,516033,Little India,Entire home/apt,450.0,22,266,31,,55.0,Moderate,1.41018,103.759778
+Singapore,252142,Sentosa,Private room,137.64,4,271,42,4.29,51.0,Moderate,1.338316,103.846706
+Singapore,992022,Queenstown,Private room,280.37,10,141,18,3.77,56.0,Moderate,1.32218,103.8879
+Singapore,254139,Tanjong Pagar,Entire home/apt,,8,19,39,4.67,70.0,Moderate,1.378064,103.771858
+Singapore,439269,Marina Bay,Entire home/apt,323.96,29,365,0,5.0,31.0,Good,1.303598,103.885385
+Singapore,218491,Queenstown,Private room,319.1,11,106,36,4.64,75.0,Moderate,1.318381,103.837626
+Singapore,855168,Bugis,Private room,239.53,17,360,48,5.0,,,1.411619,103.796624
+Singapore,399379,Little India,Entire home/apt,450.0,21,102,16,,57.0,Moderate,1.359043,103.765147
+Singapore,798355,Little India,Shared room,189.53,12,80,48,4.56,61.0,Moderate,1.389022,103.874366
+Singapore,206321,Marina Bay,Private room,288.57,1,143,19,,76.0,Moderate,1.392257,103.87054
+Singapore,526624,Bugis,Entire home/apt,397.22,19,65,24,4.03,63.0,Moderate,1.333855,103.837979
+Singapore,940066,Sentosa,Entire home/apt,354.52,18,303,13,4.94,64.0,Moderate,1.372783,103.852962
+Singapore,520392,Orchard,Shared room,450.0,3,112,26,3.68,45.0,Good,1.300961,103.776288
+Singapore,148428,Orchard,Private room,169.72,17,263,25,5.0,,,1.397929,103.758571
+Singapore,621856,Orchard,Entire home/apt,450.0,1,177,25,4.29,32.0,Good,1.311282,103.880163
+Singapore,370567,Sentosa,Private room,242.64,14,347,18,4.9,44.0,Good,1.290334,103.750722
+Singapore,499388,Little India,Entire home/apt,393.15,8,199,23,3.86,79.0,Moderate,1.384159,103.866368
+Singapore,792639,Orchard,Entire home/apt,216.81,3,215,14,4.11,57.0,Moderate,1.333495,103.822323
+Singapore,348450,Queenstown,Private room,404.09,21,47,16,4.44,,,1.361036,103.777985
+Singapore,786580,Orchard,Private room,341.69,30,102,19,,72.0,Moderate,1.392516,103.831327
+Singapore,477036,Marina Bay,Entire home/apt,450.0,25,143,67,4.93,35.0,Good,1.290398,103.76702
+Singapore,434070,Queenstown,Entire home/apt,349.75,3,64,12,4.17,44.0,Good,1.351019,103.753447
+Singapore,750378,Little India,Private room,246.5,4,87,36,4.2,93.0,Moderate,1.351883,103.768026
+Singapore,989820,Orchard,Private room,,28,308,25,4.65,61.0,Moderate,1.36229,103.768636
+Singapore,700746,Orchard,Shared room,237.2,3,107,69,,73.0,Moderate,1.356592,103.857953
+Singapore,474829,Tanjong Pagar,Entire home/apt,429.22,3,244,50,3.79,53.0,Moderate,1.319467,103.754971
+Singapore,664302,Orchard,Entire home/apt,311.39,6,156,9,3.72,59.0,Moderate,1.283556,103.777871
+Singapore,947350,Bugis,Hotel room,93.41,3,224,6,4.35,46.0,Good,1.334001,103.823856
+Singapore,284399,Orchard,Entire home/apt,271.49,2,222,24,4.67,35.0,Good,1.324272,103.778965
+Singapore,985927,Bugis,Entire home/apt,220.5,25,9,58,4.75,45.0,Good,1.354983,103.816917
+Singapore,382794,Little India,Private room,345.56,14,252,12,4.18,,,1.306593,103.805568
+Singapore,689621,Bugis,Private room,247.75,3,241,19,4.51,57.0,Moderate,1.385026,103.800064
+Singapore,861235,Sentosa,Entire home/apt,178.01,3,321,36,4.94,58.0,Moderate,1.293745,103.868215
+Singapore,509125,Tanjong Pagar,Private room,450.0,2,143,32,,29.0,Good,1.3147,103.842896
+Singapore,999457,Chinatown,Entire home/apt,396.03,3,179,253,4.08,76.0,Moderate,1.402795,103.842882
+Singapore,485607,Orchard,Private room,266.33,15,109,23,3.64,49.0,Good,1.357148,103.87512
+Singapore,152954,Little India,Entire home/apt,267.99,20,345,48,5.0,65.0,Moderate,1.345055,103.76365
+Singapore,389316,Little India,Shared room,,1,274,62,3.94,89.0,Moderate,1.358796,103.874597
+Singapore,163027,Bugis,Entire home/apt,119.77,1,298,98,5.0,64.0,Moderate,1.352911,103.780852
+Singapore,591804,Queenstown,Entire home/apt,337.68,3,315,17,4.39,,,1.361526,103.846026
+Singapore,179302,Chinatown,Entire home/apt,306.61,14,73,54,4.16,55.0,Moderate,1.345012,103.884592
+Singapore,605164,Chinatown,Entire home/apt,196.07,2,295,58,3.62,79.0,Moderate,1.398113,103.786645
+Singapore,572790,Chinatown,Private room,324.95,29,219,8,4.11,44.0,Good,1.419076,103.856209
+Singapore,164911,Orchard,Entire home/apt,91.38,6,23,75,4.9,30.0,Good,1.288553,103.767714
+Singapore,506010,Tanjong Pagar,Entire home/apt,253.41,1,42,0,4.09,76.0,Moderate,1.284595,103.778217
+Singapore,212882,Sentosa,Private room,301.74,23,31,10,3.56,81.0,Moderate,1.406124,103.794159
+Singapore,480082,Marina Bay,Entire home/apt,,29,202,77,4.47,90.0,Moderate,1.413369,103.809196
+Singapore,887728,Orchard,Entire home/apt,274.65,15,18,61,4.58,54.0,Moderate,1.302529,103.781546
+Singapore,103317,Chinatown,Entire home/apt,255.61,23,101,25,,37.0,Good,1.357851,103.750942
+Singapore,336635,Tanjong Pagar,Entire home/apt,417.31,2,67,39,4.3,,,1.365896,103.776374
+Singapore,587762,Queenstown,Private room,422.27,13,237,82,4.73,73.0,Moderate,1.340059,103.881316
+Singapore,877050,Orchard,Entire home/apt,396.0,2,73,47,4.68,45.0,Good,1.390624,103.848141
+Singapore,148511,Bugis,Entire home/apt,196.74,6,73,24,4.49,100.0,Moderate,1.411448,103.885785
+Singapore,114930,Tanjong Pagar,Entire home/apt,,1,3,1,4.54,67.0,Moderate,1.418618,103.766489
+Singapore,327322,Sentosa,Entire home/apt,422.02,23,29,9,3.64,33.0,Good,1.297558,103.760644
+Singapore,717345,Chinatown,Entire home/apt,,1,310,18,4.91,22.0,Good,1.3469,103.843849
+Singapore,679623,Marina Bay,Entire home/apt,347.06,3,330,17,4.47,62.0,Moderate,1.395266,103.856184
+Singapore,660504,Orchard,Entire home/apt,163.3,1,160,73,4.87,57.0,Moderate,1.37704,103.759836
+Singapore,619838,Bugis,Entire home/apt,242.03,6,145,12,4.63,49.0,Good,1.290167,103.843867
+Singapore,376427,Sentosa,Entire home/apt,144.15,1,201,21,4.19,32.0,Good,1.302415,103.786552
+Singapore,981677,Tanjong Pagar,Entire home/apt,163.32,20,341,138,3.98,59.0,Moderate,1.383098,103.789756
+Singapore,987537,Chinatown,Entire home/apt,226.73,1,83,26,4.16,74.0,Moderate,1.288098,103.75361
+Singapore,854767,Sentosa,Entire home/apt,384.72,10,48,12,4.59,,,1.416806,103.772893
+Singapore,569369,Queenstown,Private room,116.32,3,15,1,4.26,64.0,Moderate,1.363789,103.888141
+Singapore,898103,Tanjong Pagar,Entire home/apt,117.19,8,162,142,4.33,41.0,Good,1.368264,103.80106
+Singapore,162324,Orchard,Entire home/apt,450.0,16,63,58,4.5,88.0,Moderate,1.349183,103.801898
+Singapore,896445,Orchard,Shared room,149.08,1,245,28,4.36,73.0,Moderate,1.322332,103.80288
+Singapore,577853,Little India,Entire home/apt,450.0,1,174,1,5.0,40.0,Good,1.408941,103.788352
+Singapore,922308,Orchard,Shared room,283.07,28,292,11,4.17,64.0,Moderate,1.361506,103.842984
+Singapore,371562,Sentosa,Shared room,196.37,30,236,39,3.82,58.0,Moderate,1.414686,103.881758
+Singapore,398507,Orchard,Entire home/apt,350.8,21,57,67,3.84,42.0,Good,1.343646,103.821546
+Singapore,389136,Chinatown,Entire home/apt,264.43,2,67,51,4.26,85.0,Moderate,1.409928,103.807829
+Singapore,772157,Little India,Private room,153.27,19,31,64,4.26,123.0,Unhealthy for Sensitive Groups,1.304672,103.841989
+Singapore,978895,Tanjong Pagar,Entire home/apt,450.0,16,38,59,4.72,67.0,Moderate,1.396062,103.797932
+Singapore,170972,Little India,Private room,450.0,2,79,19,3.99,48.0,Good,1.417351,103.795603
+Singapore,575645,Orchard,Entire home/apt,450.0,1,203,72,4.26,33.0,Good,1.304999,103.855765
+Singapore,573694,Marina Bay,Entire home/apt,450.0,1,300,1,4.28,68.0,Moderate,1.312058,103.778725
+Singapore,741811,Marina Bay,Shared room,148.9,17,90,4,4.45,98.0,Moderate,1.386992,103.809414
+Singapore,579687,Little India,Entire home/apt,219.37,3,56,93,3.84,86.0,Moderate,1.283148,103.784318
+Singapore,717590,Bugis,Private room,450.0,24,70,25,4.0,89.0,Moderate,1.296619,103.795541
+Singapore,996117,Bugis,Shared room,450.0,7,166,111,4.95,73.0,Moderate,1.410822,103.8779
+Singapore,339378,Marina Bay,Private room,300.09,12,155,26,5.0,,,1.361925,103.762887
+Singapore,413281,Tanjong Pagar,Entire home/apt,251.38,2,67,2,3.29,43.0,Good,1.302035,103.849303
+Singapore,724639,Orchard,Private room,238.94,7,189,66,3.81,61.0,Moderate,1.320964,103.84089
+Singapore,977668,Chinatown,Entire home/apt,450.0,27,321,15,4.03,82.0,Moderate,1.363774,103.781595
+Singapore,825638,Queenstown,Entire home/apt,450.0,3,242,0,5.0,54.0,Moderate,1.412189,103.833788
+Singapore,996508,Little India,Private room,,8,141,26,3.9,75.0,Moderate,1.300347,103.834478
+Singapore,579174,Sentosa,Entire home/apt,151.61,1,131,52,,83.0,Moderate,1.358134,103.784402
+Singapore,885279,Bugis,Private room,227.06,17,288,13,3.5,44.0,Good,1.316498,103.766873
+Singapore,136191,Sentosa,Hotel room,450.0,16,325,101,4.76,58.0,Moderate,1.314795,103.858343
+Singapore,513795,Chinatown,Entire home/apt,450.0,3,266,71,4.96,65.0,Moderate,1.352453,103.756319
+Singapore,890326,Marina Bay,Entire home/apt,353.73,26,305,53,4.2,46.0,Good,1.392084,103.757663
+Singapore,173628,Bugis,Entire home/apt,262.42,15,359,29,4.71,86.0,Moderate,1.406164,103.868451
+Singapore,768743,Marina Bay,Entire home/apt,391.15,23,107,23,4.66,58.0,Moderate,1.337773,103.759412
+Singapore,984373,Bugis,Private room,172.97,1,260,35,,88.0,Moderate,1.313153,103.852246
+Singapore,465523,Bugis,Private room,193.61,21,215,47,,33.0,Good,1.386273,103.781126
+Singapore,153689,Tanjong Pagar,Hotel room,236.93,12,12,60,3.17,46.0,Good,1.330853,103.759217
+Singapore,759867,Chinatown,Entire home/apt,230.7,7,139,3,4.75,70.0,Moderate,1.332837,103.876951
+Singapore,533298,Marina Bay,Entire home/apt,90.0,25,305,111,5.0,73.0,Moderate,1.39275,103.874248
+Singapore,293690,Marina Bay,Private room,450.0,28,300,6,4.36,37.0,Good,1.331127,103.820807
+Singapore,502152,Little India,Entire home/apt,244.56,29,278,9,3.86,88.0,Moderate,1.30565,103.809813
+Singapore,878783,Chinatown,Private room,181.81,29,356,18,4.51,18.0,Good,1.313739,103.790346
+Singapore,844457,Marina Bay,Entire home/apt,248.89,17,184,24,4.56,72.0,Moderate,1.375282,103.845006
+Singapore,848341,Tanjong Pagar,Entire home/apt,388.45,21,153,41,4.09,37.0,Good,1.324405,103.786227
+Singapore,907797,Sentosa,Entire home/apt,178.36,26,222,3,4.25,52.0,Moderate,1.329876,103.806583
+Singapore,363732,Queenstown,Private room,196.04,27,292,50,4.22,46.0,Good,1.354783,103.871848
+Singapore,607643,Tanjong Pagar,Entire home/apt,121.41,29,72,8,4.18,46.0,Good,1.306386,103.775432
+Singapore,178406,Sentosa,Private room,250.64,10,270,8,3.98,41.0,Good,1.351964,103.763613
+Singapore,852417,Queenstown,Private room,131.31,1,240,3,4.36,74.0,Moderate,1.383296,103.798488
+Singapore,992409,Tanjong Pagar,Entire home/apt,150.66,2,267,38,4.51,74.0,Moderate,1.352059,103.78338
+Singapore,484926,Marina Bay,Entire home/apt,221.53,1,144,20,4.5,73.0,Moderate,1.381222,103.870578
+Singapore,340253,Marina Bay,Entire home/apt,207.11,3,303,30,4.33,65.0,Moderate,1.361152,103.818726
+Singapore,585566,Bugis,Private room,259.43,1,162,60,4.01,,,1.314115,103.798882

@@ -1,0 +1,241 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Oslo,905974,Majorstuen,Private room,2280.24,16,162,6,4.95,21.0,Good,59.899121,10.779963
+Oslo,518951,Frogner,Entire home/apt,1864.69,8,179,25,4.32,25.0,Good,59.915451,10.716959
+Oslo,203464,Gamle Oslo,Private room,1885.7,8,360,37,,25.0,Good,59.883758,10.695257
+Oslo,244962,Nordstrand,Entire home/apt,1736.8,1,227,5,4.74,27.0,Good,59.94658,10.770149
+Oslo,224621,Nordstrand,Entire home/apt,1800.3,4,274,96,4.46,24.0,Good,59.846756,10.698967
+Oslo,482019,Nordstrand,Entire home/apt,700.0,2,285,32,,22.0,Good,59.921804,10.731447
+Oslo,153480,Aker Brygge,Entire home/apt,1780.78,18,205,23,3.4,10.0,Good,59.951839,10.72439
+Oslo,165707,Sagene,Private room,2939.08,5,19,3,4.75,14.0,Good,59.963043,10.783072
+Oslo,407530,Majorstuen,Entire home/apt,2187.59,28,16,48,4.68,24.0,Good,59.979354,10.734773
+Oslo,691604,St. Hanshaugen,Entire home/apt,2224.37,1,188,27,4.65,22.0,Good,59.954031,10.729361
+Oslo,605330,St. Hanshaugen,Private room,3347.62,11,182,87,4.64,,,59.90118,10.725691
+Oslo,384932,Majorstuen,Entire home/apt,2568.44,21,278,66,,28.0,Good,59.960354,10.796605
+Oslo,464691,Grünerløkka,Hotel room,1428.69,1,293,15,,30.0,Good,59.899023,10.775074
+Oslo,780840,Grünerløkka,Entire home/apt,,21,287,66,4.96,25.0,Good,59.983081,10.715734
+Oslo,681064,Gamle Oslo,Hotel room,2463.33,2,82,20,4.28,19.0,Good,59.899725,10.745289
+Oslo,223714,Nordstrand,Private room,2010.82,2,83,73,4.98,25.0,Good,59.847755,10.790624
+Oslo,711060,Frogner,Entire home/apt,3266.76,1,27,9,4.78,21.0,Good,59.948996,10.785382
+Oslo,740670,Frogner,Entire home/apt,3500.0,27,217,10,4.14,40.0,Good,59.87445,10.710269
+Oslo,639891,Frogner,Private room,2976.41,24,331,87,4.02,21.0,Good,59.911585,10.713111
+Oslo,109457,St. Hanshaugen,Entire home/apt,1469.84,6,213,32,3.76,41.0,Good,59.981508,10.682437
+Oslo,145359,Majorstuen,Entire home/apt,1022.93,23,6,47,4.42,22.0,Good,59.945357,10.714191
+Oslo,427831,Majorstuen,Entire home/apt,3500.0,17,270,15,3.31,24.0,Good,59.958701,10.777703
+Oslo,402114,Aker Brygge,Shared room,3500.0,23,19,42,4.23,17.0,Good,59.885713,10.734727
+Oslo,860368,Nordstrand,Hotel room,1410.77,3,203,93,4.78,,,59.913414,10.807354
+Oslo,693871,Frogner,Entire home/apt,1215.87,15,269,12,3.88,33.0,Good,59.923447,10.785671
+Oslo,738533,Majorstuen,Private room,1116.48,5,70,38,4.09,13.0,Good,59.905329,10.762471
+Oslo,149762,Frogner,Entire home/apt,,20,82,27,4.67,36.0,Good,59.91574,10.703533
+Oslo,981794,Frogner,Entire home/apt,2868.85,21,221,43,5.0,,,59.863461,10.732242
+Oslo,238816,Nordstrand,Entire home/apt,2249.86,2,281,32,4.0,21.0,Good,59.851223,10.81713
+Oslo,353496,Gamle Oslo,Entire home/apt,2645.26,1,138,23,3.82,25.0,Good,59.870417,10.739979
+Oslo,223182,Frogner,Entire home/apt,2100.67,2,293,102,4.67,,,59.935128,10.690038
+Oslo,711380,Aker Brygge,Entire home/apt,,10,254,18,4.11,15.0,Good,59.933922,10.776598
+Oslo,875962,Frogner,Private room,3500.0,5,136,106,5.0,,,59.874108,10.739522
+Oslo,383831,Gamle Oslo,Entire home/apt,1655.96,1,311,56,4.38,30.0,Good,59.861787,10.784619
+Oslo,177745,Frogner,Shared room,1356.72,8,231,94,3.54,8.0,Good,59.860078,10.789193
+Oslo,262583,Nordstrand,Shared room,3130.05,1,67,17,3.31,17.0,Good,59.850623,10.769879
+Oslo,191581,Grünerløkka,Hotel room,2317.98,15,105,6,3.7,18.0,Good,59.880377,10.721937
+Oslo,247424,Aker Brygge,Entire home/apt,1404.44,11,10,3,,31.0,Good,59.906816,10.709114
+Oslo,603437,Frogner,Entire home/apt,1125.15,1,48,66,4.01,17.0,Good,59.849925,10.750413
+Oslo,453352,Frogner,Entire home/apt,1407.12,18,70,11,3.03,21.0,Good,59.949717,10.763974
+Oslo,493473,St. Hanshaugen,Entire home/apt,3500.0,1,100,13,4.59,7.0,Good,59.844639,10.718953
+Oslo,551563,Frogner,Entire home/apt,833.19,10,338,38,4.54,40.0,Good,59.873412,10.744311
+Oslo,994799,Majorstuen,Shared room,1762.16,1,0,95,5.0,,,59.858972,10.7587
+Oslo,335873,Majorstuen,Hotel room,3211.11,14,128,24,4.1,24.0,Good,59.955933,10.722215
+Oslo,859149,Frogner,Entire home/apt,,2,226,36,4.34,,,59.909741,10.766762
+Oslo,820264,Nordstrand,Entire home/apt,3500.0,16,174,34,4.92,22.0,Good,59.87586,10.820404
+Oslo,638261,Sagene,Private room,1369.27,4,36,23,4.29,17.0,Good,59.945995,10.772589
+Oslo,134420,Nordstrand,Shared room,1629.1,3,228,1,5.0,8.0,Good,59.918246,10.791603
+Oslo,361934,Grünerløkka,Entire home/apt,1612.22,27,40,68,4.78,35.0,Good,59.849666,10.756399
+Oslo,127144,Frogner,Entire home/apt,1078.28,4,13,2,4.7,22.0,Good,59.907722,10.771509
+Oslo,288014,Sagene,Entire home/apt,1643.71,1,340,0,4.04,21.0,Good,59.95565,10.763166
+Oslo,114263,Sagene,Entire home/apt,2365.4,5,164,44,4.07,14.0,Good,59.875861,10.780371
+Oslo,394659,Nordstrand,Entire home/apt,3500.0,24,17,55,4.43,25.0,Good,59.900619,10.706465
+Oslo,568139,St. Hanshaugen,Entire home/apt,2161.49,14,80,128,,10.0,Good,59.920116,10.687174
+Oslo,660083,Gamle Oslo,Private room,2843.55,3,268,13,3.76,22.0,Good,59.878095,10.686294
+Oslo,608865,Aker Brygge,Shared room,3500.0,30,143,22,4.42,26.0,Good,59.856289,10.723669
+Oslo,519732,Sagene,Hotel room,3500.0,2,106,155,4.57,20.0,Good,59.894931,10.787211
+Oslo,528901,St. Hanshaugen,Private room,3500.0,1,129,123,4.24,18.0,Good,59.886241,10.728825
+Oslo,532526,Gamle Oslo,Private room,884.83,20,345,68,4.44,22.0,Good,59.892232,10.694303
+Oslo,200435,Aker Brygge,Shared room,2795.14,20,221,3,4.03,24.0,Good,59.921931,10.762662
+Oslo,459712,Gamle Oslo,Private room,1143.13,17,82,83,4.07,28.0,Good,59.867621,10.768877
+Oslo,274502,Majorstuen,Private room,1785.3,8,148,52,3.8,27.0,Good,59.853475,10.722666
+Oslo,171158,Gamle Oslo,Entire home/apt,2204.48,11,57,65,4.17,20.0,Good,59.879891,10.708052
+Oslo,814518,Aker Brygge,Shared room,1686.21,21,18,22,3.88,,,59.885424,10.817574
+Oslo,567389,Majorstuen,Entire home/apt,1266.38,3,105,38,4.2,31.0,Good,59.962706,10.725385
+Oslo,532817,Grünerløkka,Entire home/apt,1572.94,1,253,46,4.6,,,59.896504,10.787843
+Oslo,386673,Gamle Oslo,Shared room,2197.9,13,58,15,4.58,17.0,Good,59.890796,10.803674
+Oslo,781699,Sagene,Entire home/apt,2019.14,13,9,38,4.2,25.0,Good,59.919079,10.733744
+Oslo,444247,Sagene,Entire home/apt,2337.89,1,117,28,4.29,17.0,Good,59.86338,10.820197
+Oslo,345574,Frogner,Entire home/apt,3456.95,17,344,81,4.39,9.0,Good,59.91619,10.727089
+Oslo,215667,Frogner,Shared room,2310.86,2,72,29,5.0,29.0,Good,59.929534,10.709715
+Oslo,745636,Gamle Oslo,Entire home/apt,2025.4,18,132,9,4.11,30.0,Good,59.981162,10.68576
+Oslo,839610,Frogner,Entire home/apt,3500.0,1,23,80,3.87,19.0,Good,59.899661,10.731782
+Oslo,380040,Gamle Oslo,Entire home/apt,2247.18,2,100,134,,25.0,Good,59.907231,10.788652
+Oslo,900567,Gamle Oslo,Entire home/apt,2541.9,21,200,19,4.78,20.0,Good,59.964724,10.744023
+Oslo,900629,Nordstrand,Entire home/apt,2084.87,7,341,33,4.35,22.0,Good,59.94535,10.737703
+Oslo,250989,Aker Brygge,Private room,1632.98,11,133,52,4.22,20.0,Good,59.871778,10.748323
+Oslo,691351,Grünerløkka,Entire home/apt,1690.91,28,272,1,4.52,22.0,Good,59.972633,10.738312
+Oslo,980792,Sagene,Entire home/apt,1567.44,24,43,51,3.62,36.0,Good,59.95593,10.68446
+Oslo,306443,Majorstuen,Entire home/apt,1379.43,15,6,6,4.19,26.0,Good,59.874625,10.743617
+Oslo,200617,Sagene,Entire home/apt,1651.74,2,150,38,4.42,20.0,Good,59.980842,10.78537
+Oslo,916817,Sagene,Entire home/apt,1513.26,30,319,50,3.89,30.0,Good,59.972268,10.702603
+Oslo,891633,Aker Brygge,Entire home/apt,2628.86,18,111,10,4.06,24.0,Good,59.881469,10.702233
+Oslo,168411,Grünerløkka,Entire home/apt,1377.67,26,161,21,4.74,19.0,Good,59.954401,10.71094
+Oslo,413952,Aker Brygge,Entire home/apt,1475.14,10,177,32,4.96,36.0,Good,59.89856,10.794603
+Oslo,834420,Aker Brygge,Entire home/apt,1330.71,3,190,13,4.01,9.0,Good,59.941714,10.789377
+Oslo,531183,Aker Brygge,Entire home/apt,1245.52,2,63,49,4.38,13.0,Good,59.942598,10.694996
+Oslo,855025,Aker Brygge,Entire home/apt,3500.0,6,322,112,4.32,,,59.964282,10.768244
+Oslo,914040,Gamle Oslo,Private room,1473.24,1,152,3,4.42,16.0,Good,59.930319,10.728421
+Oslo,909596,Majorstuen,Hotel room,2139.2,14,264,0,4.31,33.0,Good,59.957294,10.760719
+Oslo,314820,Sagene,Entire home/apt,1999.19,24,0,15,3.81,33.0,Good,59.941933,10.686667
+Oslo,741741,Nordstrand,Entire home/apt,2162.19,17,331,105,4.69,25.0,Good,59.947475,10.806555
+Oslo,201585,Majorstuen,Entire home/apt,3500.0,27,139,23,3.51,14.0,Good,59.891294,10.763947
+Oslo,245972,Frogner,Entire home/apt,1964.45,8,141,59,4.47,11.0,Good,59.977849,10.799625
+Oslo,254332,Frogner,Shared room,1577.72,3,138,53,4.52,,,59.921507,10.755991
+Oslo,928947,Gamle Oslo,Entire home/apt,3272.29,16,87,43,4.65,13.0,Good,59.90432,10.69381
+Oslo,551834,Aker Brygge,Entire home/apt,3033.86,8,91,21,,,,59.878805,10.708737
+Oslo,222395,Sagene,Private room,3500.0,20,363,21,3.65,23.0,Good,59.919958,10.719228
+Oslo,578127,St. Hanshaugen,Shared room,1917.98,29,179,9,4.63,13.0,Good,59.95776,10.771622
+Oslo,506467,Nordstrand,Shared room,970.08,30,11,108,3.99,22.0,Good,59.857054,10.8041
+Oslo,103304,St. Hanshaugen,Private room,1395.74,15,332,55,3.77,24.0,Good,59.963789,10.789473
+Oslo,361365,Aker Brygge,Private room,2626.92,25,214,4,4.84,19.0,Good,59.870152,10.74231
+Oslo,634766,Aker Brygge,Entire home/apt,1909.62,29,129,66,4.19,30.0,Good,59.969692,10.814545
+Oslo,119443,Majorstuen,Private room,3500.0,29,239,63,4.41,26.0,Good,59.947128,10.803622
+Oslo,883895,Gamle Oslo,Shared room,,14,236,1,3.93,11.0,Good,59.964369,10.765959
+Oslo,176869,Grünerløkka,Shared room,2006.63,29,199,5,4.76,,,59.870484,10.711954
+Oslo,679760,Grünerløkka,Private room,2144.58,12,86,77,4.31,14.0,Good,59.882564,10.805479
+Oslo,802496,Majorstuen,Entire home/apt,2153.61,9,165,69,4.52,,,59.971423,10.809252
+Oslo,601325,St. Hanshaugen,Shared room,2315.16,20,171,145,4.64,37.0,Good,59.892234,10.705278
+Oslo,138838,Aker Brygge,Entire home/apt,2030.76,6,249,28,4.07,12.0,Good,59.897604,10.756813
+Oslo,139263,Aker Brygge,Shared room,844.43,1,358,64,3.51,21.0,Good,59.856663,10.757256
+Oslo,905835,Gamle Oslo,Entire home/apt,2761.79,3,106,135,4.17,18.0,Good,59.889747,10.779392
+Oslo,287995,Grünerløkka,Shared room,3500.0,1,281,33,4.53,17.0,Good,59.885184,10.715308
+Oslo,681543,Sagene,Entire home/apt,3500.0,21,234,74,4.46,22.0,Good,59.872072,10.711256
+Oslo,227720,St. Hanshaugen,Entire home/apt,3500.0,1,141,73,4.35,30.0,Good,59.965299,10.689573
+Oslo,844289,Majorstuen,Entire home/apt,1110.62,3,19,51,3.79,19.0,Good,59.897587,10.702277
+Oslo,351747,Aker Brygge,Entire home/apt,,2,172,43,3.04,27.0,Good,59.919699,10.726631
+Oslo,327025,Nordstrand,Entire home/apt,888.26,13,87,8,4.46,24.0,Good,59.959724,10.752876
+Oslo,595664,Majorstuen,Entire home/apt,889.29,26,84,28,4.8,28.0,Good,59.870866,10.727122
+Oslo,750528,Grünerløkka,Entire home/apt,1268.8,29,241,42,5.0,41.0,Good,59.981876,10.800336
+Oslo,666132,Grünerløkka,Entire home/apt,3500.0,27,314,14,4.38,29.0,Good,59.913582,10.762445
+Oslo,758832,Sagene,Entire home/apt,2334.33,18,49,15,4.18,,,59.844696,10.769653
+Oslo,146590,Sagene,Entire home/apt,2751.54,13,270,2,4.67,10.0,Good,59.923474,10.758523
+Oslo,427179,Frogner,Hotel room,1354.03,14,350,6,4.1,13.0,Good,59.851737,10.713584
+Oslo,401756,St. Hanshaugen,Entire home/apt,2696.52,2,98,5,4.5,31.0,Good,59.952589,10.701272
+Oslo,383150,Aker Brygge,Private room,1245.97,3,158,3,4.24,22.0,Good,59.858036,10.773773
+Oslo,959260,Aker Brygge,Entire home/apt,3401.25,17,5,58,4.26,33.0,Good,59.972166,10.738379
+Oslo,249989,Aker Brygge,Private room,2761.67,7,23,3,5.0,20.0,Good,59.92829,10.818028
+Oslo,505596,Frogner,Entire home/apt,3500.0,1,335,1,3.75,26.0,Good,59.907262,10.761641
+Oslo,267028,Majorstuen,Entire home/apt,1245.57,6,333,2,3.71,12.0,Good,59.903976,10.768722
+Oslo,232083,Grünerløkka,Private room,1714.33,15,331,52,4.34,16.0,Good,59.887603,10.754531
+Oslo,550062,Majorstuen,Private room,838.25,7,332,120,3.87,17.0,Good,59.940675,10.78297
+Oslo,573211,Sagene,Shared room,2666.38,10,54,137,4.66,,,59.875592,10.800706
+Oslo,720264,St. Hanshaugen,Private room,1844.69,26,236,16,3.63,21.0,Good,59.928635,10.791698
+Oslo,451531,Frogner,Private room,3500.0,25,309,26,4.03,29.0,Good,59.8531,10.776676
+Oslo,869961,Frogner,Entire home/apt,2932.07,2,23,116,4.62,13.0,Good,59.933275,10.699936
+Oslo,871212,Grünerløkka,Shared room,1617.68,22,91,37,4.01,24.0,Good,59.942996,10.753409
+Oslo,275516,Majorstuen,Entire home/apt,2556.36,4,68,28,4.06,25.0,Good,59.950611,10.762455
+Oslo,502817,Grünerløkka,Entire home/apt,3500.0,3,170,71,4.04,17.0,Good,59.913051,10.721962
+Oslo,775624,Grünerløkka,Entire home/apt,1573.21,30,205,5,3.91,9.0,Good,59.948704,10.698478
+Oslo,744283,Gamle Oslo,Private room,2728.32,9,300,44,3.81,27.0,Good,59.877991,10.703534
+Oslo,831219,St. Hanshaugen,Private room,1713.19,9,302,37,3.86,,,59.875022,10.772603
+Oslo,173623,Frogner,Private room,1359.33,3,31,109,3.96,30.0,Good,59.922155,10.684422
+Oslo,869657,St. Hanshaugen,Entire home/apt,1599.38,23,336,20,4.57,28.0,Good,59.899442,10.813531
+Oslo,227274,Gamle Oslo,Entire home/apt,3500.0,2,128,39,4.21,23.0,Good,59.923711,10.725992
+Oslo,222527,Majorstuen,Entire home/apt,,7,22,41,4.18,25.0,Good,59.892599,10.794121
+Oslo,477507,Grünerløkka,Entire home/apt,,15,16,10,3.54,27.0,Good,59.951991,10.761371
+Oslo,474395,Aker Brygge,Private room,3500.0,11,295,1,3.38,20.0,Good,59.969549,10.780328
+Oslo,533030,Nordstrand,Entire home/apt,2446.98,4,279,46,3.54,15.0,Good,59.857482,10.692474
+Oslo,853122,Sagene,Shared room,1411.98,6,196,3,4.61,14.0,Good,59.881784,10.796642
+Oslo,160420,Nordstrand,Private room,1501.62,9,68,78,4.21,28.0,Good,59.893108,10.693701
+Oslo,453154,Frogner,Entire home/apt,1805.15,14,174,127,4.62,16.0,Good,59.880387,10.745842
+Oslo,377588,Frogner,Private room,1846.16,25,34,10,4.76,32.0,Good,59.967483,10.811577
+Oslo,201707,St. Hanshaugen,Entire home/apt,1791.63,1,86,23,4.4,32.0,Good,59.929981,10.768103
+Oslo,242975,Frogner,Entire home/apt,1292.13,18,315,25,3.96,1.0,Good,59.915868,10.768258
+Oslo,602076,Aker Brygge,Hotel room,3500.0,10,190,164,4.55,15.0,Good,59.864002,10.803425
+Oslo,841042,Gamle Oslo,Entire home/apt,1252.71,3,31,65,4.54,19.0,Good,59.852001,10.72815
+Oslo,267140,Sagene,Shared room,2634.62,11,193,28,3.63,28.0,Good,59.898697,10.772613
+Oslo,503368,Majorstuen,Private room,1259.71,17,179,21,4.16,22.0,Good,59.953698,10.742981
+Oslo,602364,Gamle Oslo,Private room,2506.64,2,250,0,4.83,7.0,Good,59.965784,10.723123
+Oslo,433343,Nordstrand,Private room,2267.69,24,215,46,4.3,16.0,Good,59.969961,10.798657
+Oslo,510279,Frogner,Shared room,3500.0,27,88,8,4.11,20.0,Good,59.907297,10.725339
+Oslo,877887,Majorstuen,Entire home/apt,1865.96,2,307,73,4.44,17.0,Good,59.876567,10.747051
+Oslo,164988,Aker Brygge,Entire home/apt,1937.61,25,82,98,4.09,24.0,Good,59.946648,10.792888
+Oslo,340869,St. Hanshaugen,Hotel room,2346.78,2,252,37,4.69,18.0,Good,59.908596,10.821537
+Oslo,518184,Sagene,Entire home/apt,2268.18,19,342,13,4.53,12.0,Good,59.935826,10.718782
+Oslo,361550,Nordstrand,Entire home/apt,1283.9,13,360,3,5.0,20.0,Good,59.953101,10.750228
+Oslo,844530,Grünerløkka,Entire home/apt,700.0,13,305,7,3.54,31.0,Good,59.928099,10.691636
+Oslo,523273,Aker Brygge,Entire home/apt,1873.15,12,62,10,4.27,11.0,Good,59.893787,10.728152
+Oslo,450325,Gamle Oslo,Entire home/apt,1611.68,3,73,18,4.57,26.0,Good,59.901658,10.727158
+Oslo,564652,Gamle Oslo,Entire home/apt,3009.05,2,148,60,4.47,9.0,Good,59.886806,10.766863
+Oslo,376618,Majorstuen,Private room,2593.07,28,341,109,3.48,36.0,Good,59.916724,10.747668
+Oslo,735713,Frogner,Private room,1789.24,12,358,45,4.59,38.0,Good,59.899655,10.748802
+Oslo,820452,Frogner,Entire home/apt,1663.16,15,210,20,3.82,14.0,Good,59.869623,10.79942
+Oslo,311763,Frogner,Entire home/apt,2426.83,1,99,34,4.47,21.0,Good,59.972047,10.68836
+Oslo,732804,Gamle Oslo,Shared room,1580.83,19,223,122,4.39,33.0,Good,59.934091,10.803984
+Oslo,327351,Nordstrand,Entire home/apt,1666.5,14,62,16,4.32,12.0,Good,59.905379,10.755006
+Oslo,392255,Majorstuen,Shared room,2634.45,21,39,49,,16.0,Good,59.908856,10.782557
+Oslo,546192,St. Hanshaugen,Entire home/apt,1422.95,18,134,36,3.96,26.0,Good,59.902323,10.779066
+Oslo,183794,Gamle Oslo,Hotel room,,9,325,38,4.45,12.0,Good,59.96593,10.699985
+Oslo,907348,Grünerløkka,Private room,1705.0,5,182,2,3.16,19.0,Good,59.88535,10.724549
+Oslo,544471,Sagene,Private room,1268.99,5,162,82,4.37,28.0,Good,59.960081,10.71789
+Oslo,745704,Gamle Oslo,Entire home/apt,1794.17,6,345,1,4.9,23.0,Good,59.902942,10.789171
+Oslo,390927,Majorstuen,Entire home/apt,1436.99,2,336,24,4.17,,,59.950535,10.714942
+Oslo,557021,Nordstrand,Entire home/apt,943.41,3,85,8,4.39,21.0,Good,59.932531,10.733921
+Oslo,383853,Gamle Oslo,Entire home/apt,2984.35,4,24,10,4.5,6.0,Good,59.881043,10.812083
+Oslo,228718,Nordstrand,Entire home/apt,2127.75,6,311,19,3.8,10.0,Good,59.845653,10.753894
+Oslo,630992,Sagene,Entire home/apt,1203.97,17,183,91,3.9,1.0,Good,59.950634,10.731768
+Oslo,178204,Majorstuen,Entire home/apt,3500.0,20,42,3,3.53,5.0,Good,59.933064,10.709871
+Oslo,962936,Aker Brygge,Entire home/apt,1228.27,8,140,61,4.2,9.0,Good,59.859993,10.682543
+Oslo,884840,Frogner,Entire home/apt,3500.0,1,302,106,4.66,21.0,Good,59.851437,10.782936
+Oslo,739979,Majorstuen,Entire home/apt,1342.62,29,96,44,3.98,25.0,Good,59.954719,10.820781
+Oslo,507421,Frogner,Entire home/apt,3500.0,5,123,33,4.11,27.0,Good,59.910689,10.81632
+Oslo,489463,Nordstrand,Entire home/apt,2838.22,27,116,33,4.31,20.0,Good,59.924133,10.708294
+Oslo,302248,Gamle Oslo,Entire home/apt,3500.0,9,156,136,4.29,19.0,Good,59.906161,10.70424
+Oslo,601092,Aker Brygge,Entire home/apt,929.42,20,97,43,3.68,14.0,Good,59.955152,10.74449
+Oslo,227516,Gamle Oslo,Private room,1382.95,24,332,3,3.87,16.0,Good,59.949783,10.783405
+Oslo,821507,Nordstrand,Entire home/apt,1269.23,3,109,48,5.0,35.0,Good,59.949344,10.716493
+Oslo,649986,Grünerløkka,Entire home/apt,1496.97,3,118,205,4.41,29.0,Good,59.885965,10.775307
+Oslo,265290,Grünerløkka,Entire home/apt,1996.68,15,54,37,3.27,15.0,Good,59.972323,10.706174
+Oslo,655846,Grünerløkka,Hotel room,2215.4,3,346,41,5.0,16.0,Good,59.928393,10.684715
+Oslo,490945,Majorstuen,Shared room,1008.31,7,202,74,4.59,21.0,Good,59.858857,10.722649
+Oslo,656767,Frogner,Entire home/apt,700.0,1,15,11,3.5,27.0,Good,59.89416,10.721497
+Oslo,442137,Aker Brygge,Entire home/apt,1144.26,29,355,29,4.65,23.0,Good,59.87548,10.773044
+Oslo,262881,Frogner,Entire home/apt,,24,53,202,,25.0,Good,59.917938,10.813593
+Oslo,559703,Aker Brygge,Entire home/apt,1066.08,10,204,38,3.95,29.0,Good,59.914689,10.769423
+Oslo,792711,Majorstuen,Entire home/apt,3500.0,15,8,50,4.19,31.0,Good,59.905283,10.775457
+Oslo,508786,Frogner,Entire home/apt,1679.94,4,118,49,,22.0,Good,59.928613,10.796948
+Oslo,918934,St. Hanshaugen,Private room,2391.19,18,176,5,3.21,27.0,Good,59.863967,10.763768
+Oslo,271876,Aker Brygge,Entire home/apt,2538.15,15,200,58,4.37,23.0,Good,59.89919,10.781521
+Oslo,737684,Frogner,Private room,,27,274,26,4.29,10.0,Good,59.940384,10.766952
+Oslo,556531,Sagene,Private room,1703.41,3,30,2,,25.0,Good,59.920952,10.689282
+Oslo,450981,Nordstrand,Private room,1021.79,2,152,9,4.67,21.0,Good,59.968761,10.774873
+Oslo,785051,Majorstuen,Private room,1494.27,3,338,55,4.46,30.0,Good,59.913144,10.784137
+Oslo,513575,Nordstrand,Entire home/apt,2234.97,2,222,19,3.75,26.0,Good,59.953873,10.703415
+Oslo,377507,Gamle Oslo,Entire home/apt,3454.6,27,199,2,3.47,27.0,Good,59.915095,10.724902
+Oslo,804456,Frogner,Entire home/apt,1442.52,1,194,19,4.85,22.0,Good,59.903132,10.821982
+Oslo,384959,Nordstrand,Hotel room,1860.94,1,173,79,4.53,17.0,Good,59.853637,10.769083
+Oslo,871978,Aker Brygge,Entire home/apt,3500.0,2,303,67,4.43,19.0,Good,59.974243,10.754956
+Oslo,165055,Gamle Oslo,Entire home/apt,1778.43,15,314,18,4.87,28.0,Good,59.924018,10.703091
+Oslo,893929,Gamle Oslo,Hotel room,1158.33,3,200,83,4.35,19.0,Good,59.853084,10.746379
+Oslo,102156,Sagene,Entire home/apt,2189.14,28,112,2,4.11,20.0,Good,59.901286,10.69537
+Oslo,337362,St. Hanshaugen,Hotel room,1865.51,8,202,30,5.0,17.0,Good,59.962832,10.771896
+Oslo,363060,Grünerløkka,Entire home/apt,3068.06,3,319,62,4.72,20.0,Good,59.871391,10.701696
+Oslo,942615,St. Hanshaugen,Entire home/apt,,20,48,21,4.47,22.0,Good,59.906943,10.73239
+Oslo,351038,Grünerløkka,Entire home/apt,1860.21,27,228,134,4.34,28.0,Good,59.891166,10.811996
+Oslo,343484,Frogner,Private room,2971.53,16,239,3,4.46,17.0,Good,59.955668,10.715806
+Oslo,482606,Gamle Oslo,Entire home/apt,3500.0,27,181,48,4.28,21.0,Good,59.849371,10.815655
+Oslo,108584,Frogner,Entire home/apt,3500.0,6,178,35,3.86,20.0,Good,59.854616,10.745018
+Oslo,803278,St. Hanshaugen,Entire home/apt,1238.92,23,82,5,,38.0,Good,59.888758,10.80273
+Oslo,727685,Grünerløkka,Shared room,3500.0,29,89,5,3.92,36.0,Good,59.885208,10.774503
+Oslo,416727,Majorstuen,Private room,989.89,1,122,4,,28.0,Good,59.975288,10.764593
+Oslo,904528,Grünerløkka,Private room,2188.5,1,292,6,4.15,21.0,Good,59.849085,10.727706
+Oslo,172998,Gamle Oslo,Entire home/apt,846.92,26,182,267,5.0,19.0,Good,59.948548,10.698551
+Oslo,334055,Aker Brygge,Private room,2331.69,8,337,7,4.23,21.0,Good,59.864321,10.740899
+Oslo,648064,Frogner,Shared room,1652.08,20,319,1,4.03,15.0,Good,59.96882,10.730669
+Oslo,348452,St. Hanshaugen,Entire home/apt,1472.85,4,347,14,3.35,26.0,Good,59.886649,10.713426
+Oslo,416958,Aker Brygge,Entire home/apt,3500.0,17,364,12,4.46,17.0,Good,59.907382,10.773771
+Oslo,757138,Nordstrand,Hotel room,3182.83,2,168,36,4.86,21.0,Good,59.97281,10.777878
+Oslo,277506,Gamle Oslo,Entire home/apt,1319.33,12,321,8,3.54,30.0,Good,59.943604,10.708101

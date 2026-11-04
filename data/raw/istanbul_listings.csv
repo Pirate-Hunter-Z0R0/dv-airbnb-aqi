@@ -1,0 +1,371 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Istanbul,698863,Beşiktaş,Entire home/apt,2585.1,3,361,2,4.42,78.0,Moderate,41.071439,28.953219
+Istanbul,985880,Bakırköy,Entire home/apt,3870.05,13,318,38,4.52,82.0,Moderate,40.999025,28.910128
+Istanbul,507357,Şişli,Entire home/apt,4123.69,15,250,58,3.8,94.0,Moderate,41.029526,29.016097
+Istanbul,190133,Beşiktaş,Shared room,3852.79,1,200,29,4.52,31.0,Good,41.040851,28.911446
+Istanbul,663173,Beşiktaş,Entire home/apt,3618.3,9,167,45,4.61,62.0,Moderate,40.95689,28.954315
+Istanbul,940042,Fatih,Entire home/apt,6000.0,14,214,23,4.07,51.0,Moderate,41.027938,29.040451
+Istanbul,793404,Üsküdar,Private room,6000.0,29,73,14,4.3,101.0,Unhealthy for Sensitive Groups,40.978269,28.942388
+Istanbul,260408,Sultanahmet,Entire home/apt,3145.05,13,154,53,4.82,97.0,Moderate,41.012889,28.928606
+Istanbul,696041,Beşiktaş,Entire home/apt,2008.91,2,322,4,4.59,51.0,Moderate,41.013684,28.911383
+Istanbul,243640,Sultanahmet,Private room,2626.73,8,76,6,4.25,59.0,Moderate,41.060506,28.930894
+Istanbul,634401,Beşiktaş,Entire home/apt,3926.22,5,3,12,4.04,83.0,Moderate,41.048418,29.032836
+Istanbul,696188,Üsküdar,Private room,2168.34,7,41,90,3.84,69.0,Moderate,40.957884,28.963765
+Istanbul,684666,Fatih,Entire home/apt,6000.0,13,159,41,4.55,85.0,Moderate,41.01825,28.963286
+Istanbul,851011,Beşiktaş,Entire home/apt,1352.0,26,81,15,3.59,53.0,Moderate,41.077973,29.045531
+Istanbul,106992,Şişli,Private room,,17,91,107,4.7,84.0,Moderate,41.000388,28.912816
+Istanbul,965106,Sultanahmet,Entire home/apt,2142.83,1,334,46,3.73,73.0,Moderate,40.98493,29.040539
+Istanbul,860224,Bakırköy,Entire home/apt,,7,199,120,4.11,1.0,Good,40.978029,28.969732
+Istanbul,795618,Beşiktaş,Entire home/apt,1843.01,1,343,9,4.06,81.0,Moderate,40.975325,28.975605
+Istanbul,496561,Sultanahmet,Private room,4858.37,14,224,135,4.6,61.0,Moderate,40.985816,28.908489
+Istanbul,859540,Beyoğlu,Private room,3570.21,17,68,1,3.71,86.0,Moderate,40.946784,28.929209
+Istanbul,350874,Beyoğlu,Entire home/apt,4874.07,28,216,9,3.99,100.0,Moderate,40.979145,28.978799
+Istanbul,236314,Fatih,Entire home/apt,,6,43,41,4.37,50.0,Good,41.033365,28.949126
+Istanbul,498235,Beyoğlu,Private room,2211.96,28,170,38,4.78,117.0,Unhealthy for Sensitive Groups,40.949295,29.025186
+Istanbul,689203,Beşiktaş,Private room,6000.0,14,295,87,4.51,126.0,Unhealthy for Sensitive Groups,41.072535,28.928883
+Istanbul,103221,Üsküdar,Entire home/apt,2513.43,27,157,70,4.07,,,40.962425,29.043841
+Istanbul,351240,Sultanahmet,Private room,5169.2,3,334,49,4.49,56.0,Moderate,41.001519,29.022827
+Istanbul,986556,Beyoğlu,Entire home/apt,2957.41,1,274,120,4.67,67.0,Moderate,41.029479,28.920806
+Istanbul,445760,Şişli,Entire home/apt,2623.16,29,268,7,4.99,111.0,Unhealthy for Sensitive Groups,41.001414,28.925777
+Istanbul,893157,Kadıköy,Entire home/apt,3002.1,18,126,10,4.44,73.0,Moderate,40.989171,28.992623
+Istanbul,115171,Fatih,Hotel room,2336.8,1,141,46,4.61,79.0,Moderate,41.038835,28.915578
+Istanbul,727623,Sultanahmet,Private room,5675.53,27,327,20,5.0,48.0,Good,40.973303,28.944878
+Istanbul,445027,Üsküdar,Entire home/apt,5238.17,8,203,32,5.0,90.0,Moderate,41.054274,28.993053
+Istanbul,813906,Üsküdar,Entire home/apt,2713.38,16,314,127,4.1,74.0,Moderate,41.057792,28.976408
+Istanbul,839387,Sultanahmet,Entire home/apt,4341.26,19,183,30,,63.0,Moderate,41.037421,28.943136
+Istanbul,692848,Beşiktaş,Entire home/apt,3470.91,25,74,6,,58.0,Moderate,41.038032,29.03434
+Istanbul,164177,Sultanahmet,Entire home/apt,1605.96,7,165,5,3.49,68.0,Moderate,41.061666,29.022795
+Istanbul,686239,Şişli,Entire home/apt,2845.99,5,175,5,4.35,39.0,Good,41.025117,28.932507
+Istanbul,214031,Şişli,Private room,3803.89,1,0,34,,78.0,Moderate,40.942675,29.044841
+Istanbul,776284,Beyoğlu,Private room,2543.8,27,197,11,,73.0,Moderate,40.961425,28.942189
+Istanbul,151198,Beyoğlu,Entire home/apt,2234.59,12,299,22,4.72,75.0,Moderate,41.00374,28.971811
+Istanbul,677627,Sultanahmet,Entire home/apt,5458.03,22,89,36,5.0,40.0,Good,41.075776,28.948171
+Istanbul,186048,Fatih,Entire home/apt,4323.82,10,254,15,3.54,108.0,Unhealthy for Sensitive Groups,40.994683,28.941921
+Istanbul,366003,Fatih,Private room,4336.3,27,269,8,3.47,50.0,Good,41.047001,28.998436
+Istanbul,270077,Fatih,Entire home/apt,2586.06,4,206,5,4.6,65.0,Moderate,40.953946,28.931014
+Istanbul,152045,Kadıköy,Entire home/apt,2072.92,19,142,29,4.45,65.0,Moderate,41.058515,28.968686
+Istanbul,536220,Üsküdar,Entire home/apt,6000.0,26,266,10,5.0,115.0,Unhealthy for Sensitive Groups,41.070089,28.942631
+Istanbul,902197,Fatih,Entire home/apt,1855.98,29,104,8,,52.0,Moderate,40.961989,29.005274
+Istanbul,495891,Kadıköy,Entire home/apt,2322.89,7,91,0,3.6,91.0,Moderate,40.948842,28.986962
+Istanbul,760233,Sultanahmet,Entire home/apt,4624.53,25,329,28,4.41,63.0,Moderate,41.062148,29.005935
+Istanbul,562769,Beyoğlu,Entire home/apt,4447.62,18,131,38,4.25,14.0,Good,41.077075,28.925069
+Istanbul,304631,Beşiktaş,Private room,2302.51,13,217,36,4.21,88.0,Moderate,40.941285,28.929634
+Istanbul,242677,Beşiktaş,Entire home/apt,6000.0,3,231,29,4.32,100.0,Moderate,40.973283,28.91581
+Istanbul,788726,Bakırköy,Shared room,2153.66,7,36,83,4.57,52.0,Moderate,41.06329,29.000194
+Istanbul,985392,Şişli,Private room,3307.83,25,52,37,5.0,51.0,Moderate,41.012454,28.97312
+Istanbul,388336,Beşiktaş,Private room,5538.38,13,51,15,3.87,112.0,Unhealthy for Sensitive Groups,40.955618,28.934786
+Istanbul,693456,Beyoğlu,Private room,6000.0,21,84,18,,104.0,Unhealthy for Sensitive Groups,41.002043,29.001989
+Istanbul,412286,Beyoğlu,Shared room,2799.47,6,284,2,3.95,90.0,Moderate,41.022801,28.921773
+Istanbul,208980,Beyoğlu,Shared room,2396.55,3,3,1,4.55,,,41.005587,28.971175
+Istanbul,204693,Şişli,Shared room,4552.33,1,323,35,3.83,106.0,Unhealthy for Sensitive Groups,41.062254,29.018114
+Istanbul,189019,Fatih,Private room,5164.01,5,223,0,4.8,,,40.994191,28.946932
+Istanbul,870783,Beşiktaş,Entire home/apt,2740.29,29,285,4,3.69,67.0,Moderate,40.994858,28.950557
+Istanbul,847123,Fatih,Private room,3937.88,5,180,15,4.21,55.0,Moderate,40.942958,29.006333
+Istanbul,964719,Beyoğlu,Entire home/apt,3846.73,1,38,76,4.16,69.0,Moderate,41.028068,28.951317
+Istanbul,382682,Kadıköy,Entire home/apt,4579.26,18,290,24,3.42,93.0,Moderate,41.068447,28.97421
+Istanbul,840251,Sultanahmet,Private room,,18,17,68,4.35,87.0,Moderate,40.959425,29.047045
+Istanbul,443891,Üsküdar,Entire home/apt,,24,228,28,4.88,68.0,Moderate,40.993545,28.967553
+Istanbul,205932,Beyoğlu,Entire home/apt,1423.93,19,20,12,4.42,58.0,Moderate,41.069504,28.954778
+Istanbul,678841,Kadıköy,Entire home/apt,1700.65,3,12,123,4.81,130.0,Unhealthy for Sensitive Groups,41.053327,28.999608
+Istanbul,554214,Kadıköy,Private room,6000.0,3,207,11,4.32,93.0,Moderate,41.033961,29.003558
+Istanbul,126509,Beyoğlu,Private room,4103.46,22,83,90,4.43,54.0,Moderate,41.02979,28.930898
+Istanbul,738886,Bakırköy,Entire home/apt,6000.0,30,91,283,3.95,91.0,Moderate,41.020855,29.036733
+Istanbul,524096,Kadıköy,Entire home/apt,4049.13,12,26,10,5.0,79.0,Moderate,40.987288,29.008777
+Istanbul,404902,Fatih,Entire home/apt,6000.0,30,128,24,4.12,81.0,Moderate,40.974336,28.938207
+Istanbul,754163,Üsküdar,Shared room,1763.08,5,185,3,4.7,50.0,Good,40.971796,28.935158
+Istanbul,111121,Üsküdar,Private room,3768.78,1,166,70,3.28,88.0,Moderate,41.063851,29.027106
+Istanbul,262860,Beyoğlu,Entire home/apt,2704.21,20,21,65,4.8,58.0,Moderate,41.032191,28.928083
+Istanbul,182888,Bakırköy,Private room,2876.26,3,276,36,4.3,24.0,Good,41.050141,28.92337
+Istanbul,222223,Bakırköy,Entire home/apt,3356.33,1,100,20,,51.0,Moderate,41.041718,29.034921
+Istanbul,324552,Beyoğlu,Entire home/apt,1536.46,1,212,11,,62.0,Moderate,40.954852,28.91274
+Istanbul,271658,Bakırköy,Entire home/apt,,14,40,20,4.46,74.0,Moderate,41.003021,28.924952
+Istanbul,434465,Kadıköy,Shared room,1970.28,2,360,32,4.6,88.0,Moderate,40.956774,29.044818
+Istanbul,132302,Beşiktaş,Private room,3326.26,2,226,31,4.7,32.0,Good,41.054339,28.995749
+Istanbul,845560,Şişli,Private room,5844.11,23,275,4,4.25,79.0,Moderate,40.952992,28.965887
+Istanbul,841889,Şişli,Entire home/apt,4562.8,9,318,34,5.0,70.0,Moderate,41.015941,28.92811
+Istanbul,487836,Beyoğlu,Private room,3031.15,14,145,21,3.65,71.0,Moderate,41.058041,28.968841
+Istanbul,319671,Sultanahmet,Entire home/apt,5415.41,1,336,22,4.15,28.0,Good,40.987209,28.947258
+Istanbul,401393,Fatih,Entire home/apt,2241.9,8,299,38,3.66,,,41.025207,28.971965
+Istanbul,550909,Beşiktaş,Entire home/apt,6000.0,29,289,9,3.94,87.0,Moderate,41.026942,28.968067
+Istanbul,277805,Üsküdar,Private room,3661.26,1,276,71,3.07,44.0,Good,40.941018,28.986739
+Istanbul,554234,Bakırköy,Entire home/apt,3720.16,15,122,29,4.81,63.0,Moderate,41.07173,28.963024
+Istanbul,258191,Bakırköy,Hotel room,2230.79,17,55,7,4.03,56.0,Moderate,41.032689,28.987995
+Istanbul,837130,Sultanahmet,Entire home/apt,5220.16,29,125,3,3.99,90.0,Moderate,40.985788,28.997856
+Istanbul,950002,Beyoğlu,Private room,1892.3,4,2,119,4.42,74.0,Moderate,41.058778,28.923501
+Istanbul,645382,Beşiktaş,Entire home/apt,,9,71,53,4.71,107.0,Unhealthy for Sensitive Groups,41.007288,28.960228
+Istanbul,649569,Fatih,Entire home/apt,1687.09,24,161,9,3.8,72.0,Moderate,41.013111,28.966942
+Istanbul,438697,Beyoğlu,Entire home/apt,5425.15,7,182,94,4.87,74.0,Moderate,41.003396,28.999121
+Istanbul,119030,Şişli,Entire home/apt,4852.87,24,262,69,3.35,,,40.982637,28.951241
+Istanbul,539275,Fatih,Entire home/apt,2117.84,25,40,26,3.43,72.0,Moderate,41.039343,28.990111
+Istanbul,317139,Üsküdar,Entire home/apt,1329.25,10,112,28,4.6,59.0,Moderate,40.972599,28.919505
+Istanbul,260830,Bakırköy,Hotel room,5802.91,27,143,16,5.0,78.0,Moderate,41.069616,28.975391
+Istanbul,338169,Fatih,Entire home/apt,5979.73,22,284,42,4.11,37.0,Good,41.007763,28.933006
+Istanbul,200118,Fatih,Entire home/apt,3630.65,24,155,6,3.69,86.0,Moderate,41.019872,28.910741
+Istanbul,845564,Fatih,Entire home/apt,1423.89,1,101,18,4.9,106.0,Unhealthy for Sensitive Groups,41.03638,28.945974
+Istanbul,620156,Bakırköy,Entire home/apt,2648.04,13,55,141,3.84,66.0,Moderate,41.074625,28.94381
+Istanbul,310612,Bakırköy,Private room,1959.69,17,196,17,4.05,91.0,Moderate,40.966641,28.993833
+Istanbul,835618,Kadıköy,Private room,3229.66,20,115,98,3.74,99.0,Moderate,40.983049,28.929589
+Istanbul,359436,Şişli,Private room,3528.69,2,222,61,4.31,90.0,Moderate,41.007058,28.908827
+Istanbul,787737,Sultanahmet,Entire home/apt,2495.4,1,270,130,3.46,86.0,Moderate,41.021769,28.922337
+Istanbul,145840,Kadıköy,Entire home/apt,2997.39,2,40,18,3.99,77.0,Moderate,40.973386,28.916304
+Istanbul,425270,Bakırköy,Hotel room,5309.57,6,64,30,4.01,94.0,Moderate,40.942852,28.943375
+Istanbul,301534,Bakırköy,Entire home/apt,4748.03,13,106,24,4.89,,,40.940242,28.985192
+Istanbul,423099,Fatih,Entire home/apt,3566.59,1,57,96,4.56,,,40.960405,28.935326
+Istanbul,551300,Fatih,Entire home/apt,3744.7,25,328,11,4.05,96.0,Moderate,40.974034,29.02522
+Istanbul,326563,Şişli,Entire home/apt,,4,128,35,3.08,97.0,Moderate,41.048219,29.033551
+Istanbul,393321,Şişli,Private room,5422.25,6,65,21,4.34,85.0,Moderate,40.991225,29.015606
+Istanbul,888758,Üsküdar,Shared room,3159.58,14,134,21,5.0,98.0,Moderate,41.026251,28.951868
+Istanbul,916258,Üsküdar,Hotel room,5836.0,16,123,26,3.65,40.0,Good,41.004862,28.93189
+Istanbul,311253,Bakırköy,Entire home/apt,6000.0,16,149,51,3.34,80.0,Moderate,41.066691,28.996918
+Istanbul,588625,Beyoğlu,Entire home/apt,800.0,4,357,44,4.47,109.0,Unhealthy for Sensitive Groups,40.995217,28.930613
+Istanbul,657325,Fatih,Hotel room,6000.0,2,50,72,5.0,106.0,Unhealthy for Sensitive Groups,40.988188,29.047905
+Istanbul,537354,Beyoğlu,Private room,2613.62,7,75,31,4.59,73.0,Moderate,41.051756,29.021498
+Istanbul,326938,Şişli,Entire home/apt,3831.04,1,238,17,3.93,49.0,Good,40.963197,29.008112
+Istanbul,610703,Kadıköy,Private room,2190.05,3,168,29,3.32,52.0,Moderate,41.053259,28.994344
+Istanbul,618892,Kadıköy,Entire home/apt,6000.0,18,110,46,3.79,73.0,Moderate,41.027068,29.028339
+Istanbul,371416,Sultanahmet,Private room,2225.26,27,312,91,4.37,78.0,Moderate,40.958362,28.98505
+Istanbul,119408,Beyoğlu,Private room,5507.76,9,8,17,,39.0,Good,41.037148,29.011868
+Istanbul,312249,Üsküdar,Hotel room,,28,19,38,3.92,92.0,Moderate,41.052741,28.950772
+Istanbul,187111,Beşiktaş,Entire home/apt,3320.48,21,218,2,4.03,61.0,Moderate,41.021439,28.932597
+Istanbul,334976,Kadıköy,Entire home/apt,5035.83,6,65,60,,90.0,Moderate,41.02592,28.960462
+Istanbul,563821,Beyoğlu,Private room,2261.62,2,309,78,3.95,60.0,Moderate,41.066248,28.982128
+Istanbul,469707,Şişli,Entire home/apt,3350.63,2,148,116,4.3,60.0,Moderate,41.008529,28.942035
+Istanbul,439531,Kadıköy,Hotel room,3741.71,10,76,0,4.24,106.0,Unhealthy for Sensitive Groups,41.068165,28.999287
+Istanbul,180438,Üsküdar,Private room,2509.45,1,185,1,4.2,82.0,Moderate,41.022604,28.910343
+Istanbul,571212,Kadıköy,Entire home/apt,3081.67,27,162,10,4.54,98.0,Moderate,40.950871,28.96902
+Istanbul,817325,Beşiktaş,Private room,6000.0,1,205,3,4.68,105.0,Unhealthy for Sensitive Groups,41.061885,28.995865
+Istanbul,384314,Sultanahmet,Entire home/apt,2433.67,29,78,7,3.84,45.0,Good,41.049318,29.039071
+Istanbul,130829,Şişli,Private room,4931.84,15,220,57,4.47,80.0,Moderate,41.073535,28.933834
+Istanbul,677320,Bakırköy,Hotel room,4837.26,3,324,81,,44.0,Good,40.960155,28.953229
+Istanbul,749968,Bakırköy,Entire home/apt,6000.0,2,209,160,4.43,56.0,Moderate,40.939068,28.98924
+Istanbul,790976,Şişli,Entire home/apt,4190.94,1,81,61,3.98,64.0,Moderate,41.07004,29.017363
+Istanbul,714621,Fatih,Entire home/apt,3244.26,21,257,3,3.86,43.0,Good,41.029483,28.981793
+Istanbul,878322,Sultanahmet,Hotel room,6000.0,6,83,36,4.95,125.0,Unhealthy for Sensitive Groups,40.944226,28.992668
+Istanbul,798724,Şişli,Entire home/apt,6000.0,7,229,7,3.76,92.0,Moderate,41.072593,28.947253
+Istanbul,151775,Fatih,Entire home/apt,2685.85,2,336,73,4.89,38.0,Good,40.99968,29.008406
+Istanbul,520400,Beyoğlu,Entire home/apt,5218.3,2,343,113,4.87,87.0,Moderate,40.949073,28.916148
+Istanbul,503661,Fatih,Private room,4785.67,26,244,8,,84.0,Moderate,40.95938,29.038657
+Istanbul,875452,Üsküdar,Private room,3011.81,10,94,27,3.66,97.0,Moderate,41.072278,29.000902
+Istanbul,636889,Beyoğlu,Entire home/apt,1633.99,30,326,80,4.06,,,41.012499,28.922849
+Istanbul,289296,Şişli,Entire home/apt,6000.0,1,29,44,4.49,42.0,Good,41.042473,29.027191
+Istanbul,896781,Şişli,Entire home/apt,1675.88,23,117,21,4.51,57.0,Moderate,40.96002,29.0427
+Istanbul,627760,Fatih,Entire home/apt,4516.38,7,220,22,4.02,74.0,Moderate,40.969291,29.025639
+Istanbul,124895,Şişli,Entire home/apt,4391.3,14,228,3,4.77,71.0,Moderate,40.978201,29.030227
+Istanbul,959552,Şişli,Entire home/apt,3608.74,22,247,157,4.7,74.0,Moderate,40.991198,28.930487
+Istanbul,502918,Bakırköy,Private room,2835.6,27,285,44,4.09,24.0,Good,40.946382,28.982976
+Istanbul,251778,Beyoğlu,Entire home/apt,1100.64,25,223,57,5.0,112.0,Unhealthy for Sensitive Groups,41.010779,28.958181
+Istanbul,573234,Üsküdar,Entire home/apt,,12,190,74,5.0,88.0,Moderate,41.001582,29.020965
+Istanbul,732059,Şişli,Private room,2076.67,27,82,130,,80.0,Moderate,41.01033,28.937837
+Istanbul,852309,Sultanahmet,Entire home/apt,2769.19,11,64,81,5.0,78.0,Moderate,40.967903,28.991675
+Istanbul,535604,Beşiktaş,Hotel room,3155.15,14,168,59,4.69,58.0,Moderate,41.056407,28.938296
+Istanbul,317328,Kadıköy,Entire home/apt,2318.07,25,249,3,4.52,,,40.990225,29.0259
+Istanbul,858225,Kadıköy,Entire home/apt,6000.0,20,227,27,4.12,75.0,Moderate,41.072031,29.010881
+Istanbul,859900,Beşiktaş,Private room,3941.87,21,51,37,5.0,,,40.987256,28.965913
+Istanbul,107529,Üsküdar,Private room,5258.15,22,286,17,4.5,56.0,Moderate,41.057134,28.961197
+Istanbul,784433,Bakırköy,Private room,6000.0,3,332,21,4.08,68.0,Moderate,40.9841,29.00756
+Istanbul,565936,Sultanahmet,Entire home/apt,2979.77,29,205,65,4.43,44.0,Good,40.996068,29.043601
+Istanbul,264684,Beyoğlu,Shared room,3742.06,3,157,0,4.05,65.0,Moderate,41.053586,28.945802
+Istanbul,552138,Beşiktaş,Hotel room,2192.59,16,33,94,3.68,35.0,Good,40.989646,28.917295
+Istanbul,944918,Beşiktaş,Private room,1613.51,2,306,49,3.55,26.0,Good,40.95471,28.929088
+Istanbul,661211,Bakırköy,Hotel room,1270.38,16,275,22,5.0,76.0,Moderate,40.974027,29.015894
+Istanbul,776218,Üsküdar,Private room,2131.19,3,110,32,4.29,83.0,Moderate,41.049219,29.000865
+Istanbul,378457,Kadıköy,Shared room,2663.9,27,194,0,4.69,14.0,Good,41.038963,28.9157
+Istanbul,693101,Kadıköy,Entire home/apt,2965.27,10,103,84,3.21,66.0,Moderate,41.00009,29.044487
+Istanbul,225279,Sultanahmet,Entire home/apt,4031.45,25,336,36,3.92,53.0,Moderate,41.013417,29.000498
+Istanbul,396418,Beyoğlu,Entire home/apt,3363.59,24,302,47,4.27,62.0,Moderate,40.987114,28.997971
+Istanbul,889644,Kadıköy,Entire home/apt,2307.83,26,353,61,4.66,69.0,Moderate,40.99518,29.034267
+Istanbul,324875,Beşiktaş,Private room,2261.52,15,69,42,3.92,66.0,Moderate,41.065447,28.950403
+Istanbul,385800,Bakırköy,Private room,5377.62,7,3,0,4.75,102.0,Unhealthy for Sensitive Groups,41.048497,28.940681
+Istanbul,551185,Bakırköy,Entire home/apt,5991.94,3,348,41,3.44,71.0,Moderate,40.996963,28.908792
+Istanbul,632173,Sultanahmet,Private room,2888.14,22,344,13,4.21,75.0,Moderate,40.983138,29.012289
+Istanbul,836437,Sultanahmet,Hotel room,,25,2,5,4.54,80.0,Moderate,41.06325,29.044478
+Istanbul,486443,Beyoğlu,Private room,5854.56,22,88,26,4.84,73.0,Moderate,41.007786,29.011914
+Istanbul,478390,Üsküdar,Private room,3265.29,21,65,7,3.67,93.0,Moderate,40.939711,29.016048
+Istanbul,369492,Beşiktaş,Private room,2648.19,22,223,6,4.37,31.0,Good,41.069001,29.03029
+Istanbul,683334,Şişli,Shared room,2700.04,12,35,5,4.21,45.0,Good,40.969078,28.945307
+Istanbul,572430,Beşiktaş,Entire home/apt,4910.66,20,286,124,,81.0,Moderate,40.984598,28.991516
+Istanbul,698384,Şişli,Private room,6000.0,20,136,21,3.92,99.0,Moderate,41.061341,28.969548
+Istanbul,706755,Bakırköy,Entire home/apt,1392.01,20,158,71,,43.0,Good,40.994823,28.984005
+Istanbul,629297,Bakırköy,Entire home/apt,4800.95,2,307,47,4.75,121.0,Unhealthy for Sensitive Groups,40.959857,28.981406
+Istanbul,645459,Üsküdar,Entire home/apt,2431.48,1,118,3,4.45,84.0,Moderate,41.016053,28.944228
+Istanbul,216941,Sultanahmet,Entire home/apt,5010.9,24,210,12,4.24,46.0,Good,41.043658,28.934
+Istanbul,651976,Üsküdar,Private room,3043.0,3,364,16,5.0,96.0,Moderate,40.943107,28.989257
+Istanbul,980852,Fatih,Private room,4382.79,6,330,42,5.0,73.0,Moderate,41.026222,29.025691
+Istanbul,428406,Üsküdar,Entire home/apt,3291.77,4,357,37,4.35,71.0,Moderate,41.045056,29.044927
+Istanbul,749590,Beşiktaş,Entire home/apt,2573.24,4,106,47,3.85,70.0,Moderate,41.069066,28.968816
+Istanbul,638724,Beşiktaş,Entire home/apt,3324.38,16,232,24,3.99,74.0,Moderate,40.988144,28.985913
+Istanbul,257100,Bakırköy,Entire home/apt,6000.0,2,328,5,4.06,79.0,Moderate,41.019611,28.94862
+Istanbul,198904,Şişli,Private room,6000.0,24,150,43,4.35,121.0,Unhealthy for Sensitive Groups,40.93899,28.994177
+Istanbul,441186,Üsküdar,Entire home/apt,4429.83,5,155,62,4.79,70.0,Moderate,40.996849,28.958707
+Istanbul,920675,Kadıköy,Entire home/apt,3027.77,17,86,65,4.6,,,40.954975,29.012261
+Istanbul,311600,Sultanahmet,Entire home/apt,2895.3,27,38,9,3.67,64.0,Moderate,41.075032,29.016406
+Istanbul,758232,Kadıköy,Entire home/apt,3923.3,24,306,83,4.6,86.0,Moderate,41.012055,29.047027
+Istanbul,899849,Şişli,Entire home/apt,6000.0,9,63,134,4.22,146.0,Unhealthy for Sensitive Groups,40.995721,28.986361
+Istanbul,974330,Sultanahmet,Shared room,1959.0,16,273,63,4.5,81.0,Moderate,41.059511,28.929187
+Istanbul,688445,Beyoğlu,Private room,1582.25,1,241,46,3.77,95.0,Moderate,41.00119,28.947245
+Istanbul,843641,Fatih,Private room,2305.26,2,95,71,4.32,58.0,Moderate,40.996219,28.921967
+Istanbul,133609,Kadıköy,Private room,2757.73,27,344,3,3.96,90.0,Moderate,40.970172,29.041079
+Istanbul,377902,Üsküdar,Entire home/apt,1644.56,4,142,28,3.62,97.0,Moderate,41.075245,28.978227
+Istanbul,772438,Üsküdar,Private room,5624.12,10,356,5,4.19,88.0,Moderate,41.063751,28.924473
+Istanbul,157846,Kadıköy,Entire home/apt,3847.64,6,272,45,4.12,129.0,Unhealthy for Sensitive Groups,40.961862,28.925721
+Istanbul,317357,Fatih,Entire home/apt,3786.28,4,31,46,4.06,,,41.020828,29.013493
+Istanbul,904802,Bakırköy,Entire home/apt,,18,76,19,3.95,66.0,Moderate,41.005688,28.995364
+Istanbul,886964,Beşiktaş,Entire home/apt,,18,154,13,,54.0,Moderate,41.041085,28.956041
+Istanbul,901228,Beşiktaş,Private room,2048.79,23,322,0,4.56,77.0,Moderate,40.976503,28.991434
+Istanbul,825909,Bakırköy,Hotel room,2846.05,13,45,45,4.58,75.0,Moderate,41.043954,29.009133
+Istanbul,355929,Fatih,Private room,6000.0,2,221,10,4.16,97.0,Moderate,41.021501,28.994821
+Istanbul,850860,Sultanahmet,Private room,6000.0,22,360,30,4.0,84.0,Moderate,41.033624,29.011979
+Istanbul,727370,Üsküdar,Entire home/apt,5439.76,27,1,65,4.59,139.0,Unhealthy for Sensitive Groups,41.010769,28.922159
+Istanbul,707750,Sultanahmet,Entire home/apt,6000.0,7,220,19,4.0,61.0,Moderate,40.995338,28.948127
+Istanbul,736334,Fatih,Private room,2743.18,20,61,23,3.84,36.0,Good,41.024253,28.967723
+Istanbul,788809,Fatih,Entire home/apt,2625.37,1,113,115,,84.0,Moderate,41.078088,29.047638
+Istanbul,972885,Bakırköy,Entire home/apt,,22,274,64,4.43,42.0,Good,40.993386,29.028812
+Istanbul,793598,Şişli,Entire home/apt,1735.83,20,250,32,4.3,79.0,Moderate,41.0394,29.00085
+Istanbul,448826,Fatih,Private room,1127.74,2,64,72,3.56,103.0,Unhealthy for Sensitive Groups,41.047393,28.925585
+Istanbul,956742,Kadıköy,Private room,2449.31,20,358,12,3.9,103.0,Unhealthy for Sensitive Groups,41.07373,28.933806
+Istanbul,335830,Kadıköy,Entire home/apt,6000.0,1,350,12,4.03,61.0,Moderate,40.977826,28.996359
+Istanbul,472327,Bakırköy,Entire home/apt,2069.23,22,325,140,4.49,100.0,Moderate,40.960901,28.980251
+Istanbul,234800,Fatih,Private room,4491.62,12,168,2,4.63,54.0,Moderate,40.950228,28.939261
+Istanbul,146218,Fatih,Entire home/apt,1738.2,22,292,7,3.57,100.0,Moderate,40.996357,28.943034
+Istanbul,291269,Sultanahmet,Private room,1531.65,9,220,39,4.33,92.0,Moderate,41.023375,29.006284
+Istanbul,543843,Şişli,Private room,1978.57,29,191,75,,55.0,Moderate,41.020759,28.968345
+Istanbul,508705,Fatih,Private room,2142.44,29,38,41,4.69,91.0,Moderate,41.007978,29.011658
+Istanbul,465648,Bakırköy,Private room,1370.96,7,327,6,4.12,92.0,Moderate,40.98442,29.002913
+Istanbul,704578,Beşiktaş,Private room,6000.0,10,318,103,4.91,51.0,Moderate,41.072153,29.02584
+Istanbul,760472,Şişli,Shared room,1918.2,26,304,0,4.77,67.0,Moderate,40.980498,28.992297
+Istanbul,148188,Bakırköy,Private room,2971.51,9,273,35,3.55,94.0,Moderate,41.057822,28.924018
+Istanbul,554244,Beşiktaş,Shared room,2963.27,20,305,13,4.75,61.0,Moderate,41.016919,28.909717
+Istanbul,639428,Beşiktaş,Private room,3765.33,11,123,6,,83.0,Moderate,41.067528,28.975439
+Istanbul,373468,Fatih,Shared room,2045.75,2,211,7,4.09,101.0,Unhealthy for Sensitive Groups,41.013714,28.96681
+Istanbul,767363,Üsküdar,Entire home/apt,4201.3,24,148,8,3.49,67.0,Moderate,40.989683,28.974638
+Istanbul,205813,Beşiktaş,Shared room,2475.41,8,226,21,4.63,73.0,Moderate,40.978196,28.911478
+Istanbul,639231,Beşiktaş,Private room,5690.85,1,263,11,5.0,60.0,Moderate,41.054792,28.972824
+Istanbul,460807,Sultanahmet,Private room,6000.0,2,11,12,4.83,,,41.023937,28.911386
+Istanbul,324312,Şişli,Shared room,6000.0,17,244,9,4.67,86.0,Moderate,41.062142,29.029121
+Istanbul,550632,Beşiktaş,Private room,2667.82,5,30,75,4.34,48.0,Good,40.994339,29.029725
+Istanbul,934699,Kadıköy,Entire home/apt,6000.0,24,304,4,3.57,88.0,Moderate,41.071414,29.002191
+Istanbul,498534,Kadıköy,Shared room,5799.77,6,137,40,,124.0,Unhealthy for Sensitive Groups,40.938313,29.022541
+Istanbul,473854,Üsküdar,Entire home/apt,5860.13,3,59,88,5.0,78.0,Moderate,40.961733,28.934469
+Istanbul,672104,Üsküdar,Entire home/apt,4362.97,14,296,7,3.73,45.0,Good,40.959537,28.918082
+Istanbul,988544,Bakırköy,Private room,2433.39,2,286,132,4.93,70.0,Moderate,41.006393,29.042196
+Istanbul,352446,Sultanahmet,Private room,3284.42,30,35,107,4.68,71.0,Moderate,40.969597,28.925822
+Istanbul,419738,Bakırköy,Entire home/apt,4559.25,1,10,17,5.0,38.0,Good,41.017989,29.032071
+Istanbul,724824,Üsküdar,Hotel room,4104.59,14,319,19,4.65,29.0,Good,41.05197,29.04189
+Istanbul,106464,Sultanahmet,Private room,2051.04,21,90,57,4.48,80.0,Moderate,41.022979,28.922065
+Istanbul,288151,Üsküdar,Entire home/apt,6000.0,10,90,22,4.42,56.0,Moderate,40.967567,28.911241
+Istanbul,457784,Beşiktaş,Entire home/apt,2555.81,2,325,1,4.32,123.0,Unhealthy for Sensitive Groups,41.05414,28.945116
+Istanbul,560893,Şişli,Shared room,6000.0,19,72,0,4.31,54.0,Moderate,40.982955,28.942777
+Istanbul,882077,Beşiktaş,Entire home/apt,1805.55,1,73,164,4.25,109.0,Unhealthy for Sensitive Groups,41.004187,29.017082
+Istanbul,328318,Üsküdar,Entire home/apt,2213.51,2,45,22,4.3,70.0,Moderate,41.027189,29.000612
+Istanbul,359617,Beşiktaş,Entire home/apt,5704.73,1,165,79,4.13,97.0,Moderate,41.015863,29.035943
+Istanbul,417176,Fatih,Shared room,1608.52,2,56,176,3.84,88.0,Moderate,40.94289,29.025853
+Istanbul,366023,Beşiktaş,Entire home/apt,3104.15,5,204,34,4.69,118.0,Unhealthy for Sensitive Groups,41.005093,28.985111
+Istanbul,199520,Şişli,Private room,2019.71,28,264,43,5.0,55.0,Moderate,40.97375,29.018714
+Istanbul,413275,Kadıköy,Private room,4292.36,12,235,44,4.67,69.0,Moderate,40.970893,28.915357
+Istanbul,258559,Sultanahmet,Entire home/apt,2525.6,2,280,41,4.99,85.0,Moderate,41.014949,28.970746
+Istanbul,409529,Kadıköy,Entire home/apt,4166.4,23,327,10,4.67,109.0,Unhealthy for Sensitive Groups,41.053534,29.000358
+Istanbul,933334,Kadıköy,Entire home/apt,,12,8,7,4.39,78.0,Moderate,41.039944,29.033837
+Istanbul,952662,Şişli,Entire home/apt,2646.84,1,348,27,4.46,102.0,Unhealthy for Sensitive Groups,40.991879,28.996793
+Istanbul,962944,Üsküdar,Entire home/apt,2759.29,1,168,2,3.87,,,40.967164,28.966255
+Istanbul,247398,Kadıköy,Entire home/apt,5545.52,2,285,38,4.05,78.0,Moderate,40.960474,29.038169
+Istanbul,535616,Beşiktaş,Entire home/apt,2867.97,8,39,26,4.99,,,40.992748,28.985502
+Istanbul,816155,Fatih,Private room,3674.86,30,276,36,,68.0,Moderate,41.026872,29.033999
+Istanbul,464982,Sultanahmet,Private room,2931.67,8,293,76,4.82,80.0,Moderate,40.98545,28.921781
+Istanbul,168607,Şişli,Entire home/apt,1728.4,14,360,32,4.22,49.0,Good,40.946071,28.909456
+Istanbul,977725,Kadıköy,Shared room,3576.15,18,260,76,4.52,82.0,Moderate,41.030788,28.95076
+Istanbul,195947,Beyoğlu,Entire home/apt,6000.0,19,57,15,4.35,,,40.999099,29.012412
+Istanbul,364383,Kadıköy,Private room,,1,19,93,3.78,59.0,Moderate,41.009997,28.939785
+Istanbul,561887,Kadıköy,Private room,1784.04,1,300,59,3.69,46.0,Good,40.997691,28.971271
+Istanbul,568798,Beyoğlu,Private room,3035.14,1,216,47,3.31,60.0,Moderate,40.991853,28.983506
+Istanbul,402934,Sultanahmet,Entire home/apt,6000.0,3,120,4,5.0,102.0,Unhealthy for Sensitive Groups,40.96585,29.012068
+Istanbul,374334,Şişli,Private room,3156.82,24,98,71,3.99,,,40.957416,28.913164
+Istanbul,242144,Sultanahmet,Entire home/apt,,1,125,12,4.61,68.0,Moderate,41.043529,28.926675
+Istanbul,805069,Beşiktaş,Entire home/apt,6000.0,14,291,21,3.91,94.0,Moderate,40.960117,28.953964
+Istanbul,153774,Bakırköy,Entire home/apt,1740.71,19,153,17,4.63,82.0,Moderate,41.036419,29.035798
+Istanbul,211951,Fatih,Entire home/apt,6000.0,10,339,72,3.43,95.0,Moderate,41.030189,28.96643
+Istanbul,475682,Sultanahmet,Entire home/apt,4522.45,20,89,10,4.74,76.0,Moderate,41.013452,28.974198
+Istanbul,898892,Beşiktaş,Entire home/apt,2091.24,26,331,144,4.64,23.0,Good,40.960817,28.983922
+Istanbul,601398,Şişli,Entire home/apt,2410.5,1,316,67,4.5,80.0,Moderate,40.970799,28.929115
+Istanbul,773215,Beyoğlu,Private room,2688.8,1,304,0,3.93,85.0,Moderate,41.001614,29.033893
+Istanbul,977958,Üsküdar,Private room,3740.23,6,253,24,4.67,83.0,Moderate,40.939616,29.008346
+Istanbul,194551,Bakırköy,Entire home/apt,6000.0,11,180,6,4.95,56.0,Moderate,40.947161,28.912653
+Istanbul,872307,Fatih,Entire home/apt,3987.95,2,28,6,5.0,63.0,Moderate,40.946685,29.023118
+Istanbul,842852,Kadıköy,Entire home/apt,3242.14,6,312,25,4.48,96.0,Moderate,40.97961,28.987304
+Istanbul,831452,Beşiktaş,Entire home/apt,3512.05,2,289,26,,100.0,Moderate,41.023027,29.031867
+Istanbul,934990,Beyoğlu,Entire home/apt,1394.82,22,261,1,4.03,83.0,Moderate,40.996924,28.912016
+Istanbul,463514,Üsküdar,Private room,4774.66,1,16,2,4.31,101.0,Unhealthy for Sensitive Groups,41.012306,28.946612
+Istanbul,923259,Kadıköy,Entire home/apt,3851.27,25,218,5,,73.0,Moderate,41.039838,28.991675
+Istanbul,976031,Sultanahmet,Entire home/apt,,27,95,7,4.68,81.0,Moderate,41.071445,29.01136
+Istanbul,240118,Beşiktaş,Shared room,1726.59,23,13,50,4.51,51.0,Moderate,41.004597,28.978935
+Istanbul,749514,Fatih,Private room,,6,101,9,3.33,69.0,Moderate,41.008678,28.971288
+Istanbul,263096,Kadıköy,Entire home/apt,2806.01,27,58,17,,73.0,Moderate,41.045068,28.916891
+Istanbul,429262,Sultanahmet,Private room,3060.68,20,353,13,4.21,34.0,Good,40.971014,28.966815
+Istanbul,819193,Beyoğlu,Entire home/apt,4459.68,3,177,9,4.34,97.0,Moderate,41.068118,28.913821
+Istanbul,390601,Şişli,Private room,3530.53,13,190,114,4.64,49.0,Good,41.012751,28.956347
+Istanbul,892420,Beşiktaş,Private room,2401.27,23,269,2,4.95,26.0,Good,41.04543,28.921203
+Istanbul,170852,Beşiktaş,Private room,5361.29,1,10,71,5.0,47.0,Good,41.061203,28.962514
+Istanbul,822850,Bakırköy,Entire home/apt,2891.66,3,364,40,4.42,60.0,Moderate,40.980222,28.96198
+Istanbul,655017,Bakırköy,Private room,4472.63,19,167,156,4.48,86.0,Moderate,41.0002,28.95535
+Istanbul,753561,Beyoğlu,Entire home/apt,3230.09,26,227,58,4.01,64.0,Moderate,41.043586,28.932391
+Istanbul,342999,Fatih,Private room,3624.35,18,60,28,4.0,87.0,Moderate,40.996167,28.941833
+Istanbul,901990,Bakırköy,Entire home/apt,6000.0,23,33,87,4.98,80.0,Moderate,41.026653,28.974496
+Istanbul,761795,Üsküdar,Shared room,3466.33,7,111,65,4.45,99.0,Moderate,40.956711,28.92956
+Istanbul,616217,Fatih,Private room,2850.73,28,79,1,4.41,12.0,Good,40.999747,28.929734
+Istanbul,367288,Fatih,Hotel room,2903.77,6,101,27,4.46,89.0,Moderate,40.997752,28.944608
+Istanbul,324134,Beyoğlu,Private room,6000.0,1,178,3,,65.0,Moderate,40.956504,28.95225
+Istanbul,935520,Fatih,Private room,2100.06,1,354,42,4.26,70.0,Moderate,41.073761,28.9631
+Istanbul,160235,Bakırköy,Entire home/apt,3463.93,29,62,22,3.92,78.0,Moderate,41.003408,28.91354
+Istanbul,459190,Beyoğlu,Private room,4635.04,1,70,31,4.78,81.0,Moderate,41.000416,28.984429
+Istanbul,869291,Şişli,Private room,2629.28,12,111,33,5.0,80.0,Moderate,41.035038,29.036325
+Istanbul,825420,Beşiktaş,Entire home/apt,4574.94,14,55,54,3.6,61.0,Moderate,40.952685,28.912369
+Istanbul,320575,Üsküdar,Entire home/apt,2107.21,3,313,32,4.64,117.0,Unhealthy for Sensitive Groups,40.955816,29.028378
+Istanbul,141706,Şişli,Entire home/apt,2746.24,20,355,17,3.97,80.0,Moderate,41.020236,28.933379
+Istanbul,514906,Bakırköy,Shared room,2425.67,21,54,39,5.0,92.0,Moderate,40.985914,29.041791
+Istanbul,642208,Şişli,Entire home/apt,1435.85,23,307,111,4.48,,,40.99305,28.9586
+Istanbul,685482,Beşiktaş,Shared room,6000.0,27,257,19,4.79,66.0,Moderate,41.073937,28.917182
+Istanbul,329312,Bakırköy,Entire home/apt,4424.62,25,240,2,4.27,107.0,Unhealthy for Sensitive Groups,40.981103,29.017665
+Istanbul,890134,Sultanahmet,Entire home/apt,2118.59,28,83,144,4.21,60.0,Moderate,41.034648,28.933868
+Istanbul,316291,Şişli,Entire home/apt,3358.71,4,307,32,4.04,78.0,Moderate,41.068589,28.914858
+Istanbul,810132,Üsküdar,Entire home/apt,3682.04,2,127,6,3.41,57.0,Moderate,41.07467,29.006056
+Istanbul,487488,Beyoğlu,Private room,2555.25,19,324,34,4.58,,,41.01187,28.922638
+Istanbul,541725,Fatih,Private room,1323.76,24,253,3,3.88,91.0,Moderate,40.974304,28.952598
+Istanbul,719751,Beyoğlu,Entire home/apt,1499.26,15,349,14,4.12,45.0,Good,41.010497,29.009854
+Istanbul,480699,Kadıköy,Entire home/apt,1200.36,17,291,102,4.38,44.0,Good,41.044181,29.007456
+Istanbul,412677,Fatih,Entire home/apt,2567.96,24,182,72,2.77,49.0,Good,40.959441,28.970683
+Istanbul,669622,Bakırköy,Private room,5223.15,2,353,24,4.11,69.0,Moderate,41.030718,29.026745
+Istanbul,466994,Beyoğlu,Hotel room,3044.59,26,319,60,4.39,54.0,Moderate,41.058615,28.925931
+Istanbul,898826,Fatih,Entire home/apt,2102.86,10,111,21,4.75,52.0,Moderate,41.068722,28.947582
+Istanbul,942339,Şişli,Private room,3779.24,17,170,37,4.73,60.0,Moderate,41.03751,28.932939
+Istanbul,520892,Beyoğlu,Private room,1760.45,20,170,91,3.75,47.0,Good,40.941933,28.918283
+Istanbul,679697,Beyoğlu,Private room,,3,238,28,3.61,79.0,Moderate,40.957636,28.928276
+Istanbul,286703,Beşiktaş,Private room,2623.07,30,98,45,3.64,67.0,Moderate,41.058813,28.913616
+Istanbul,599606,Sultanahmet,Private room,6000.0,1,180,200,4.14,72.0,Moderate,41.04972,28.942282
+Istanbul,268329,Sultanahmet,Private room,4890.88,15,49,14,3.38,70.0,Moderate,41.023004,29.025719
+Istanbul,622646,Sultanahmet,Private room,2426.26,18,46,14,4.36,73.0,Moderate,41.053883,29.001525
+Istanbul,386042,Üsküdar,Entire home/apt,4097.38,24,97,10,4.65,47.0,Good,41.070071,28.9605
+Istanbul,944567,Kadıköy,Private room,,26,314,36,3.77,84.0,Moderate,41.015431,28.93917
+Istanbul,104205,Fatih,Shared room,2005.66,3,110,103,4.87,61.0,Moderate,40.993402,28.949611
+Istanbul,865898,Beyoğlu,Private room,2989.99,3,164,67,4.19,41.0,Good,41.03474,29.015213
+Istanbul,597419,Beyoğlu,Entire home/apt,2433.69,1,281,24,,11.0,Good,41.038797,29.021429
+Istanbul,219609,Kadıköy,Entire home/apt,1588.61,26,15,4,4.71,94.0,Moderate,40.990284,29.034072
+Istanbul,545335,Fatih,Hotel room,1345.19,29,226,28,4.96,79.0,Moderate,40.967078,28.980508
+Istanbul,408933,Beyoğlu,Entire home/apt,3087.54,8,84,88,4.5,49.0,Good,41.053559,29.045828
+Istanbul,786440,Beyoğlu,Entire home/apt,5466.52,2,7,15,3.74,98.0,Moderate,40.974343,29.03296
+Istanbul,932119,Sultanahmet,Private room,2259.84,2,322,12,4.65,99.0,Moderate,41.040687,29.038782
+Istanbul,754636,Kadıköy,Entire home/apt,2295.61,23,16,19,3.98,137.0,Unhealthy for Sensitive Groups,40.982227,28.946931
+Istanbul,293016,Şişli,Entire home/apt,4785.87,10,43,6,3.63,90.0,Moderate,40.975081,29.006932
+Istanbul,943886,Fatih,Entire home/apt,2088.02,2,226,27,4.74,74.0,Moderate,40.981699,29.025263
+Istanbul,392082,Beyoğlu,Entire home/apt,4489.5,14,225,44,4.98,63.0,Moderate,41.06335,28.988737
+Istanbul,742730,Beşiktaş,Private room,1192.82,18,146,19,4.74,14.0,Good,40.977791,28.936995
+Istanbul,862222,Üsküdar,Entire home/apt,1022.07,1,50,190,4.18,79.0,Moderate,41.035716,28.939945
+Istanbul,815198,Kadıköy,Private room,3263.96,1,144,86,4.62,90.0,Moderate,41.055051,29.030939
+Istanbul,462776,Şişli,Entire home/apt,1105.86,1,245,0,4.27,88.0,Moderate,41.01296,28.951039
+Istanbul,886589,Beşiktaş,Private room,3828.34,2,167,52,3.8,59.0,Moderate,40.955441,28.912132
+Istanbul,279048,Beşiktaş,Entire home/apt,2279.55,5,172,141,4.66,90.0,Moderate,41.024582,28.936848
+Istanbul,752072,Üsküdar,Hotel room,3702.14,21,349,0,4.71,63.0,Moderate,40.951125,28.92739
+Istanbul,759907,Beşiktaş,Private room,5698.46,29,317,3,4.34,84.0,Moderate,41.000339,28.990664
+Istanbul,416137,Üsküdar,Private room,6000.0,1,321,37,4.05,72.0,Moderate,40.991962,28.917952
+Istanbul,394393,Beyoğlu,Private room,1915.43,2,362,31,3.95,47.0,Good,40.952374,29.011033
+Istanbul,799021,Şişli,Private room,1782.34,12,102,42,4.16,83.0,Moderate,41.058755,29.010316
+Istanbul,694739,Şişli,Entire home/apt,4026.23,4,5,8,2.74,52.0,Moderate,40.988595,29.011921
+Istanbul,923460,Üsküdar,Private room,6000.0,1,163,67,4.23,68.0,Moderate,41.019021,28.932057

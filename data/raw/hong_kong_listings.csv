@@ -1,0 +1,311 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Hong Kong,963173,Central,Entire home/apt,895.54,30,60,5,4.22,74.0,Moderate,22.278168,114.11346
+Hong Kong,733444,Central,Entire home/apt,1882.51,25,75,28,3.31,,,22.316886,114.14743
+Hong Kong,759200,Kwun Tong,Private room,745.78,24,205,3,4.1,68.0,Moderate,22.386996,114.099407
+Hong Kong,110915,Central,Private room,1422.61,2,338,117,5.0,97.0,Moderate,22.339178,114.212271
+Hong Kong,686186,Central,Entire home/apt,3500.0,17,278,117,4.03,58.0,Moderate,22.279343,114.179336
+Hong Kong,238841,Kwun Tong,Entire home/apt,1411.21,11,128,61,3.39,32.0,Good,22.291337,114.222063
+Hong Kong,240215,Tsim Sha Tsui,Private room,3500.0,14,75,89,4.98,66.0,Moderate,22.309173,114.137789
+Hong Kong,290040,Yau Ma Tei,Private room,1397.48,1,264,55,4.54,85.0,Moderate,22.334308,114.208424
+Hong Kong,307311,Tsim Sha Tsui,Entire home/apt,1271.89,29,201,46,4.42,79.0,Moderate,22.287244,114.215057
+Hong Kong,245353,Wan Chai,Private room,2446.23,3,173,79,5.0,82.0,Moderate,22.285706,114.182601
+Hong Kong,328201,Central,Entire home/apt,1647.88,25,168,33,4.24,99.0,Moderate,22.335667,114.101408
+Hong Kong,396120,Kwun Tong,Private room,980.51,17,124,1,4.51,76.0,Moderate,22.351925,114.215794
+Hong Kong,100137,Wan Chai,Entire home/apt,2016.45,8,102,10,3.86,118.0,Unhealthy for Sensitive Groups,22.367192,114.238391
+Hong Kong,605846,Yau Ma Tei,Private room,810.42,16,30,112,4.26,70.0,Moderate,22.298682,114.10753
+Hong Kong,547046,Kwun Tong,Private room,2201.14,5,223,41,4.42,69.0,Moderate,22.334539,114.116795
+Hong Kong,580189,Tsim Sha Tsui,Entire home/apt,3500.0,10,50,15,5.0,78.0,Moderate,22.263977,114.208539
+Hong Kong,463902,Mong Kok,Private room,1350.32,2,102,10,5.0,114.0,Unhealthy for Sensitive Groups,22.267651,114.217731
+Hong Kong,513697,Sham Shui Po,Entire home/apt,2193.55,26,155,22,4.29,62.0,Moderate,22.25597,114.109327
+Hong Kong,435742,Tsim Sha Tsui,Entire home/apt,3453.1,15,273,29,4.82,56.0,Moderate,22.385766,114.206959
+Hong Kong,101820,Mong Kok,Private room,1143.45,2,238,7,3.83,61.0,Moderate,22.265792,114.206804
+Hong Kong,743697,Yau Ma Tei,Entire home/apt,1878.53,1,298,12,4.08,99.0,Moderate,22.271322,114.211448
+Hong Kong,458231,Yau Ma Tei,Entire home/apt,2125.54,3,139,29,4.01,68.0,Moderate,22.304954,114.211217
+Hong Kong,403300,Mong Kok,Private room,1687.93,19,54,7,3.87,85.0,Moderate,22.296529,114.147288
+Hong Kong,101273,Kwun Tong,Entire home/apt,2831.26,3,11,52,4.5,51.0,Moderate,22.363692,114.234714
+Hong Kong,784840,Causeway Bay,Private room,1642.57,15,360,8,4.46,130.0,Unhealthy for Sensitive Groups,22.343067,114.229013
+Hong Kong,876858,Mong Kok,Private room,2018.53,2,97,80,,73.0,Moderate,22.382468,114.193724
+Hong Kong,974729,Wan Chai,Private room,2517.76,10,260,24,4.82,52.0,Moderate,22.36528,114.129876
+Hong Kong,343044,Kwun Tong,Entire home/apt,877.9,5,227,181,3.26,88.0,Moderate,22.29775,114.178353
+Hong Kong,116712,Mong Kok,Entire home/apt,2128.63,8,201,17,3.88,47.0,Good,22.361845,114.220248
+Hong Kong,236056,Yau Ma Tei,Entire home/apt,3500.0,15,217,6,,87.0,Moderate,22.26876,114.112423
+Hong Kong,588200,Central,Entire home/apt,1528.99,18,191,51,4.65,92.0,Moderate,22.258583,114.147825
+Hong Kong,991430,Central,Entire home/apt,3500.0,12,57,89,5.0,41.0,Good,22.341914,114.101188
+Hong Kong,476271,Tsim Sha Tsui,Private room,3500.0,2,336,150,3.8,63.0,Moderate,22.25668,114.193297
+Hong Kong,951559,Causeway Bay,Entire home/apt,1546.55,16,79,26,4.62,94.0,Moderate,22.382089,114.106321
+Hong Kong,435473,Wan Chai,Entire home/apt,3500.0,15,214,12,4.9,105.0,Unhealthy for Sensitive Groups,22.373288,114.148804
+Hong Kong,593755,Kwun Tong,Entire home/apt,2382.73,2,249,243,3.34,141.0,Unhealthy for Sensitive Groups,22.352247,114.206232
+Hong Kong,702339,Causeway Bay,Entire home/apt,1622.3,17,93,19,4.7,69.0,Moderate,22.364663,114.174429
+Hong Kong,265479,Mong Kok,Entire home/apt,3355.97,2,287,58,3.84,115.0,Unhealthy for Sensitive Groups,22.277834,114.129041
+Hong Kong,822327,Central,Entire home/apt,2651.65,18,313,77,4.75,86.0,Moderate,22.274379,114.124218
+Hong Kong,677511,Kwun Tong,Entire home/apt,3500.0,23,63,51,4.48,79.0,Moderate,22.321226,114.118843
+Hong Kong,417841,Tsim Sha Tsui,Shared room,3500.0,25,147,36,4.26,70.0,Moderate,22.360743,114.145446
+Hong Kong,276244,Yau Ma Tei,Private room,2677.41,12,63,52,4.74,,,22.262112,114.229544
+Hong Kong,111597,Yau Ma Tei,Entire home/apt,3500.0,12,206,10,4.63,64.0,Moderate,22.304673,114.118326
+Hong Kong,178943,Yau Ma Tei,Entire home/apt,1990.25,15,287,24,4.31,105.0,Unhealthy for Sensitive Groups,22.344554,114.139528
+Hong Kong,971299,Mong Kok,Hotel room,2442.37,22,61,53,4.25,91.0,Moderate,22.294019,114.125192
+Hong Kong,694813,Sham Shui Po,Entire home/apt,3500.0,1,4,85,4.01,,,22.268735,114.233107
+Hong Kong,723704,Wan Chai,Entire home/apt,3500.0,29,340,6,,97.0,Moderate,22.383676,114.113362
+Hong Kong,545436,Sham Shui Po,Entire home/apt,1279.0,5,12,10,4.05,68.0,Moderate,22.279078,114.226283
+Hong Kong,794390,Causeway Bay,Private room,1220.04,30,221,43,,73.0,Moderate,22.369503,114.232918
+Hong Kong,419990,Causeway Bay,Entire home/apt,1203.56,2,146,112,4.83,88.0,Moderate,22.311836,114.145928
+Hong Kong,515097,Sham Shui Po,Private room,2549.41,1,365,43,4.91,59.0,Moderate,22.281002,114.155551
+Hong Kong,956452,Mong Kok,Entire home/apt,1761.12,3,346,59,,79.0,Moderate,22.28951,114.181456
+Hong Kong,487421,Kwun Tong,Private room,1272.58,4,9,24,3.58,70.0,Moderate,22.383988,114.106262
+Hong Kong,558566,Causeway Bay,Private room,2823.12,7,306,4,3.83,91.0,Moderate,22.285357,114.133582
+Hong Kong,189113,Mong Kok,Private room,1700.75,29,251,10,4.85,76.0,Moderate,22.328514,114.120852
+Hong Kong,243962,Kwun Tong,Shared room,1973.74,16,87,58,3.88,64.0,Moderate,22.255446,114.143717
+Hong Kong,858752,Tsim Sha Tsui,Entire home/apt,1085.38,27,241,8,5.0,89.0,Moderate,22.293173,114.113411
+Hong Kong,541395,Mong Kok,Entire home/apt,2325.79,2,53,152,4.21,51.0,Moderate,22.328982,114.202342
+Hong Kong,454943,Sham Shui Po,Entire home/apt,1406.96,1,145,16,3.4,34.0,Good,22.388009,114.112667
+Hong Kong,684595,Tsim Sha Tsui,Entire home/apt,1233.44,23,117,70,,112.0,Unhealthy for Sensitive Groups,22.332588,114.106599
+Hong Kong,528002,Tsim Sha Tsui,Private room,3500.0,6,155,69,4.61,95.0,Moderate,22.261602,114.109556
+Hong Kong,301423,Mong Kok,Shared room,3105.66,3,44,39,5.0,61.0,Moderate,22.378602,114.19861
+Hong Kong,291640,Sham Shui Po,Entire home/apt,1224.45,18,241,109,5.0,108.0,Unhealthy for Sensitive Groups,22.38765,114.213485
+Hong Kong,708870,Tsim Sha Tsui,Entire home/apt,2863.43,2,335,1,4.02,91.0,Moderate,22.355536,114.222291
+Hong Kong,526000,Yau Ma Tei,Entire home/apt,680.54,2,267,15,3.49,,,22.322002,114.133352
+Hong Kong,239396,Causeway Bay,Private room,1987.67,3,182,35,4.03,61.0,Moderate,22.385411,114.151361
+Hong Kong,849002,Yau Ma Tei,Private room,1765.16,20,288,54,3.49,95.0,Moderate,22.333189,114.13965
+Hong Kong,512647,Kwun Tong,Shared room,1066.65,20,309,30,4.63,64.0,Moderate,22.367036,114.121489
+Hong Kong,433366,Wan Chai,Private room,2226.1,22,181,31,4.28,80.0,Moderate,22.387051,114.213513
+Hong Kong,895068,Mong Kok,Entire home/apt,1297.63,1,162,91,4.09,106.0,Unhealthy for Sensitive Groups,22.320146,114.112782
+Hong Kong,983248,Tsim Sha Tsui,Private room,1670.55,26,121,9,4.77,68.0,Moderate,22.377785,114.22029
+Hong Kong,319893,Wan Chai,Entire home/apt,1343.21,23,65,32,4.37,107.0,Unhealthy for Sensitive Groups,22.281356,114.216174
+Hong Kong,166546,Yau Ma Tei,Private room,960.27,2,312,77,4.48,66.0,Moderate,22.371874,114.14961
+Hong Kong,485645,Causeway Bay,Private room,2343.28,2,237,53,4.55,108.0,Unhealthy for Sensitive Groups,22.267388,114.218257
+Hong Kong,440738,Central,Private room,1578.87,1,57,79,4.71,71.0,Moderate,22.351291,114.151926
+Hong Kong,801050,Mong Kok,Private room,1434.18,2,82,13,4.0,74.0,Moderate,22.32964,114.15624
+Hong Kong,368627,Central,Entire home/apt,3496.17,14,73,27,3.78,82.0,Moderate,22.301098,114.123056
+Hong Kong,920337,Kwun Tong,Private room,3431.65,19,254,121,3.57,116.0,Unhealthy for Sensitive Groups,22.369988,114.116479
+Hong Kong,317705,Mong Kok,Private room,1870.57,22,264,16,4.83,67.0,Moderate,22.375891,114.229869
+Hong Kong,172516,Kwun Tong,Entire home/apt,1032.02,15,223,13,4.2,82.0,Moderate,22.315059,114.099633
+Hong Kong,856586,Mong Kok,Entire home/apt,3500.0,13,6,57,4.1,96.0,Moderate,22.388116,114.147855
+Hong Kong,937903,Mong Kok,Private room,,21,195,37,3.36,79.0,Moderate,22.284921,114.18741
+Hong Kong,419405,Central,Entire home/apt,2001.34,2,128,29,4.48,92.0,Moderate,22.267567,114.171014
+Hong Kong,614923,Mong Kok,Entire home/apt,906.25,6,67,63,4.78,117.0,Unhealthy for Sensitive Groups,22.336664,114.134189
+Hong Kong,732882,Wan Chai,Private room,1842.43,17,131,16,,95.0,Moderate,22.328938,114.184218
+Hong Kong,398368,Wan Chai,Entire home/apt,1802.69,27,173,167,4.43,75.0,Moderate,22.34681,114.118768
+Hong Kong,823023,Sham Shui Po,Entire home/apt,2431.11,21,224,0,4.02,75.0,Moderate,22.326522,114.174712
+Hong Kong,954310,Central,Private room,1829.93,14,315,42,4.55,23.0,Good,22.383787,114.119467
+Hong Kong,691100,Kwun Tong,Entire home/apt,1721.32,1,219,7,,93.0,Moderate,22.257511,114.217974
+Hong Kong,766019,Yau Ma Tei,Private room,3500.0,29,86,52,4.63,80.0,Moderate,22.286927,114.182669
+Hong Kong,821641,Mong Kok,Shared room,3500.0,10,169,98,4.05,68.0,Moderate,22.314218,114.238823
+Hong Kong,521204,Wan Chai,Entire home/apt,2232.65,21,345,99,4.59,47.0,Good,22.356656,114.154968
+Hong Kong,564052,Mong Kok,Shared room,1861.82,2,95,49,4.21,,,22.317293,114.229348
+Hong Kong,993665,Central,Entire home/apt,2424.87,21,81,8,4.66,,,22.377771,114.170385
+Hong Kong,361625,Sham Shui Po,Entire home/apt,3500.0,2,282,47,4.86,69.0,Moderate,22.308865,114.159721
+Hong Kong,447491,Wan Chai,Entire home/apt,1830.41,25,64,34,4.68,103.0,Unhealthy for Sensitive Groups,22.374376,114.147572
+Hong Kong,677633,Yau Ma Tei,Shared room,2035.32,3,304,58,4.23,56.0,Moderate,22.261818,114.20304
+Hong Kong,148313,Causeway Bay,Shared room,3500.0,16,309,39,3.77,98.0,Moderate,22.298261,114.159542
+Hong Kong,873342,Wan Chai,Entire home/apt,1419.71,14,133,70,,82.0,Moderate,22.273602,114.136636
+Hong Kong,513771,Mong Kok,Private room,2168.98,27,330,24,3.81,91.0,Moderate,22.348499,114.150556
+Hong Kong,235886,Tsim Sha Tsui,Entire home/apt,,3,312,8,,,,22.381176,114.232209
+Hong Kong,668622,Central,Private room,2062.33,3,243,19,4.9,63.0,Moderate,22.281602,114.228285
+Hong Kong,727916,Causeway Bay,Entire home/apt,2946.43,1,217,18,,93.0,Moderate,22.287115,114.130943
+Hong Kong,614505,Sham Shui Po,Entire home/apt,3500.0,14,116,49,3.78,66.0,Moderate,22.263114,114.11291
+Hong Kong,585071,Kwun Tong,Entire home/apt,1197.98,29,83,43,4.66,85.0,Moderate,22.355105,114.113705
+Hong Kong,924858,Wan Chai,Entire home/apt,527.12,2,339,13,3.58,101.0,Unhealthy for Sensitive Groups,22.388061,114.143535
+Hong Kong,407115,Central,Entire home/apt,1830.23,26,30,48,3.55,75.0,Moderate,22.364621,114.179134
+Hong Kong,697503,Mong Kok,Entire home/apt,3500.0,23,52,8,4.39,111.0,Unhealthy for Sensitive Groups,22.299905,114.183972
+Hong Kong,757691,Causeway Bay,Entire home/apt,1952.25,1,70,33,4.77,,,22.389284,114.226712
+Hong Kong,643025,Tsim Sha Tsui,Entire home/apt,3046.43,7,45,86,3.7,82.0,Moderate,22.254356,114.145654
+Hong Kong,628762,Central,Entire home/apt,2018.29,20,142,39,4.61,69.0,Moderate,22.277279,114.196862
+Hong Kong,848598,Yau Ma Tei,Shared room,2982.19,3,299,7,4.69,97.0,Moderate,22.388833,114.212439
+Hong Kong,230130,Causeway Bay,Private room,1398.13,20,173,22,4.86,46.0,Good,22.295744,114.184458
+Hong Kong,156212,Wan Chai,Entire home/apt,2006.65,2,143,35,3.84,144.0,Unhealthy for Sensitive Groups,22.262311,114.113533
+Hong Kong,371385,Mong Kok,Entire home/apt,2416.24,1,322,18,4.88,84.0,Moderate,22.379928,114.190285
+Hong Kong,598045,Kwun Tong,Private room,741.35,5,68,20,3.61,49.0,Good,22.265099,114.146517
+Hong Kong,254893,Central,Shared room,1466.27,6,111,51,4.27,103.0,Unhealthy for Sensitive Groups,22.300061,114.146629
+Hong Kong,433440,Wan Chai,Private room,1900.33,21,333,19,4.21,90.0,Moderate,22.301224,114.213263
+Hong Kong,387569,Wan Chai,Entire home/apt,1200.12,25,276,17,4.67,100.0,Moderate,22.340434,114.162767
+Hong Kong,515534,Yau Ma Tei,Private room,3500.0,28,328,13,3.89,83.0,Moderate,22.358728,114.217374
+Hong Kong,716449,Central,Entire home/apt,1911.56,2,3,48,5.0,41.0,Good,22.387277,114.113931
+Hong Kong,908024,Sham Shui Po,Entire home/apt,1508.46,20,345,9,3.69,,,22.298751,114.154153
+Hong Kong,227909,Wan Chai,Private room,1752.43,3,364,24,4.77,92.0,Moderate,22.283172,114.151931
+Hong Kong,768124,Yau Ma Tei,Hotel room,1707.48,1,277,15,4.15,,,22.286758,114.162381
+Hong Kong,149393,Tsim Sha Tsui,Entire home/apt,3039.02,27,149,12,4.52,79.0,Moderate,22.348044,114.161565
+Hong Kong,702949,Mong Kok,Entire home/apt,1610.57,6,16,34,4.79,71.0,Moderate,22.38644,114.165443
+Hong Kong,394019,Central,Entire home/apt,,25,97,10,3.7,61.0,Moderate,22.322061,114.194972
+Hong Kong,301341,Sham Shui Po,Shared room,2283.51,29,256,13,4.84,103.0,Unhealthy for Sensitive Groups,22.355015,114.11667
+Hong Kong,678453,Kwun Tong,Entire home/apt,1221.31,3,54,72,4.8,65.0,Moderate,22.309764,114.179238
+Hong Kong,320628,Kwun Tong,Entire home/apt,1900.67,17,86,58,,77.0,Moderate,22.295553,114.206198
+Hong Kong,464121,Sham Shui Po,Entire home/apt,2107.68,5,355,4,4.28,95.0,Moderate,22.272523,114.109264
+Hong Kong,858543,Kwun Tong,Shared room,2417.54,1,245,14,4.03,74.0,Moderate,22.291325,114.185981
+Hong Kong,905296,Kwun Tong,Private room,2585.25,17,282,142,4.96,79.0,Moderate,22.250054,114.194474
+Hong Kong,386060,Causeway Bay,Entire home/apt,2794.06,3,313,11,4.7,83.0,Moderate,22.381623,114.176457
+Hong Kong,741309,Wan Chai,Entire home/apt,1000.63,19,77,34,4.2,113.0,Unhealthy for Sensitive Groups,22.341758,114.134649
+Hong Kong,895411,Wan Chai,Entire home/apt,3481.87,29,64,26,3.71,81.0,Moderate,22.349494,114.156837
+Hong Kong,619308,Sham Shui Po,Private room,,29,263,25,4.4,75.0,Moderate,22.318043,114.23165
+Hong Kong,881509,Sham Shui Po,Entire home/apt,2352.57,18,364,56,4.45,93.0,Moderate,22.377379,114.143264
+Hong Kong,253358,Central,Entire home/apt,3082.22,7,181,7,3.84,98.0,Moderate,22.376874,114.209188
+Hong Kong,688311,Tsim Sha Tsui,Private room,1563.21,27,84,68,3.47,70.0,Moderate,22.337009,114.11711
+Hong Kong,189527,Central,Entire home/apt,,2,175,41,4.12,111.0,Unhealthy for Sensitive Groups,22.25847,114.228746
+Hong Kong,665846,Kwun Tong,Entire home/apt,1752.47,5,167,93,3.96,59.0,Moderate,22.372927,114.15435
+Hong Kong,981285,Wan Chai,Entire home/apt,968.27,2,152,24,4.19,55.0,Moderate,22.27622,114.188926
+Hong Kong,725878,Sham Shui Po,Private room,3500.0,2,328,5,4.71,80.0,Moderate,22.308145,114.212672
+Hong Kong,308632,Causeway Bay,Entire home/apt,2039.52,23,356,37,,87.0,Moderate,22.358555,114.146944
+Hong Kong,550816,Yau Ma Tei,Private room,1634.12,1,205,4,4.7,58.0,Moderate,22.319081,114.197461
+Hong Kong,235001,Causeway Bay,Hotel room,,8,245,91,4.27,102.0,Unhealthy for Sensitive Groups,22.351931,114.209205
+Hong Kong,975937,Central,Private room,,16,197,46,3.68,,,22.327043,114.161515
+Hong Kong,811602,Mong Kok,Entire home/apt,2658.72,17,323,99,4.32,74.0,Moderate,22.302096,114.123451
+Hong Kong,346414,Sham Shui Po,Entire home/apt,525.38,16,138,5,4.42,93.0,Moderate,22.343968,114.166396
+Hong Kong,563746,Mong Kok,Entire home/apt,1139.0,11,257,33,,120.0,Unhealthy for Sensitive Groups,22.262241,114.221604
+Hong Kong,605644,Sham Shui Po,Entire home/apt,1917.94,18,148,29,4.45,46.0,Good,22.364309,114.175886
+Hong Kong,659275,Sham Shui Po,Private room,1891.08,3,192,78,3.56,95.0,Moderate,22.280107,114.112857
+Hong Kong,560757,Tsim Sha Tsui,Entire home/apt,3500.0,27,48,17,3.81,83.0,Moderate,22.301589,114.154332
+Hong Kong,792638,Yau Ma Tei,Entire home/apt,1793.69,10,182,15,4.35,102.0,Unhealthy for Sensitive Groups,22.261327,114.234244
+Hong Kong,707747,Kwun Tong,Entire home/apt,1907.78,25,250,5,3.89,80.0,Moderate,22.26386,114.104289
+Hong Kong,447385,Yau Ma Tei,Private room,2360.86,21,139,13,3.5,82.0,Moderate,22.358767,114.111896
+Hong Kong,903005,Causeway Bay,Entire home/apt,513.13,30,188,114,4.42,65.0,Moderate,22.303598,114.18828
+Hong Kong,763924,Mong Kok,Entire home/apt,1106.96,12,11,7,4.91,121.0,Unhealthy for Sensitive Groups,22.35533,114.100386
+Hong Kong,496652,Wan Chai,Entire home/apt,2764.41,19,38,0,4.36,60.0,Moderate,22.355761,114.159533
+Hong Kong,160941,Causeway Bay,Private room,1469.63,6,2,1,4.33,91.0,Moderate,22.350448,114.13032
+Hong Kong,332998,Tsim Sha Tsui,Shared room,1021.75,7,144,12,4.31,79.0,Moderate,22.328383,114.124931
+Hong Kong,115927,Yau Ma Tei,Entire home/apt,3500.0,15,255,79,4.53,84.0,Moderate,22.356865,114.11301
+Hong Kong,356284,Sham Shui Po,Shared room,1219.48,4,215,6,5.0,92.0,Moderate,22.336304,114.118312
+Hong Kong,398043,Central,Shared room,3132.13,22,16,20,4.75,58.0,Moderate,22.378181,114.161928
+Hong Kong,897215,Central,Hotel room,1764.0,11,292,20,4.02,110.0,Unhealthy for Sensitive Groups,22.367649,114.162622
+Hong Kong,187270,Tsim Sha Tsui,Entire home/apt,1574.36,6,53,17,3.65,122.0,Unhealthy for Sensitive Groups,22.268924,114.145714
+Hong Kong,876045,Causeway Bay,Private room,,17,85,8,4.59,82.0,Moderate,22.372206,114.13635
+Hong Kong,628491,Tsim Sha Tsui,Entire home/apt,1795.07,20,257,0,4.86,80.0,Moderate,22.358479,114.22877
+Hong Kong,366949,Central,Entire home/apt,,29,294,162,5.0,34.0,Good,22.262757,114.149143
+Hong Kong,338528,Causeway Bay,Private room,2323.77,3,233,5,4.45,71.0,Moderate,22.280334,114.108534
+Hong Kong,226914,Tsim Sha Tsui,Entire home/apt,1032.37,28,363,109,5.0,107.0,Unhealthy for Sensitive Groups,22.253089,114.172701
+Hong Kong,230102,Sham Shui Po,Entire home/apt,1482.65,8,185,9,5.0,,,22.264479,114.214286
+Hong Kong,262139,Tsim Sha Tsui,Entire home/apt,2875.19,21,60,45,3.93,75.0,Moderate,22.281511,114.169945
+Hong Kong,820555,Yau Ma Tei,Entire home/apt,3500.0,9,305,10,2.47,87.0,Moderate,22.360029,114.174225
+Hong Kong,773230,Wan Chai,Entire home/apt,2337.83,6,59,10,3.58,,,22.314262,114.168551
+Hong Kong,703016,Mong Kok,Private room,2828.83,1,25,79,4.86,80.0,Moderate,22.33262,114.167523
+Hong Kong,953737,Tsim Sha Tsui,Entire home/apt,,21,142,50,4.46,92.0,Moderate,22.320106,114.142587
+Hong Kong,824613,Tsim Sha Tsui,Entire home/apt,1149.17,1,350,71,5.0,43.0,Good,22.37091,114.190888
+Hong Kong,993379,Tsim Sha Tsui,Entire home/apt,2243.5,1,196,20,4.54,74.0,Moderate,22.376243,114.107356
+Hong Kong,685577,Causeway Bay,Entire home/apt,3500.0,6,3,34,4.36,44.0,Good,22.321336,114.184198
+Hong Kong,614845,Tsim Sha Tsui,Private room,1077.49,28,19,17,4.47,88.0,Moderate,22.368995,114.133302
+Hong Kong,545359,Yau Ma Tei,Entire home/apt,1922.83,16,292,39,3.92,80.0,Moderate,22.318544,114.122047
+Hong Kong,329979,Kwun Tong,Hotel room,,26,205,21,3.5,95.0,Moderate,22.320024,114.237781
+Hong Kong,878407,Kwun Tong,Shared room,,21,15,30,4.15,103.0,Unhealthy for Sensitive Groups,22.256107,114.110818
+Hong Kong,792726,Mong Kok,Shared room,2311.01,1,302,12,4.54,,,22.368937,114.190529
+Hong Kong,182857,Causeway Bay,Shared room,2957.26,30,83,63,3.59,,,22.314433,114.129933
+Hong Kong,330065,Kwun Tong,Entire home/apt,1230.81,3,277,22,3.57,75.0,Moderate,22.376977,114.205606
+Hong Kong,712181,Causeway Bay,Entire home/apt,2499.42,30,253,15,3.45,96.0,Moderate,22.382749,114.169965
+Hong Kong,983882,Yau Ma Tei,Private room,1920.2,26,174,28,4.31,94.0,Moderate,22.255696,114.11232
+Hong Kong,496042,Central,Entire home/apt,1906.95,8,264,33,4.14,64.0,Moderate,22.323881,114.19082
+Hong Kong,958527,Sham Shui Po,Entire home/apt,2404.9,3,99,49,4.6,94.0,Moderate,22.323147,114.1448
+Hong Kong,427739,Mong Kok,Private room,2268.52,1,123,14,4.5,55.0,Moderate,22.315988,114.115738
+Hong Kong,970498,Central,Entire home/apt,798.69,14,179,26,4.16,80.0,Moderate,22.387319,114.15397
+Hong Kong,905795,Sham Shui Po,Entire home/apt,1616.25,1,25,111,3.98,53.0,Moderate,22.361044,114.173647
+Hong Kong,437950,Central,Private room,3500.0,12,212,28,,39.0,Good,22.255243,114.236721
+Hong Kong,619834,Tsim Sha Tsui,Entire home/apt,1424.12,22,102,15,3.66,82.0,Moderate,22.324716,114.168811
+Hong Kong,864584,Yau Ma Tei,Private room,3015.5,18,361,2,4.38,71.0,Moderate,22.37761,114.217607
+Hong Kong,995328,Causeway Bay,Entire home/apt,2050.32,6,27,9,4.87,94.0,Moderate,22.367295,114.208854
+Hong Kong,850603,Central,Entire home/apt,1202.49,24,239,16,3.73,86.0,Moderate,22.25602,114.194693
+Hong Kong,525081,Mong Kok,Entire home/apt,972.7,20,223,9,5.0,80.0,Moderate,22.330471,114.173422
+Hong Kong,102983,Kwun Tong,Entire home/apt,1773.87,11,365,101,4.24,,,22.301949,114.108131
+Hong Kong,927952,Yau Ma Tei,Private room,,9,322,2,4.01,90.0,Moderate,22.381607,114.205878
+Hong Kong,412374,Causeway Bay,Entire home/apt,3500.0,18,181,5,4.54,68.0,Moderate,22.337805,114.106295
+Hong Kong,836233,Kwun Tong,Entire home/apt,1175.04,18,236,196,4.18,79.0,Moderate,22.329777,114.232153
+Hong Kong,932475,Causeway Bay,Entire home/apt,1364.41,1,137,107,4.55,91.0,Moderate,22.283246,114.174167
+Hong Kong,959515,Yau Ma Tei,Private room,833.39,9,294,19,3.86,91.0,Moderate,22.369505,114.208288
+Hong Kong,673624,Kwun Tong,Entire home/apt,2355.46,29,44,25,3.89,96.0,Moderate,22.274587,114.223454
+Hong Kong,799164,Tsim Sha Tsui,Entire home/apt,523.76,27,216,15,5.0,93.0,Moderate,22.333348,114.16827
+Hong Kong,166452,Yau Ma Tei,Entire home/apt,1117.44,24,363,54,4.94,50.0,Good,22.274768,114.18903
+Hong Kong,476147,Kwun Tong,Shared room,1646.46,28,260,27,3.79,68.0,Moderate,22.269147,114.116412
+Hong Kong,272086,Mong Kok,Entire home/apt,2300.1,11,219,37,4.21,75.0,Moderate,22.290438,114.174924
+Hong Kong,171059,Wan Chai,Entire home/apt,1480.71,20,89,7,4.65,,,22.345328,114.216737
+Hong Kong,931769,Causeway Bay,Entire home/apt,3053.34,13,297,1,3.52,114.0,Unhealthy for Sensitive Groups,22.379839,114.192775
+Hong Kong,794458,Tsim Sha Tsui,Private room,1208.59,10,153,1,,64.0,Moderate,22.322735,114.232191
+Hong Kong,129083,Tsim Sha Tsui,Entire home/apt,2352.54,30,262,54,3.82,,,22.281587,114.170624
+Hong Kong,192324,Sham Shui Po,Entire home/apt,2338.54,3,295,35,4.27,85.0,Moderate,22.308209,114.209174
+Hong Kong,121034,Kwun Tong,Private room,1702.93,22,350,35,3.53,79.0,Moderate,22.386334,114.236917
+Hong Kong,140732,Causeway Bay,Entire home/apt,3500.0,7,306,46,5.0,95.0,Moderate,22.296117,114.16148
+Hong Kong,629839,Yau Ma Tei,Entire home/apt,1560.96,13,254,4,4.14,72.0,Moderate,22.334569,114.169805
+Hong Kong,118275,Mong Kok,Private room,3469.53,4,299,20,,110.0,Unhealthy for Sensitive Groups,22.328505,114.197944
+Hong Kong,319288,Mong Kok,Entire home/apt,2219.09,24,176,0,4.02,109.0,Unhealthy for Sensitive Groups,22.290438,114.198883
+Hong Kong,489808,Sham Shui Po,Private room,3500.0,11,19,1,5.0,96.0,Moderate,22.277164,114.165441
+Hong Kong,738304,Central,Private room,3500.0,15,11,1,,85.0,Moderate,22.279403,114.151086
+Hong Kong,344114,Central,Private room,2870.98,3,258,3,3.93,58.0,Moderate,22.296824,114.18847
+Hong Kong,518039,Causeway Bay,Private room,1244.37,13,71,224,4.47,93.0,Moderate,22.274805,114.195771
+Hong Kong,701858,Wan Chai,Entire home/apt,795.09,10,341,86,3.51,99.0,Moderate,22.329558,114.230614
+Hong Kong,594551,Central,Hotel room,877.06,23,138,52,3.95,89.0,Moderate,22.276416,114.120602
+Hong Kong,776872,Yau Ma Tei,Private room,1278.6,24,47,59,4.27,,,22.254584,114.173269
+Hong Kong,598824,Kwun Tong,Entire home/apt,2354.17,26,190,22,5.0,80.0,Moderate,22.258182,114.205585
+Hong Kong,616152,Mong Kok,Entire home/apt,2641.19,7,307,0,,125.0,Unhealthy for Sensitive Groups,22.346756,114.122431
+Hong Kong,731011,Mong Kok,Entire home/apt,3500.0,11,158,104,4.55,72.0,Moderate,22.317147,114.22755
+Hong Kong,927282,Sham Shui Po,Private room,1036.62,3,320,70,,71.0,Moderate,22.317359,114.13905
+Hong Kong,575069,Kwun Tong,Private room,1361.66,1,193,31,3.92,111.0,Unhealthy for Sensitive Groups,22.252509,114.163418
+Hong Kong,312564,Causeway Bay,Hotel room,2128.61,27,163,197,3.97,72.0,Moderate,22.281128,114.106338
+Hong Kong,611746,Kwun Tong,Shared room,1476.42,27,194,0,4.27,79.0,Moderate,22.376352,114.236723
+Hong Kong,688347,Central,Entire home/apt,2630.34,15,31,112,4.05,104.0,Unhealthy for Sensitive Groups,22.265679,114.151908
+Hong Kong,688936,Yau Ma Tei,Private room,1357.15,17,0,13,4.42,73.0,Moderate,22.363902,114.106511
+Hong Kong,534918,Mong Kok,Entire home/apt,3500.0,27,110,40,4.01,111.0,Unhealthy for Sensitive Groups,22.380199,114.209639
+Hong Kong,115153,Wan Chai,Private room,1412.87,7,133,81,4.45,100.0,Moderate,22.30926,114.119541
+Hong Kong,730405,Tsim Sha Tsui,Entire home/apt,2854.73,19,207,0,4.33,98.0,Moderate,22.314646,114.130146
+Hong Kong,112159,Central,Hotel room,,1,159,0,4.72,86.0,Moderate,22.379398,114.136278
+Hong Kong,288766,Kwun Tong,Entire home/apt,1323.98,2,31,6,4.43,76.0,Moderate,22.307004,114.112908
+Hong Kong,948417,Sham Shui Po,Entire home/apt,1424.45,19,114,28,4.44,47.0,Good,22.366218,114.21226
+Hong Kong,495901,Tsim Sha Tsui,Entire home/apt,3178.67,19,49,8,3.88,88.0,Moderate,22.364558,114.127701
+Hong Kong,964276,Central,Private room,1250.26,2,59,100,4.52,90.0,Moderate,22.384318,114.182849
+Hong Kong,773426,Sham Shui Po,Entire home/apt,1027.1,7,219,22,3.65,101.0,Unhealthy for Sensitive Groups,22.263077,114.231067
+Hong Kong,107644,Kwun Tong,Entire home/apt,3500.0,26,294,90,3.97,130.0,Unhealthy for Sensitive Groups,22.267637,114.164884
+Hong Kong,121525,Tsim Sha Tsui,Private room,1717.15,1,242,59,4.56,78.0,Moderate,22.265825,114.153407
+Hong Kong,704788,Yau Ma Tei,Private room,2104.73,25,131,25,3.28,110.0,Unhealthy for Sensitive Groups,22.363589,114.122309
+Hong Kong,173553,Yau Ma Tei,Entire home/apt,3500.0,18,60,67,4.22,136.0,Unhealthy for Sensitive Groups,22.314087,114.110824
+Hong Kong,724625,Tsim Sha Tsui,Entire home/apt,3500.0,8,266,3,4.56,71.0,Moderate,22.387688,114.222537
+Hong Kong,327809,Yau Ma Tei,Entire home/apt,999.14,25,255,8,4.14,90.0,Moderate,22.36392,114.100358
+Hong Kong,378672,Wan Chai,Shared room,1464.52,14,149,7,3.44,84.0,Moderate,22.328071,114.111991
+Hong Kong,437883,Sham Shui Po,Private room,2137.18,1,58,16,4.11,88.0,Moderate,22.371698,114.173229
+Hong Kong,861620,Causeway Bay,Private room,1053.8,29,361,27,4.31,92.0,Moderate,22.366141,114.172545
+Hong Kong,606830,Kwun Tong,Entire home/apt,2569.57,17,316,37,4.86,68.0,Moderate,22.352633,114.203258
+Hong Kong,326724,Causeway Bay,Entire home/apt,1456.76,7,311,11,5.0,107.0,Unhealthy for Sensitive Groups,22.270553,114.168766
+Hong Kong,827322,Kwun Tong,Entire home/apt,2409.25,19,176,15,3.88,69.0,Moderate,22.336471,114.18898
+Hong Kong,775316,Yau Ma Tei,Entire home/apt,777.16,16,337,11,4.27,52.0,Moderate,22.299163,114.112961
+Hong Kong,591163,Central,Entire home/apt,2595.05,4,347,112,4.66,43.0,Good,22.348987,114.152763
+Hong Kong,158671,Tsim Sha Tsui,Entire home/apt,2105.51,1,363,28,3.83,102.0,Unhealthy for Sensitive Groups,22.342819,114.231961
+Hong Kong,990325,Sham Shui Po,Entire home/apt,2590.12,4,93,9,3.4,85.0,Moderate,22.337919,114.1037
+Hong Kong,627424,Wan Chai,Entire home/apt,3500.0,24,274,44,2.81,38.0,Good,22.297344,114.225657
+Hong Kong,472988,Kwun Tong,Entire home/apt,1645.87,1,18,4,5.0,45.0,Good,22.382764,114.153263
+Hong Kong,199106,Sham Shui Po,Hotel room,3207.12,14,113,37,4.34,63.0,Moderate,22.363329,114.118423
+Hong Kong,500767,Kwun Tong,Entire home/apt,3047.19,30,135,8,4.56,55.0,Moderate,22.256285,114.186353
+Hong Kong,302473,Central,Entire home/apt,3500.0,8,174,3,,97.0,Moderate,22.359282,114.123934
+Hong Kong,149940,Tsim Sha Tsui,Entire home/apt,1403.8,2,322,58,4.71,101.0,Unhealthy for Sensitive Groups,22.289944,114.22645
+Hong Kong,942933,Wan Chai,Entire home/apt,1361.59,1,161,29,,73.0,Moderate,22.378501,114.217649
+Hong Kong,688270,Mong Kok,Hotel room,3025.62,22,218,28,3.94,67.0,Moderate,22.323138,114.235486
+Hong Kong,238368,Yau Ma Tei,Private room,1740.88,11,233,18,4.36,58.0,Moderate,22.296752,114.157374
+Hong Kong,717105,Kwun Tong,Entire home/apt,1256.48,17,47,11,,,,22.264303,114.161711
+Hong Kong,895924,Mong Kok,Entire home/apt,1436.69,15,250,7,3.55,77.0,Moderate,22.28966,114.102472
+Hong Kong,836160,Causeway Bay,Entire home/apt,720.78,26,332,36,5.0,102.0,Unhealthy for Sensitive Groups,22.289615,114.204857
+Hong Kong,135045,Central,Entire home/apt,,2,86,31,4.76,100.0,Moderate,22.269525,114.120003
+Hong Kong,586207,Kwun Tong,Private room,1792.54,5,254,74,4.29,92.0,Moderate,22.279097,114.1027
+Hong Kong,514857,Sham Shui Po,Entire home/apt,2157.86,17,222,22,4.78,74.0,Moderate,22.356077,114.122859
+Hong Kong,150583,Causeway Bay,Entire home/apt,2110.07,24,346,13,4.26,,,22.251791,114.120972
+Hong Kong,708625,Causeway Bay,Entire home/apt,2734.67,15,141,9,4.26,,,22.276053,114.141801
+Hong Kong,723509,Tsim Sha Tsui,Entire home/apt,2885.72,12,10,42,3.98,66.0,Moderate,22.293189,114.203516
+Hong Kong,386263,Sham Shui Po,Entire home/apt,3311.44,17,181,28,4.9,112.0,Unhealthy for Sensitive Groups,22.349588,114.199637
+Hong Kong,584363,Yau Ma Tei,Private room,1944.61,17,302,49,4.03,75.0,Moderate,22.27928,114.183595
+Hong Kong,406072,Causeway Bay,Private room,2259.97,1,211,32,4.32,82.0,Moderate,22.287187,114.197553
+Hong Kong,962530,Yau Ma Tei,Private room,,8,195,13,4.95,53.0,Moderate,22.332467,114.193218
+Hong Kong,758310,Central,Entire home/apt,1078.27,9,348,15,4.4,51.0,Moderate,22.329903,114.223165
+Hong Kong,433252,Central,Entire home/apt,1566.1,15,41,67,4.95,86.0,Moderate,22.306384,114.223907
+Hong Kong,312046,Mong Kok,Hotel room,1860.9,3,35,96,3.94,71.0,Moderate,22.294756,114.179663
+Hong Kong,119491,Causeway Bay,Private room,1156.76,4,9,73,3.3,73.0,Moderate,22.294543,114.156232
+Hong Kong,870183,Sham Shui Po,Entire home/apt,2580.02,25,115,125,3.91,69.0,Moderate,22.343221,114.196838
+Hong Kong,394321,Sham Shui Po,Entire home/apt,1652.64,1,323,14,4.28,82.0,Moderate,22.310445,114.104599
+Hong Kong,970228,Sham Shui Po,Private room,1563.79,11,276,13,4.58,67.0,Moderate,22.333503,114.149175
+Hong Kong,211196,Yau Ma Tei,Shared room,1328.15,16,276,34,3.45,102.0,Unhealthy for Sensitive Groups,22.3418,114.219454
+Hong Kong,472617,Tsim Sha Tsui,Entire home/apt,1605.3,1,296,2,4.72,99.0,Moderate,22.320502,114.184883
+Hong Kong,888812,Kwun Tong,Entire home/apt,2699.18,25,140,31,3.59,76.0,Moderate,22.261542,114.22672
+Hong Kong,915382,Mong Kok,Entire home/apt,1436.3,17,263,3,3.99,,,22.268445,114.120091
+Hong Kong,846789,Central,Shared room,1308.45,6,354,82,4.32,71.0,Moderate,22.358878,114.186233
+Hong Kong,883031,Yau Ma Tei,Entire home/apt,1613.24,25,219,31,4.4,74.0,Moderate,22.343041,114.167726
+Hong Kong,835491,Tsim Sha Tsui,Entire home/apt,880.26,3,65,9,3.85,59.0,Moderate,22.270378,114.129652
+Hong Kong,764124,Kwun Tong,Private room,3015.8,8,55,32,3.89,75.0,Moderate,22.316498,114.112934
+Hong Kong,325585,Tsim Sha Tsui,Entire home/apt,3500.0,16,254,11,4.3,66.0,Moderate,22.339153,114.191418
+Hong Kong,231705,Tsim Sha Tsui,Entire home/apt,,29,338,6,5.0,30.0,Good,22.331567,114.142872
+Hong Kong,238131,Wan Chai,Entire home/apt,2141.79,8,46,52,3.82,74.0,Moderate,22.350426,114.151876
+Hong Kong,579897,Central,Entire home/apt,1580.15,9,2,2,4.24,56.0,Moderate,22.293017,114.228336
+Hong Kong,771775,Mong Kok,Entire home/apt,2496.78,18,174,42,3.75,43.0,Good,22.354305,114.160955
+Hong Kong,884191,Tsim Sha Tsui,Entire home/apt,,13,245,33,4.62,84.0,Moderate,22.328135,114.150357
+Hong Kong,608583,Central,Shared room,3500.0,13,306,5,4.87,105.0,Unhealthy for Sensitive Groups,22.29662,114.171905
+Hong Kong,936521,Mong Kok,Private room,1801.62,18,167,9,3.92,73.0,Moderate,22.339888,114.237531
+Hong Kong,914173,Sham Shui Po,Hotel room,2320.12,19,63,43,3.95,69.0,Moderate,22.377019,114.191941
+Hong Kong,117241,Mong Kok,Private room,1167.24,2,250,5,4.35,77.0,Moderate,22.325072,114.19169

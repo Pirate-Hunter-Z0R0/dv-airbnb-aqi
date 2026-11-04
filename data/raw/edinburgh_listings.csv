@@ -1,0 +1,321 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Edinburgh,647028,Dean Village,Entire home/apt,286.63,18,233,10,3.41,14.0,Good,55.916873,-3.222502
+Edinburgh,211219,Bruntsfield,Entire home/apt,150.9,28,57,40,,22.0,Good,55.92944,-3.248755
+Edinburgh,869459,New Town,Entire home/apt,131.98,1,125,127,4.64,36.0,Good,55.928303,-3.130921
+Edinburgh,478306,Bruntsfield,Entire home/apt,151.6,24,114,71,3.97,21.0,Good,55.938039,-3.140032
+Edinburgh,618898,Old Town,Private room,198.46,18,364,35,3.53,21.0,Good,55.971486,-3.156993
+Edinburgh,376681,Morningside,Private room,65.0,12,266,34,4.0,28.0,Good,55.993139,-3.232409
+Edinburgh,914590,New Town,Private room,292.6,21,141,37,4.12,20.0,Good,56.005649,-3.227656
+Edinburgh,705124,Haymarket,Private room,164.63,12,98,10,3.92,21.0,Good,55.994496,-3.244244
+Edinburgh,101861,Morningside,Entire home/apt,360.0,2,246,0,4.84,26.0,Good,55.977081,-3.255786
+Edinburgh,316959,Dean Village,Entire home/apt,275.21,25,113,4,3.96,11.0,Good,55.979731,-3.180112
+Edinburgh,119921,Haymarket,Entire home/apt,261.92,9,311,90,,20.0,Good,55.921909,-3.233201
+Edinburgh,232677,Old Town,Entire home/apt,100.77,9,149,26,3.83,,,56.008199,-3.240439
+Edinburgh,225848,Leith,Entire home/apt,127.86,12,64,27,4.04,14.0,Good,55.986802,-3.129067
+Edinburgh,516707,Haymarket,Private room,181.62,21,25,16,4.17,,,55.937425,-3.141079
+Edinburgh,805268,Stockbridge,Entire home/apt,161.8,23,50,62,4.39,20.0,Good,55.88342,-3.206867
+Edinburgh,525683,Dean Village,Entire home/apt,65.0,3,62,8,4.82,17.0,Good,55.978555,-3.229704
+Edinburgh,173478,New Town,Private room,306.29,7,221,6,3.92,24.0,Good,55.975161,-3.197194
+Edinburgh,569813,Haymarket,Entire home/apt,247.9,21,208,19,3.67,30.0,Good,56.022695,-3.133642
+Edinburgh,348682,Stockbridge,Entire home/apt,139.24,25,193,107,4.51,11.0,Good,55.967779,-3.19041
+Edinburgh,314620,Bruntsfield,Private room,308.24,1,127,4,4.07,17.0,Good,55.917447,-3.251295
+Edinburgh,138904,Dean Village,Private room,272.29,9,37,244,3.44,17.0,Good,55.910304,-3.169992
+Edinburgh,351911,Old Town,Shared room,360.0,24,22,57,4.42,23.0,Good,55.895436,-3.197887
+Edinburgh,224832,Old Town,Entire home/apt,165.37,26,311,175,5.0,24.0,Good,55.883537,-3.230248
+Edinburgh,781800,New Town,Entire home/apt,360.0,1,104,17,4.14,27.0,Good,55.977812,-3.229357
+Edinburgh,694010,Leith,Entire home/apt,360.0,17,334,14,4.58,20.0,Good,55.936803,-3.187163
+Edinburgh,444071,Morningside,Entire home/apt,65.0,19,145,8,4.13,15.0,Good,56.022849,-3.209979
+Edinburgh,385963,Old Town,Entire home/apt,220.97,3,209,43,4.22,17.0,Good,55.93914,-3.250548
+Edinburgh,173667,Old Town,Entire home/apt,96.75,15,59,16,4.14,27.0,Good,55.981699,-3.208756
+Edinburgh,397879,New Town,Entire home/apt,135.72,3,111,62,4.67,23.0,Good,55.972249,-3.119673
+Edinburgh,165498,New Town,Entire home/apt,110.26,7,324,37,4.15,22.0,Good,55.91648,-3.121536
+Edinburgh,760709,Leith,Hotel room,133.72,20,81,44,4.38,17.0,Good,55.931709,-3.141654
+Edinburgh,531050,New Town,Entire home/apt,250.18,14,299,32,4.51,9.0,Good,55.947317,-3.223115
+Edinburgh,898499,Leith,Private room,302.46,18,12,9,4.29,28.0,Good,55.918104,-3.187697
+Edinburgh,603917,Dean Village,Private room,,18,225,66,3.94,27.0,Good,55.98124,-3.178969
+Edinburgh,894521,Dean Village,Entire home/apt,246.89,26,358,55,4.32,29.0,Good,55.935504,-3.237432
+Edinburgh,709733,Bruntsfield,Entire home/apt,104.83,2,81,16,4.55,21.0,Good,56.000109,-3.132866
+Edinburgh,899955,Old Town,Entire home/apt,360.0,24,144,71,3.68,34.0,Good,55.958423,-3.168801
+Edinburgh,782506,Stockbridge,Private room,211.83,24,212,11,5.0,17.0,Good,55.942941,-3.128746
+Edinburgh,872716,Dean Village,Hotel room,233.88,18,62,117,3.77,23.0,Good,55.899024,-3.157684
+Edinburgh,261783,Dean Village,Entire home/apt,156.55,4,245,30,4.09,19.0,Good,56.019229,-3.235589
+Edinburgh,589243,Old Town,Entire home/apt,360.0,9,16,57,,22.0,Good,55.902893,-3.199723
+Edinburgh,716940,Leith,Private room,,21,187,90,4.44,16.0,Good,56.022166,-3.227467
+Edinburgh,455084,Morningside,Shared room,221.26,1,343,52,,34.0,Good,55.884969,-3.209498
+Edinburgh,226884,Haymarket,Hotel room,258.11,8,88,77,4.49,25.0,Good,55.897857,-3.123375
+Edinburgh,801246,Old Town,Shared room,279.11,2,362,160,4.56,26.0,Good,55.958737,-3.158571
+Edinburgh,677766,Morningside,Entire home/apt,231.55,13,258,9,3.7,18.0,Good,55.899908,-3.157828
+Edinburgh,135552,New Town,Entire home/apt,287.71,6,203,7,4.45,20.0,Good,56.021625,-3.151757
+Edinburgh,617271,Dean Village,Entire home/apt,266.87,2,120,10,5.0,26.0,Good,55.917426,-3.143748
+Edinburgh,792805,New Town,Entire home/apt,149.18,20,128,10,4.46,21.0,Good,55.904933,-3.224929
+Edinburgh,609255,Morningside,Entire home/apt,151.36,2,126,79,4.31,20.0,Good,55.95864,-3.121448
+Edinburgh,789240,Bruntsfield,Hotel room,65.0,1,85,62,4.35,21.0,Good,55.903845,-3.166158
+Edinburgh,204700,Leith,Private room,199.37,12,278,6,4.76,15.0,Good,55.896169,-3.158092
+Edinburgh,276984,Haymarket,Entire home/apt,184.49,12,231,2,4.64,27.0,Good,55.981633,-3.181021
+Edinburgh,692854,Morningside,Entire home/apt,301.18,16,100,54,4.94,17.0,Good,55.905621,-3.226044
+Edinburgh,520577,Haymarket,Hotel room,360.0,17,82,6,4.36,22.0,Good,56.003918,-3.138262
+Edinburgh,280461,Morningside,Private room,176.8,17,289,45,3.87,16.0,Good,55.96399,-3.217646
+Edinburgh,259425,Bruntsfield,Entire home/apt,172.29,5,303,44,4.41,,,56.002314,-3.24379
+Edinburgh,490258,New Town,Entire home/apt,263.36,7,114,58,4.48,23.0,Good,55.895829,-3.233526
+Edinburgh,167223,Leith,Private room,182.23,2,131,69,4.01,30.0,Good,56.022596,-3.208298
+Edinburgh,910532,Stockbridge,Private room,360.0,25,124,23,5.0,10.0,Good,55.945052,-3.239479
+Edinburgh,714753,Haymarket,Entire home/apt,98.76,6,297,90,2.86,37.0,Good,56.001632,-3.233374
+Edinburgh,661295,Bruntsfield,Entire home/apt,181.46,30,225,31,,19.0,Good,55.934991,-3.144789
+Edinburgh,102308,Haymarket,Entire home/apt,248.09,14,307,11,4.68,34.0,Good,56.00419,-3.171242
+Edinburgh,154079,Morningside,Entire home/apt,129.5,1,239,2,4.78,15.0,Good,55.92307,-3.208036
+Edinburgh,871965,Bruntsfield,Entire home/apt,237.98,4,145,40,4.64,24.0,Good,55.941299,-3.234815
+Edinburgh,659300,Morningside,Private room,,1,238,14,3.92,23.0,Good,55.987707,-3.186571
+Edinburgh,599271,Old Town,Entire home/apt,307.81,2,238,23,4.03,14.0,Good,55.953692,-3.167257
+Edinburgh,301358,Dean Village,Entire home/apt,109.6,3,4,14,4.5,22.0,Good,55.883568,-3.125793
+Edinburgh,954366,Bruntsfield,Entire home/apt,184.45,26,156,4,5.0,14.0,Good,55.986772,-3.253589
+Edinburgh,891005,New Town,Entire home/apt,342.7,20,2,32,5.0,31.0,Good,55.978303,-3.157259
+Edinburgh,124858,Dean Village,Entire home/apt,,20,131,22,,26.0,Good,55.890209,-3.165963
+Edinburgh,665819,Bruntsfield,Entire home/apt,314.27,13,125,51,4.48,30.0,Good,55.984589,-3.249309
+Edinburgh,604281,Old Town,Entire home/apt,331.44,6,74,8,4.0,,,55.92052,-3.22692
+Edinburgh,682782,New Town,Private room,188.17,30,151,3,5.0,29.0,Good,55.995439,-3.137399
+Edinburgh,144281,Morningside,Private room,66.77,21,183,11,3.99,5.0,Good,55.943092,-3.21033
+Edinburgh,745702,Haymarket,Entire home/apt,360.0,4,122,74,4.84,16.0,Good,55.987258,-3.231735
+Edinburgh,515978,Dean Village,Entire home/apt,96.21,9,64,67,4.58,32.0,Good,55.902056,-3.215021
+Edinburgh,443270,Bruntsfield,Private room,360.0,8,321,13,4.62,17.0,Good,55.988345,-3.132527
+Edinburgh,123188,Stockbridge,Entire home/apt,360.0,13,31,14,3.64,7.0,Good,56.014584,-3.176104
+Edinburgh,929898,Dean Village,Entire home/apt,360.0,2,273,15,4.9,27.0,Good,56.001536,-3.13147
+Edinburgh,332174,Dean Village,Entire home/apt,187.7,7,313,53,3.85,17.0,Good,55.905473,-3.247263
+Edinburgh,218015,Dean Village,Entire home/apt,308.79,9,296,30,4.91,30.0,Good,55.942272,-3.172402
+Edinburgh,232192,Stockbridge,Private room,169.55,24,139,30,4.34,24.0,Good,55.941253,-3.156497
+Edinburgh,187018,New Town,Entire home/apt,360.0,8,93,3,,,,55.985933,-3.153107
+Edinburgh,803271,Old Town,Private room,116.79,30,171,6,4.45,21.0,Good,55.9191,-3.194365
+Edinburgh,895385,Morningside,Entire home/apt,167.42,1,290,111,2.93,24.0,Good,55.892217,-3.196832
+Edinburgh,768971,Dean Village,Private room,210.74,1,349,17,4.7,28.0,Good,55.9901,-3.226114
+Edinburgh,971576,Morningside,Private room,213.66,8,209,33,4.36,25.0,Good,55.930706,-3.121317
+Edinburgh,342114,Dean Village,Entire home/apt,209.35,30,227,68,,25.0,Good,55.995323,-3.159977
+Edinburgh,354175,Stockbridge,Entire home/apt,189.81,14,311,32,4.96,11.0,Good,55.89798,-3.212508
+Edinburgh,522224,Haymarket,Private room,277.03,3,216,7,4.61,25.0,Good,55.996852,-3.168652
+Edinburgh,198711,Haymarket,Entire home/apt,292.31,29,60,12,4.54,19.0,Good,55.955952,-3.161181
+Edinburgh,310026,Old Town,Entire home/apt,256.84,26,271,27,4.2,38.0,Good,56.016446,-3.201191
+Edinburgh,372093,New Town,Entire home/apt,141.45,27,273,78,,25.0,Good,55.948749,-3.175293
+Edinburgh,231796,New Town,Entire home/apt,355.08,18,202,39,3.35,25.0,Good,55.965555,-3.188293
+Edinburgh,501105,Leith,Entire home/apt,360.0,3,1,50,4.69,21.0,Good,56.000128,-3.121576
+Edinburgh,521082,Leith,Hotel room,187.51,20,76,21,4.26,27.0,Good,56.019378,-3.191458
+Edinburgh,729930,New Town,Entire home/apt,147.26,22,91,28,,,,55.903206,-3.237869
+Edinburgh,363056,Leith,Private room,287.15,1,203,29,3.89,17.0,Good,56.02202,-3.218629
+Edinburgh,658676,Dean Village,Entire home/apt,100.22,15,259,24,5.0,21.0,Good,56.018482,-3.169359
+Edinburgh,726318,Morningside,Private room,284.49,30,86,16,5.0,23.0,Good,55.92605,-3.130429
+Edinburgh,388011,Bruntsfield,Private room,135.94,1,223,98,3.77,18.0,Good,55.938051,-3.205673
+Edinburgh,150966,Old Town,Entire home/apt,165.15,1,180,2,3.38,38.0,Good,55.940558,-3.213897
+Edinburgh,379429,Stockbridge,Entire home/apt,270.39,2,88,27,3.42,29.0,Good,55.965186,-3.120889
+Edinburgh,417886,Leith,Private room,360.0,18,152,39,,19.0,Good,55.982948,-3.147383
+Edinburgh,286011,Morningside,Private room,150.8,23,217,58,4.96,11.0,Good,55.994999,-3.135003
+Edinburgh,693617,Bruntsfield,Entire home/apt,293.27,3,208,37,4.65,14.0,Good,55.928355,-3.24399
+Edinburgh,309098,Leith,Entire home/apt,239.29,7,197,0,5.0,7.0,Good,55.937441,-3.226323
+Edinburgh,616508,Leith,Entire home/apt,103.22,3,328,74,4.56,16.0,Good,55.984648,-3.194958
+Edinburgh,799901,Leith,Entire home/apt,184.47,3,325,2,3.13,23.0,Good,55.924614,-3.126366
+Edinburgh,692581,Old Town,Entire home/apt,360.0,23,165,57,5.0,19.0,Good,55.966291,-3.189052
+Edinburgh,125619,Old Town,Entire home/apt,310.88,11,276,23,4.72,23.0,Good,55.975416,-3.135496
+Edinburgh,734748,Morningside,Entire home/apt,118.56,5,264,75,4.51,30.0,Good,55.939473,-3.13175
+Edinburgh,743880,Bruntsfield,Entire home/apt,228.29,9,236,10,,20.0,Good,55.901573,-3.249005
+Edinburgh,312953,Old Town,Entire home/apt,100.04,14,143,144,4.95,,,55.972751,-3.246955
+Edinburgh,239187,Old Town,Private room,212.99,1,168,40,4.45,24.0,Good,55.944462,-3.145694
+Edinburgh,436847,Old Town,Private room,271.23,28,274,76,5.0,23.0,Good,55.959833,-3.208851
+Edinburgh,766561,Dean Village,Entire home/apt,201.36,30,332,121,,14.0,Good,56.013996,-3.226278
+Edinburgh,294373,Stockbridge,Private room,360.0,26,45,49,5.0,16.0,Good,55.997413,-3.242331
+Edinburgh,876235,New Town,Private room,209.38,30,183,22,4.65,19.0,Good,55.90662,-3.168715
+Edinburgh,553100,New Town,Shared room,232.5,20,180,59,4.09,20.0,Good,55.926839,-3.248131
+Edinburgh,807310,Haymarket,Entire home/apt,189.25,30,285,12,4.3,,,55.97421,-3.197714
+Edinburgh,612944,Leith,Private room,187.2,26,52,26,4.25,22.0,Good,55.927362,-3.252221
+Edinburgh,185222,Old Town,Private room,149.94,12,81,31,3.98,,,55.936468,-3.143607
+Edinburgh,384180,Dean Village,Shared room,176.46,2,73,1,4.59,31.0,Good,55.909157,-3.198906
+Edinburgh,529525,Bruntsfield,Private room,272.56,1,137,39,4.36,19.0,Good,55.922483,-3.155476
+Edinburgh,837681,Old Town,Private room,199.17,12,95,18,5.0,21.0,Good,56.010935,-3.159032
+Edinburgh,182628,Old Town,Entire home/apt,221.69,10,312,86,3.95,21.0,Good,55.955336,-3.118455
+Edinburgh,507384,Leith,Entire home/apt,187.96,11,185,14,4.69,11.0,Good,55.93169,-3.145113
+Edinburgh,621884,Haymarket,Private room,136.41,26,355,85,4.83,31.0,Good,55.9068,-3.252883
+Edinburgh,454436,New Town,Entire home/apt,297.13,3,333,10,3.5,33.0,Good,55.941116,-3.228338
+Edinburgh,516070,Bruntsfield,Entire home/apt,,3,137,4,3.7,28.0,Good,55.96209,-3.132008
+Edinburgh,284457,Haymarket,Private room,139.42,18,185,34,,18.0,Good,55.885989,-3.248063
+Edinburgh,229437,Old Town,Private room,279.86,17,105,72,3.96,21.0,Good,55.887917,-3.132073
+Edinburgh,861959,Haymarket,Shared room,245.01,1,62,12,4.99,14.0,Good,56.007527,-3.202991
+Edinburgh,794583,Leith,Private room,105.24,2,353,2,4.15,22.0,Good,55.977731,-3.197854
+Edinburgh,162548,Stockbridge,Entire home/apt,252.31,20,33,28,5.0,17.0,Good,55.892041,-3.173858
+Edinburgh,249704,Leith,Entire home/apt,286.94,1,199,12,4.25,13.0,Good,55.980659,-3.153754
+Edinburgh,794734,Dean Village,Private room,208.84,24,177,116,4.03,34.0,Good,56.008538,-3.124484
+Edinburgh,164391,Morningside,Entire home/apt,259.93,1,79,14,3.28,9.0,Good,55.887887,-3.238046
+Edinburgh,338006,Stockbridge,Entire home/apt,132.23,17,290,25,3.91,23.0,Good,55.974476,-3.193018
+Edinburgh,943270,Bruntsfield,Shared room,229.13,5,279,9,4.42,28.0,Good,55.898771,-3.213556
+Edinburgh,982217,Dean Village,Private room,226.17,4,276,33,4.89,29.0,Good,55.948857,-3.183051
+Edinburgh,908796,Morningside,Private room,304.16,26,139,51,4.58,10.0,Good,56.018425,-3.204746
+Edinburgh,473029,Stockbridge,Private room,360.0,19,215,55,4.55,29.0,Good,55.908977,-3.152449
+Edinburgh,498641,Stockbridge,Private room,147.19,4,245,4,4.26,21.0,Good,55.963225,-3.24032
+Edinburgh,427218,Old Town,Private room,123.4,24,313,3,3.4,19.0,Good,55.97515,-3.198098
+Edinburgh,606782,Bruntsfield,Entire home/apt,190.91,3,336,8,3.54,18.0,Good,55.905335,-3.225724
+Edinburgh,968361,Dean Village,Private room,360.0,23,62,113,4.08,27.0,Good,55.933579,-3.182109
+Edinburgh,268133,New Town,Entire home/apt,232.23,1,158,37,3.53,31.0,Good,56.003985,-3.165281
+Edinburgh,992355,Leith,Private room,93.03,2,167,12,5.0,15.0,Good,55.902791,-3.228045
+Edinburgh,227648,Stockbridge,Entire home/apt,77.88,4,121,42,4.67,15.0,Good,55.960506,-3.133719
+Edinburgh,817040,Haymarket,Private room,113.45,1,318,9,4.23,27.0,Good,55.897953,-3.182017
+Edinburgh,186044,Dean Village,Shared room,175.84,7,271,43,5.0,26.0,Good,55.944405,-3.255269
+Edinburgh,597372,Leith,Entire home/apt,249.9,16,211,40,4.22,28.0,Good,55.962994,-3.249479
+Edinburgh,337438,Dean Village,Private room,65.0,6,257,21,4.03,13.0,Good,56.017943,-3.168576
+Edinburgh,324366,New Town,Private room,120.76,12,129,0,3.94,27.0,Good,55.977366,-3.235216
+Edinburgh,777582,Old Town,Entire home/apt,293.81,4,89,28,4.45,25.0,Good,55.988929,-3.146234
+Edinburgh,498362,Haymarket,Private room,,1,158,25,4.95,26.0,Good,55.985417,-3.169705
+Edinburgh,215437,Dean Village,Entire home/apt,,17,212,1,4.13,14.0,Good,55.944059,-3.212803
+Edinburgh,669645,Haymarket,Private room,360.0,5,30,27,4.45,19.0,Good,55.931727,-3.217793
+Edinburgh,930793,Morningside,Entire home/apt,207.0,22,293,105,4.38,20.0,Good,55.914813,-3.152583
+Edinburgh,409227,Bruntsfield,Entire home/apt,290.68,2,355,36,4.51,28.0,Good,55.889188,-3.16717
+Edinburgh,213509,Old Town,Private room,360.0,1,14,17,4.67,19.0,Good,55.963598,-3.168734
+Edinburgh,732281,Old Town,Private room,256.33,21,207,68,3.52,29.0,Good,55.987517,-3.215727
+Edinburgh,577511,Haymarket,Shared room,360.0,30,90,44,4.26,9.0,Good,55.901208,-3.252517
+Edinburgh,269424,Dean Village,Entire home/apt,195.74,6,55,91,4.48,21.0,Good,55.904542,-3.251687
+Edinburgh,143820,Old Town,Entire home/apt,216.06,3,57,19,4.13,20.0,Good,55.948094,-3.234403
+Edinburgh,576828,Dean Village,Entire home/apt,,15,309,44,4.4,21.0,Good,56.014602,-3.185648
+Edinburgh,854962,New Town,Entire home/apt,276.59,18,178,27,,20.0,Good,56.012313,-3.124658
+Edinburgh,121747,Stockbridge,Entire home/apt,137.27,29,332,11,5.0,,,55.962569,-3.233287
+Edinburgh,705365,Dean Village,Entire home/apt,153.43,19,45,26,3.48,25.0,Good,55.942003,-3.186732
+Edinburgh,458472,Leith,Entire home/apt,161.47,12,60,22,,24.0,Good,55.916945,-3.167394
+Edinburgh,368884,Bruntsfield,Private room,339.92,1,177,6,,24.0,Good,55.966996,-3.242918
+Edinburgh,758819,Leith,Shared room,212.05,14,222,2,4.08,20.0,Good,55.958154,-3.190713
+Edinburgh,188747,Leith,Entire home/apt,173.44,2,342,35,5.0,19.0,Good,56.01192,-3.145576
+Edinburgh,496380,Leith,Private room,188.72,30,285,81,4.75,30.0,Good,55.931778,-3.241743
+Edinburgh,809976,Stockbridge,Shared room,222.26,18,328,0,4.7,25.0,Good,55.962171,-3.257567
+Edinburgh,270752,Dean Village,Entire home/apt,150.97,21,261,23,,24.0,Good,55.906159,-3.218102
+Edinburgh,113346,Old Town,Private room,117.46,23,217,162,4.36,31.0,Good,55.909499,-3.189537
+Edinburgh,828492,Dean Village,Entire home/apt,164.11,4,58,57,3.23,15.0,Good,55.963852,-3.243883
+Edinburgh,799615,Bruntsfield,Private room,250.77,21,338,54,4.49,25.0,Good,56.007949,-3.200109
+Edinburgh,264652,Old Town,Private room,213.28,17,62,15,4.6,36.0,Good,55.940067,-3.142512
+Edinburgh,673265,New Town,Entire home/apt,360.0,2,48,27,3.96,32.0,Good,55.999238,-3.229614
+Edinburgh,431183,Old Town,Entire home/apt,186.66,1,153,9,3.87,20.0,Good,56.006598,-3.245958
+Edinburgh,516162,Dean Village,Private room,99.93,5,62,53,4.37,22.0,Good,55.885973,-3.123552
+Edinburgh,460355,Dean Village,Entire home/apt,222.06,1,131,44,4.1,23.0,Good,55.987543,-3.251473
+Edinburgh,227406,Bruntsfield,Entire home/apt,86.75,1,116,105,3.62,37.0,Good,55.927017,-3.159677
+Edinburgh,673292,Leith,Entire home/apt,107.22,26,141,2,3.65,22.0,Good,55.905532,-3.136871
+Edinburgh,338235,Morningside,Entire home/apt,211.28,1,98,89,4.02,28.0,Good,56.017502,-3.215106
+Edinburgh,333464,Dean Village,Private room,360.0,1,22,12,4.42,21.0,Good,56.01186,-3.151256
+Edinburgh,129825,Dean Village,Entire home/apt,206.25,1,149,43,4.47,30.0,Good,55.94496,-3.210921
+Edinburgh,380589,Haymarket,Entire home/apt,128.19,1,254,4,3.93,19.0,Good,55.90159,-3.249077
+Edinburgh,152497,Leith,Private room,80.47,12,52,103,4.62,,,55.962155,-3.1697
+Edinburgh,279970,Old Town,Private room,232.35,14,147,83,4.2,14.0,Good,56.010616,-3.148458
+Edinburgh,349265,Dean Village,Entire home/apt,280.72,2,20,59,4.09,20.0,Good,55.931895,-3.175074
+Edinburgh,799220,Stockbridge,Entire home/apt,156.71,8,334,26,4.59,28.0,Good,56.010783,-3.154787
+Edinburgh,626986,Stockbridge,Hotel room,202.19,21,318,18,4.16,20.0,Good,55.942651,-3.163568
+Edinburgh,867093,Leith,Entire home/apt,263.23,10,84,5,4.76,21.0,Good,55.974472,-3.230605
+Edinburgh,629441,Stockbridge,Entire home/apt,119.98,5,284,86,,31.0,Good,55.97841,-3.144329
+Edinburgh,975515,Morningside,Entire home/apt,161.6,30,228,9,4.99,23.0,Good,55.891202,-3.235286
+Edinburgh,466765,Morningside,Private room,346.21,1,254,7,4.74,22.0,Good,55.966199,-3.198451
+Edinburgh,152703,Bruntsfield,Entire home/apt,271.56,14,11,55,3.42,20.0,Good,56.020152,-3.129506
+Edinburgh,183914,Bruntsfield,Entire home/apt,142.33,1,295,77,4.6,19.0,Good,55.985448,-3.235319
+Edinburgh,364649,Morningside,Private room,315.46,3,224,29,4.9,16.0,Good,55.941125,-3.160874
+Edinburgh,304388,New Town,Hotel room,181.74,13,203,20,5.0,27.0,Good,55.901116,-3.231903
+Edinburgh,580817,Morningside,Entire home/apt,170.43,1,103,18,4.48,7.0,Good,55.956127,-3.194501
+Edinburgh,632207,Leith,Private room,234.55,3,333,32,4.88,42.0,Good,56.006963,-3.125839
+Edinburgh,442671,Old Town,Entire home/apt,215.03,2,58,65,4.65,,,56.003139,-3.223913
+Edinburgh,649999,Haymarket,Entire home/apt,360.0,28,133,6,4.04,20.0,Good,55.954462,-3.153328
+Edinburgh,281967,Leith,Entire home/apt,170.08,24,320,37,4.33,,,55.894233,-3.178017
+Edinburgh,629895,Old Town,Private room,190.09,21,52,25,4.34,16.0,Good,55.924835,-3.226609
+Edinburgh,491240,Dean Village,Entire home/apt,181.07,8,304,44,4.54,,,56.010929,-3.236869
+Edinburgh,242213,Old Town,Hotel room,142.06,1,37,54,3.62,24.0,Good,55.896712,-3.212578
+Edinburgh,522245,Leith,Private room,189.54,19,180,62,4.38,23.0,Good,56.002537,-3.151613
+Edinburgh,561419,Old Town,Private room,231.59,23,61,4,4.35,27.0,Good,56.005221,-3.216588
+Edinburgh,918215,Old Town,Entire home/apt,99.57,30,15,58,4.4,24.0,Good,55.910517,-3.233706
+Edinburgh,676802,Leith,Entire home/apt,360.0,26,318,1,4.09,27.0,Good,55.975942,-3.160902
+Edinburgh,742865,Leith,Entire home/apt,158.88,1,184,4,5.0,38.0,Good,55.961924,-3.207662
+Edinburgh,473752,Bruntsfield,Private room,,1,46,2,,29.0,Good,56.018543,-3.12462
+Edinburgh,931819,Old Town,Entire home/apt,360.0,20,136,9,4.17,17.0,Good,55.897275,-3.229236
+Edinburgh,883931,Morningside,Entire home/apt,269.58,22,249,40,4.25,19.0,Good,55.889654,-3.199524
+Edinburgh,390070,Leith,Private room,153.84,1,292,4,4.1,29.0,Good,56.012788,-3.139964
+Edinburgh,434575,Haymarket,Private room,,2,189,22,4.05,23.0,Good,55.991382,-3.147234
+Edinburgh,950057,Old Town,Entire home/apt,162.05,22,320,15,3.39,8.0,Good,55.886852,-3.155949
+Edinburgh,597722,Haymarket,Hotel room,201.99,28,198,122,4.17,22.0,Good,55.890894,-3.257702
+Edinburgh,614328,Bruntsfield,Hotel room,360.0,1,256,50,5.0,13.0,Good,55.989295,-3.147779
+Edinburgh,484527,New Town,Private room,152.09,11,353,79,5.0,16.0,Good,55.903147,-3.130467
+Edinburgh,749644,New Town,Entire home/apt,99.34,7,1,76,3.64,,,55.919201,-3.229582
+Edinburgh,222557,New Town,Private room,228.0,14,274,89,3.9,31.0,Good,55.883614,-3.152177
+Edinburgh,424406,Dean Village,Hotel room,175.91,4,180,0,3.95,,,55.957146,-3.220612
+Edinburgh,362306,Bruntsfield,Entire home/apt,,1,222,25,3.98,28.0,Good,55.940968,-3.24667
+Edinburgh,948365,New Town,Hotel room,241.46,10,250,167,3.91,28.0,Good,55.927532,-3.199481
+Edinburgh,553982,New Town,Entire home/apt,256.37,5,192,102,4.66,22.0,Good,55.905566,-3.165317
+Edinburgh,568611,Old Town,Entire home/apt,265.75,1,92,5,3.67,18.0,Good,55.913474,-3.229587
+Edinburgh,852908,Morningside,Entire home/apt,183.22,2,58,21,3.44,25.0,Good,55.980294,-3.152049
+Edinburgh,145111,Leith,Entire home/apt,218.71,13,359,40,3.94,,,55.952367,-3.217819
+Edinburgh,449564,Bruntsfield,Entire home/apt,281.96,11,163,2,3.89,27.0,Good,55.935266,-3.152382
+Edinburgh,613987,Haymarket,Private room,173.26,1,365,0,5.0,19.0,Good,55.889658,-3.24243
+Edinburgh,429402,Leith,Entire home/apt,243.21,3,47,17,4.84,,,55.934117,-3.148766
+Edinburgh,571239,Morningside,Private room,65.0,26,360,154,4.19,20.0,Good,55.908241,-3.243708
+Edinburgh,350027,Leith,Entire home/apt,251.53,2,354,50,,21.0,Good,55.884457,-3.253875
+Edinburgh,686797,Stockbridge,Private room,329.53,2,163,2,3.51,18.0,Good,56.020903,-3.185746
+Edinburgh,674258,Stockbridge,Entire home/apt,,20,250,30,4.44,27.0,Good,55.939196,-3.246953
+Edinburgh,194222,Bruntsfield,Shared room,109.69,16,305,57,4.38,25.0,Good,55.952989,-3.13095
+Edinburgh,621239,Morningside,Private room,360.0,22,144,8,5.0,18.0,Good,55.961114,-3.242844
+Edinburgh,321851,New Town,Private room,150.3,24,61,3,4.31,26.0,Good,55.904025,-3.191419
+Edinburgh,328900,Dean Village,Hotel room,140.56,6,273,18,4.38,11.0,Good,56.01901,-3.140391
+Edinburgh,493339,Dean Village,Entire home/apt,189.54,10,334,3,3.31,26.0,Good,55.91029,-3.202233
+Edinburgh,353329,Morningside,Private room,348.09,27,192,23,4.52,27.0,Good,55.979888,-3.1852
+Edinburgh,931423,New Town,Entire home/apt,140.32,18,5,6,4.6,23.0,Good,55.92034,-3.176527
+Edinburgh,135055,New Town,Entire home/apt,360.0,21,87,49,4.27,24.0,Good,56.015625,-3.124575
+Edinburgh,896834,Morningside,Private room,360.0,16,143,10,4.93,23.0,Good,56.004287,-3.200974
+Edinburgh,748865,Bruntsfield,Private room,252.41,3,243,19,4.77,31.0,Good,55.986007,-3.171142
+Edinburgh,612046,Bruntsfield,Entire home/apt,132.97,23,83,21,4.11,2.0,Good,55.888479,-3.252847
+Edinburgh,129439,New Town,Entire home/apt,216.24,8,262,41,4.9,24.0,Good,55.945804,-3.141915
+Edinburgh,301437,Bruntsfield,Entire home/apt,255.48,7,355,0,4.6,20.0,Good,56.022467,-3.187809
+Edinburgh,362675,Leith,Entire home/apt,360.0,28,299,15,4.76,23.0,Good,55.933211,-3.140496
+Edinburgh,161936,Stockbridge,Entire home/apt,179.62,2,87,5,5.0,10.0,Good,55.890697,-3.185862
+Edinburgh,395896,New Town,Private room,308.52,1,357,50,3.56,15.0,Good,55.941853,-3.252984
+Edinburgh,876015,Bruntsfield,Private room,339.77,1,239,5,3.8,31.0,Good,55.903581,-3.202265
+Edinburgh,692440,Stockbridge,Entire home/apt,116.61,1,265,23,4.22,15.0,Good,55.968986,-3.245732
+Edinburgh,406656,Leith,Private room,186.35,25,94,23,4.56,14.0,Good,55.914103,-3.23835
+Edinburgh,366718,Leith,Entire home/apt,153.03,1,249,44,3.68,26.0,Good,55.899466,-3.127954
+Edinburgh,132952,New Town,Entire home/apt,264.82,9,147,256,4.75,22.0,Good,55.948249,-3.24542
+Edinburgh,317858,Dean Village,Entire home/apt,161.48,3,316,31,4.41,20.0,Good,55.950512,-3.197556
+Edinburgh,981624,Leith,Shared room,226.99,11,44,45,4.07,22.0,Good,55.905382,-3.149474
+Edinburgh,445753,Bruntsfield,Private room,144.79,16,294,39,3.7,30.0,Good,55.974831,-3.1287
+Edinburgh,725325,Haymarket,Entire home/apt,336.13,10,87,13,4.32,21.0,Good,55.949284,-3.213979
+Edinburgh,268941,Bruntsfield,Entire home/apt,360.0,23,260,18,4.88,33.0,Good,55.990642,-3.206948
+Edinburgh,164893,Old Town,Entire home/apt,188.65,2,30,59,4.69,28.0,Good,55.914551,-3.184332
+Edinburgh,441572,Bruntsfield,Entire home/apt,147.02,29,118,25,4.94,8.0,Good,56.01701,-3.206979
+Edinburgh,934002,Morningside,Entire home/apt,122.8,8,253,54,4.3,,,56.021631,-3.153403
+Edinburgh,702219,Haymarket,Entire home/apt,130.66,27,85,29,4.67,,,55.92807,-3.173022
+Edinburgh,517146,Morningside,Entire home/apt,226.91,9,30,44,4.14,18.0,Good,55.956711,-3.124521
+Edinburgh,362073,Dean Village,Entire home/apt,159.71,16,21,38,4.62,17.0,Good,55.920194,-3.200467
+Edinburgh,603469,Old Town,Private room,177.28,16,72,5,3.9,28.0,Good,55.88866,-3.175299
+Edinburgh,570820,Leith,Entire home/apt,,19,342,2,3.72,10.0,Good,55.937557,-3.21546
+Edinburgh,915909,New Town,Entire home/apt,133.17,3,19,25,3.56,30.0,Good,55.998228,-3.181353
+Edinburgh,455466,Stockbridge,Entire home/apt,133.38,24,17,50,4.32,18.0,Good,56.015784,-3.19256
+Edinburgh,182574,Leith,Private room,333.4,17,348,0,5.0,24.0,Good,55.901204,-3.173242
+Edinburgh,605948,Leith,Hotel room,98.37,12,267,0,3.73,37.0,Good,56.016806,-3.137893
+Edinburgh,880071,Haymarket,Entire home/apt,360.0,26,277,21,3.91,27.0,Good,55.886221,-3.200738
+Edinburgh,200648,Dean Village,Shared room,120.72,1,259,50,3.88,8.0,Good,55.948973,-3.177064
+Edinburgh,631828,Dean Village,Entire home/apt,233.61,21,139,3,5.0,12.0,Good,55.963346,-3.23787
+Edinburgh,565690,Morningside,Private room,197.22,26,353,9,4.27,19.0,Good,55.927477,-3.122347
+Edinburgh,120994,Old Town,Private room,311.42,10,231,42,4.39,9.0,Good,55.907552,-3.211423
+Edinburgh,668127,Haymarket,Entire home/apt,288.05,2,33,26,4.22,18.0,Good,55.90241,-3.157573
+Edinburgh,141020,New Town,Shared room,153.82,22,319,16,4.44,16.0,Good,55.907713,-3.191728
+Edinburgh,659814,Old Town,Private room,265.01,27,272,16,3.77,,,55.983992,-3.244341
+Edinburgh,336952,New Town,Hotel room,,8,193,5,3.83,20.0,Good,56.002548,-3.148476
+Edinburgh,625436,New Town,Entire home/apt,255.14,25,246,4,3.75,22.0,Good,55.927435,-3.124065
+Edinburgh,737064,Haymarket,Private room,278.76,22,34,19,4.49,27.0,Good,55.996399,-3.216518
+Edinburgh,303168,Bruntsfield,Entire home/apt,179.12,30,278,1,,13.0,Good,55.95415,-3.223295
+Edinburgh,415037,Leith,Entire home/apt,,25,263,111,4.29,14.0,Good,56.002153,-3.168059
+Edinburgh,656326,Dean Village,Entire home/apt,332.49,1,306,66,4.02,25.0,Good,55.921897,-3.184514
+Edinburgh,472355,Bruntsfield,Entire home/apt,65.0,26,194,57,3.5,8.0,Good,55.94908,-3.163928
+Edinburgh,527368,Haymarket,Entire home/apt,188.3,1,362,16,4.51,17.0,Good,55.926335,-3.195388
+Edinburgh,591735,Dean Village,Private room,182.06,16,36,30,,26.0,Good,55.912214,-3.250531
+Edinburgh,849257,Leith,Entire home/apt,302.85,2,104,70,4.56,18.0,Good,55.950154,-3.186491
+Edinburgh,189814,Leith,Entire home/apt,,8,331,3,3.83,27.0,Good,55.94336,-3.164874
+Edinburgh,330178,Leith,Entire home/apt,119.3,22,352,20,5.0,30.0,Good,55.987087,-3.257903
+Edinburgh,290098,Leith,Entire home/apt,166.28,28,246,120,5.0,,,55.985211,-3.193066
+Edinburgh,394683,New Town,Entire home/apt,66.02,26,144,30,4.26,,,56.022939,-3.16432
+Edinburgh,648963,Haymarket,Entire home/apt,148.99,3,200,5,4.6,13.0,Good,55.920912,-3.197167
+Edinburgh,338645,Haymarket,Private room,227.65,1,300,52,4.14,26.0,Good,56.005812,-3.252635
+Edinburgh,679759,Haymarket,Entire home/apt,240.21,22,128,10,4.91,15.0,Good,55.884268,-3.228237
+Edinburgh,191599,Haymarket,Hotel room,181.05,23,146,49,3.84,26.0,Good,55.960989,-3.246278
+Edinburgh,808527,Morningside,Private room,126.52,19,58,46,3.87,14.0,Good,55.959735,-3.152534
+Edinburgh,363128,Stockbridge,Entire home/apt,303.63,3,333,16,5.0,25.0,Good,55.928329,-3.175732
+Edinburgh,992298,Bruntsfield,Private room,,12,337,55,4.31,23.0,Good,55.97844,-3.206665
+Edinburgh,692657,Morningside,Entire home/apt,260.72,1,130,78,4.02,27.0,Good,55.993466,-3.219413
+Edinburgh,683539,Morningside,Private room,355.29,6,155,1,5.0,36.0,Good,55.908284,-3.23828
+Edinburgh,492931,Dean Village,Entire home/apt,360.0,1,355,90,3.71,,,55.891012,-3.127129
+Edinburgh,359491,Haymarket,Shared room,167.7,29,316,4,4.35,25.0,Good,55.90747,-3.174408
+Edinburgh,284659,Stockbridge,Entire home/apt,145.28,30,96,98,3.47,22.0,Good,55.992091,-3.158866
+Edinburgh,147935,Stockbridge,Entire home/apt,90.6,30,219,1,3.82,10.0,Good,55.896949,-3.135786
+Edinburgh,910638,Haymarket,Private room,223.75,14,188,29,4.61,19.0,Good,55.913618,-3.208634
+Edinburgh,931203,Morningside,Entire home/apt,185.36,13,288,54,4.99,11.0,Good,55.946128,-3.200134
+Edinburgh,664870,Dean Village,Private room,250.33,23,214,22,3.75,32.0,Good,55.988298,-3.127754

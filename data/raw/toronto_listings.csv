@@ -1,0 +1,421 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Toronto,855390,High Park,Private room,,24,353,15,,36.0,Good,43.618795,-79.378287
+Toronto,636249,Leslieville,Entire home/apt,177.47,1,129,39,4.53,43.0,Good,43.604423,-79.410393
+Toronto,620270,Downtown,Private room,420.0,26,134,21,4.94,45.0,Good,43.71185,-79.326681
+Toronto,160024,Distillery District,Entire home/apt,368.47,5,217,46,3.9,31.0,Good,43.62137,-79.416543
+Toronto,194063,Distillery District,Entire home/apt,236.14,1,248,14,4.97,38.0,Good,43.687067,-79.353586
+Toronto,863936,Queen West,Private room,172.29,25,79,114,3.88,32.0,Good,43.610413,-79.403224
+Toronto,843234,Leslieville,Shared room,224.39,11,292,60,4.85,45.0,Good,43.648954,-79.386988
+Toronto,148041,High Park,Entire home/apt,,5,162,7,4.08,,,43.626503,-79.364089
+Toronto,775918,High Park,Private room,127.12,1,107,17,4.39,18.0,Good,43.721717,-79.397147
+Toronto,924627,Leslieville,Entire home/apt,112.13,19,95,24,4.1,35.0,Good,43.687319,-79.348294
+Toronto,386436,Distillery District,Entire home/apt,420.0,13,20,42,4.57,57.0,Moderate,43.627003,-79.39761
+Toronto,732992,Leslieville,Private room,154.19,3,220,65,4.62,35.0,Good,43.721346,-79.379409
+Toronto,514235,Kensington Market,Private room,208.22,5,4,74,4.24,46.0,Good,43.715364,-79.316704
+Toronto,700497,Distillery District,Shared room,191.12,10,83,122,4.76,,,43.633735,-79.427476
+Toronto,348376,The Annex,Entire home/apt,163.83,19,57,136,4.0,38.0,Good,43.721791,-79.39944
+Toronto,629881,Kensington Market,Entire home/apt,188.58,21,218,49,5.0,35.0,Good,43.584422,-79.336772
+Toronto,619010,Kensington Market,Entire home/apt,224.29,21,18,54,3.9,47.0,Good,43.665104,-79.440626
+Toronto,869951,Kensington Market,Entire home/apt,120.88,26,187,38,,48.0,Good,43.669653,-79.403174
+Toronto,809002,Leslieville,Entire home/apt,223.48,2,74,2,4.69,35.0,Good,43.604776,-79.336177
+Toronto,836263,Leslieville,Private room,288.27,28,337,9,3.73,33.0,Good,43.695979,-79.440315
+Toronto,277742,Kensington Market,Entire home/apt,234.67,2,149,106,4.82,15.0,Good,43.690873,-79.3207
+Toronto,849336,Distillery District,Private room,230.47,7,204,5,4.56,30.0,Good,43.652199,-79.387671
+Toronto,976642,Yorkville,Private room,247.35,1,242,6,3.47,41.0,Good,43.643173,-79.452809
+Toronto,591766,Downtown,Hotel room,300.41,3,270,15,4.06,23.0,Good,43.651154,-79.313937
+Toronto,804154,Yorkville,Entire home/apt,179.45,6,280,24,4.15,25.0,Good,43.706799,-79.321065
+Toronto,326493,Downtown,Entire home/apt,107.96,2,108,182,4.13,29.0,Good,43.586075,-79.434438
+Toronto,481731,The Annex,Private room,341.03,29,261,34,4.24,,,43.673771,-79.430602
+Toronto,387134,High Park,Entire home/apt,420.0,22,222,6,4.81,36.0,Good,43.672102,-79.441747
+Toronto,368784,Kensington Market,Shared room,293.35,10,93,29,3.86,26.0,Good,43.661159,-79.35146
+Toronto,999167,Distillery District,Entire home/apt,190.27,5,330,10,4.61,30.0,Good,43.696401,-79.437704
+Toronto,448886,Queen West,Entire home/apt,416.64,20,234,12,3.57,26.0,Good,43.634117,-79.441981
+Toronto,719652,High Park,Entire home/apt,197.37,25,268,66,4.8,26.0,Good,43.596373,-79.360834
+Toronto,499115,Yorkville,Entire home/apt,404.07,3,69,25,4.17,42.0,Good,43.639404,-79.3203
+Toronto,824142,Yorkville,Private room,90.0,5,127,6,4.21,26.0,Good,43.695358,-79.417918
+Toronto,463386,High Park,Hotel room,138.88,28,213,19,4.92,34.0,Good,43.606887,-79.389669
+Toronto,930916,Kensington Market,Entire home/apt,394.16,20,260,13,4.42,47.0,Good,43.617411,-79.368137
+Toronto,704069,Leslieville,Private room,303.86,1,334,23,,32.0,Good,43.633155,-79.419881
+Toronto,432221,Queen West,Private room,312.92,29,337,58,,46.0,Good,43.685326,-79.417633
+Toronto,437706,Kensington Market,Shared room,,21,343,1,4.44,39.0,Good,43.638353,-79.42301
+Toronto,966346,Kensington Market,Private room,147.38,6,285,40,3.65,39.0,Good,43.639515,-79.411913
+Toronto,111675,High Park,Hotel room,163.71,15,361,73,4.1,40.0,Good,43.635675,-79.39858
+Toronto,813840,Queen West,Entire home/apt,141.39,26,293,7,4.25,32.0,Good,43.599363,-79.317151
+Toronto,374706,The Annex,Entire home/apt,271.51,11,192,72,4.44,34.0,Good,43.718437,-79.349301
+Toronto,201165,Downtown,Entire home/apt,420.0,1,47,30,4.36,28.0,Good,43.611163,-79.394724
+Toronto,419188,Downtown,Entire home/apt,,10,0,40,4.83,41.0,Good,43.695993,-79.390098
+Toronto,288049,Kensington Market,Hotel room,243.94,25,243,17,4.06,26.0,Good,43.654021,-79.368353
+Toronto,603869,Queen West,Shared room,162.43,17,56,120,4.49,51.0,Moderate,43.61919,-79.436789
+Toronto,909178,Downtown,Entire home/apt,153.69,9,42,41,4.47,42.0,Good,43.675131,-79.414041
+Toronto,926784,Distillery District,Entire home/apt,,13,84,4,4.54,49.0,Good,43.700733,-79.448213
+Toronto,447885,Distillery District,Entire home/apt,190.07,26,187,156,,51.0,Moderate,43.657337,-79.333866
+Toronto,995382,Downtown,Private room,298.28,15,118,32,4.42,29.0,Good,43.702008,-79.425486
+Toronto,544101,The Annex,Entire home/apt,204.32,3,197,3,3.71,27.0,Good,43.704539,-79.335753
+Toronto,473876,Downtown,Private room,409.26,28,27,32,4.01,17.0,Good,43.690549,-79.315737
+Toronto,937725,The Annex,Private room,178.29,17,341,33,4.84,24.0,Good,43.584368,-79.369643
+Toronto,325649,Downtown,Private room,150.92,24,162,55,4.13,45.0,Good,43.593631,-79.389544
+Toronto,256685,Downtown,Private room,245.85,7,216,2,3.87,23.0,Good,43.639621,-79.357922
+Toronto,306973,Leslieville,Entire home/apt,159.77,21,232,2,4.77,36.0,Good,43.71177,-79.354764
+Toronto,689137,Distillery District,Private room,126.51,7,267,26,4.35,29.0,Good,43.596037,-79.417945
+Toronto,145665,Leslieville,Private room,420.0,24,219,108,4.55,45.0,Good,43.625128,-79.417956
+Toronto,461551,The Annex,Entire home/apt,287.51,3,156,108,4.17,43.0,Good,43.706311,-79.423995
+Toronto,108971,The Annex,Entire home/apt,101.43,2,308,49,4.13,37.0,Good,43.665403,-79.396364
+Toronto,645273,Kensington Market,Entire home/apt,212.47,1,146,37,5.0,44.0,Good,43.593644,-79.359863
+Toronto,271293,High Park,Entire home/apt,,2,56,23,4.69,32.0,Good,43.658823,-79.350904
+Toronto,807124,The Annex,Entire home/apt,245.41,9,104,13,3.42,26.0,Good,43.706589,-79.3226
+Toronto,262262,Queen West,Shared room,420.0,3,270,1,4.16,47.0,Good,43.709802,-79.389916
+Toronto,308805,Kensington Market,Private room,420.0,16,343,64,5.0,10.0,Good,43.653761,-79.339186
+Toronto,554153,Leslieville,Entire home/apt,209.53,2,251,6,4.66,28.0,Good,43.617922,-79.352952
+Toronto,535376,Yorkville,Shared room,184.82,9,35,7,3.76,44.0,Good,43.713515,-79.448151
+Toronto,787913,Downtown,Private room,243.53,1,25,17,3.83,36.0,Good,43.712318,-79.379303
+Toronto,181390,Kensington Market,Private room,223.75,28,163,109,3.83,43.0,Good,43.696047,-79.450692
+Toronto,207268,Distillery District,Entire home/apt,282.4,15,10,6,5.0,32.0,Good,43.604305,-79.377725
+Toronto,711401,Yorkville,Entire home/apt,173.81,27,43,27,4.33,20.0,Good,43.708891,-79.361942
+Toronto,404886,High Park,Entire home/apt,116.62,22,90,145,4.87,45.0,Good,43.668417,-79.440312
+Toronto,888389,Queen West,Entire home/apt,290.16,14,128,63,3.75,26.0,Good,43.696686,-79.452455
+Toronto,634330,Downtown,Entire home/apt,394.4,29,9,12,3.9,29.0,Good,43.635781,-79.339256
+Toronto,518752,Leslieville,Entire home/apt,287.94,3,349,37,4.38,58.0,Moderate,43.699899,-79.320664
+Toronto,575247,Kensington Market,Private room,255.84,2,26,16,4.56,30.0,Good,43.673777,-79.32035
+Toronto,787060,Leslieville,Private room,90.0,19,68,86,4.15,58.0,Moderate,43.705021,-79.350544
+Toronto,587995,Leslieville,Entire home/apt,,3,315,134,4.41,27.0,Good,43.705292,-79.429445
+Toronto,274753,The Annex,Entire home/apt,201.46,13,323,4,3.89,,,43.650992,-79.355246
+Toronto,173218,Leslieville,Entire home/apt,210.62,18,72,47,3.94,24.0,Good,43.589033,-79.427114
+Toronto,228060,The Annex,Entire home/apt,273.68,1,30,34,4.72,41.0,Good,43.621382,-79.415316
+Toronto,729294,Queen West,Private room,328.74,4,122,35,3.4,40.0,Good,43.610216,-79.445942
+Toronto,465769,The Annex,Entire home/apt,420.0,27,247,42,4.85,33.0,Good,43.636954,-79.402342
+Toronto,660695,Leslieville,Entire home/apt,152.85,2,338,20,4.91,51.0,Moderate,43.623567,-79.409719
+Toronto,831921,Leslieville,Private room,311.64,12,359,29,4.31,45.0,Good,43.682319,-79.4532
+Toronto,341136,Kensington Market,Entire home/apt,196.01,27,66,27,,45.0,Good,43.721833,-79.360067
+Toronto,994230,The Annex,Shared room,352.66,1,61,5,4.75,29.0,Good,43.646409,-79.333561
+Toronto,162729,Queen West,Hotel room,90.63,2,210,21,4.48,22.0,Good,43.674516,-79.315594
+Toronto,970068,Yorkville,Shared room,221.06,1,149,44,3.4,33.0,Good,43.653626,-79.373264
+Toronto,822761,Queen West,Entire home/apt,420.0,2,288,30,4.12,51.0,Moderate,43.717396,-79.405758
+Toronto,720755,The Annex,Entire home/apt,176.23,7,130,26,3.23,54.0,Moderate,43.586499,-79.389318
+Toronto,708659,Downtown,Private room,90.0,30,262,28,4.77,20.0,Good,43.692611,-79.421221
+Toronto,780596,Downtown,Entire home/apt,196.26,25,24,27,4.14,38.0,Good,43.614856,-79.342077
+Toronto,389696,The Annex,Entire home/apt,204.97,3,120,29,5.0,33.0,Good,43.659645,-79.402717
+Toronto,127028,The Annex,Entire home/apt,420.0,1,147,48,3.76,42.0,Good,43.64613,-79.362464
+Toronto,937175,Distillery District,Entire home/apt,154.23,9,33,112,3.29,31.0,Good,43.711286,-79.35216
+Toronto,884341,Yorkville,Entire home/apt,261.49,14,158,10,3.59,43.0,Good,43.638475,-79.369322
+Toronto,246884,Kensington Market,Entire home/apt,166.97,15,58,37,3.35,49.0,Good,43.656877,-79.389982
+Toronto,462560,Leslieville,Entire home/apt,383.14,12,195,123,4.62,38.0,Good,43.667552,-79.448695
+Toronto,139186,Downtown,Private room,410.29,19,207,2,4.03,28.0,Good,43.593646,-79.436545
+Toronto,930343,Distillery District,Private room,156.76,3,132,65,4.45,34.0,Good,43.602795,-79.361975
+Toronto,754219,High Park,Entire home/apt,280.33,29,364,86,3.99,28.0,Good,43.668492,-79.365906
+Toronto,805990,High Park,Private room,222.39,13,101,80,4.62,38.0,Good,43.672702,-79.372819
+Toronto,720893,Leslieville,Private room,323.7,3,205,33,5.0,33.0,Good,43.662583,-79.32321
+Toronto,457904,Downtown,Entire home/apt,142.61,13,295,15,5.0,39.0,Good,43.70665,-79.33573
+Toronto,648080,Leslieville,Hotel room,361.77,29,317,53,3.29,22.0,Good,43.672502,-79.431744
+Toronto,755845,High Park,Private room,231.04,13,49,40,4.0,,,43.686228,-79.317798
+Toronto,569101,Queen West,Entire home/apt,338.85,9,261,34,3.89,34.0,Good,43.652085,-79.378205
+Toronto,723179,The Annex,Entire home/apt,420.0,3,111,26,4.19,51.0,Moderate,43.585274,-79.356876
+Toronto,205773,The Annex,Hotel room,285.44,26,97,24,4.37,46.0,Good,43.591944,-79.39116
+Toronto,217867,Distillery District,Private room,154.1,16,277,221,4.13,22.0,Good,43.650692,-79.434815
+Toronto,303396,Downtown,Entire home/apt,237.03,28,143,4,4.39,39.0,Good,43.625565,-79.43251
+Toronto,846442,Kensington Market,Hotel room,286.97,20,5,40,5.0,42.0,Good,43.715336,-79.414607
+Toronto,410924,Leslieville,Entire home/apt,376.17,17,292,12,,32.0,Good,43.679077,-79.428437
+Toronto,243941,Distillery District,Entire home/apt,322.76,23,243,116,5.0,51.0,Moderate,43.688229,-79.375387
+Toronto,698043,Yorkville,Private room,283.94,14,139,55,5.0,26.0,Good,43.616577,-79.451594
+Toronto,657213,Yorkville,Entire home/apt,395.71,27,8,12,4.76,19.0,Good,43.703326,-79.322939
+Toronto,725129,The Annex,Entire home/apt,138.1,12,218,1,5.0,38.0,Good,43.716714,-79.41668
+Toronto,838111,Queen West,Shared room,394.98,29,291,46,5.0,17.0,Good,43.660758,-79.428688
+Toronto,787788,Queen West,Shared room,293.28,2,179,27,4.92,33.0,Good,43.594414,-79.329793
+Toronto,537538,Leslieville,Entire home/apt,111.8,26,67,14,4.88,31.0,Good,43.662902,-79.386536
+Toronto,511245,Queen West,Entire home/apt,114.96,30,329,2,4.49,33.0,Good,43.591954,-79.327379
+Toronto,439652,Leslieville,Private room,181.71,30,281,29,4.04,8.0,Good,43.627908,-79.350552
+Toronto,424353,Downtown,Entire home/apt,205.78,21,357,2,4.25,,,43.596627,-79.313956
+Toronto,868621,Leslieville,Hotel room,90.0,27,218,23,4.47,,,43.721855,-79.339725
+Toronto,100845,The Annex,Shared room,171.35,13,68,101,3.5,32.0,Good,43.655264,-79.41284
+Toronto,823996,Queen West,Entire home/apt,284.68,1,95,66,4.12,31.0,Good,43.699476,-79.363797
+Toronto,370523,Yorkville,Private room,155.11,1,234,14,3.38,43.0,Good,43.723061,-79.410627
+Toronto,762662,The Annex,Entire home/apt,295.17,14,219,37,5.0,37.0,Good,43.686407,-79.339061
+Toronto,878848,High Park,Private room,193.65,28,127,15,4.16,44.0,Good,43.638702,-79.415851
+Toronto,990568,Leslieville,Shared room,420.0,15,182,38,5.0,28.0,Good,43.637569,-79.3799
+Toronto,682233,Yorkville,Private room,127.54,22,49,11,3.57,22.0,Good,43.716221,-79.325281
+Toronto,318545,Distillery District,Entire home/apt,242.26,9,249,50,4.6,27.0,Good,43.595613,-79.32827
+Toronto,230686,Kensington Market,Entire home/apt,99.23,21,200,7,4.3,35.0,Good,43.692837,-79.353429
+Toronto,601245,Downtown,Entire home/apt,420.0,17,183,82,5.0,67.0,Moderate,43.641361,-79.339076
+Toronto,881212,Leslieville,Private room,420.0,1,253,106,4.87,42.0,Good,43.665814,-79.317087
+Toronto,479258,The Annex,Hotel room,250.89,7,193,58,4.27,49.0,Good,43.705163,-79.35218
+Toronto,957274,High Park,Hotel room,381.19,12,6,21,3.73,25.0,Good,43.602009,-79.41026
+Toronto,271887,Yorkville,Entire home/apt,336.77,21,22,54,4.98,17.0,Good,43.591877,-79.331291
+Toronto,716131,Leslieville,Entire home/apt,121.76,15,254,2,4.28,31.0,Good,43.643492,-79.329757
+Toronto,884261,Kensington Market,Entire home/apt,420.0,11,39,16,4.86,37.0,Good,43.65474,-79.403787
+Toronto,913551,Downtown,Entire home/apt,138.1,9,116,20,3.77,50.0,Good,43.644969,-79.362395
+Toronto,922107,Leslieville,Hotel room,289.91,1,227,190,4.25,19.0,Good,43.718156,-79.366124
+Toronto,599300,Downtown,Private room,158.6,23,363,77,4.52,33.0,Good,43.64163,-79.395402
+Toronto,363483,Yorkville,Entire home/apt,420.0,21,165,18,4.28,,,43.654075,-79.452147
+Toronto,140427,Distillery District,Private room,166.79,12,173,34,4.51,23.0,Good,43.602433,-79.400843
+Toronto,295835,Downtown,Entire home/apt,420.0,29,87,21,,42.0,Good,43.6994,-79.443826
+Toronto,681487,Distillery District,Entire home/apt,231.66,2,303,52,4.92,49.0,Good,43.670721,-79.400256
+Toronto,803845,Yorkville,Private room,214.93,2,271,28,3.87,36.0,Good,43.642307,-79.396916
+Toronto,512830,Leslieville,Entire home/apt,420.0,6,341,109,4.48,,,43.637145,-79.34917
+Toronto,131381,The Annex,Entire home/apt,150.69,1,164,45,4.27,44.0,Good,43.673647,-79.343965
+Toronto,233110,Leslieville,Entire home/apt,159.34,5,12,61,3.79,34.0,Good,43.605071,-79.411595
+Toronto,479365,Yorkville,Entire home/apt,96.62,1,309,53,4.09,31.0,Good,43.604364,-79.405877
+Toronto,478646,Leslieville,Entire home/apt,,10,37,38,4.11,23.0,Good,43.67016,-79.439751
+Toronto,660574,High Park,Entire home/apt,152.05,1,214,18,3.97,25.0,Good,43.720653,-79.327937
+Toronto,879223,Downtown,Entire home/apt,420.0,13,361,31,3.93,41.0,Good,43.718413,-79.373326
+Toronto,218582,Kensington Market,Private room,208.96,7,171,65,4.18,22.0,Good,43.58696,-79.346769
+Toronto,360471,Yorkville,Shared room,286.8,24,151,10,4.72,35.0,Good,43.689458,-79.387836
+Toronto,290340,The Annex,Entire home/apt,420.0,26,102,11,3.6,20.0,Good,43.625867,-79.410678
+Toronto,654229,High Park,Entire home/apt,420.0,2,22,33,4.54,31.0,Good,43.689549,-79.382827
+Toronto,624924,Leslieville,Private room,246.29,30,218,34,4.84,42.0,Good,43.645533,-79.418476
+Toronto,899170,Kensington Market,Entire home/apt,187.84,26,342,7,3.83,30.0,Good,43.659299,-79.362666
+Toronto,342227,Kensington Market,Private room,420.0,17,217,52,4.09,39.0,Good,43.70117,-79.33077
+Toronto,462065,Kensington Market,Private room,167.46,8,70,47,4.58,38.0,Good,43.690763,-79.377825
+Toronto,455225,Queen West,Hotel room,,20,96,89,5.0,44.0,Good,43.634452,-79.39701
+Toronto,980041,Leslieville,Entire home/apt,350.35,24,311,5,4.67,42.0,Good,43.623942,-79.325568
+Toronto,201330,Kensington Market,Hotel room,290.94,4,174,36,4.07,32.0,Good,43.660135,-79.320302
+Toronto,774084,High Park,Entire home/apt,137.12,30,283,1,4.4,34.0,Good,43.648292,-79.436894
+Toronto,711707,Downtown,Entire home/apt,149.73,2,17,13,4.5,41.0,Good,43.714402,-79.336285
+Toronto,359917,Queen West,Entire home/apt,262.1,5,177,1,3.9,29.0,Good,43.64663,-79.351858
+Toronto,612495,The Annex,Private room,167.88,23,111,37,5.0,25.0,Good,43.655261,-79.337668
+Toronto,628478,Distillery District,Entire home/apt,,7,134,117,4.52,16.0,Good,43.679664,-79.358711
+Toronto,822906,Queen West,Private room,345.24,28,345,36,3.93,32.0,Good,43.668317,-79.369596
+Toronto,207494,The Annex,Entire home/apt,120.25,13,342,20,5.0,49.0,Good,43.59491,-79.440169
+Toronto,646856,The Annex,Entire home/apt,420.0,3,226,30,4.42,36.0,Good,43.639245,-79.39046
+Toronto,143028,Distillery District,Entire home/apt,420.0,1,168,15,3.44,24.0,Good,43.711941,-79.38715
+Toronto,408773,The Annex,Entire home/apt,231.61,16,209,0,4.7,51.0,Moderate,43.658414,-79.320109
+Toronto,152863,Leslieville,Entire home/apt,137.74,2,161,32,4.83,17.0,Good,43.691169,-79.418858
+Toronto,425506,Distillery District,Entire home/apt,173.03,22,31,106,3.51,51.0,Moderate,43.666678,-79.440287
+Toronto,656772,Downtown,Private room,165.62,1,80,4,3.61,33.0,Good,43.590852,-79.380469
+Toronto,714422,Kensington Market,Entire home/apt,,1,160,197,4.05,,,43.666126,-79.33442
+Toronto,979407,Queen West,Entire home/apt,151.23,11,165,0,4.47,25.0,Good,43.694322,-79.347286
+Toronto,529152,Leslieville,Entire home/apt,339.95,3,212,16,4.69,43.0,Good,43.645343,-79.398135
+Toronto,182733,Leslieville,Private room,420.0,29,198,14,4.33,43.0,Good,43.697774,-79.401801
+Toronto,333427,Yorkville,Entire home/apt,303.37,1,260,29,4.55,39.0,Good,43.593328,-79.425621
+Toronto,301702,Distillery District,Entire home/apt,420.0,10,184,52,4.64,35.0,Good,43.64748,-79.43727
+Toronto,545813,Distillery District,Private room,377.35,14,350,56,4.4,42.0,Good,43.705114,-79.364115
+Toronto,916030,Yorkville,Private room,420.0,19,18,7,,31.0,Good,43.680863,-79.336316
+Toronto,964753,Downtown,Private room,192.56,17,150,69,3.48,39.0,Good,43.665485,-79.36923
+Toronto,847452,Leslieville,Entire home/apt,134.91,25,81,4,,,,43.603143,-79.370214
+Toronto,586888,Distillery District,Entire home/apt,420.0,15,271,18,4.76,28.0,Good,43.673009,-79.34413
+Toronto,211011,The Annex,Entire home/apt,,3,12,22,4.6,41.0,Good,43.661958,-79.322904
+Toronto,801291,Kensington Market,Entire home/apt,336.54,1,20,31,3.3,26.0,Good,43.585205,-79.344069
+Toronto,928063,High Park,Private room,396.46,28,175,2,,32.0,Good,43.645362,-79.403753
+Toronto,909432,The Annex,Entire home/apt,310.12,25,179,37,3.61,37.0,Good,43.619368,-79.384159
+Toronto,545122,Kensington Market,Hotel room,309.56,3,33,46,4.47,27.0,Good,43.714057,-79.421621
+Toronto,590749,Leslieville,Entire home/apt,248.12,7,246,26,4.31,40.0,Good,43.713211,-79.421685
+Toronto,622157,Queen West,Private room,341.61,13,205,47,4.36,49.0,Good,43.618797,-79.389934
+Toronto,765858,Yorkville,Private room,281.05,9,45,110,3.57,,,43.59838,-79.37073
+Toronto,514087,Distillery District,Entire home/apt,420.0,25,62,153,4.69,36.0,Good,43.671844,-79.393171
+Toronto,384909,Yorkville,Entire home/apt,148.33,2,33,152,3.39,22.0,Good,43.62821,-79.339165
+Toronto,292015,Leslieville,Entire home/apt,322.41,28,242,42,3.48,,,43.614229,-79.448075
+Toronto,990706,The Annex,Entire home/apt,300.58,30,4,43,4.23,,,43.694224,-79.361949
+Toronto,200562,Queen West,Entire home/apt,201.73,3,207,64,3.95,19.0,Good,43.655218,-79.320554
+Toronto,799050,Queen West,Entire home/apt,420.0,11,207,22,4.49,24.0,Good,43.643422,-79.452042
+Toronto,313117,Distillery District,Private room,251.08,2,315,12,4.45,30.0,Good,43.647274,-79.34272
+Toronto,538435,Downtown,Private room,374.48,7,331,42,4.17,72.0,Moderate,43.657135,-79.362438
+Toronto,979080,High Park,Shared room,114.77,26,138,52,4.48,55.0,Moderate,43.676708,-79.354363
+Toronto,365623,High Park,Entire home/apt,278.99,26,261,23,4.01,30.0,Good,43.650993,-79.444617
+Toronto,927185,Kensington Market,Shared room,116.04,19,30,9,3.49,46.0,Good,43.627449,-79.352423
+Toronto,794529,Yorkville,Entire home/apt,163.65,25,230,49,4.78,25.0,Good,43.657884,-79.333749
+Toronto,354635,Yorkville,Entire home/apt,285.26,1,130,31,4.56,34.0,Good,43.708847,-79.330391
+Toronto,232601,Yorkville,Entire home/apt,107.0,1,313,4,4.09,,,43.678856,-79.367142
+Toronto,587633,High Park,Entire home/apt,,6,201,1,4.21,42.0,Good,43.654775,-79.379928
+Toronto,138556,Downtown,Entire home/apt,420.0,30,185,87,4.74,33.0,Good,43.657485,-79.441198
+Toronto,833850,The Annex,Entire home/apt,168.83,20,235,42,3.83,23.0,Good,43.679756,-79.341105
+Toronto,763649,Downtown,Shared room,218.88,25,137,146,3.95,27.0,Good,43.608554,-79.393051
+Toronto,265129,Queen West,Private room,242.14,24,208,1,4.49,42.0,Good,43.720846,-79.362853
+Toronto,125039,Yorkville,Entire home/apt,140.21,13,77,4,3.95,37.0,Good,43.628055,-79.325438
+Toronto,740516,The Annex,Hotel room,151.12,9,63,33,4.7,33.0,Good,43.598317,-79.34706
+Toronto,478041,Downtown,Private room,412.93,17,130,28,4.88,20.0,Good,43.599349,-79.431127
+Toronto,336647,Leslieville,Entire home/apt,420.0,2,129,1,4.57,22.0,Good,43.611916,-79.360695
+Toronto,310246,Distillery District,Entire home/apt,338.73,21,328,48,4.24,43.0,Good,43.607569,-79.318491
+Toronto,525857,Distillery District,Shared room,,14,152,14,3.81,58.0,Moderate,43.597138,-79.430041
+Toronto,681818,Downtown,Private room,223.87,5,351,27,3.97,38.0,Good,43.623007,-79.313911
+Toronto,944245,High Park,Entire home/apt,172.43,1,152,44,4.49,40.0,Good,43.696647,-79.358862
+Toronto,922621,Kensington Market,Entire home/apt,420.0,6,278,10,4.23,39.0,Good,43.684827,-79.402239
+Toronto,623487,The Annex,Hotel room,261.04,29,121,18,3.82,24.0,Good,43.649046,-79.402131
+Toronto,850893,The Annex,Shared room,91.49,1,139,33,3.64,58.0,Moderate,43.695666,-79.363644
+Toronto,591195,Queen West,Entire home/apt,314.39,2,57,10,4.38,47.0,Good,43.590608,-79.351884
+Toronto,105266,Yorkville,Shared room,420.0,27,41,41,3.68,43.0,Good,43.682918,-79.371553
+Toronto,532826,Leslieville,Entire home/apt,214.76,13,67,161,,33.0,Good,43.588923,-79.374581
+Toronto,279643,The Annex,Shared room,167.53,15,207,6,,36.0,Good,43.671483,-79.358829
+Toronto,276114,High Park,Entire home/apt,405.3,26,304,2,,31.0,Good,43.716141,-79.320392
+Toronto,788320,Distillery District,Entire home/apt,94.18,20,155,27,4.65,26.0,Good,43.598466,-79.34358
+Toronto,596584,High Park,Entire home/apt,363.82,1,349,6,3.24,28.0,Good,43.693949,-79.395861
+Toronto,678926,Kensington Market,Entire home/apt,161.88,3,4,57,4.15,32.0,Good,43.639908,-79.411675
+Toronto,798162,Downtown,Private room,420.0,2,364,105,4.21,42.0,Good,43.610202,-79.43637
+Toronto,833329,Queen West,Shared room,171.88,28,348,139,3.71,19.0,Good,43.59491,-79.337858
+Toronto,810934,Yorkville,Entire home/apt,420.0,17,240,17,4.33,37.0,Good,43.64704,-79.406218
+Toronto,608894,High Park,Entire home/apt,230.03,10,254,9,4.59,37.0,Good,43.636179,-79.358033
+Toronto,685939,Kensington Market,Private room,368.96,12,226,63,4.55,18.0,Good,43.611653,-79.344884
+Toronto,156137,High Park,Shared room,189.37,2,31,50,4.87,35.0,Good,43.604761,-79.351736
+Toronto,737880,High Park,Private room,209.25,23,295,33,4.81,21.0,Good,43.619446,-79.317769
+Toronto,242603,Distillery District,Private room,275.06,17,165,58,4.84,46.0,Good,43.63259,-79.425485
+Toronto,599483,Yorkville,Private room,172.09,7,181,44,3.93,36.0,Good,43.670464,-79.320947
+Toronto,423519,The Annex,Entire home/apt,156.21,16,213,27,4.27,17.0,Good,43.718499,-79.427849
+Toronto,957888,Downtown,Hotel room,185.46,2,327,16,3.63,29.0,Good,43.668294,-79.452181
+Toronto,105208,High Park,Entire home/apt,305.81,2,116,51,4.59,43.0,Good,43.666615,-79.345002
+Toronto,509039,High Park,Entire home/apt,148.88,3,179,13,4.18,16.0,Good,43.689941,-79.394487
+Toronto,147886,High Park,Private room,192.05,8,311,9,4.51,22.0,Good,43.669358,-79.422476
+Toronto,220171,Downtown,Entire home/apt,133.53,9,294,5,4.7,23.0,Good,43.685605,-79.379638
+Toronto,909440,Leslieville,Private room,420.0,11,161,20,3.94,27.0,Good,43.692669,-79.371008
+Toronto,608761,Yorkville,Entire home/apt,186.65,1,84,48,4.08,41.0,Good,43.716655,-79.433044
+Toronto,224405,Yorkville,Entire home/apt,192.52,26,219,84,4.1,45.0,Good,43.603746,-79.377153
+Toronto,818592,Leslieville,Entire home/apt,190.22,22,70,43,,43.0,Good,43.655598,-79.400061
+Toronto,200410,Leslieville,Entire home/apt,337.46,13,57,83,4.09,30.0,Good,43.597926,-79.450308
+Toronto,916616,Kensington Market,Private room,,15,212,19,4.18,35.0,Good,43.718041,-79.330719
+Toronto,359111,Queen West,Entire home/apt,420.0,8,282,79,3.92,37.0,Good,43.708526,-79.329607
+Toronto,948126,Leslieville,Entire home/apt,119.27,12,235,5,4.16,29.0,Good,43.699994,-79.395254
+Toronto,245662,Kensington Market,Private room,,13,191,87,4.22,29.0,Good,43.60388,-79.399371
+Toronto,145962,Kensington Market,Private room,175.15,27,127,48,5.0,30.0,Good,43.585013,-79.351035
+Toronto,766323,Kensington Market,Private room,134.13,13,200,47,4.58,46.0,Good,43.635194,-79.398732
+Toronto,307405,Downtown,Entire home/apt,272.87,20,213,16,4.1,10.0,Good,43.646491,-79.371915
+Toronto,797473,Downtown,Entire home/apt,346.2,1,37,35,3.07,46.0,Good,43.687496,-79.397215
+Toronto,135085,Kensington Market,Entire home/apt,333.12,10,61,28,4.57,45.0,Good,43.591795,-79.397437
+Toronto,451612,Distillery District,Entire home/apt,375.13,26,190,53,4.0,24.0,Good,43.615196,-79.336055
+Toronto,585857,The Annex,Entire home/apt,220.59,13,249,57,4.17,34.0,Good,43.601505,-79.323368
+Toronto,938100,Yorkville,Entire home/apt,218.22,11,115,103,5.0,36.0,Good,43.647247,-79.395154
+Toronto,215220,Downtown,Hotel room,115.84,9,134,49,5.0,35.0,Good,43.61919,-79.404478
+Toronto,523566,High Park,Private room,178.22,7,256,95,3.33,38.0,Good,43.600885,-79.339625
+Toronto,780158,Queen West,Shared room,219.09,10,139,4,4.5,29.0,Good,43.605856,-79.338109
+Toronto,176725,High Park,Private room,293.59,24,78,19,4.39,44.0,Good,43.620387,-79.38744
+Toronto,317517,Kensington Market,Entire home/apt,187.27,29,180,18,4.43,21.0,Good,43.586446,-79.313341
+Toronto,148008,Queen West,Entire home/apt,355.34,2,303,39,4.47,52.0,Moderate,43.659524,-79.384511
+Toronto,884608,High Park,Entire home/apt,180.1,1,283,14,3.9,24.0,Good,43.683616,-79.439425
+Toronto,435910,Queen West,Private room,413.52,13,310,52,3.31,11.0,Good,43.720243,-79.32915
+Toronto,245270,Queen West,Entire home/apt,155.8,3,283,57,3.63,36.0,Good,43.602904,-79.402846
+Toronto,774102,Kensington Market,Entire home/apt,291.86,29,53,29,4.92,35.0,Good,43.718307,-79.434554
+Toronto,874660,Kensington Market,Entire home/apt,420.0,4,76,0,4.27,43.0,Good,43.719637,-79.356078
+Toronto,906178,Leslieville,Entire home/apt,346.85,18,137,81,4.67,50.0,Good,43.719622,-79.432463
+Toronto,236430,The Annex,Hotel room,122.95,24,208,6,4.46,34.0,Good,43.616217,-79.36802
+Toronto,690994,Queen West,Private room,142.46,7,141,23,4.13,,,43.706949,-79.452195
+Toronto,960796,Kensington Market,Entire home/apt,404.55,8,306,21,4.14,42.0,Good,43.700314,-79.32991
+Toronto,442369,Downtown,Entire home/apt,95.71,9,44,7,,36.0,Good,43.600794,-79.380231
+Toronto,915458,Kensington Market,Private room,420.0,5,24,22,3.59,33.0,Good,43.703604,-79.429046
+Toronto,282284,High Park,Private room,257.89,1,51,14,4.3,28.0,Good,43.619324,-79.347302
+Toronto,555103,Queen West,Private room,196.11,24,172,54,4.56,48.0,Good,43.647777,-79.428693
+Toronto,625396,Kensington Market,Private room,97.14,21,202,37,4.36,24.0,Good,43.628918,-79.366541
+Toronto,685507,Leslieville,Private room,420.0,3,5,15,,24.0,Good,43.648919,-79.444941
+Toronto,421502,The Annex,Private room,269.27,2,40,6,4.67,,,43.712776,-79.315073
+Toronto,822151,Leslieville,Private room,147.45,1,318,14,4.2,28.0,Good,43.67942,-79.322357
+Toronto,866995,Queen West,Entire home/apt,420.0,27,60,55,4.43,31.0,Good,43.660043,-79.440425
+Toronto,116980,High Park,Hotel room,268.87,16,232,70,4.84,15.0,Good,43.601507,-79.433303
+Toronto,509620,Queen West,Private room,181.68,17,21,6,4.27,32.0,Good,43.59055,-79.422894
+Toronto,808592,Kensington Market,Entire home/apt,420.0,1,184,14,4.12,36.0,Good,43.676303,-79.425985
+Toronto,422654,Yorkville,Private room,193.05,23,44,15,4.82,14.0,Good,43.63132,-79.429668
+Toronto,356542,Downtown,Private room,214.48,23,304,33,4.28,30.0,Good,43.69176,-79.435131
+Toronto,582509,Kensington Market,Shared room,144.25,14,360,50,4.57,,,43.594761,-79.365729
+Toronto,124127,Distillery District,Entire home/apt,215.08,23,122,65,4.32,,,43.681992,-79.398778
+Toronto,926568,High Park,Entire home/apt,320.38,20,122,20,4.84,40.0,Good,43.63517,-79.373087
+Toronto,842055,Distillery District,Entire home/apt,420.0,26,17,7,4.3,31.0,Good,43.663228,-79.378607
+Toronto,879292,High Park,Entire home/apt,264.53,1,308,181,4.37,35.0,Good,43.650315,-79.32246
+Toronto,946611,Yorkville,Entire home/apt,225.5,21,333,74,4.5,30.0,Good,43.672861,-79.450892
+Toronto,670460,Leslieville,Entire home/apt,420.0,3,350,80,4.04,33.0,Good,43.618742,-79.448168
+Toronto,621080,Queen West,Entire home/apt,305.53,2,241,26,4.71,45.0,Good,43.657389,-79.356596
+Toronto,168098,Kensington Market,Entire home/apt,304.49,17,289,4,4.84,37.0,Good,43.67365,-79.403997
+Toronto,853505,Leslieville,Entire home/apt,291.08,1,206,9,4.5,38.0,Good,43.675553,-79.35776
+Toronto,234143,The Annex,Entire home/apt,118.46,11,234,46,,24.0,Good,43.592551,-79.395029
+Toronto,334376,Kensington Market,Entire home/apt,420.0,1,192,16,4.62,,,43.585072,-79.326467
+Toronto,721946,Distillery District,Entire home/apt,210.22,26,5,143,3.43,27.0,Good,43.606055,-79.332701
+Toronto,170721,Leslieville,Entire home/apt,420.0,27,266,30,4.75,20.0,Good,43.692078,-79.326575
+Toronto,944976,Kensington Market,Entire home/apt,322.08,1,196,134,3.79,37.0,Good,43.663705,-79.373503
+Toronto,983458,Yorkville,Shared room,160.02,27,49,110,,46.0,Good,43.681828,-79.33248
+Toronto,220776,Leslieville,Entire home/apt,187.27,2,101,69,5.0,13.0,Good,43.713931,-79.32733
+Toronto,351939,Downtown,Shared room,420.0,3,11,48,3.9,,,43.623828,-79.340105
+Toronto,671597,Leslieville,Entire home/apt,178.5,15,168,19,4.91,56.0,Moderate,43.627533,-79.323771
+Toronto,211737,High Park,Entire home/apt,245.02,11,57,22,4.55,46.0,Good,43.602337,-79.380198
+Toronto,544609,Distillery District,Private room,178.46,2,318,130,4.55,,,43.702008,-79.400113
+Toronto,525459,Downtown,Shared room,157.55,9,315,11,4.0,23.0,Good,43.606369,-79.406362
+Toronto,629122,Leslieville,Private room,167.39,22,239,63,,38.0,Good,43.665251,-79.334014
+Toronto,555822,Yorkville,Entire home/apt,282.37,7,264,26,,37.0,Good,43.640105,-79.448574
+Toronto,147846,Queen West,Entire home/apt,383.11,9,102,105,3.19,43.0,Good,43.647224,-79.379716
+Toronto,522181,Kensington Market,Entire home/apt,,8,80,131,5.0,30.0,Good,43.657134,-79.442281
+Toronto,587415,The Annex,Private room,420.0,3,133,48,4.44,39.0,Good,43.718354,-79.355663
+Toronto,619890,Kensington Market,Private room,234.97,3,36,43,3.81,31.0,Good,43.712038,-79.409353
+Toronto,376785,Leslieville,Shared room,368.79,26,160,15,3.07,27.0,Good,43.711043,-79.320282
+Toronto,525992,Downtown,Shared room,135.0,2,77,7,4.72,39.0,Good,43.614668,-79.390802
+Toronto,100804,Queen West,Entire home/apt,359.26,28,169,39,4.43,51.0,Moderate,43.601762,-79.44849
+Toronto,198903,Kensington Market,Entire home/apt,177.3,1,261,70,4.52,36.0,Good,43.655498,-79.446769
+Toronto,747136,Yorkville,Entire home/apt,333.69,3,332,16,4.16,,,43.59422,-79.41801
+Toronto,802815,Leslieville,Entire home/apt,198.47,2,261,34,4.64,,,43.665244,-79.383801
+Toronto,188408,High Park,Entire home/apt,420.0,28,345,62,5.0,32.0,Good,43.713969,-79.33269
+Toronto,774284,Leslieville,Private room,182.74,10,21,62,3.79,47.0,Good,43.637972,-79.422913
+Toronto,491266,Leslieville,Shared room,228.07,2,351,11,4.35,23.0,Good,43.628814,-79.422841
+Toronto,969259,Distillery District,Private room,241.47,27,78,0,4.02,43.0,Good,43.684228,-79.330331
+Toronto,330913,High Park,Entire home/apt,116.35,19,242,39,3.7,31.0,Good,43.672863,-79.37261
+Toronto,806341,Distillery District,Entire home/apt,224.77,3,355,60,3.85,32.0,Good,43.710701,-79.38492
+Toronto,707628,Kensington Market,Entire home/apt,,25,189,13,3.88,41.0,Good,43.693548,-79.445375
+Toronto,848976,Downtown,Entire home/apt,,16,129,22,4.18,31.0,Good,43.714041,-79.332395
+Toronto,687782,The Annex,Private room,330.01,15,59,87,4.67,15.0,Good,43.688761,-79.343368
+Toronto,204677,Kensington Market,Entire home/apt,319.5,25,330,13,3.68,46.0,Good,43.683929,-79.317353
+Toronto,589808,Downtown,Entire home/apt,295.3,4,254,17,4.69,50.0,Good,43.699483,-79.352022
+Toronto,972123,Yorkville,Entire home/apt,302.46,10,325,30,4.18,32.0,Good,43.629611,-79.371229
+Toronto,279571,The Annex,Shared room,226.27,28,220,32,3.82,39.0,Good,43.644442,-79.352275
+Toronto,660443,Queen West,Entire home/apt,289.27,2,304,25,3.65,36.0,Good,43.668664,-79.380058
+Toronto,822332,High Park,Entire home/apt,192.97,3,253,79,3.7,45.0,Good,43.675753,-79.323986
+Toronto,789186,The Annex,Entire home/apt,411.37,9,219,9,3.72,29.0,Good,43.685877,-79.39404
+Toronto,901811,Distillery District,Entire home/apt,156.26,9,144,31,3.58,7.0,Good,43.6526,-79.400673
+Toronto,891198,The Annex,Entire home/apt,276.23,1,135,49,,36.0,Good,43.676211,-79.373967
+Toronto,196912,Downtown,Entire home/apt,246.31,12,88,107,4.46,28.0,Good,43.61134,-79.326616
+Toronto,123045,High Park,Entire home/apt,163.1,26,357,1,4.23,32.0,Good,43.719085,-79.388012
+Toronto,901262,Queen West,Entire home/apt,200.29,10,148,18,4.9,20.0,Good,43.688554,-79.3584
+Toronto,229698,Queen West,Shared room,318.86,29,244,93,3.83,27.0,Good,43.684986,-79.346418
+Toronto,352463,Yorkville,Entire home/apt,311.06,14,147,56,4.94,42.0,Good,43.586062,-79.392696
+Toronto,152675,Kensington Market,Entire home/apt,,1,67,8,4.0,7.0,Good,43.640686,-79.370669
+Toronto,267690,Kensington Market,Entire home/apt,420.0,10,262,36,4.8,32.0,Good,43.64169,-79.35496
+Toronto,452563,Queen West,Hotel room,218.18,3,118,50,4.72,47.0,Good,43.63855,-79.432301
+Toronto,394320,Downtown,Entire home/apt,301.81,4,213,114,4.33,44.0,Good,43.700958,-79.322176
+Toronto,502939,Yorkville,Entire home/apt,155.56,24,344,24,3.91,44.0,Good,43.624373,-79.333843
+Toronto,341449,Leslieville,Entire home/apt,,2,298,30,4.58,,,43.595787,-79.357627
+Toronto,724699,Downtown,Entire home/apt,146.04,13,178,7,4.09,38.0,Good,43.669464,-79.391327
+Toronto,444624,Kensington Market,Private room,,2,164,6,4.71,36.0,Good,43.605439,-79.359817
+Toronto,888173,Downtown,Shared room,106.78,23,144,190,4.01,47.0,Good,43.636598,-79.369794
+Toronto,802757,The Annex,Entire home/apt,169.59,26,264,18,4.12,16.0,Good,43.683608,-79.44058
+Toronto,123209,Yorkville,Private room,208.22,2,86,57,4.1,21.0,Good,43.688096,-79.365806
+Toronto,419658,Yorkville,Entire home/apt,,17,151,7,3.92,33.0,Good,43.716246,-79.318892
+Toronto,935288,Distillery District,Private room,163.07,25,34,46,3.69,37.0,Good,43.679949,-79.401328
+Toronto,275360,Leslieville,Hotel room,174.47,21,196,8,4.42,33.0,Good,43.68759,-79.430877
+Toronto,730092,Queen West,Entire home/apt,,28,245,84,4.82,36.0,Good,43.661259,-79.387391
+Toronto,859519,Distillery District,Entire home/apt,219.06,8,330,14,4.36,37.0,Good,43.662482,-79.406648
+Toronto,690246,Downtown,Shared room,,13,254,79,4.07,,,43.605134,-79.39962
+Toronto,247628,Distillery District,Entire home/apt,165.49,8,77,51,,45.0,Good,43.645363,-79.383865
+Toronto,146624,Yorkville,Entire home/apt,190.86,19,254,56,3.88,40.0,Good,43.628426,-79.32939
+Toronto,763504,The Annex,Entire home/apt,280.92,9,136,10,3.87,36.0,Good,43.616004,-79.404162
+Toronto,187873,Distillery District,Shared room,157.69,1,23,34,4.21,39.0,Good,43.707055,-79.439902
+Toronto,953566,Leslieville,Private room,280.14,26,112,22,4.78,39.0,Good,43.608379,-79.432274
+Toronto,869674,Leslieville,Entire home/apt,259.37,1,319,64,4.5,27.0,Good,43.66396,-79.389594
+Toronto,924705,Queen West,Entire home/apt,264.06,9,14,14,4.69,33.0,Good,43.646859,-79.44497
+Toronto,198311,Leslieville,Private room,305.91,1,139,24,4.18,50.0,Good,43.660348,-79.345849
+Toronto,393899,Yorkville,Private room,135.06,23,330,10,4.73,31.0,Good,43.670607,-79.418222
+Toronto,310383,Downtown,Entire home/apt,,26,5,157,4.62,,,43.657507,-79.43941
+Toronto,638971,Leslieville,Entire home/apt,205.55,30,308,3,4.32,16.0,Good,43.620631,-79.409032
+Toronto,271003,Queen West,Entire home/apt,256.2,22,250,58,3.84,37.0,Good,43.622082,-79.350364
+Toronto,429494,Yorkville,Entire home/apt,125.02,3,267,15,4.95,34.0,Good,43.689512,-79.40345
+Toronto,600782,Downtown,Entire home/apt,,19,142,47,4.76,43.0,Good,43.652451,-79.410164
+Toronto,618988,Kensington Market,Shared room,420.0,26,205,20,4.42,17.0,Good,43.6863,-79.315829
+Toronto,287860,The Annex,Entire home/apt,208.83,21,88,17,4.33,,,43.67868,-79.419777
+Toronto,116255,Queen West,Shared room,,9,231,16,,41.0,Good,43.67339,-79.378844
+Toronto,545243,High Park,Entire home/apt,171.67,14,60,65,3.97,35.0,Good,43.687292,-79.425444
+Toronto,537780,Kensington Market,Private room,420.0,11,177,54,4.41,27.0,Good,43.652456,-79.364081
+Toronto,107510,Yorkville,Shared room,320.23,1,352,27,4.89,40.0,Good,43.61493,-79.408905
+Toronto,291482,The Annex,Private room,420.0,2,37,21,4.19,31.0,Good,43.64964,-79.318111
+Toronto,331788,High Park,Private room,271.64,27,24,19,4.38,48.0,Good,43.628047,-79.421672
+Toronto,512331,Queen West,Entire home/apt,359.95,26,241,3,,30.0,Good,43.629226,-79.406634
+Toronto,547235,Kensington Market,Private room,420.0,10,314,2,4.67,48.0,Good,43.651513,-79.327885
+Toronto,167468,Downtown,Entire home/apt,231.68,14,13,1,3.76,30.0,Good,43.616767,-79.344091
+Toronto,971797,The Annex,Entire home/apt,90.0,19,283,14,3.23,53.0,Moderate,43.601678,-79.349722
+Toronto,422897,The Annex,Entire home/apt,420.0,1,135,56,3.29,30.0,Good,43.71884,-79.388376
+Toronto,628772,The Annex,Hotel room,263.4,3,263,93,4.83,17.0,Good,43.657509,-79.432825
+Toronto,377052,Kensington Market,Entire home/apt,420.0,24,166,50,4.6,31.0,Good,43.655326,-79.42444
+Toronto,365641,Downtown,Shared room,389.26,17,261,95,5.0,26.0,Good,43.636771,-79.425809
+Toronto,856591,Leslieville,Private room,420.0,1,80,12,,27.0,Good,43.651646,-79.351363
+Toronto,595673,Yorkville,Entire home/apt,151.11,1,125,5,4.44,28.0,Good,43.698871,-79.424567
+Toronto,397471,The Annex,Entire home/apt,230.31,15,192,20,3.72,39.0,Good,43.598508,-79.368653
+Toronto,910129,High Park,Entire home/apt,103.98,21,20,211,4.68,47.0,Good,43.646459,-79.440761
+Toronto,668497,Yorkville,Entire home/apt,262.71,1,44,29,4.35,23.0,Good,43.696396,-79.441132
+Toronto,153922,The Annex,Entire home/apt,105.75,13,289,6,4.85,,,43.609543,-79.34622
+Toronto,910519,Downtown,Entire home/apt,303.31,25,55,89,4.82,29.0,Good,43.594984,-79.430892
+Toronto,362704,Distillery District,Entire home/apt,399.1,24,326,68,,,,43.685828,-79.407196
+Toronto,940164,Yorkville,Private room,278.41,22,244,43,3.8,29.0,Good,43.630424,-79.439244
+Toronto,655000,Yorkville,Entire home/apt,132.86,2,125,61,3.95,25.0,Good,43.70872,-79.440048
+Toronto,204836,Queen West,Entire home/apt,363.13,27,95,60,,46.0,Good,43.715588,-79.317296
+Toronto,521395,Yorkville,Private room,151.24,27,215,6,,38.0,Good,43.660937,-79.354828
+Toronto,226329,Kensington Market,Shared room,264.06,4,257,69,5.0,47.0,Good,43.597581,-79.439201
+Toronto,951789,The Annex,Entire home/apt,110.36,23,261,4,4.51,31.0,Good,43.586653,-79.416419
+Toronto,616591,Kensington Market,Entire home/apt,395.91,28,273,34,3.89,42.0,Good,43.676339,-79.404573
+Toronto,363121,Downtown,Entire home/apt,298.2,21,278,20,3.58,30.0,Good,43.716068,-79.384073
+Toronto,142395,Yorkville,Entire home/apt,215.9,2,59,48,5.0,28.0,Good,43.695573,-79.418636

@@ -1,0 +1,351 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Amsterdam,924197,Noord,Private room,160.94,1,259,149,5.0,30.0,Good,52.40062,4.932221
+Amsterdam,562958,Oud-West,Entire home/apt,151.49,8,153,5,4.4,33.0,Good,52.308595,4.897788
+Amsterdam,381632,De Pijp,Entire home/apt,111.32,4,7,79,3.47,34.0,Good,52.309757,4.91394
+Amsterdam,363028,De Pijp,Entire home/apt,280.0,6,11,21,4.79,42.0,Good,52.417329,4.933551
+Amsterdam,176588,De Pijp,Entire home/apt,110.42,30,347,3,3.89,13.0,Good,52.299931,4.959596
+Amsterdam,360610,De Pijp,Entire home/apt,142.6,1,72,30,4.15,15.0,Good,52.366619,4.966257
+Amsterdam,313802,Westerpark,Private room,118.3,3,177,6,3.35,36.0,Good,52.317071,4.840953
+Amsterdam,938521,Oost,Entire home/apt,280.0,28,355,8,4.21,38.0,Good,52.437272,4.957772
+Amsterdam,328815,Centrum,Private room,269.08,9,201,20,4.67,,,52.376616,4.851824
+Amsterdam,674253,Oud-West,Private room,175.96,8,257,31,3.73,31.0,Good,52.372447,4.83754
+Amsterdam,547239,Oud-West,Private room,146.45,3,26,11,3.44,41.0,Good,52.319058,4.902981
+Amsterdam,492904,Centrum,Shared room,164.24,21,249,60,4.45,29.0,Good,52.395258,4.85245
+Amsterdam,140937,Noord,Entire home/apt,132.42,5,91,0,3.84,44.0,Good,52.372933,4.895841
+Amsterdam,512461,Noord,Entire home/apt,137.37,26,160,1,4.06,44.0,Good,52.298497,4.948515
+Amsterdam,307937,Noord,Private room,280.0,3,117,67,4.42,40.0,Good,52.384826,4.903725
+Amsterdam,187821,Oud-West,Private room,122.17,3,346,40,4.28,26.0,Good,52.326312,4.902697
+Amsterdam,736402,De Pijp,Entire home/apt,94.92,15,84,25,3.76,19.0,Good,52.325832,4.897653
+Amsterdam,781209,Buitenveldert,Private room,142.62,30,365,27,4.52,39.0,Good,52.408758,4.968161
+Amsterdam,720230,Buitenveldert,Entire home/apt,135.17,6,20,43,4.23,39.0,Good,52.421068,4.898577
+Amsterdam,912391,Jordaan,Private room,186.05,1,32,71,4.94,34.0,Good,52.377187,4.886225
+Amsterdam,118675,De Pijp,Private room,79.99,1,306,11,4.37,24.0,Good,52.359494,4.911883
+Amsterdam,302361,De Pijp,Entire home/apt,168.61,11,39,150,4.78,46.0,Good,52.43461,4.843299
+Amsterdam,853594,Westerpark,Entire home/apt,280.0,13,332,16,4.16,39.0,Good,52.30117,4.86455
+Amsterdam,522606,Centrum,Shared room,280.0,2,269,54,3.92,,,52.419,4.919869
+Amsterdam,690831,De Pijp,Private room,173.68,17,16,10,4.29,32.0,Good,52.414125,4.895555
+Amsterdam,640867,De Pijp,Entire home/apt,127.92,2,299,124,4.33,38.0,Good,52.31455,4.958254
+Amsterdam,301108,De Pijp,Entire home/apt,188.04,12,64,94,3.77,32.0,Good,52.436408,4.846208
+Amsterdam,165878,Noord,Entire home/apt,278.02,21,29,29,4.23,17.0,Good,52.37657,4.973387
+Amsterdam,405144,Centrum,Entire home/apt,201.61,10,41,2,4.02,49.0,Good,52.425717,4.942026
+Amsterdam,461301,Buitenveldert,Entire home/apt,118.4,12,130,27,4.13,42.0,Good,52.35856,4.93767
+Amsterdam,490754,De Pijp,Private room,152.37,17,170,10,3.7,21.0,Good,52.428307,4.93425
+Amsterdam,908857,Jordaan,Entire home/apt,,6,98,0,3.76,39.0,Good,52.366289,4.901685
+Amsterdam,426751,Westerpark,Private room,200.33,22,39,83,3.98,50.0,Good,52.355784,4.947863
+Amsterdam,397949,Noord,Private room,96.5,1,48,22,4.41,41.0,Good,52.359649,4.92448
+Amsterdam,225295,Oost,Entire home/apt,159.45,14,95,31,4.03,29.0,Good,52.390526,4.952808
+Amsterdam,664709,Jordaan,Entire home/apt,185.2,24,38,2,3.38,13.0,Good,52.340408,4.867018
+Amsterdam,544683,De Pijp,Entire home/apt,151.69,7,118,93,5.0,46.0,Good,52.387069,4.879507
+Amsterdam,102475,De Pijp,Entire home/apt,149.4,3,254,8,4.24,24.0,Good,52.436573,4.953258
+Amsterdam,873824,Westerpark,Private room,214.45,9,57,37,3.55,20.0,Good,52.297797,4.926543
+Amsterdam,225284,Oost,Hotel room,224.46,1,277,26,4.03,33.0,Good,52.314159,4.951021
+Amsterdam,733216,Oud-West,Entire home/apt,147.0,29,110,16,4.35,27.0,Good,52.396548,4.857754
+Amsterdam,823236,De Pijp,Entire home/apt,76.69,4,47,51,4.78,44.0,Good,52.396814,4.916275
+Amsterdam,781546,Noord,Private room,177.66,1,284,4,4.6,33.0,Good,52.387214,4.878878
+Amsterdam,142237,Oud-West,Private room,94.16,24,30,13,4.09,20.0,Good,52.434482,4.945103
+Amsterdam,435649,Westerpark,Private room,222.61,9,274,25,3.97,,,52.407657,4.91553
+Amsterdam,647640,Noord,Private room,129.38,22,180,1,4.77,45.0,Good,52.341338,4.874008
+Amsterdam,750415,Oost,Entire home/apt,111.94,4,298,2,4.92,28.0,Good,52.403085,4.909767
+Amsterdam,273148,Westerpark,Private room,154.79,1,231,134,4.96,26.0,Good,52.38695,4.937875
+Amsterdam,434982,De Pijp,Entire home/apt,280.0,7,8,82,4.22,,,52.318497,4.879075
+Amsterdam,642667,Westerpark,Hotel room,175.58,22,283,7,4.42,34.0,Good,52.360838,4.950812
+Amsterdam,346901,Oud-West,Private room,134.3,17,85,44,4.46,33.0,Good,52.417677,4.958214
+Amsterdam,340644,Jordaan,Shared room,158.28,15,209,27,5.0,40.0,Good,52.391819,4.863485
+Amsterdam,332361,Westerpark,Private room,90.97,28,122,2,4.87,40.0,Good,52.426253,4.93146
+Amsterdam,191947,De Pijp,Entire home/apt,89.95,30,352,73,4.85,42.0,Good,52.404784,4.875127
+Amsterdam,374452,Centrum,Private room,280.0,10,44,36,4.59,38.0,Good,52.323563,4.882628
+Amsterdam,976203,Noord,Entire home/apt,103.5,3,74,7,4.36,48.0,Good,52.352587,4.873293
+Amsterdam,911575,Oud-West,Entire home/apt,266.19,3,365,29,4.66,19.0,Good,52.365553,4.840225
+Amsterdam,120373,Noord,Entire home/apt,239.05,29,306,89,4.87,46.0,Good,52.351766,4.945273
+Amsterdam,627694,Noord,Entire home/apt,280.0,13,259,4,4.87,34.0,Good,52.308251,4.940841
+Amsterdam,285598,Noord,Private room,,1,273,14,4.52,17.0,Good,52.393593,4.970318
+Amsterdam,845842,Oud-West,Private room,90.42,1,183,41,4.62,33.0,Good,52.325973,4.918961
+Amsterdam,106146,Oud-West,Entire home/apt,,16,294,206,4.56,31.0,Good,52.336613,4.943495
+Amsterdam,184650,Centrum,Entire home/apt,193.84,26,27,9,,35.0,Good,52.370269,4.848352
+Amsterdam,127697,Centrum,Entire home/apt,280.0,15,194,107,3.62,34.0,Good,52.409822,4.870298
+Amsterdam,741733,Oost,Private room,,1,115,82,3.84,62.0,Moderate,52.30176,4.858507
+Amsterdam,342503,Oud-West,Entire home/apt,113.87,30,65,20,3.68,42.0,Good,52.429022,4.927716
+Amsterdam,796365,Westerpark,Entire home/apt,153.74,2,25,38,4.44,32.0,Good,52.351293,4.884391
+Amsterdam,523106,Jordaan,Private room,243.02,4,9,39,4.56,27.0,Good,52.357657,4.863944
+Amsterdam,363598,Buitenveldert,Entire home/apt,227.39,2,196,18,4.44,25.0,Good,52.298994,4.966654
+Amsterdam,726144,Oost,Private room,165.05,2,30,21,4.24,15.0,Good,52.376838,4.966777
+Amsterdam,918710,Jordaan,Private room,120.68,1,7,22,4.25,35.0,Good,52.385976,4.872299
+Amsterdam,957570,De Pijp,Shared room,76.22,5,81,1,4.39,,,52.387504,4.925032
+Amsterdam,695822,Noord,Entire home/apt,280.0,2,248,1,4.28,55.0,Moderate,52.410977,4.860784
+Amsterdam,749920,De Pijp,Private room,213.38,30,251,11,4.09,35.0,Good,52.37223,4.869749
+Amsterdam,875260,Jordaan,Private room,218.28,6,27,19,4.45,43.0,Good,52.326179,4.865955
+Amsterdam,525664,Buitenveldert,Private room,166.95,15,253,19,3.45,17.0,Good,52.324408,4.916904
+Amsterdam,638387,Centrum,Private room,145.61,14,38,7,4.7,39.0,Good,52.420907,4.956746
+Amsterdam,459569,Oud-West,Shared room,251.78,18,286,28,4.08,27.0,Good,52.355288,4.898684
+Amsterdam,437427,Westerpark,Shared room,216.33,1,147,12,,48.0,Good,52.404598,4.941703
+Amsterdam,521681,Buitenveldert,Entire home/apt,136.5,2,113,49,4.75,33.0,Good,52.312746,4.959265
+Amsterdam,790154,Westerpark,Shared room,280.0,13,218,69,3.77,28.0,Good,52.366902,4.971999
+Amsterdam,532741,Buitenveldert,Entire home/apt,115.3,1,310,31,4.25,13.0,Good,52.359528,4.890458
+Amsterdam,688573,Oost,Entire home/apt,60.0,1,215,72,3.72,30.0,Good,52.319653,4.871324
+Amsterdam,941400,Oud-West,Private room,280.0,20,358,97,4.16,,,52.339092,4.954166
+Amsterdam,665978,Oud-West,Shared room,130.33,10,204,1,4.15,21.0,Good,52.431214,4.853965
+Amsterdam,219406,Oost,Entire home/apt,248.11,12,84,16,4.34,40.0,Good,52.318105,4.904584
+Amsterdam,957297,Jordaan,Entire home/apt,189.58,11,283,26,4.65,29.0,Good,52.308139,4.950615
+Amsterdam,211347,Westerpark,Private room,203.07,10,268,32,4.85,31.0,Good,52.314098,4.920954
+Amsterdam,693875,Westerpark,Private room,91.16,10,209,87,4.64,35.0,Good,52.39941,4.844506
+Amsterdam,841384,De Pijp,Entire home/apt,89.12,25,336,17,,54.0,Moderate,52.366342,4.95354
+Amsterdam,482841,Noord,Entire home/apt,,4,76,32,,19.0,Good,52.318583,4.944536
+Amsterdam,273308,Centrum,Shared room,124.38,2,239,150,3.8,22.0,Good,52.298043,4.849278
+Amsterdam,423471,Oost,Entire home/apt,280.0,4,264,35,,25.0,Good,52.423487,4.937724
+Amsterdam,832368,Westerpark,Private room,202.89,17,303,152,4.86,30.0,Good,52.423588,4.948257
+Amsterdam,842595,Jordaan,Shared room,280.0,27,335,4,4.98,33.0,Good,52.360356,4.843401
+Amsterdam,110406,Oud-West,Hotel room,256.34,3,190,21,4.57,23.0,Good,52.393968,4.866412
+Amsterdam,136888,Centrum,Entire home/apt,190.29,23,31,53,4.77,,,52.351816,4.835859
+Amsterdam,126546,Buitenveldert,Private room,176.61,3,150,139,3.82,48.0,Good,52.389301,4.925098
+Amsterdam,866450,Buitenveldert,Hotel room,173.01,20,52,26,3.55,40.0,Good,52.380755,4.840408
+Amsterdam,125280,Jordaan,Entire home/apt,268.75,16,320,3,5.0,33.0,Good,52.389471,4.859508
+Amsterdam,510757,Noord,Entire home/apt,211.0,7,257,21,4.13,17.0,Good,52.315715,4.846236
+Amsterdam,284063,Centrum,Entire home/apt,60.0,12,339,10,4.59,,,52.391386,4.871407
+Amsterdam,278362,Noord,Entire home/apt,132.54,2,233,17,4.64,48.0,Good,52.327176,4.916113
+Amsterdam,862525,Noord,Entire home/apt,70.52,6,348,22,4.76,30.0,Good,52.364748,4.967937
+Amsterdam,440865,Oost,Entire home/apt,83.88,2,255,55,5.0,40.0,Good,52.412565,4.855288
+Amsterdam,141729,Oost,Entire home/apt,181.53,14,320,76,3.76,32.0,Good,52.405615,4.920122
+Amsterdam,220192,Jordaan,Entire home/apt,166.92,29,272,18,3.72,28.0,Good,52.369303,4.849004
+Amsterdam,885202,Buitenveldert,Shared room,229.93,20,237,2,4.03,46.0,Good,52.409977,4.924704
+Amsterdam,538136,Buitenveldert,Entire home/apt,,6,81,25,3.97,,,52.336506,4.940588
+Amsterdam,167072,Buitenveldert,Shared room,151.23,3,205,8,4.32,28.0,Good,52.378652,4.836061
+Amsterdam,994983,Oost,Shared room,271.45,30,173,54,4.37,46.0,Good,52.300507,4.866968
+Amsterdam,669175,Buitenveldert,Shared room,175.17,13,289,67,3.8,33.0,Good,52.394178,4.876961
+Amsterdam,392618,Buitenveldert,Entire home/apt,214.92,18,183,19,4.56,24.0,Good,52.311654,4.90761
+Amsterdam,489089,De Pijp,Private room,73.42,1,56,4,4.69,31.0,Good,52.403936,4.865873
+Amsterdam,527742,Oud-West,Entire home/apt,101.72,22,262,39,4.92,30.0,Good,52.361411,4.903684
+Amsterdam,890309,Oost,Entire home/apt,164.24,5,161,4,4.34,24.0,Good,52.297939,4.864181
+Amsterdam,516875,Westerpark,Private room,118.64,1,108,124,4.48,33.0,Good,52.405814,4.881036
+Amsterdam,443269,Centrum,Entire home/apt,85.28,1,128,32,3.84,33.0,Good,52.352311,4.956543
+Amsterdam,707848,Noord,Private room,,10,339,47,3.98,31.0,Good,52.356372,4.935955
+Amsterdam,221412,Noord,Entire home/apt,82.41,3,9,8,4.85,29.0,Good,52.420258,4.876631
+Amsterdam,388002,De Pijp,Entire home/apt,280.0,18,209,8,3.93,34.0,Good,52.355637,4.896248
+Amsterdam,112765,Buitenveldert,Private room,258.02,27,23,3,4.02,32.0,Good,52.396564,4.877452
+Amsterdam,343764,Oud-West,Entire home/apt,122.83,17,56,19,4.09,50.0,Good,52.413258,4.923108
+Amsterdam,464060,Oud-West,Entire home/apt,239.8,12,171,17,3.9,22.0,Good,52.344232,4.861474
+Amsterdam,910932,Oost,Entire home/apt,266.23,6,243,20,5.0,31.0,Good,52.389459,4.952979
+Amsterdam,986803,Oost,Entire home/apt,81.5,1,157,59,3.9,24.0,Good,52.306282,4.919968
+Amsterdam,357070,De Pijp,Private room,91.45,14,173,75,4.47,38.0,Good,52.3446,4.960375
+Amsterdam,823563,Oud-West,Entire home/apt,61.86,2,6,37,3.72,52.0,Moderate,52.365623,4.946198
+Amsterdam,555576,Westerpark,Entire home/apt,189.67,1,217,1,3.35,41.0,Good,52.36761,4.899693
+Amsterdam,606263,De Pijp,Entire home/apt,85.05,6,280,44,4.3,48.0,Good,52.324437,4.871939
+Amsterdam,549427,Centrum,Entire home/apt,156.54,11,278,40,4.84,45.0,Good,52.393981,4.857344
+Amsterdam,503012,Jordaan,Entire home/apt,154.75,6,10,5,5.0,35.0,Good,52.320962,4.923697
+Amsterdam,781581,Oost,Private room,280.0,2,81,2,4.04,24.0,Good,52.315556,4.840786
+Amsterdam,354993,Noord,Private room,201.0,24,92,40,,21.0,Good,52.415958,4.844045
+Amsterdam,773663,Jordaan,Entire home/apt,202.2,25,80,37,4.62,35.0,Good,52.399286,4.856156
+Amsterdam,899690,De Pijp,Entire home/apt,60.0,3,166,15,3.59,29.0,Good,52.384387,4.881722
+Amsterdam,183720,Centrum,Private room,160.85,4,170,0,3.93,42.0,Good,52.319786,4.838766
+Amsterdam,646843,Oud-West,Private room,135.58,6,153,7,3.69,17.0,Good,52.329324,4.875684
+Amsterdam,161769,De Pijp,Hotel room,116.21,3,315,47,4.07,39.0,Good,52.351628,4.913744
+Amsterdam,753483,Noord,Entire home/apt,96.99,1,7,22,4.45,34.0,Good,52.435661,4.89035
+Amsterdam,454854,De Pijp,Entire home/apt,71.67,21,157,98,4.57,35.0,Good,52.377999,4.921833
+Amsterdam,496323,De Pijp,Entire home/apt,,3,308,128,4.44,34.0,Good,52.329762,4.843875
+Amsterdam,721692,De Pijp,Entire home/apt,166.54,20,175,22,4.15,40.0,Good,52.367484,4.973475
+Amsterdam,562418,Buitenveldert,Entire home/apt,97.67,28,148,0,4.72,29.0,Good,52.414449,4.844066
+Amsterdam,166701,Noord,Private room,154.18,13,52,6,3.97,33.0,Good,52.365343,4.849188
+Amsterdam,919601,Oud-West,Private room,178.08,28,331,99,4.63,39.0,Good,52.383981,4.910808
+Amsterdam,648138,De Pijp,Entire home/apt,145.08,20,241,7,4.53,56.0,Moderate,52.404824,4.880201
+Amsterdam,547839,Oud-West,Hotel room,280.0,18,358,25,4.06,35.0,Good,52.382654,4.950987
+Amsterdam,332762,Noord,Entire home/apt,280.0,20,219,13,3.58,28.0,Good,52.416586,4.843347
+Amsterdam,304794,Oud-West,Shared room,116.75,26,295,39,3.9,33.0,Good,52.310217,4.964918
+Amsterdam,981087,Oud-West,Private room,268.84,8,61,68,4.21,39.0,Good,52.330768,4.927686
+Amsterdam,246201,Oud-West,Entire home/apt,79.49,1,244,30,4.57,45.0,Good,52.404422,4.974069
+Amsterdam,493092,Centrum,Entire home/apt,135.34,25,100,1,4.62,34.0,Good,52.413352,4.952025
+Amsterdam,192453,Noord,Entire home/apt,101.33,1,195,2,4.29,26.0,Good,52.396659,4.897796
+Amsterdam,176521,Oud-West,Entire home/apt,280.0,6,46,52,4.31,26.0,Good,52.410569,4.970775
+Amsterdam,381705,De Pijp,Entire home/apt,280.0,1,63,17,4.27,37.0,Good,52.351325,4.928834
+Amsterdam,968744,Buitenveldert,Private room,207.77,2,189,85,3.74,43.0,Good,52.341921,4.868939
+Amsterdam,431096,Buitenveldert,Entire home/apt,136.46,15,116,58,5.0,55.0,Moderate,52.382459,4.951634
+Amsterdam,731213,Centrum,Entire home/apt,144.26,24,46,15,3.68,31.0,Good,52.39938,4.954951
+Amsterdam,394867,Westerpark,Entire home/apt,137.76,5,171,11,4.63,48.0,Good,52.312365,4.909973
+Amsterdam,724144,Centrum,Entire home/apt,280.0,3,171,14,4.68,38.0,Good,52.43753,4.9722
+Amsterdam,839473,Jordaan,Private room,157.71,1,144,20,4.55,52.0,Moderate,52.364747,4.901712
+Amsterdam,978433,Noord,Entire home/apt,280.0,30,61,15,,21.0,Good,52.432894,4.927742
+Amsterdam,357833,Jordaan,Private room,140.41,15,356,14,4.34,40.0,Good,52.375451,4.853433
+Amsterdam,178476,Westerpark,Entire home/apt,170.47,20,133,30,4.5,55.0,Moderate,52.330633,4.955595
+Amsterdam,265756,Noord,Entire home/apt,126.64,13,361,2,4.15,43.0,Good,52.408106,4.927185
+Amsterdam,921884,De Pijp,Entire home/apt,166.26,2,34,1,,38.0,Good,52.313384,4.942941
+Amsterdam,623248,Buitenveldert,Private room,176.84,10,34,40,4.69,31.0,Good,52.40634,4.884157
+Amsterdam,415959,Buitenveldert,Private room,61.42,26,26,55,4.24,44.0,Good,52.345459,4.951367
+Amsterdam,328532,Oud-West,Private room,224.66,18,265,15,4.25,58.0,Moderate,52.360417,4.964951
+Amsterdam,520198,Oost,Entire home/apt,101.28,11,329,21,4.13,50.0,Good,52.364191,4.85693
+Amsterdam,771452,De Pijp,Private room,167.53,7,36,35,4.69,33.0,Good,52.403181,4.93907
+Amsterdam,370507,Oud-West,Private room,206.87,3,155,19,4.44,51.0,Moderate,52.430189,4.914556
+Amsterdam,959182,Westerpark,Hotel room,242.64,1,34,17,3.53,22.0,Good,52.335712,4.944101
+Amsterdam,455782,De Pijp,Hotel room,85.51,13,355,44,4.41,48.0,Good,52.309193,4.845056
+Amsterdam,350032,Jordaan,Entire home/apt,257.67,24,91,58,4.59,31.0,Good,52.310474,4.972591
+Amsterdam,638021,Jordaan,Shared room,94.61,17,181,186,4.25,41.0,Good,52.339083,4.94311
+Amsterdam,335732,Oost,Entire home/apt,257.71,14,267,16,5.0,27.0,Good,52.43444,4.969015
+Amsterdam,681619,Oost,Entire home/apt,112.54,13,12,47,,41.0,Good,52.411548,4.876797
+Amsterdam,684170,Westerpark,Private room,277.7,24,276,14,4.32,24.0,Good,52.376239,4.942678
+Amsterdam,757216,Noord,Shared room,266.12,8,357,151,4.29,27.0,Good,52.368313,4.898247
+Amsterdam,302426,Jordaan,Entire home/apt,184.47,2,221,66,,8.0,Good,52.360934,4.885211
+Amsterdam,193195,Buitenveldert,Entire home/apt,88.29,8,182,3,3.75,40.0,Good,52.421118,4.921458
+Amsterdam,325640,Westerpark,Entire home/apt,276.22,19,204,106,4.5,35.0,Good,52.397669,4.915408
+Amsterdam,703269,Jordaan,Entire home/apt,221.76,2,300,82,3.91,43.0,Good,52.318962,4.950459
+Amsterdam,445958,Westerpark,Private room,280.0,7,51,34,4.34,47.0,Good,52.435315,4.848606
+Amsterdam,750586,Westerpark,Private room,171.99,28,171,11,4.57,44.0,Good,52.322931,4.933204
+Amsterdam,742673,Centrum,Private room,108.53,3,57,12,4.49,47.0,Good,52.346818,4.835418
+Amsterdam,542389,Centrum,Entire home/apt,162.83,1,122,55,4.35,40.0,Good,52.375209,4.913499
+Amsterdam,766398,Centrum,Entire home/apt,208.26,16,88,14,5.0,47.0,Good,52.364408,4.964139
+Amsterdam,246651,De Pijp,Entire home/apt,132.92,19,89,17,4.45,40.0,Good,52.353367,4.864837
+Amsterdam,847482,Buitenveldert,Shared room,132.16,23,303,2,3.93,38.0,Good,52.366472,4.85706
+Amsterdam,848469,Noord,Entire home/apt,214.27,19,198,50,5.0,25.0,Good,52.362536,4.911744
+Amsterdam,368754,Oost,Shared room,227.07,23,311,63,3.87,30.0,Good,52.372411,4.84524
+Amsterdam,225009,Centrum,Private room,190.96,20,180,25,4.07,25.0,Good,52.360007,4.956821
+Amsterdam,942532,Westerpark,Entire home/apt,226.86,3,164,43,4.24,33.0,Good,52.353159,4.907901
+Amsterdam,560657,Noord,Private room,280.0,1,106,78,4.44,27.0,Good,52.322911,4.909926
+Amsterdam,882939,Westerpark,Entire home/apt,134.66,14,196,31,4.04,32.0,Good,52.408898,4.879656
+Amsterdam,960784,Oud-West,Entire home/apt,167.97,3,28,8,3.88,47.0,Good,52.424116,4.910191
+Amsterdam,883545,Noord,Entire home/apt,82.09,2,322,42,3.69,40.0,Good,52.419092,4.968966
+Amsterdam,626883,Buitenveldert,Entire home/apt,95.38,1,197,16,4.3,39.0,Good,52.372925,4.898284
+Amsterdam,239917,Centrum,Entire home/apt,128.06,14,118,77,,,,52.414031,4.912542
+Amsterdam,376515,Noord,Private room,72.57,10,280,115,3.54,,,52.368396,4.913826
+Amsterdam,984678,Oost,Hotel room,120.2,3,318,44,4.65,14.0,Good,52.377744,4.962794
+Amsterdam,606888,Oud-West,Entire home/apt,67.28,2,182,161,4.56,33.0,Good,52.38757,4.876826
+Amsterdam,794486,Noord,Entire home/apt,280.0,23,277,37,4.34,43.0,Good,52.330513,4.917706
+Amsterdam,859857,De Pijp,Shared room,259.86,12,259,2,4.25,36.0,Good,52.409374,4.882964
+Amsterdam,145419,Jordaan,Hotel room,,7,240,19,3.67,61.0,Moderate,52.381656,4.93878
+Amsterdam,582393,Oost,Entire home/apt,280.0,25,90,29,3.9,31.0,Good,52.319476,4.885113
+Amsterdam,608483,De Pijp,Hotel room,131.1,12,193,13,4.07,25.0,Good,52.352156,4.937862
+Amsterdam,270269,Jordaan,Entire home/apt,214.5,3,199,12,3.98,9.0,Good,52.404389,4.88472
+Amsterdam,700634,Centrum,Entire home/apt,124.33,18,63,27,3.95,34.0,Good,52.405015,4.906056
+Amsterdam,723573,De Pijp,Private room,82.04,1,200,0,4.37,54.0,Moderate,52.413775,4.892617
+Amsterdam,891092,Westerpark,Private room,137.94,29,83,1,4.01,41.0,Good,52.308266,4.941059
+Amsterdam,805775,Westerpark,Entire home/apt,,1,15,22,4.06,23.0,Good,52.366784,4.866305
+Amsterdam,891930,Oud-West,Private room,152.59,12,339,9,3.7,35.0,Good,52.342173,4.844693
+Amsterdam,373069,Oud-West,Entire home/apt,161.09,24,191,25,5.0,27.0,Good,52.388166,4.929864
+Amsterdam,142537,Noord,Entire home/apt,138.87,15,14,52,4.76,31.0,Good,52.397002,4.9021
+Amsterdam,715531,Oud-West,Private room,,7,172,0,4.62,35.0,Good,52.316183,4.839647
+Amsterdam,539820,Jordaan,Private room,130.1,4,203,77,4.45,37.0,Good,52.340254,4.931338
+Amsterdam,960168,De Pijp,Entire home/apt,140.71,1,194,0,3.58,30.0,Good,52.334821,4.922626
+Amsterdam,901983,Jordaan,Entire home/apt,89.21,20,57,5,3.27,39.0,Good,52.377285,4.839382
+Amsterdam,243838,Westerpark,Entire home/apt,212.86,24,330,10,4.74,18.0,Good,52.317488,4.954168
+Amsterdam,858198,Oost,Shared room,182.16,5,293,16,4.77,25.0,Good,52.401058,4.918858
+Amsterdam,332057,Jordaan,Entire home/apt,280.0,12,48,69,4.39,43.0,Good,52.42129,4.874877
+Amsterdam,359108,Oud-West,Entire home/apt,103.35,2,135,35,4.27,16.0,Good,52.372175,4.922827
+Amsterdam,806515,Centrum,Private room,,7,355,43,4.04,24.0,Good,52.361854,4.878092
+Amsterdam,442950,Westerpark,Hotel room,65.09,20,27,14,4.21,40.0,Good,52.335087,4.905835
+Amsterdam,310181,Westerpark,Private room,115.17,15,138,6,4.62,16.0,Good,52.330079,4.862931
+Amsterdam,982329,Oud-West,Entire home/apt,154.96,2,110,51,4.41,32.0,Good,52.414772,4.865066
+Amsterdam,772288,Jordaan,Hotel room,85.25,11,19,1,3.74,38.0,Good,52.305225,4.86522
+Amsterdam,197599,Buitenveldert,Entire home/apt,264.28,21,258,7,4.21,37.0,Good,52.359736,4.935825
+Amsterdam,594403,Oost,Private room,243.25,4,168,29,4.99,37.0,Good,52.340355,4.91845
+Amsterdam,958338,Oost,Private room,,20,168,28,4.26,36.0,Good,52.343508,4.934946
+Amsterdam,304849,Oud-West,Private room,245.32,15,132,110,4.51,46.0,Good,52.41866,4.917269
+Amsterdam,332189,Buitenveldert,Entire home/apt,118.06,2,91,14,5.0,43.0,Good,52.434596,4.950465
+Amsterdam,959122,Buitenveldert,Entire home/apt,197.83,28,191,12,5.0,20.0,Good,52.371636,4.883902
+Amsterdam,524726,De Pijp,Private room,152.56,9,2,63,3.91,31.0,Good,52.375281,4.939703
+Amsterdam,217105,Buitenveldert,Private room,144.29,16,257,38,4.23,22.0,Good,52.374318,4.951614
+Amsterdam,466940,Buitenveldert,Entire home/apt,131.68,12,26,1,4.46,47.0,Good,52.419555,4.870764
+Amsterdam,286919,Oost,Entire home/apt,124.71,22,59,27,3.47,34.0,Good,52.327473,4.89705
+Amsterdam,464366,Westerpark,Entire home/apt,271.46,21,27,22,4.2,35.0,Good,52.403649,4.959427
+Amsterdam,866257,Buitenveldert,Entire home/apt,280.0,27,51,92,4.22,,,52.340846,4.954163
+Amsterdam,918807,Westerpark,Hotel room,182.29,16,361,19,4.29,40.0,Good,52.31575,4.849214
+Amsterdam,702347,De Pijp,Entire home/apt,225.02,2,337,128,4.23,32.0,Good,52.3842,4.912167
+Amsterdam,329091,Oud-West,Private room,93.38,1,365,7,4.59,48.0,Good,52.365248,4.913727
+Amsterdam,718191,Oud-West,Private room,69.02,2,39,52,4.18,43.0,Good,52.386745,4.887214
+Amsterdam,563052,Jordaan,Private room,280.0,12,311,75,4.36,38.0,Good,52.366747,4.910668
+Amsterdam,169397,Oost,Private room,75.88,24,228,26,4.67,51.0,Moderate,52.315238,4.855796
+Amsterdam,539725,Oud-West,Entire home/apt,218.21,17,64,30,4.29,48.0,Good,52.354317,4.94122
+Amsterdam,628668,Westerpark,Entire home/apt,,1,154,33,3.8,18.0,Good,52.359182,4.878498
+Amsterdam,304850,De Pijp,Entire home/apt,123.94,2,149,0,5.0,41.0,Good,52.31841,4.865191
+Amsterdam,716509,Oost,Entire home/apt,144.06,13,340,43,,16.0,Good,52.372291,4.948481
+Amsterdam,620456,Westerpark,Private room,60.0,16,296,17,5.0,37.0,Good,52.436208,4.961473
+Amsterdam,968810,Noord,Entire home/apt,135.83,9,325,38,4.3,15.0,Good,52.382386,4.916696
+Amsterdam,880473,Buitenveldert,Hotel room,280.0,16,294,33,3.14,,,52.433631,4.952309
+Amsterdam,498067,Centrum,Private room,100.44,3,196,9,4.51,38.0,Good,52.328806,4.86125
+Amsterdam,898189,Oost,Hotel room,105.11,24,236,5,4.64,33.0,Good,52.328544,4.840983
+Amsterdam,223412,De Pijp,Private room,280.0,11,100,80,,18.0,Good,52.434451,4.920647
+Amsterdam,545952,Oost,Entire home/apt,163.86,1,332,110,4.38,37.0,Good,52.405232,4.908067
+Amsterdam,199234,Centrum,Private room,175.5,26,57,13,4.41,35.0,Good,52.315747,4.959877
+Amsterdam,363227,De Pijp,Entire home/apt,242.28,26,286,42,4.25,35.0,Good,52.331745,4.840472
+Amsterdam,894429,Centrum,Entire home/apt,161.03,2,269,2,3.56,43.0,Good,52.329887,4.874884
+Amsterdam,597505,Jordaan,Private room,,14,342,48,,46.0,Good,52.340487,4.844665
+Amsterdam,924543,Oud-West,Private room,270.35,1,237,40,4.72,38.0,Good,52.348626,4.843529
+Amsterdam,927372,De Pijp,Shared room,280.0,23,235,40,4.76,16.0,Good,52.387743,4.874583
+Amsterdam,346238,Oost,Entire home/apt,167.48,3,173,36,4.31,31.0,Good,52.354869,4.948453
+Amsterdam,531175,Buitenveldert,Entire home/apt,76.57,8,241,138,4.06,20.0,Good,52.408749,4.905767
+Amsterdam,633917,De Pijp,Private room,235.46,27,353,19,5.0,32.0,Good,52.298731,4.871005
+Amsterdam,573360,Jordaan,Entire home/apt,203.16,27,62,131,,66.0,Moderate,52.380421,4.866606
+Amsterdam,102023,Buitenveldert,Private room,242.76,24,239,5,3.39,27.0,Good,52.415886,4.928419
+Amsterdam,630171,Centrum,Shared room,63.84,10,315,42,3.9,31.0,Good,52.410323,4.914152
+Amsterdam,215883,Jordaan,Private room,,29,353,3,3.06,35.0,Good,52.321579,4.895604
+Amsterdam,211282,Jordaan,Private room,131.05,1,333,29,5.0,37.0,Good,52.346716,4.85563
+Amsterdam,938941,Jordaan,Entire home/apt,187.42,21,313,58,4.36,23.0,Good,52.373014,4.847015
+Amsterdam,145270,De Pijp,Hotel room,150.41,12,315,0,3.32,35.0,Good,52.390357,4.837648
+Amsterdam,923809,Oost,Private room,280.0,10,234,50,4.72,27.0,Good,52.340302,4.926643
+Amsterdam,351676,De Pijp,Private room,218.81,13,152,80,3.83,15.0,Good,52.319874,4.840558
+Amsterdam,309143,Jordaan,Entire home/apt,192.31,7,340,30,4.65,54.0,Moderate,52.319513,4.910171
+Amsterdam,278450,Westerpark,Private room,184.06,19,127,64,5.0,31.0,Good,52.382439,4.859758
+Amsterdam,716300,Jordaan,Private room,272.72,4,238,93,4.34,38.0,Good,52.335885,4.973894
+Amsterdam,545759,Buitenveldert,Entire home/apt,81.33,15,130,4,4.66,36.0,Good,52.399181,4.952179
+Amsterdam,120400,De Pijp,Entire home/apt,86.66,4,125,89,5.0,42.0,Good,52.403886,4.938269
+Amsterdam,730556,Westerpark,Entire home/apt,141.81,15,240,7,3.52,31.0,Good,52.310611,4.923838
+Amsterdam,945168,Centrum,Entire home/apt,280.0,17,8,25,3.46,34.0,Good,52.358282,4.93999
+Amsterdam,943393,Oud-West,Entire home/apt,93.2,15,88,2,4.35,26.0,Good,52.309326,4.95048
+Amsterdam,510987,De Pijp,Private room,105.16,25,154,43,3.85,45.0,Good,52.395855,4.94652
+Amsterdam,113126,Oost,Shared room,220.62,11,16,33,4.92,41.0,Good,52.30605,4.908976
+Amsterdam,992416,De Pijp,Entire home/apt,81.94,3,362,54,4.62,49.0,Good,52.301031,4.94408
+Amsterdam,550379,Noord,Entire home/apt,189.44,19,314,39,,46.0,Good,52.371661,4.912547
+Amsterdam,106403,Buitenveldert,Hotel room,180.04,1,94,21,3.8,30.0,Good,52.385185,4.860622
+Amsterdam,425661,Buitenveldert,Private room,157.85,26,201,15,4.27,52.0,Moderate,52.402545,4.838924
+Amsterdam,142347,Centrum,Entire home/apt,218.15,1,168,106,4.43,37.0,Good,52.379412,4.956266
+Amsterdam,966334,Noord,Entire home/apt,187.26,19,66,87,4.37,10.0,Good,52.404141,4.906615
+Amsterdam,517213,Noord,Private room,199.18,30,239,75,4.38,25.0,Good,52.39888,4.88975
+Amsterdam,712216,Centrum,Private room,103.53,1,12,95,3.72,34.0,Good,52.334288,4.843815
+Amsterdam,865307,Centrum,Entire home/apt,151.15,6,154,25,4.59,33.0,Good,52.320748,4.964146
+Amsterdam,107171,Noord,Entire home/apt,122.82,18,156,21,3.55,19.0,Good,52.338021,4.930081
+Amsterdam,206328,Westerpark,Entire home/apt,280.0,1,154,45,4.99,16.0,Good,52.328268,4.900037
+Amsterdam,327694,Oud-West,Private room,69.26,25,364,11,4.04,43.0,Good,52.333363,4.969089
+Amsterdam,137895,Westerpark,Entire home/apt,178.96,26,41,27,3.5,48.0,Good,52.425583,4.96536
+Amsterdam,950421,Centrum,Shared room,280.0,5,27,85,4.61,36.0,Good,52.310011,4.890334
+Amsterdam,681576,Noord,Entire home/apt,204.67,24,314,200,4.22,40.0,Good,52.374918,4.970427
+Amsterdam,860481,De Pijp,Private room,141.13,16,62,3,4.34,24.0,Good,52.346821,4.936731
+Amsterdam,565165,Buitenveldert,Entire home/apt,280.0,28,206,4,4.57,48.0,Good,52.33381,4.896044
+Amsterdam,809235,Noord,Private room,184.57,21,254,153,3.64,36.0,Good,52.427279,4.924259
+Amsterdam,859253,Jordaan,Shared room,160.21,30,2,22,4.13,,,52.391662,4.973279
+Amsterdam,631998,Noord,Entire home/apt,186.22,16,30,14,3.33,31.0,Good,52.332196,4.954684
+Amsterdam,326547,De Pijp,Entire home/apt,154.23,16,138,124,4.33,38.0,Good,52.400988,4.935877
+Amsterdam,423125,Oud-West,Entire home/apt,60.0,2,307,23,3.88,,,52.398827,4.931995
+Amsterdam,724414,Buitenveldert,Entire home/apt,280.0,3,353,98,4.89,46.0,Good,52.356901,4.901607
+Amsterdam,679337,Oost,Private room,180.15,12,8,15,4.54,31.0,Good,52.361131,4.965689
+Amsterdam,185131,Centrum,Private room,240.49,12,223,11,4.44,34.0,Good,52.428992,4.860202
+Amsterdam,492774,Jordaan,Private room,169.08,1,258,12,4.19,25.0,Good,52.309541,4.927851
+Amsterdam,725418,Centrum,Entire home/apt,218.66,22,326,26,4.47,20.0,Good,52.314917,4.885174
+Amsterdam,573022,Buitenveldert,Entire home/apt,159.43,1,197,53,4.44,40.0,Good,52.378868,4.90174
+Amsterdam,467418,Centrum,Private room,210.38,2,219,4,3.62,31.0,Good,52.399173,4.892449
+Amsterdam,660209,De Pijp,Private room,132.23,28,122,64,,33.0,Good,52.382065,4.911406
+Amsterdam,616728,Oud-West,Private room,97.29,18,119,16,3.7,,,52.364999,4.932854
+Amsterdam,231918,Westerpark,Entire home/apt,151.4,25,124,7,3.43,,,52.38555,4.935246
+Amsterdam,656919,Centrum,Entire home/apt,231.55,11,232,37,4.39,19.0,Good,52.359636,4.877418
+Amsterdam,831142,Centrum,Entire home/apt,199.95,30,353,11,3.49,45.0,Good,52.401544,4.858939
+Amsterdam,781385,Oost,Entire home/apt,280.0,22,61,0,4.11,27.0,Good,52.436173,4.948234
+Amsterdam,101688,Noord,Entire home/apt,280.0,1,104,70,5.0,32.0,Good,52.390441,4.868573
+Amsterdam,489801,Oud-West,Hotel room,264.93,7,245,57,,29.0,Good,52.36108,4.894396
+Amsterdam,733490,Jordaan,Entire home/apt,,27,345,26,4.71,32.0,Good,52.410567,4.953696
+Amsterdam,886180,Buitenveldert,Private room,169.28,30,83,38,4.51,37.0,Good,52.420284,4.842684
+Amsterdam,215714,Jordaan,Private room,280.0,15,127,4,3.82,31.0,Good,52.309925,4.86586
+Amsterdam,731612,Buitenveldert,Hotel room,163.08,3,351,9,4.51,22.0,Good,52.298208,4.932275
+Amsterdam,350668,Jordaan,Entire home/apt,128.67,11,363,34,3.59,13.0,Good,52.338107,4.916697
+Amsterdam,278072,Oud-West,Entire home/apt,176.83,17,360,2,4.2,43.0,Good,52.398241,4.856375
+Amsterdam,267090,Oost,Private room,133.18,16,19,29,5.0,18.0,Good,52.425693,4.846332
+Amsterdam,839134,De Pijp,Entire home/apt,147.16,11,171,30,5.0,19.0,Good,52.337976,4.857123
+Amsterdam,921341,Oost,Shared room,91.92,4,200,18,3.98,27.0,Good,52.375991,4.920571
+Amsterdam,186222,Oud-West,Entire home/apt,96.56,2,143,51,4.52,45.0,Good,52.405887,4.834247
+Amsterdam,102106,Oud-West,Entire home/apt,111.43,2,130,22,4.06,51.0,Moderate,52.350119,4.909027
+Amsterdam,263426,Centrum,Private room,168.76,12,303,72,4.23,24.0,Good,52.337781,4.906339
+Amsterdam,312414,Buitenveldert,Private room,140.76,29,65,14,3.71,,,52.382511,4.914775
+Amsterdam,812713,Jordaan,Shared room,280.0,12,102,26,4.98,47.0,Good,52.339344,4.928211
+Amsterdam,362339,Jordaan,Entire home/apt,,1,123,13,,24.0,Good,52.406976,4.876628
+Amsterdam,342889,De Pijp,Entire home/apt,,17,121,2,4.49,35.0,Good,52.34259,4.858196
+Amsterdam,748756,Oud-West,Entire home/apt,252.8,4,344,97,4.0,37.0,Good,52.341074,4.938473
+Amsterdam,738327,Buitenveldert,Private room,90.46,2,359,1,4.4,49.0,Good,52.320882,4.846709
+Amsterdam,991109,Jordaan,Entire home/apt,159.16,17,213,17,4.44,18.0,Good,52.325198,4.900609
+Amsterdam,975413,Buitenveldert,Entire home/apt,188.44,22,146,14,4.54,57.0,Moderate,52.340752,4.925514
+Amsterdam,783804,De Pijp,Entire home/apt,280.0,21,93,118,4.46,29.0,Good,52.336624,4.970949
+Amsterdam,130676,Buitenveldert,Private room,166.09,6,48,44,4.53,31.0,Good,52.303025,4.973762
+Amsterdam,932942,Centrum,Entire home/apt,160.36,2,52,4,3.49,35.0,Good,52.313445,4.902475
+Amsterdam,703047,Westerpark,Private room,238.74,4,175,39,4.2,20.0,Good,52.324167,4.837951
+Amsterdam,599038,Buitenveldert,Private room,147.06,2,182,17,5.0,38.0,Good,52.378456,4.860948

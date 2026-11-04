@@ -1,0 +1,301 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Cape Town,579988,City Bowl,Entire home/apt,2161.86,2,349,22,3.89,25.0,Good,-33.95424,18.483332
+Cape Town,659240,Green Point,Private room,,2,275,5,,26.0,Good,-33.935122,18.358425
+Cape Town,779081,De Waterkant,Entire home/apt,1527.27,2,264,44,4.03,,,-33.962347,18.44184
+Cape Town,305986,Observatory,Private room,4194.02,16,356,1,4.57,28.0,Good,-33.928738,18.393505
+Cape Town,311373,City Bowl,Hotel room,1521.14,8,343,33,5.0,44.0,Good,-33.863252,18.372199
+Cape Town,707589,De Waterkant,Shared room,2544.08,3,38,68,,41.0,Good,-33.872609,18.432446
+Cape Town,264034,City Bowl,Private room,1214.86,21,140,22,4.46,50.0,Good,-33.958228,18.395942
+Cape Town,653636,Gardens,Shared room,1873.23,17,103,166,4.02,,,-33.943014,18.407863
+Cape Town,696239,City Bowl,Private room,1774.96,16,194,40,3.9,32.0,Good,-33.859842,18.387504
+Cape Town,982931,Sea Point,Entire home/apt,1168.68,28,283,14,3.7,35.0,Good,-33.899852,18.385812
+Cape Town,969554,Gardens,Private room,2234.03,3,38,38,5.0,27.0,Good,-33.979786,18.356926
+Cape Town,722366,Woodstock,Entire home/apt,975.35,3,87,226,2.59,42.0,Good,-33.900896,18.409314
+Cape Town,288455,Camps Bay,Entire home/apt,,26,233,76,4.62,24.0,Good,-33.866057,18.392289
+Cape Town,388186,Gardens,Entire home/apt,1606.81,2,60,37,4.23,26.0,Good,-33.969934,18.487101
+Cape Town,453375,Observatory,Entire home/apt,3375.98,11,295,21,4.06,7.0,Good,-33.888419,18.425726
+Cape Town,600470,Camps Bay,Entire home/apt,4077.42,10,319,205,4.46,44.0,Good,-33.863604,18.359503
+Cape Town,588169,Green Point,Private room,3252.86,23,4,25,3.92,28.0,Good,-33.990895,18.42358
+Cape Town,780843,Camps Bay,Private room,3514.77,2,328,75,4.26,40.0,Good,-33.915818,18.453222
+Cape Town,722871,Sea Point,Entire home/apt,3940.65,1,6,1,3.31,39.0,Good,-33.945552,18.384176
+Cape Town,144257,Sea Point,Entire home/apt,3295.57,28,40,11,4.34,32.0,Good,-33.993127,18.443579
+Cape Town,994260,De Waterkant,Entire home/apt,1211.12,28,54,19,5.0,48.0,Good,-33.874068,18.490425
+Cape Town,170425,Gardens,Private room,1844.54,13,249,69,5.0,40.0,Good,-33.980774,18.474048
+Cape Town,498214,Camps Bay,Entire home/apt,3336.86,5,103,62,4.55,16.0,Good,-33.960208,18.377899
+Cape Town,769014,Observatory,Private room,2999.33,2,193,147,3.87,25.0,Good,-33.941573,18.430468
+Cape Town,771344,Green Point,Entire home/apt,1353.28,11,100,130,4.32,51.0,Moderate,-33.889881,18.382525
+Cape Town,103599,Camps Bay,Shared room,3550.76,14,47,35,,17.0,Good,-33.93034,18.422557
+Cape Town,698731,Green Point,Private room,2231.39,18,166,3,3.07,15.0,Good,-33.949186,18.471317
+Cape Town,762576,Woodstock,Entire home/apt,2334.69,14,65,25,4.47,59.0,Moderate,-33.856058,18.450404
+Cape Town,354502,Observatory,Shared room,1061.21,19,311,50,3.76,37.0,Good,-33.862091,18.476171
+Cape Town,389332,Camps Bay,Entire home/apt,3447.85,3,204,62,4.17,28.0,Good,-33.857459,18.425378
+Cape Town,446834,De Waterkant,Entire home/apt,2021.52,28,345,1,4.7,50.0,Good,-33.884048,18.400332
+Cape Town,542376,Woodstock,Hotel room,2884.42,13,62,72,4.44,19.0,Good,-33.900336,18.47003
+Cape Town,424707,City Bowl,Entire home/apt,1201.26,13,70,25,3.98,26.0,Good,-33.896534,18.484315
+Cape Town,123530,Woodstock,Entire home/apt,3535.1,5,286,17,4.55,24.0,Good,-33.877286,18.451928
+Cape Town,129030,Sea Point,Private room,2579.44,12,356,2,3.85,33.0,Good,-33.905797,18.467714
+Cape Town,989639,De Waterkant,Entire home/apt,2372.44,6,64,51,4.18,21.0,Good,-33.86301,18.384137
+Cape Town,394485,Gardens,Hotel room,1717.47,11,302,8,3.51,26.0,Good,-33.951613,18.376218
+Cape Town,667729,Observatory,Private room,3541.22,15,187,44,3.99,36.0,Good,-33.909256,18.397435
+Cape Town,880799,Gardens,Entire home/apt,2934.41,2,258,188,4.2,,,-33.921744,18.477043
+Cape Town,970298,Gardens,Private room,1489.32,16,311,67,2.85,18.0,Good,-33.937241,18.434575
+Cape Town,880142,Sea Point,Entire home/apt,2675.67,19,86,45,4.42,33.0,Good,-33.875376,18.370272
+Cape Town,714281,Green Point,Entire home/apt,1611.96,25,93,1,4.55,20.0,Good,-33.949204,18.464058
+Cape Town,938164,Green Point,Private room,4500.0,1,301,1,4.49,,,-33.87117,18.382652
+Cape Town,746011,De Waterkant,Entire home/apt,3328.56,1,272,1,4.43,29.0,Good,-33.994869,18.449303
+Cape Town,802407,Gardens,Entire home/apt,2137.68,14,304,9,3.78,42.0,Good,-33.920484,18.365715
+Cape Town,213223,Green Point,Private room,2433.88,22,13,1,5.0,23.0,Good,-33.982773,18.379263
+Cape Town,972844,City Bowl,Entire home/apt,1657.0,12,347,59,4.69,45.0,Good,-33.913559,18.489116
+Cape Town,524096,Sea Point,Private room,,30,187,46,4.18,39.0,Good,-33.989396,18.472239
+Cape Town,169935,Camps Bay,Hotel room,4093.73,6,175,11,4.59,34.0,Good,-33.949022,18.371318
+Cape Town,352795,City Bowl,Entire home/apt,4500.0,28,246,40,4.54,41.0,Good,-33.932511,18.467869
+Cape Town,698945,De Waterkant,Entire home/apt,4285.48,1,31,14,4.42,26.0,Good,-33.856133,18.359549
+Cape Town,267829,Observatory,Entire home/apt,4087.88,3,34,46,3.91,26.0,Good,-33.965654,18.40341
+Cape Town,692830,Sea Point,Entire home/apt,2329.11,7,87,50,4.14,22.0,Good,-33.942463,18.455553
+Cape Town,365435,Green Point,Hotel room,2516.27,1,27,68,4.46,30.0,Good,-33.926474,18.438135
+Cape Town,665207,De Waterkant,Entire home/apt,2721.29,11,358,26,3.93,26.0,Good,-33.981931,18.469655
+Cape Town,176255,Green Point,Private room,2866.25,8,288,1,4.5,28.0,Good,-33.870706,18.412968
+Cape Town,414772,Green Point,Entire home/apt,1756.07,16,177,9,3.82,44.0,Good,-33.981097,18.44886
+Cape Town,195186,Woodstock,Entire home/apt,1550.7,6,316,89,3.35,28.0,Good,-33.900682,18.447458
+Cape Town,834476,Observatory,Private room,4500.0,23,191,23,3.88,18.0,Good,-33.949297,18.488967
+Cape Town,332089,Camps Bay,Hotel room,3214.11,6,263,11,4.67,26.0,Good,-33.905305,18.434084
+Cape Town,300165,Gardens,Entire home/apt,2658.06,20,351,100,4.69,34.0,Good,-33.917985,18.445242
+Cape Town,586377,Woodstock,Entire home/apt,2376.49,2,57,15,3.99,21.0,Good,-33.982689,18.410345
+Cape Town,265434,Green Point,Entire home/apt,817.49,16,328,11,5.0,21.0,Good,-33.974203,18.380025
+Cape Town,671120,Woodstock,Entire home/apt,4500.0,26,261,4,4.41,23.0,Good,-33.940328,18.458174
+Cape Town,631181,De Waterkant,Private room,835.1,24,245,2,4.8,32.0,Good,-33.885259,18.378883
+Cape Town,980855,De Waterkant,Entire home/apt,2018.54,1,218,69,3.71,28.0,Good,-33.88312,18.400773
+Cape Town,182046,Green Point,Entire home/apt,4500.0,3,344,45,3.32,47.0,Good,-33.978183,18.409194
+Cape Town,761947,De Waterkant,Entire home/apt,3679.65,1,83,7,5.0,28.0,Good,-33.981217,18.400718
+Cape Town,852605,Camps Bay,Entire home/apt,1000.71,29,85,23,3.99,14.0,Good,-33.920192,18.482014
+Cape Town,746496,Green Point,Entire home/apt,3348.37,3,356,48,4.9,,,-33.930066,18.384554
+Cape Town,937632,Green Point,Private room,,15,214,42,,,,-33.93331,18.481453
+Cape Town,467119,Camps Bay,Entire home/apt,3348.11,13,139,65,4.69,,,-33.979033,18.400741
+Cape Town,571735,De Waterkant,Entire home/apt,1675.3,2,113,45,5.0,32.0,Good,-33.969249,18.374431
+Cape Town,565056,Woodstock,Shared room,2999.76,13,137,8,4.78,43.0,Good,-33.97382,18.465896
+Cape Town,809654,De Waterkant,Hotel room,4150.86,30,98,59,4.49,27.0,Good,-33.946427,18.459607
+Cape Town,848867,Observatory,Entire home/apt,3106.45,21,304,58,4.62,20.0,Good,-33.983954,18.453168
+Cape Town,365957,Observatory,Entire home/apt,3880.77,4,95,8,4.1,24.0,Good,-33.877106,18.367027
+Cape Town,677357,Sea Point,Shared room,4500.0,25,136,13,4.26,37.0,Good,-33.906854,18.391625
+Cape Town,560489,Sea Point,Private room,,22,78,1,4.93,13.0,Good,-33.979763,18.392797
+Cape Town,571037,Camps Bay,Private room,2218.21,19,315,12,5.0,46.0,Good,-33.963423,18.396649
+Cape Town,464200,Woodstock,Private room,2760.93,9,347,0,,19.0,Good,-33.857528,18.381724
+Cape Town,135590,Observatory,Hotel room,1942.98,15,340,67,4.05,44.0,Good,-33.965054,18.425047
+Cape Town,281100,City Bowl,Entire home/apt,1408.83,15,304,113,5.0,35.0,Good,-33.882781,18.407154
+Cape Town,257695,Green Point,Shared room,4500.0,2,90,23,4.94,28.0,Good,-33.855936,18.355699
+Cape Town,276803,City Bowl,Entire home/apt,4500.0,3,271,46,,19.0,Good,-33.863109,18.464391
+Cape Town,417574,Observatory,Entire home/apt,1672.72,22,183,17,4.62,41.0,Good,-33.861415,18.453223
+Cape Town,987083,Gardens,Private room,2998.16,20,138,73,5.0,30.0,Good,-33.943962,18.413366
+Cape Town,373596,Camps Bay,Entire home/apt,1067.86,10,306,48,4.07,25.0,Good,-33.96598,18.456778
+Cape Town,159926,Observatory,Private room,,3,42,138,3.8,28.0,Good,-33.930582,18.378942
+Cape Town,590182,Green Point,Entire home/apt,3475.02,15,245,17,,18.0,Good,-33.896777,18.424694
+Cape Town,975630,Camps Bay,Entire home/apt,3154.47,29,88,53,4.28,22.0,Good,-33.921806,18.421538
+Cape Town,548198,City Bowl,Entire home/apt,3415.59,23,271,48,4.42,27.0,Good,-33.86067,18.421433
+Cape Town,347088,Observatory,Entire home/apt,4500.0,6,196,2,3.88,17.0,Good,-33.994208,18.369196
+Cape Town,970456,Observatory,Private room,1699.26,21,153,24,4.73,23.0,Good,-33.89599,18.484781
+Cape Town,215749,Woodstock,Private room,2688.17,2,42,19,3.96,39.0,Good,-33.967928,18.356517
+Cape Town,149890,Camps Bay,Private room,2218.0,27,64,12,3.95,29.0,Good,-33.929075,18.405511
+Cape Town,491973,Woodstock,Private room,,1,204,52,4.55,50.0,Good,-33.947833,18.478593
+Cape Town,321840,Woodstock,Entire home/apt,4500.0,11,303,11,4.52,20.0,Good,-33.95163,18.394302
+Cape Town,647090,De Waterkant,Private room,2505.78,11,284,11,4.56,37.0,Good,-33.882614,18.363181
+Cape Town,663281,De Waterkant,Private room,3141.19,28,63,12,4.74,40.0,Good,-33.93399,18.426981
+Cape Town,592415,De Waterkant,Private room,3612.4,24,188,49,4.68,47.0,Good,-33.922094,18.474577
+Cape Town,379833,Sea Point,Private room,1409.61,2,349,109,4.47,33.0,Good,-33.965434,18.437747
+Cape Town,642068,Sea Point,Entire home/apt,1766.75,2,203,151,4.03,28.0,Good,-33.872327,18.377266
+Cape Town,661474,Green Point,Private room,1429.65,17,252,76,4.86,59.0,Moderate,-33.886067,18.393673
+Cape Town,238893,Woodstock,Entire home/apt,,2,278,25,3.86,37.0,Good,-33.878021,18.393557
+Cape Town,381919,Green Point,Entire home/apt,4500.0,3,116,18,4.54,33.0,Good,-33.926534,18.3996
+Cape Town,497062,Observatory,Private room,4156.55,7,205,0,,25.0,Good,-33.946914,18.362958
+Cape Town,325994,Woodstock,Private room,3101.81,25,206,45,4.1,34.0,Good,-33.929604,18.429006
+Cape Town,391431,Observatory,Private room,2702.17,28,156,34,4.59,45.0,Good,-33.901972,18.44464
+Cape Town,399105,Woodstock,Entire home/apt,3260.49,2,309,74,5.0,26.0,Good,-33.871113,18.426707
+Cape Town,592059,City Bowl,Entire home/apt,1452.42,27,94,4,4.49,34.0,Good,-33.982584,18.43037
+Cape Town,944122,De Waterkant,Hotel room,1136.28,9,362,32,4.0,,,-33.872672,18.422476
+Cape Town,212199,Woodstock,Private room,1746.07,8,98,3,4.25,33.0,Good,-33.885221,18.393002
+Cape Town,956552,Observatory,Shared room,1836.54,23,283,54,4.81,33.0,Good,-33.88607,18.469025
+Cape Town,931538,Green Point,Entire home/apt,1433.99,1,209,12,4.27,17.0,Good,-33.905813,18.412531
+Cape Town,152483,Green Point,Entire home/apt,3608.56,21,290,35,5.0,21.0,Good,-33.936754,18.387617
+Cape Town,663104,De Waterkant,Entire home/apt,1982.61,2,293,8,3.74,17.0,Good,-33.919635,18.397371
+Cape Town,762811,City Bowl,Entire home/apt,2261.35,10,118,97,4.76,36.0,Good,-33.880379,18.372246
+Cape Town,191866,Gardens,Hotel room,1840.59,14,274,22,3.97,30.0,Good,-33.97689,18.446187
+Cape Town,290038,Gardens,Entire home/apt,4026.33,30,61,28,5.0,33.0,Good,-33.890008,18.452662
+Cape Town,565002,De Waterkant,Entire home/apt,2175.53,25,322,88,3.97,35.0,Good,-33.939575,18.407005
+Cape Town,857732,De Waterkant,Entire home/apt,2193.15,4,193,2,5.0,16.0,Good,-33.869637,18.413093
+Cape Town,707892,Woodstock,Hotel room,4228.58,2,64,17,3.87,19.0,Good,-33.894725,18.493276
+Cape Town,999317,City Bowl,Private room,4500.0,8,194,35,4.86,37.0,Good,-33.984108,18.464014
+Cape Town,720199,Camps Bay,Private room,1653.61,3,4,65,3.69,36.0,Good,-33.886428,18.358305
+Cape Town,578190,Gardens,Entire home/apt,1307.12,11,19,3,4.2,34.0,Good,-33.922797,18.480191
+Cape Town,756946,De Waterkant,Entire home/apt,1809.17,2,334,183,4.58,25.0,Good,-33.965106,18.406875
+Cape Town,555790,De Waterkant,Entire home/apt,1069.34,27,172,65,4.4,31.0,Good,-33.879311,18.455268
+Cape Town,383391,Observatory,Entire home/apt,2206.83,14,344,216,4.05,33.0,Good,-33.884368,18.429642
+Cape Town,684204,Observatory,Entire home/apt,2568.16,1,247,28,4.64,46.0,Good,-33.869224,18.465374
+Cape Town,772937,Woodstock,Private room,4500.0,13,351,102,4.55,31.0,Good,-33.990672,18.43
+Cape Town,766709,Camps Bay,Private room,2095.24,11,258,60,4.34,37.0,Good,-33.903588,18.364454
+Cape Town,469663,Green Point,Entire home/apt,1781.42,18,147,44,4.25,34.0,Good,-33.934224,18.377187
+Cape Town,493255,Observatory,Private room,3560.96,27,32,54,4.28,44.0,Good,-33.854928,18.47111
+Cape Town,412970,Camps Bay,Hotel room,1065.64,17,232,39,4.47,,,-33.967328,18.372269
+Cape Town,503817,Gardens,Private room,4292.1,2,142,41,4.23,21.0,Good,-33.951104,18.467002
+Cape Town,737655,City Bowl,Private room,2809.8,1,133,16,3.56,32.0,Good,-33.879278,18.398546
+Cape Town,137722,Sea Point,Private room,2558.7,7,357,88,4.62,32.0,Good,-33.957135,18.453423
+Cape Town,275557,Green Point,Entire home/apt,2867.87,14,163,18,4.73,,,-33.923504,18.394935
+Cape Town,958395,Gardens,Shared room,2470.01,1,167,6,3.69,23.0,Good,-33.961646,18.451802
+Cape Town,171601,Camps Bay,Entire home/apt,2238.32,20,332,24,4.45,8.0,Good,-33.959179,18.388614
+Cape Town,932258,Gardens,Entire home/apt,3487.96,5,316,4,4.21,23.0,Good,-33.956166,18.385619
+Cape Town,272606,Sea Point,Entire home/apt,3425.43,26,180,98,4.18,31.0,Good,-33.863464,18.354729
+Cape Town,667905,Camps Bay,Entire home/apt,1107.85,13,46,8,4.33,21.0,Good,-33.952654,18.435461
+Cape Town,493191,Sea Point,Private room,3542.18,11,323,141,4.29,28.0,Good,-33.941757,18.46619
+Cape Town,500541,Sea Point,Entire home/apt,1328.81,1,113,12,4.36,54.0,Moderate,-33.913759,18.431428
+Cape Town,405691,City Bowl,Entire home/apt,2063.92,3,211,3,4.66,25.0,Good,-33.889195,18.482797
+Cape Town,186046,City Bowl,Entire home/apt,,18,209,21,4.49,22.0,Good,-33.916912,18.454145
+Cape Town,621885,Sea Point,Private room,2496.3,6,60,33,4.71,37.0,Good,-33.884427,18.396136
+Cape Town,971133,City Bowl,Entire home/apt,1670.8,22,344,4,4.31,34.0,Good,-33.86906,18.461796
+Cape Town,598603,Observatory,Private room,2680.35,20,235,28,4.74,33.0,Good,-33.911713,18.436059
+Cape Town,895887,City Bowl,Private room,2098.64,9,357,16,4.89,,,-33.930737,18.439039
+Cape Town,659750,City Bowl,Private room,2124.12,1,233,70,,37.0,Good,-33.861253,18.380117
+Cape Town,825597,Gardens,Entire home/apt,2445.72,4,38,51,,34.0,Good,-33.886896,18.448189
+Cape Town,323030,Camps Bay,Private room,1789.25,4,187,115,4.91,35.0,Good,-33.951633,18.358057
+Cape Town,681551,Sea Point,Private room,3663.03,20,336,137,3.83,16.0,Good,-33.937702,18.389173
+Cape Town,233395,Camps Bay,Entire home/apt,1290.44,1,325,28,4.53,32.0,Good,-33.874835,18.35427
+Cape Town,604536,City Bowl,Entire home/apt,2492.07,16,218,141,3.52,20.0,Good,-33.892957,18.420612
+Cape Town,753998,Gardens,Entire home/apt,1802.09,2,271,69,4.12,44.0,Good,-33.963927,18.388864
+Cape Town,753907,De Waterkant,Entire home/apt,2719.75,2,152,9,4.23,35.0,Good,-33.941846,18.443986
+Cape Town,701934,Observatory,Entire home/apt,1764.3,1,39,40,3.97,25.0,Good,-33.87663,18.456158
+Cape Town,714671,Sea Point,Private room,4461.46,24,188,79,4.19,35.0,Good,-33.868514,18.388804
+Cape Town,357781,Sea Point,Entire home/apt,2145.19,18,99,40,4.31,37.0,Good,-33.961843,18.383915
+Cape Town,471304,Observatory,Entire home/apt,4500.0,5,72,33,4.42,44.0,Good,-33.892557,18.433125
+Cape Town,492537,Observatory,Private room,2649.67,8,296,3,4.43,34.0,Good,-33.915165,18.388658
+Cape Town,418158,Observatory,Private room,1751.01,3,268,60,4.52,48.0,Good,-33.917608,18.492145
+Cape Town,804976,Green Point,Entire home/apt,2547.05,24,312,43,4.5,31.0,Good,-33.95637,18.382157
+Cape Town,852998,City Bowl,Entire home/apt,4088.7,3,338,29,5.0,36.0,Good,-33.900387,18.363221
+Cape Town,980535,Green Point,Entire home/apt,2742.27,16,30,15,4.52,55.0,Moderate,-33.987777,18.451776
+Cape Town,524678,Gardens,Entire home/apt,,11,310,53,3.7,23.0,Good,-33.927037,18.388215
+Cape Town,432266,Sea Point,Hotel room,1510.77,13,284,84,4.65,43.0,Good,-33.911771,18.466059
+Cape Town,627781,Woodstock,Entire home/apt,1843.78,3,123,9,3.94,25.0,Good,-33.942581,18.363412
+Cape Town,613695,De Waterkant,Entire home/apt,2905.96,25,52,100,4.31,27.0,Good,-33.913629,18.376545
+Cape Town,156552,Sea Point,Entire home/apt,4355.44,2,214,2,4.74,29.0,Good,-33.973665,18.381381
+Cape Town,972869,Camps Bay,Entire home/apt,1220.99,3,134,4,4.52,24.0,Good,-33.948711,18.405186
+Cape Town,219397,City Bowl,Private room,4500.0,14,100,36,4.25,21.0,Good,-33.975239,18.44369
+Cape Town,121946,Green Point,Entire home/apt,1753.14,28,176,120,3.96,39.0,Good,-33.908369,18.458263
+Cape Town,850269,Camps Bay,Entire home/apt,1358.55,10,51,13,3.92,16.0,Good,-33.855304,18.454222
+Cape Town,723547,Gardens,Private room,1866.63,1,142,181,4.74,21.0,Good,-33.920709,18.456545
+Cape Town,585622,Camps Bay,Entire home/apt,3597.37,28,59,38,4.18,23.0,Good,-33.979394,18.396128
+Cape Town,435225,Woodstock,Entire home/apt,1925.73,2,302,4,3.82,21.0,Good,-33.888348,18.449821
+Cape Town,355315,Green Point,Private room,1408.17,2,54,30,4.73,34.0,Good,-33.894336,18.478014
+Cape Town,821777,Green Point,Hotel room,3942.07,15,201,106,4.72,48.0,Good,-33.943209,18.458301
+Cape Town,632237,Camps Bay,Private room,,24,269,147,4.5,13.0,Good,-33.885456,18.484868
+Cape Town,794833,De Waterkant,Private room,4500.0,2,119,17,2.98,31.0,Good,-33.881929,18.431946
+Cape Town,222846,Woodstock,Entire home/apt,1112.39,21,289,63,3.69,25.0,Good,-33.898491,18.354222
+Cape Town,736258,Sea Point,Shared room,3954.64,9,298,3,3.84,,,-33.96113,18.420853
+Cape Town,653191,De Waterkant,Entire home/apt,1720.42,24,212,78,4.76,36.0,Good,-33.907435,18.436616
+Cape Town,334930,Gardens,Entire home/apt,3130.81,2,90,52,3.85,15.0,Good,-33.988906,18.40442
+Cape Town,602363,Woodstock,Entire home/apt,2364.78,12,141,29,4.33,28.0,Good,-33.969401,18.413799
+Cape Town,114464,City Bowl,Private room,2783.58,1,255,52,4.9,,,-33.990935,18.491293
+Cape Town,815916,Camps Bay,Private room,3286.52,29,102,0,3.49,30.0,Good,-33.916304,18.452451
+Cape Town,546704,De Waterkant,Hotel room,3627.87,8,229,7,3.84,28.0,Good,-33.893733,18.399652
+Cape Town,705418,Observatory,Private room,2006.91,2,206,11,4.6,32.0,Good,-33.885149,18.366982
+Cape Town,871322,Sea Point,Entire home/apt,3387.18,3,305,5,4.46,,,-33.96432,18.393644
+Cape Town,378553,City Bowl,Entire home/apt,2730.09,13,218,49,3.81,32.0,Good,-33.985688,18.37232
+Cape Town,840995,City Bowl,Entire home/apt,2746.27,23,77,9,4.17,16.0,Good,-33.861957,18.445829
+Cape Town,847386,City Bowl,Private room,3820.06,1,357,7,4.13,36.0,Good,-33.967006,18.417814
+Cape Town,622406,Observatory,Shared room,,17,286,16,4.24,27.0,Good,-33.917042,18.38015
+Cape Town,291534,Camps Bay,Entire home/apt,1483.79,18,14,128,4.72,15.0,Good,-33.887924,18.427031
+Cape Town,194373,Green Point,Entire home/apt,1200.07,17,143,112,4.5,35.0,Good,-33.987254,18.406596
+Cape Town,276729,Green Point,Entire home/apt,4500.0,1,144,66,4.49,37.0,Good,-33.989067,18.474262
+Cape Town,390608,Camps Bay,Shared room,1684.71,18,158,38,4.48,27.0,Good,-33.886425,18.363423
+Cape Town,731100,Observatory,Entire home/apt,3500.3,25,231,313,,19.0,Good,-33.867525,18.425835
+Cape Town,101824,City Bowl,Shared room,1803.61,3,113,8,5.0,40.0,Good,-33.986105,18.377216
+Cape Town,932120,Woodstock,Entire home/apt,,20,210,16,,34.0,Good,-33.88278,18.404277
+Cape Town,838726,Observatory,Entire home/apt,4371.69,5,156,12,3.01,,,-33.93609,18.461597
+Cape Town,902932,De Waterkant,Entire home/apt,3836.48,23,107,3,4.67,35.0,Good,-33.869737,18.361888
+Cape Town,171983,Camps Bay,Entire home/apt,2259.61,18,22,119,4.6,36.0,Good,-33.974333,18.401397
+Cape Town,491187,Observatory,Private room,2952.31,21,345,2,4.72,37.0,Good,-33.964143,18.485936
+Cape Town,705555,Gardens,Entire home/apt,2236.87,22,176,29,4.56,39.0,Good,-33.984219,18.420512
+Cape Town,835002,Sea Point,Private room,2094.92,12,320,32,4.83,34.0,Good,-33.971208,18.407809
+Cape Town,580428,De Waterkant,Entire home/apt,1077.81,13,116,88,5.0,17.0,Good,-33.944948,18.380254
+Cape Town,779074,De Waterkant,Private room,,9,123,54,4.07,42.0,Good,-33.968255,18.477047
+Cape Town,247500,Sea Point,Private room,3866.43,14,269,3,4.66,14.0,Good,-33.888945,18.438442
+Cape Town,760441,Sea Point,Entire home/apt,1742.42,23,195,43,3.96,43.0,Good,-33.948914,18.482124
+Cape Town,529671,De Waterkant,Shared room,3544.99,15,207,48,4.25,55.0,Moderate,-33.963429,18.47061
+Cape Town,355217,Gardens,Entire home/apt,2311.75,3,349,30,4.06,27.0,Good,-33.857456,18.355801
+Cape Town,270594,Green Point,Entire home/apt,4500.0,9,30,14,4.95,20.0,Good,-33.961885,18.437553
+Cape Town,147147,Green Point,Shared room,3315.53,8,236,55,3.81,14.0,Good,-33.859961,18.418814
+Cape Town,704346,Sea Point,Entire home/apt,1368.0,26,56,52,4.21,27.0,Good,-33.86541,18.373452
+Cape Town,908612,Green Point,Entire home/apt,2312.48,20,38,67,3.43,19.0,Good,-33.871889,18.423246
+Cape Town,259484,Observatory,Private room,2011.47,23,80,6,4.93,38.0,Good,-33.901509,18.478642
+Cape Town,326551,Observatory,Entire home/apt,1326.66,2,4,91,4.12,31.0,Good,-33.975771,18.487583
+Cape Town,761507,Green Point,Entire home/apt,4500.0,3,316,39,3.55,36.0,Good,-33.938499,18.478898
+Cape Town,349960,Sea Point,Entire home/apt,3921.02,2,6,94,4.61,29.0,Good,-33.971199,18.389037
+Cape Town,536441,Gardens,Entire home/apt,2802.25,10,264,33,4.6,42.0,Good,-33.973661,18.416996
+Cape Town,523732,Sea Point,Entire home/apt,1452.2,24,355,25,4.31,30.0,Good,-33.921372,18.382814
+Cape Town,596346,Sea Point,Entire home/apt,1954.29,12,124,37,4.34,29.0,Good,-33.872037,18.425598
+Cape Town,759159,Camps Bay,Entire home/apt,1684.55,5,215,0,4.01,,,-33.961883,18.41261
+Cape Town,298186,Camps Bay,Entire home/apt,2335.46,3,347,132,4.11,44.0,Good,-33.90869,18.449073
+Cape Town,947214,Woodstock,Entire home/apt,2410.54,26,351,169,4.78,31.0,Good,-33.85677,18.401497
+Cape Town,322316,Observatory,Private room,4500.0,3,163,50,4.21,,,-33.949106,18.450349
+Cape Town,494907,Green Point,Entire home/apt,4196.89,25,242,71,4.29,21.0,Good,-33.934814,18.376025
+Cape Town,400596,City Bowl,Entire home/apt,2233.38,17,102,18,4.12,27.0,Good,-33.994189,18.421682
+Cape Town,265438,Sea Point,Shared room,2105.19,30,18,72,4.7,33.0,Good,-33.955281,18.377397
+Cape Town,192563,Woodstock,Hotel room,2612.77,20,42,4,,37.0,Good,-33.937631,18.45812
+Cape Town,691937,Green Point,Entire home/apt,3853.37,18,331,13,3.82,36.0,Good,-33.861885,18.406469
+Cape Town,917583,Camps Bay,Private room,931.4,10,268,20,3.61,32.0,Good,-33.958541,18.364475
+Cape Town,642998,De Waterkant,Entire home/apt,2347.17,13,160,27,4.52,34.0,Good,-33.948692,18.35422
+Cape Town,642000,Gardens,Entire home/apt,3148.92,18,114,97,4.83,76.0,Moderate,-33.893848,18.395825
+Cape Town,518388,Camps Bay,Entire home/apt,3729.12,18,104,16,4.35,28.0,Good,-33.945475,18.442775
+Cape Town,523828,Camps Bay,Entire home/apt,4500.0,26,177,2,,16.0,Good,-33.921372,18.48339
+Cape Town,216014,Green Point,Private room,2163.02,14,30,53,4.39,22.0,Good,-33.901983,18.394899
+Cape Town,951992,Camps Bay,Entire home/apt,,3,172,6,3.99,42.0,Good,-33.95796,18.390946
+Cape Town,865788,City Bowl,Entire home/apt,4500.0,3,355,238,4.46,24.0,Good,-33.97918,18.465722
+Cape Town,647534,Woodstock,Hotel room,1673.54,2,310,4,3.87,28.0,Good,-33.909796,18.434601
+Cape Town,500784,Green Point,Private room,4500.0,13,271,63,4.92,33.0,Good,-33.945363,18.442567
+Cape Town,416666,De Waterkant,Entire home/apt,2808.38,21,338,67,3.96,20.0,Good,-33.953544,18.45757
+Cape Town,557056,City Bowl,Entire home/apt,2667.18,2,7,15,4.2,27.0,Good,-33.875265,18.400015
+Cape Town,792951,Camps Bay,Private room,1658.61,17,192,29,4.84,30.0,Good,-33.884812,18.471778
+Cape Town,673480,Green Point,Shared room,1185.48,2,235,7,4.58,34.0,Good,-33.968628,18.462605
+Cape Town,142701,City Bowl,Private room,4500.0,23,335,31,,25.0,Good,-33.928724,18.467102
+Cape Town,343756,De Waterkant,Entire home/apt,1342.76,3,257,125,3.83,31.0,Good,-33.994774,18.405935
+Cape Town,558033,Camps Bay,Entire home/apt,3674.9,8,237,11,4.75,32.0,Good,-33.955692,18.43108
+Cape Town,836016,Observatory,Entire home/apt,3644.08,28,105,2,3.53,19.0,Good,-33.884463,18.414903
+Cape Town,805317,Gardens,Entire home/apt,2722.7,1,356,25,3.89,57.0,Moderate,-33.988781,18.426084
+Cape Town,356592,De Waterkant,Private room,2035.67,10,195,0,3.85,26.0,Good,-33.894266,18.463057
+Cape Town,795020,Green Point,Private room,1707.88,15,151,47,3.65,40.0,Good,-33.985814,18.479202
+Cape Town,909743,Green Point,Entire home/apt,2267.62,26,365,27,3.41,,,-33.908931,18.435686
+Cape Town,158455,Camps Bay,Entire home/apt,2459.57,15,363,44,4.33,46.0,Good,-33.886312,18.461041
+Cape Town,389943,Camps Bay,Entire home/apt,2987.36,11,244,32,3.51,33.0,Good,-33.923185,18.371828
+Cape Town,107642,Sea Point,Entire home/apt,2586.41,26,160,0,4.91,22.0,Good,-33.87491,18.468501
+Cape Town,203856,City Bowl,Entire home/apt,2311.48,24,335,3,4.22,25.0,Good,-33.898172,18.371733
+Cape Town,483557,Observatory,Private room,1785.06,19,279,56,4.3,,,-33.973779,18.482036
+Cape Town,658618,City Bowl,Shared room,1502.11,1,340,32,4.87,22.0,Good,-33.942878,18.412938
+Cape Town,783217,De Waterkant,Private room,4170.54,3,44,8,4.19,40.0,Good,-33.991089,18.472381
+Cape Town,492260,Woodstock,Entire home/apt,3297.97,14,351,49,5.0,32.0,Good,-33.962247,18.41047
+Cape Town,608811,Woodstock,Entire home/apt,4073.49,1,109,101,4.41,25.0,Good,-33.931868,18.399645
+Cape Town,403143,Green Point,Entire home/apt,1954.61,14,325,8,4.04,35.0,Good,-33.92257,18.44699
+Cape Town,942971,Woodstock,Entire home/apt,1014.56,12,159,75,4.96,25.0,Good,-33.907552,18.414526
+Cape Town,824765,Green Point,Entire home/apt,4393.78,14,82,2,4.7,26.0,Good,-33.923245,18.40378
+Cape Town,412957,De Waterkant,Hotel room,2053.8,2,180,2,3.98,70.0,Moderate,-33.986664,18.440653
+Cape Town,287199,Gardens,Private room,4500.0,2,204,39,4.33,18.0,Good,-33.899034,18.461614
+Cape Town,281662,Woodstock,Entire home/apt,4500.0,26,357,33,4.48,28.0,Good,-33.925585,18.46676
+Cape Town,475886,Observatory,Entire home/apt,4057.93,23,279,15,5.0,36.0,Good,-33.877643,18.368588
+Cape Town,322916,Observatory,Private room,2052.47,10,354,22,4.51,42.0,Good,-33.857785,18.488594
+Cape Town,199009,Gardens,Private room,3483.4,2,98,43,4.34,27.0,Good,-33.955241,18.411303
+Cape Town,429433,Gardens,Entire home/apt,2379.01,29,83,14,3.6,37.0,Good,-33.925963,18.430151
+Cape Town,114138,Gardens,Entire home/apt,4229.13,24,360,41,5.0,40.0,Good,-33.917277,18.413981
+Cape Town,401212,Sea Point,Private room,3107.59,1,253,3,5.0,,,-33.890885,18.42946
+Cape Town,341585,Sea Point,Entire home/apt,1335.23,24,214,13,4.19,23.0,Good,-33.922341,18.452141
+Cape Town,740446,Green Point,Hotel room,2434.31,20,167,7,4.84,44.0,Good,-33.91259,18.387355
+Cape Town,189741,Green Point,Entire home/apt,1827.16,18,83,10,3.29,17.0,Good,-33.876254,18.390654
+Cape Town,227218,Gardens,Shared room,2084.9,15,231,79,4.76,26.0,Good,-33.940243,18.423074
+Cape Town,234766,Camps Bay,Hotel room,1626.47,4,196,5,4.48,,,-33.9113,18.415667
+Cape Town,556622,De Waterkant,Entire home/apt,2105.67,29,99,121,4.33,30.0,Good,-33.984638,18.398255
+Cape Town,800268,Green Point,Entire home/apt,700.0,10,337,34,4.99,38.0,Good,-33.979468,18.419028
+Cape Town,949356,Sea Point,Entire home/apt,2021.47,10,173,16,4.28,23.0,Good,-33.929526,18.388073
+Cape Town,540245,Sea Point,Entire home/apt,3628.62,3,326,36,3.85,30.0,Good,-33.963917,18.383033
+Cape Town,765293,Sea Point,Private room,3943.01,8,240,39,4.81,34.0,Good,-33.873799,18.389242
+Cape Town,612917,Green Point,Entire home/apt,4500.0,6,119,10,3.92,,,-33.912614,18.397305
+Cape Town,756479,Camps Bay,Shared room,3825.25,29,189,2,5.0,,,-33.887476,18.470715
+Cape Town,956451,Green Point,Hotel room,4500.0,3,327,12,4.17,48.0,Good,-33.984461,18.416909
+Cape Town,965651,Observatory,Private room,3298.17,11,126,204,4.56,39.0,Good,-33.975791,18.45601
+Cape Town,619453,Camps Bay,Private room,4500.0,4,303,45,4.28,38.0,Good,-33.873528,18.380867
+Cape Town,196421,Gardens,Entire home/apt,4185.87,26,239,7,4.26,36.0,Good,-33.937292,18.397238
+Cape Town,718885,De Waterkant,Private room,2505.07,6,324,31,4.08,40.0,Good,-33.906554,18.377514
+Cape Town,982496,Green Point,Entire home/apt,2823.46,3,115,13,4.93,13.0,Good,-33.951404,18.372135
+Cape Town,279448,De Waterkant,Entire home/apt,4500.0,27,291,7,4.66,41.0,Good,-33.983713,18.407372

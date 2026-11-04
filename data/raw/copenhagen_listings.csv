@@ -1,0 +1,341 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Copenhagen,340994,Amagerbro,Hotel room,,6,341,61,,27.0,Good,55.685364,12.518155
+Copenhagen,521297,Østerbro,Entire home/apt,2800.0,2,81,76,3.41,19.0,Good,55.696407,12.614704
+Copenhagen,343268,Indre By,Private room,1030.45,21,232,5,4.8,34.0,Good,55.725615,12.524396
+Copenhagen,829512,Østerbro,Private room,2158.65,2,344,32,,27.0,Good,55.728229,12.546053
+Copenhagen,336699,Frederiksberg,Private room,2800.0,22,293,9,4.38,20.0,Good,55.739738,12.596755
+Copenhagen,348533,Nørrebro,Private room,1832.83,2,342,140,4.36,20.0,Good,55.736082,12.59676
+Copenhagen,900119,Valby,Entire home/apt,2219.32,24,113,102,4.13,34.0,Good,55.696465,12.506411
+Copenhagen,707848,Østerbro,Entire home/apt,2800.0,3,140,3,4.34,35.0,Good,55.610194,12.556966
+Copenhagen,741104,Indre By,Private room,1442.38,24,211,4,3.81,,,55.651852,12.575023
+Copenhagen,472365,Indre By,Entire home/apt,1993.0,20,349,57,5.0,22.0,Good,55.636672,12.560058
+Copenhagen,337242,Indre By,Entire home/apt,823.71,10,27,128,4.76,38.0,Good,55.709446,12.594014
+Copenhagen,618107,Nørrebro,Entire home/apt,607.36,26,170,7,4.75,23.0,Good,55.70403,12.543517
+Copenhagen,727923,Indre By,Private room,1303.65,8,347,17,4.45,15.0,Good,55.608456,12.521278
+Copenhagen,217236,Nørrebro,Entire home/apt,2800.0,29,85,8,,30.0,Good,55.647435,12.566467
+Copenhagen,627938,Christianshavn,Private room,1560.04,24,150,30,4.34,33.0,Good,55.650939,12.615253
+Copenhagen,844962,Vesterbro,Entire home/apt,1599.29,5,333,79,4.56,4.0,Good,55.678872,12.567819
+Copenhagen,490249,Amagerbro,Private room,951.69,2,180,67,3.61,35.0,Good,55.627112,12.572877
+Copenhagen,833254,Christianshavn,Shared room,2502.24,16,323,46,4.53,22.0,Good,55.659079,12.558227
+Copenhagen,292433,Nørrebro,Entire home/apt,1759.28,3,300,17,5.0,32.0,Good,55.612826,12.507861
+Copenhagen,469711,Valby,Entire home/apt,912.93,5,97,8,4.27,26.0,Good,55.708743,12.592151
+Copenhagen,128378,Vesterbro,Entire home/apt,2800.0,3,174,58,,29.0,Good,55.62034,12.569034
+Copenhagen,347879,Indre By,Entire home/apt,,1,176,36,4.82,29.0,Good,55.672465,12.526204
+Copenhagen,208077,Christianshavn,Entire home/apt,1626.5,9,63,59,4.76,20.0,Good,55.668454,12.615285
+Copenhagen,639117,Vesterbro,Entire home/apt,1119.02,17,328,97,4.95,20.0,Good,55.744781,12.514902
+Copenhagen,673775,Nørrebro,Private room,2699.65,3,156,46,4.39,27.0,Good,55.730695,12.626393
+Copenhagen,345195,Frederiksberg,Hotel room,648.32,3,129,44,5.0,27.0,Good,55.616636,12.519078
+Copenhagen,134797,Frederiksberg,Entire home/apt,,4,342,6,,15.0,Good,55.706995,12.602718
+Copenhagen,214490,Frederiksberg,Entire home/apt,2765.39,14,359,71,3.77,21.0,Good,55.607154,12.622488
+Copenhagen,718519,Nørrebro,Private room,615.97,22,353,35,4.06,33.0,Good,55.701564,12.546101
+Copenhagen,670115,Valby,Entire home/apt,500.0,1,121,15,4.42,10.0,Good,55.688395,12.593595
+Copenhagen,867164,Østerbro,Hotel room,2692.26,26,105,45,4.77,18.0,Good,55.635091,12.619477
+Copenhagen,908024,Østerbro,Private room,2005.41,7,177,3,4.16,18.0,Good,55.675883,12.572259
+Copenhagen,950312,Valby,Private room,1071.24,22,84,30,4.05,22.0,Good,55.654191,12.636418
+Copenhagen,309618,Valby,Entire home/apt,1674.9,18,49,10,4.55,9.0,Good,55.615465,12.50623
+Copenhagen,210968,Indre By,Shared room,788.03,25,186,8,5.0,21.0,Good,55.69071,12.582236
+Copenhagen,523443,Indre By,Private room,2800.0,7,169,73,3.84,20.0,Good,55.656807,12.505658
+Copenhagen,153984,Østerbro,Private room,2800.0,5,271,11,4.73,20.0,Good,55.64802,12.63148
+Copenhagen,846040,Indre By,Private room,884.59,24,170,302,4.99,28.0,Good,55.609627,12.603819
+Copenhagen,144030,Frederiksberg,Entire home/apt,2032.8,5,362,73,3.9,18.0,Good,55.688166,12.602085
+Copenhagen,554572,Christianshavn,Shared room,2800.0,20,138,55,4.08,23.0,Good,55.644134,12.619031
+Copenhagen,751124,Indre By,Entire home/apt,1813.35,2,313,66,4.98,33.0,Good,55.700759,12.61992
+Copenhagen,695772,Frederiksberg,Entire home/apt,2252.17,25,85,36,5.0,26.0,Good,55.733709,12.595932
+Copenhagen,580424,Frederiksberg,Private room,1107.8,1,55,45,3.86,23.0,Good,55.657378,12.547739
+Copenhagen,439066,Østerbro,Private room,2037.84,1,273,104,3.46,32.0,Good,55.694878,12.5366
+Copenhagen,131300,Christianshavn,Entire home/apt,2800.0,1,180,104,3.59,,,55.68909,12.560942
+Copenhagen,299179,Valby,Entire home/apt,1051.34,1,321,20,4.76,18.0,Good,55.731281,12.568639
+Copenhagen,730925,Indre By,Entire home/apt,2800.0,22,74,41,4.67,25.0,Good,55.62954,12.508935
+Copenhagen,226604,Indre By,Entire home/apt,1166.73,11,150,35,3.91,37.0,Good,55.69056,12.500731
+Copenhagen,473294,Indre By,Private room,2800.0,7,229,18,3.86,16.0,Good,55.61715,12.574454
+Copenhagen,619771,Valby,Entire home/apt,2153.03,26,320,9,4.12,20.0,Good,55.680272,12.614656
+Copenhagen,745621,Vesterbro,Entire home/apt,2059.07,12,63,39,4.63,24.0,Good,55.639252,12.625017
+Copenhagen,237810,Vesterbro,Entire home/apt,1615.38,1,64,1,4.74,23.0,Good,55.692997,12.587047
+Copenhagen,892540,Vesterbro,Entire home/apt,962.07,12,330,26,4.26,,,55.625527,12.540096
+Copenhagen,834224,Christianshavn,Private room,921.99,8,129,30,3.77,17.0,Good,55.694228,12.504145
+Copenhagen,253931,Østerbro,Entire home/apt,2800.0,1,40,1,,27.0,Good,55.707002,12.552454
+Copenhagen,466389,Amagerbro,Private room,1317.97,4,168,1,3.4,17.0,Good,55.685524,12.520831
+Copenhagen,675810,Christianshavn,Entire home/apt,1290.28,28,63,112,3.42,,,55.681909,12.532731
+Copenhagen,173660,Nørrebro,Entire home/apt,1497.62,6,280,4,4.27,20.0,Good,55.662147,12.57833
+Copenhagen,299176,Valby,Private room,2280.29,3,319,4,4.36,30.0,Good,55.732178,12.612624
+Copenhagen,410440,Indre By,Private room,2800.0,19,32,5,4.11,17.0,Good,55.704142,12.560592
+Copenhagen,709030,Christianshavn,Private room,1519.27,7,94,18,4.09,19.0,Good,55.659555,12.525638
+Copenhagen,739708,Frederiksberg,Private room,1279.13,29,21,103,4.76,18.0,Good,55.637458,12.524668
+Copenhagen,511282,Østerbro,Entire home/apt,1768.82,15,194,35,4.47,22.0,Good,55.666479,12.632044
+Copenhagen,281599,Indre By,Shared room,2800.0,26,319,57,,25.0,Good,55.653339,12.57533
+Copenhagen,678678,Nørrebro,Entire home/apt,791.29,3,177,63,5.0,31.0,Good,55.692387,12.549123
+Copenhagen,883273,Østerbro,Private room,1708.24,2,276,21,4.73,19.0,Good,55.66918,12.545112
+Copenhagen,881951,Frederiksberg,Private room,1424.28,20,83,0,5.0,34.0,Good,55.714477,12.554584
+Copenhagen,781691,Amagerbro,Entire home/apt,1797.24,10,200,67,2.92,,,55.625673,12.593183
+Copenhagen,121946,Valby,Entire home/apt,1037.49,2,208,2,4.49,32.0,Good,55.73087,12.617231
+Copenhagen,237017,Østerbro,Hotel room,1903.83,1,138,47,5.0,13.0,Good,55.733173,12.535984
+Copenhagen,515055,Amagerbro,Entire home/apt,2800.0,2,267,92,4.58,20.0,Good,55.607318,12.587664
+Copenhagen,638120,Amagerbro,Entire home/apt,2026.58,11,151,25,4.07,32.0,Good,55.654562,12.607591
+Copenhagen,211404,Amagerbro,Entire home/apt,2800.0,15,108,31,4.76,20.0,Good,55.735791,12.565435
+Copenhagen,934937,Vesterbro,Private room,2800.0,21,281,3,4.6,28.0,Good,55.665321,12.4992
+Copenhagen,775951,Valby,Private room,1351.22,16,314,6,3.72,12.0,Good,55.611039,12.619871
+Copenhagen,684202,Valby,Entire home/apt,2800.0,3,309,38,4.6,16.0,Good,55.72327,12.605433
+Copenhagen,608106,Amagerbro,Entire home/apt,2246.4,23,285,15,4.81,28.0,Good,55.733769,12.621183
+Copenhagen,741671,Østerbro,Entire home/apt,1808.24,9,168,32,3.78,27.0,Good,55.675308,12.625545
+Copenhagen,561081,Amagerbro,Hotel room,,10,139,122,2.94,29.0,Good,55.649864,12.521416
+Copenhagen,311090,Vesterbro,Private room,1409.39,27,325,43,3.77,26.0,Good,55.667277,12.611286
+Copenhagen,826603,Nørrebro,Entire home/apt,1075.92,9,164,54,4.45,19.0,Good,55.667122,12.500834
+Copenhagen,662523,Vesterbro,Private room,2352.74,1,284,116,3.99,12.0,Good,55.720252,12.623737
+Copenhagen,706976,Frederiksberg,Entire home/apt,2800.0,26,310,15,4.73,33.0,Good,55.619746,12.531815
+Copenhagen,517928,Christianshavn,Private room,2181.76,2,23,2,4.63,19.0,Good,55.707396,12.613219
+Copenhagen,627822,Indre By,Hotel room,,1,202,140,4.91,31.0,Good,55.65018,12.588681
+Copenhagen,159946,Østerbro,Entire home/apt,,17,128,6,4.55,,,55.623097,12.515778
+Copenhagen,348362,Christianshavn,Entire home/apt,,2,353,39,4.99,27.0,Good,55.743175,12.611642
+Copenhagen,535129,Valby,Entire home/apt,1862.83,25,272,48,4.61,18.0,Good,55.66673,12.577222
+Copenhagen,373423,Østerbro,Entire home/apt,675.29,7,338,45,4.47,26.0,Good,55.638863,12.585817
+Copenhagen,126634,Indre By,Private room,2104.19,15,88,3,4.05,13.0,Good,55.701949,12.581146
+Copenhagen,234706,Østerbro,Entire home/apt,658.65,11,332,4,5.0,38.0,Good,55.621913,12.571711
+Copenhagen,448776,Nørrebro,Entire home/apt,1457.79,11,324,2,4.55,27.0,Good,55.737348,12.613907
+Copenhagen,512056,Vesterbro,Shared room,1600.45,10,344,111,3.92,18.0,Good,55.725434,12.544617
+Copenhagen,629987,Indre By,Entire home/apt,1005.97,21,194,84,4.19,22.0,Good,55.716006,12.568507
+Copenhagen,757037,Østerbro,Private room,,17,326,0,3.31,21.0,Good,55.682676,12.543074
+Copenhagen,827129,Valby,Entire home/apt,873.21,25,269,8,3.34,17.0,Good,55.668646,12.617017
+Copenhagen,843890,Christianshavn,Entire home/apt,944.5,19,99,20,4.56,23.0,Good,55.696411,12.582383
+Copenhagen,393187,Vesterbro,Private room,2800.0,9,35,40,4.87,22.0,Good,55.647892,12.632866
+Copenhagen,623321,Amagerbro,Private room,2260.11,22,174,1,4.26,18.0,Good,55.680879,12.564804
+Copenhagen,489520,Vesterbro,Private room,792.09,27,126,6,,18.0,Good,55.742086,12.56921
+Copenhagen,412715,Østerbro,Entire home/apt,2188.6,12,260,48,4.12,16.0,Good,55.716699,12.560175
+Copenhagen,959771,Amagerbro,Private room,1040.87,30,73,237,4.39,24.0,Good,55.703999,12.583382
+Copenhagen,447701,Christianshavn,Shared room,2800.0,20,365,37,4.69,16.0,Good,55.618326,12.509534
+Copenhagen,733794,Vesterbro,Entire home/apt,2185.43,3,0,118,4.48,,,55.729924,12.575278
+Copenhagen,512207,Valby,Entire home/apt,1141.29,2,351,22,4.58,26.0,Good,55.647355,12.550404
+Copenhagen,324096,Valby,Entire home/apt,1289.52,12,53,7,4.35,19.0,Good,55.629812,12.599087
+Copenhagen,282438,Valby,Entire home/apt,2175.64,21,284,22,4.53,21.0,Good,55.66393,12.633683
+Copenhagen,691288,Vesterbro,Entire home/apt,1863.64,17,250,5,4.54,19.0,Good,55.62595,12.513039
+Copenhagen,913582,Indre By,Entire home/apt,1097.53,10,53,8,3.65,17.0,Good,55.737104,12.62477
+Copenhagen,808289,Frederiksberg,Entire home/apt,,1,22,6,4.17,22.0,Good,55.698804,12.573604
+Copenhagen,545453,Christianshavn,Entire home/apt,861.09,1,42,72,5.0,24.0,Good,55.616657,12.514554
+Copenhagen,963384,Frederiksberg,Hotel room,,8,188,79,4.02,21.0,Good,55.679975,12.503376
+Copenhagen,211657,Christianshavn,Entire home/apt,1456.63,12,289,7,4.78,15.0,Good,55.637088,12.625287
+Copenhagen,452242,Østerbro,Private room,1800.88,14,218,14,4.2,18.0,Good,55.705492,12.552868
+Copenhagen,846455,Christianshavn,Shared room,1992.89,20,71,93,4.34,11.0,Good,55.706931,12.558083
+Copenhagen,277128,Indre By,Entire home/apt,1731.57,17,311,49,4.45,25.0,Good,55.701207,12.583607
+Copenhagen,488207,Christianshavn,Entire home/apt,1378.81,23,262,19,4.72,24.0,Good,55.630691,12.604139
+Copenhagen,888134,Østerbro,Entire home/apt,1368.87,1,115,1,3.45,36.0,Good,55.634123,12.605924
+Copenhagen,759921,Frederiksberg,Entire home/apt,1142.98,30,47,13,4.82,23.0,Good,55.677642,12.499569
+Copenhagen,168639,Nørrebro,Entire home/apt,,14,257,29,4.1,21.0,Good,55.620969,12.52907
+Copenhagen,426485,Amagerbro,Entire home/apt,1124.42,1,198,44,3.97,34.0,Good,55.671498,12.588569
+Copenhagen,520855,Vesterbro,Entire home/apt,665.28,22,128,34,4.79,17.0,Good,55.672724,12.547627
+Copenhagen,714980,Amagerbro,Entire home/apt,1702.2,2,64,28,3.93,,,55.649885,12.629073
+Copenhagen,954058,Amagerbro,Private room,806.71,5,263,14,3.66,28.0,Good,55.664383,12.570427
+Copenhagen,867871,Frederiksberg,Entire home/apt,831.64,2,231,148,5.0,27.0,Good,55.651781,12.573535
+Copenhagen,622270,Indre By,Hotel room,1384.46,12,218,32,4.58,16.0,Good,55.628544,12.548068
+Copenhagen,519315,Nørrebro,Entire home/apt,2015.62,1,188,72,5.0,27.0,Good,55.709375,12.610361
+Copenhagen,714363,Valby,Entire home/apt,1067.99,27,270,35,3.95,30.0,Good,55.698475,12.622129
+Copenhagen,171940,Indre By,Entire home/apt,1163.31,2,311,110,4.45,20.0,Good,55.683122,12.617361
+Copenhagen,811594,Amagerbro,Private room,796.64,1,198,71,3.92,,,55.716195,12.571583
+Copenhagen,737492,Østerbro,Private room,544.45,2,342,37,4.2,18.0,Good,55.62726,12.538521
+Copenhagen,737670,Christianshavn,Private room,994.21,21,356,9,4.36,11.0,Good,55.627289,12.619889
+Copenhagen,777110,Vesterbro,Private room,2800.0,10,360,13,3.99,14.0,Good,55.661521,12.5133
+Copenhagen,835455,Østerbro,Shared room,2564.81,7,358,8,4.98,20.0,Good,55.709556,12.587924
+Copenhagen,756222,Nørrebro,Private room,2303.48,7,129,74,4.35,30.0,Good,55.712429,12.517902
+Copenhagen,604918,Indre By,Private room,1265.29,9,279,81,4.63,18.0,Good,55.66162,12.598459
+Copenhagen,146090,Indre By,Private room,1682.32,16,159,8,4.27,17.0,Good,55.614364,12.542955
+Copenhagen,986497,Nørrebro,Private room,2231.77,20,177,36,3.84,33.0,Good,55.738181,12.529956
+Copenhagen,866151,Nørrebro,Private room,2218.06,28,222,56,,38.0,Good,55.665214,12.616238
+Copenhagen,473501,Vesterbro,Private room,1387.89,7,150,14,4.0,33.0,Good,55.676651,12.609514
+Copenhagen,563328,Valby,Entire home/apt,1608.86,4,324,55,4.44,27.0,Good,55.655501,12.622909
+Copenhagen,727601,Indre By,Hotel room,2800.0,30,42,53,3.32,,,55.693511,12.517175
+Copenhagen,303395,Vesterbro,Hotel room,1875.27,21,342,18,4.28,31.0,Good,55.653643,12.505781
+Copenhagen,134248,Amagerbro,Private room,1126.71,1,222,28,5.0,21.0,Good,55.725097,12.580495
+Copenhagen,810764,Østerbro,Entire home/apt,1135.7,29,152,28,4.52,17.0,Good,55.648937,12.595854
+Copenhagen,989266,Indre By,Entire home/apt,1901.33,17,170,22,4.25,25.0,Good,55.643667,12.635555
+Copenhagen,503632,Nørrebro,Entire home/apt,2221.15,26,211,40,5.0,33.0,Good,55.739128,12.514309
+Copenhagen,462665,Østerbro,Entire home/apt,1471.24,8,306,80,4.0,29.0,Good,55.622548,12.576091
+Copenhagen,259019,Frederiksberg,Entire home/apt,894.88,5,352,18,4.86,32.0,Good,55.693808,12.507301
+Copenhagen,294239,Østerbro,Entire home/apt,2601.1,13,267,40,4.7,28.0,Good,55.731588,12.608903
+Copenhagen,534453,Nørrebro,Entire home/apt,1414.93,21,87,33,4.18,18.0,Good,55.698386,12.502103
+Copenhagen,812590,Christianshavn,Private room,,3,72,31,,23.0,Good,55.736518,12.594697
+Copenhagen,112812,Valby,Entire home/apt,2800.0,18,114,18,4.18,17.0,Good,55.629031,12.624493
+Copenhagen,155796,Frederiksberg,Private room,2337.6,6,345,290,4.13,33.0,Good,55.628842,12.552786
+Copenhagen,948145,Frederiksberg,Entire home/apt,891.8,4,329,25,,23.0,Good,55.667999,12.5838
+Copenhagen,975519,Valby,Private room,1573.78,13,35,40,4.27,19.0,Good,55.724861,12.572721
+Copenhagen,565248,Indre By,Shared room,850.71,14,345,15,3.61,36.0,Good,55.623003,12.603737
+Copenhagen,429549,Christianshavn,Entire home/apt,1043.15,4,303,91,3.76,31.0,Good,55.721977,12.500399
+Copenhagen,640035,Nørrebro,Entire home/apt,1183.77,1,218,73,3.56,32.0,Good,55.682761,12.580182
+Copenhagen,531474,Christianshavn,Entire home/apt,2371.78,16,259,32,4.93,25.0,Good,55.735238,12.607928
+Copenhagen,296878,Christianshavn,Private room,955.11,3,221,217,4.87,,,55.682912,12.598313
+Copenhagen,994408,Vesterbro,Hotel room,2800.0,28,336,146,4.28,26.0,Good,55.617214,12.549119
+Copenhagen,760848,Amagerbro,Private room,2312.5,8,351,82,3.69,21.0,Good,55.647379,12.554554
+Copenhagen,523056,Østerbro,Entire home/apt,1027.56,1,210,51,5.0,24.0,Good,55.686655,12.615299
+Copenhagen,858561,Vesterbro,Private room,1858.99,23,11,1,4.54,5.0,Good,55.72049,12.550507
+Copenhagen,665662,Christianshavn,Entire home/apt,1229.84,2,183,22,4.66,31.0,Good,55.694468,12.609623
+Copenhagen,227328,Frederiksberg,Private room,2800.0,18,174,105,3.9,30.0,Good,55.709812,12.506318
+Copenhagen,216136,Indre By,Shared room,1099.8,2,146,16,3.59,21.0,Good,55.682762,12.589658
+Copenhagen,627510,Amagerbro,Private room,1766.01,28,18,38,,20.0,Good,55.624164,12.564846
+Copenhagen,514543,Christianshavn,Private room,2800.0,12,345,118,4.54,14.0,Good,55.667742,12.633475
+Copenhagen,705827,Nørrebro,Hotel room,1419.11,18,143,55,5.0,24.0,Good,55.694247,12.527916
+Copenhagen,226117,Indre By,Private room,656.63,7,289,4,3.45,26.0,Good,55.621676,12.630801
+Copenhagen,957373,Indre By,Entire home/apt,862.91,6,306,7,5.0,23.0,Good,55.699096,12.549853
+Copenhagen,300326,Østerbro,Shared room,,3,309,3,4.16,38.0,Good,55.619903,12.577777
+Copenhagen,302897,Frederiksberg,Private room,1442.08,30,305,10,3.99,,,55.728116,12.620341
+Copenhagen,226594,Nørrebro,Entire home/apt,2244.63,14,38,54,4.81,17.0,Good,55.71266,12.50329
+Copenhagen,991050,Nørrebro,Entire home/apt,1686.54,20,306,6,4.01,27.0,Good,55.646466,12.589229
+Copenhagen,686491,Nørrebro,Entire home/apt,1189.02,1,207,8,3.91,25.0,Good,55.650535,12.582184
+Copenhagen,465084,Christianshavn,Private room,2800.0,1,360,82,4.67,30.0,Good,55.649711,12.635099
+Copenhagen,110091,Vesterbro,Hotel room,1448.47,10,72,1,4.25,25.0,Good,55.739913,12.52598
+Copenhagen,210746,Valby,Private room,2800.0,14,191,148,4.21,17.0,Good,55.67341,12.606965
+Copenhagen,119463,Christianshavn,Shared room,2800.0,1,17,102,4.89,22.0,Good,55.646298,12.634425
+Copenhagen,136878,Vesterbro,Entire home/apt,2800.0,22,247,42,4.31,29.0,Good,55.700189,12.581893
+Copenhagen,713957,Valby,Entire home/apt,893.07,12,137,41,4.36,,,55.617449,12.551857
+Copenhagen,111731,Christianshavn,Private room,,2,138,2,3.93,28.0,Good,55.66667,12.545341
+Copenhagen,603310,Frederiksberg,Hotel room,1034.08,1,115,35,4.59,28.0,Good,55.632229,12.51742
+Copenhagen,523830,Amagerbro,Private room,1105.53,16,146,68,3.86,26.0,Good,55.653778,12.593138
+Copenhagen,813539,Østerbro,Private room,927.05,2,165,24,4.18,27.0,Good,55.649739,12.545391
+Copenhagen,840659,Valby,Entire home/apt,2591.52,27,30,26,4.24,25.0,Good,55.654696,12.574661
+Copenhagen,455528,Vesterbro,Entire home/apt,,9,356,12,5.0,15.0,Good,55.618399,12.517089
+Copenhagen,787849,Østerbro,Shared room,1047.18,20,126,2,4.39,23.0,Good,55.659213,12.537904
+Copenhagen,280406,Valby,Private room,1632.49,4,73,39,3.47,23.0,Good,55.745149,12.578593
+Copenhagen,441818,Vesterbro,Entire home/apt,2535.14,6,198,18,3.48,,,55.680974,12.581054
+Copenhagen,621949,Amagerbro,Private room,2800.0,2,75,5,3.52,26.0,Good,55.622694,12.580308
+Copenhagen,467811,Amagerbro,Private room,1462.03,1,352,216,4.76,13.0,Good,55.687917,12.609901
+Copenhagen,554936,Christianshavn,Private room,2073.35,16,183,33,4.66,27.0,Good,55.655811,12.636068
+Copenhagen,511140,Christianshavn,Entire home/apt,1921.71,11,248,8,4.6,25.0,Good,55.610775,12.572666
+Copenhagen,466014,Amagerbro,Entire home/apt,829.86,29,118,20,4.12,18.0,Good,55.615016,12.547938
+Copenhagen,330601,Christianshavn,Entire home/apt,949.97,3,294,35,3.08,14.0,Good,55.674473,12.624481
+Copenhagen,763388,Amagerbro,Entire home/apt,914.37,21,247,8,4.0,6.0,Good,55.616866,12.500594
+Copenhagen,489902,Nørrebro,Private room,2800.0,16,274,14,3.75,26.0,Good,55.673803,12.513567
+Copenhagen,333544,Frederiksberg,Private room,1772.54,6,149,65,3.97,22.0,Good,55.655595,12.608358
+Copenhagen,258722,Amagerbro,Entire home/apt,1376.84,28,141,16,4.51,29.0,Good,55.734345,12.59553
+Copenhagen,870638,Amagerbro,Entire home/apt,,29,114,47,4.32,24.0,Good,55.656002,12.57527
+Copenhagen,510672,Østerbro,Entire home/apt,1229.59,23,360,1,4.42,26.0,Good,55.617627,12.584996
+Copenhagen,557457,Nørrebro,Entire home/apt,1946.55,17,202,21,4.17,30.0,Good,55.698644,12.534369
+Copenhagen,507487,Christianshavn,Entire home/apt,897.2,27,107,51,4.47,17.0,Good,55.607038,12.623768
+Copenhagen,948950,Valby,Entire home/apt,2800.0,5,260,22,4.34,,,55.649716,12.623857
+Copenhagen,312558,Vesterbro,Shared room,2343.61,26,222,1,4.8,31.0,Good,55.695988,12.552827
+Copenhagen,362479,Nørrebro,Private room,2299.09,8,246,44,,34.0,Good,55.710958,12.557756
+Copenhagen,997000,Indre By,Entire home/apt,1740.48,25,352,4,4.34,26.0,Good,55.687697,12.595895
+Copenhagen,192257,Vesterbro,Entire home/apt,1632.4,30,259,26,4.01,34.0,Good,55.617095,12.518392
+Copenhagen,945004,Nørrebro,Private room,682.03,18,132,159,4.36,26.0,Good,55.724683,12.575353
+Copenhagen,581124,Amagerbro,Entire home/apt,2432.79,19,344,23,4.73,28.0,Good,55.653446,12.62431
+Copenhagen,490955,Frederiksberg,Shared room,1655.96,3,361,6,4.29,35.0,Good,55.647572,12.517612
+Copenhagen,575556,Christianshavn,Entire home/apt,787.94,2,306,56,4.36,32.0,Good,55.7358,12.5568
+Copenhagen,610438,Østerbro,Entire home/apt,1506.31,16,125,10,3.94,19.0,Good,55.738216,12.570792
+Copenhagen,513150,Nørrebro,Entire home/apt,1350.64,10,159,2,4.66,21.0,Good,55.637358,12.511413
+Copenhagen,392743,Nørrebro,Shared room,2376.52,17,149,8,4.47,15.0,Good,55.699656,12.523105
+Copenhagen,284747,Christianshavn,Shared room,1277.68,22,212,8,4.29,25.0,Good,55.700171,12.524086
+Copenhagen,117716,Frederiksberg,Entire home/apt,1464.61,1,155,106,4.24,32.0,Good,55.728741,12.632709
+Copenhagen,582810,Frederiksberg,Hotel room,1462.76,11,175,26,3.62,30.0,Good,55.711996,12.54552
+Copenhagen,332612,Christianshavn,Entire home/apt,,20,86,21,4.23,17.0,Good,55.693331,12.63321
+Copenhagen,782636,Vesterbro,Entire home/apt,500.0,26,291,3,,27.0,Good,55.713211,12.52731
+Copenhagen,834364,Christianshavn,Entire home/apt,1324.03,16,150,20,5.0,13.0,Good,55.709653,12.591929
+Copenhagen,453742,Østerbro,Entire home/apt,1040.56,20,107,9,4.85,22.0,Good,55.682296,12.503883
+Copenhagen,917739,Amagerbro,Entire home/apt,2090.28,16,77,2,4.68,26.0,Good,55.669651,12.514156
+Copenhagen,721323,Vesterbro,Entire home/apt,807.44,22,5,118,5.0,18.0,Good,55.619146,12.511796
+Copenhagen,178844,Vesterbro,Entire home/apt,1943.82,29,90,9,4.0,16.0,Good,55.627626,12.514785
+Copenhagen,159906,Indre By,Private room,928.68,16,216,70,4.31,23.0,Good,55.728097,12.621336
+Copenhagen,776636,Østerbro,Shared room,2800.0,1,129,30,3.46,15.0,Good,55.701242,12.509073
+Copenhagen,284409,Christianshavn,Private room,1921.95,24,265,21,4.62,23.0,Good,55.682757,12.582372
+Copenhagen,747177,Østerbro,Private room,2202.35,4,98,54,4.23,23.0,Good,55.651727,12.610241
+Copenhagen,916038,Valby,Entire home/apt,2800.0,25,97,36,3.68,28.0,Good,55.693244,12.55281
+Copenhagen,449494,Christianshavn,Entire home/apt,1871.18,1,265,6,4.48,17.0,Good,55.660459,12.503448
+Copenhagen,414073,Indre By,Private room,2445.65,9,107,5,3.96,24.0,Good,55.615699,12.628963
+Copenhagen,736839,Amagerbro,Entire home/apt,642.79,13,214,32,5.0,15.0,Good,55.697438,12.603875
+Copenhagen,249448,Nørrebro,Entire home/apt,2800.0,26,240,24,3.45,13.0,Good,55.717478,12.587837
+Copenhagen,189601,Vesterbro,Entire home/apt,1320.66,10,326,14,4.57,22.0,Good,55.701548,12.521031
+Copenhagen,770312,Vesterbro,Private room,1357.05,11,219,50,,23.0,Good,55.678472,12.563941
+Copenhagen,871262,Amagerbro,Private room,1077.96,8,280,18,4.41,23.0,Good,55.669713,12.574036
+Copenhagen,300282,Østerbro,Private room,2201.15,1,50,99,3.54,21.0,Good,55.667928,12.520806
+Copenhagen,724532,Amagerbro,Entire home/apt,812.39,25,183,0,3.95,21.0,Good,55.695201,12.585323
+Copenhagen,761133,Valby,Entire home/apt,1763.64,23,127,90,3.58,27.0,Good,55.607565,12.628686
+Copenhagen,284365,Christianshavn,Entire home/apt,2609.26,5,9,56,4.2,28.0,Good,55.73905,12.499707
+Copenhagen,172857,Frederiksberg,Private room,2439.68,8,234,19,4.36,34.0,Good,55.744963,12.596032
+Copenhagen,384399,Valby,Entire home/apt,,3,7,0,4.26,18.0,Good,55.701906,12.579517
+Copenhagen,225031,Østerbro,Private room,2477.09,2,47,34,3.27,41.0,Good,55.720543,12.545323
+Copenhagen,468798,Frederiksberg,Entire home/apt,2316.23,18,237,44,3.64,24.0,Good,55.625575,12.610138
+Copenhagen,391990,Christianshavn,Entire home/apt,2800.0,23,134,11,3.8,10.0,Good,55.642638,12.585348
+Copenhagen,417369,Frederiksberg,Entire home/apt,1411.3,29,83,17,3.99,28.0,Good,55.712392,12.609225
+Copenhagen,590547,Valby,Entire home/apt,574.47,1,287,44,4.9,35.0,Good,55.659587,12.501415
+Copenhagen,489070,Christianshavn,Hotel room,1289.56,5,261,23,4.09,14.0,Good,55.737296,12.505433
+Copenhagen,941405,Nørrebro,Private room,1387.53,4,361,94,3.96,26.0,Good,55.617929,12.629383
+Copenhagen,384215,Nørrebro,Shared room,2800.0,3,234,34,3.44,30.0,Good,55.653027,12.548585
+Copenhagen,600285,Nørrebro,Private room,961.43,1,134,52,4.49,13.0,Good,55.669638,12.52948
+Copenhagen,351786,Østerbro,Entire home/apt,1649.32,17,343,47,4.14,26.0,Good,55.677938,12.597493
+Copenhagen,743491,Nørrebro,Entire home/apt,1352.02,1,110,37,4.76,25.0,Good,55.673697,12.596599
+Copenhagen,673784,Nørrebro,Entire home/apt,527.38,17,109,82,4.9,25.0,Good,55.679908,12.523742
+Copenhagen,913099,Amagerbro,Entire home/apt,1526.71,22,43,58,4.28,33.0,Good,55.660201,12.619886
+Copenhagen,511700,Østerbro,Entire home/apt,2800.0,11,25,15,,9.0,Good,55.670541,12.603527
+Copenhagen,409658,Nørrebro,Entire home/apt,1020.9,26,289,51,3.55,,,55.690037,12.499006
+Copenhagen,161150,Frederiksberg,Private room,1149.98,3,163,47,4.69,44.0,Good,55.623763,12.622189
+Copenhagen,756995,Østerbro,Entire home/apt,1487.73,30,263,10,4.13,11.0,Good,55.725731,12.533434
+Copenhagen,953409,Indre By,Shared room,711.63,4,189,7,4.3,15.0,Good,55.614741,12.625097
+Copenhagen,197095,Amagerbro,Private room,2800.0,19,142,34,4.31,25.0,Good,55.629873,12.499382
+Copenhagen,208767,Indre By,Private room,1189.89,24,54,61,3.72,26.0,Good,55.677127,12.603217
+Copenhagen,989988,Vesterbro,Private room,1783.89,21,362,34,4.54,18.0,Good,55.664973,12.621214
+Copenhagen,245972,Østerbro,Entire home/apt,1118.32,6,341,2,4.96,16.0,Good,55.679984,12.604892
+Copenhagen,617138,Indre By,Entire home/apt,1611.45,1,246,28,4.16,16.0,Good,55.646604,12.592845
+Copenhagen,139817,Nørrebro,Shared room,2800.0,1,356,32,,29.0,Good,55.695843,12.528952
+Copenhagen,762381,Indre By,Hotel room,2800.0,26,212,191,4.69,32.0,Good,55.676404,12.589214
+Copenhagen,631937,Nørrebro,Entire home/apt,2162.08,27,22,38,4.09,24.0,Good,55.638208,12.572328
+Copenhagen,659347,Amagerbro,Entire home/apt,595.58,6,83,20,4.7,20.0,Good,55.738714,12.575181
+Copenhagen,776996,Indre By,Private room,2637.71,10,158,0,4.34,33.0,Good,55.617399,12.623626
+Copenhagen,935450,Valby,Hotel room,2800.0,12,211,57,3.04,29.0,Good,55.621773,12.625731
+Copenhagen,649882,Indre By,Entire home/apt,2535.0,12,288,132,4.97,30.0,Good,55.731126,12.518769
+Copenhagen,620504,Valby,Entire home/apt,2234.53,17,28,6,4.33,33.0,Good,55.636956,12.522662
+Copenhagen,373427,Vesterbro,Private room,1611.28,24,159,11,3.73,38.0,Good,55.716328,12.540061
+Copenhagen,369891,Vesterbro,Entire home/apt,1455.49,7,80,110,4.38,18.0,Good,55.724978,12.615818
+Copenhagen,511100,Indre By,Entire home/apt,1953.15,2,361,20,4.13,26.0,Good,55.672706,12.588956
+Copenhagen,771877,Christianshavn,Private room,2470.09,15,137,23,4.4,13.0,Good,55.742617,12.60349
+Copenhagen,419708,Indre By,Entire home/apt,1462.46,2,126,13,3.57,21.0,Good,55.736908,12.586613
+Copenhagen,227782,Amagerbro,Private room,1619.18,2,251,15,4.82,23.0,Good,55.69839,12.600195
+Copenhagen,940743,Nørrebro,Entire home/apt,1203.59,5,259,23,4.15,28.0,Good,55.73791,12.573761
+Copenhagen,978522,Valby,Entire home/apt,2142.23,1,6,92,4.08,28.0,Good,55.707297,12.620431
+Copenhagen,164077,Nørrebro,Private room,1155.98,2,79,95,3.02,17.0,Good,55.610224,12.501663
+Copenhagen,567933,Nørrebro,Entire home/apt,2800.0,29,191,18,4.73,38.0,Good,55.675816,12.612125
+Copenhagen,854727,Vesterbro,Private room,2124.91,14,131,93,3.97,16.0,Good,55.709952,12.509034
+Copenhagen,822242,Østerbro,Entire home/apt,2072.08,23,346,51,4.51,33.0,Good,55.670754,12.538291
+Copenhagen,942900,Østerbro,Private room,2150.31,3,217,4,4.04,20.0,Good,55.645962,12.561055
+Copenhagen,649058,Christianshavn,Entire home/apt,,2,214,56,,17.0,Good,55.697424,12.58621
+Copenhagen,712247,Christianshavn,Entire home/apt,2655.76,2,299,5,5.0,23.0,Good,55.727393,12.59004
+Copenhagen,947041,Christianshavn,Entire home/apt,2800.0,22,234,44,4.55,25.0,Good,55.631876,12.503594
+Copenhagen,726682,Amagerbro,Entire home/apt,1460.6,8,285,21,,22.0,Good,55.693249,12.635302
+Copenhagen,249292,Christianshavn,Entire home/apt,2476.09,29,306,25,4.22,24.0,Good,55.712902,12.637816
+Copenhagen,959595,Indre By,Private room,1205.27,25,287,46,4.46,17.0,Good,55.699124,12.517388
+Copenhagen,783078,Indre By,Entire home/apt,2580.39,26,314,42,4.61,21.0,Good,55.713124,12.539152
+Copenhagen,137557,Indre By,Private room,2800.0,29,247,105,2.98,19.0,Good,55.7453,12.583095
+Copenhagen,311934,Indre By,Entire home/apt,1654.12,15,339,89,3.47,24.0,Good,55.707877,12.575062
+Copenhagen,689425,Nørrebro,Entire home/apt,1707.51,22,257,9,4.17,25.0,Good,55.690341,12.626232
+Copenhagen,769149,Christianshavn,Shared room,1311.15,5,263,210,4.26,39.0,Good,55.739462,12.571693
+Copenhagen,473454,Nørrebro,Entire home/apt,2046.78,24,262,7,4.2,,,55.723013,12.525848
+Copenhagen,159919,Amagerbro,Hotel room,639.42,13,4,0,3.99,34.0,Good,55.649944,12.544365
+Copenhagen,406118,Indre By,Entire home/apt,1067.66,17,94,4,4.2,12.0,Good,55.729711,12.612396
+Copenhagen,901160,Østerbro,Entire home/apt,1837.69,9,331,206,5.0,32.0,Good,55.615824,12.518604
+Copenhagen,869117,Vesterbro,Entire home/apt,601.46,11,313,58,4.8,,,55.721201,12.530318
+Copenhagen,523598,Frederiksberg,Entire home/apt,1745.1,11,281,38,3.36,16.0,Good,55.67452,12.624543
+Copenhagen,431745,Nørrebro,Entire home/apt,1367.32,9,177,3,,,,55.739288,12.580319
+Copenhagen,836657,Vesterbro,Entire home/apt,2800.0,22,94,2,4.29,32.0,Good,55.643631,12.552648
+Copenhagen,569543,Nørrebro,Private room,1540.7,7,258,74,4.15,30.0,Good,55.661218,12.578784
+Copenhagen,763397,Valby,Shared room,1560.0,25,254,24,4.65,32.0,Good,55.638962,12.590382
+Copenhagen,462338,Amagerbro,Entire home/apt,2200.65,24,365,54,5.0,19.0,Good,55.683201,12.630658
+Copenhagen,372188,Indre By,Entire home/apt,2800.0,4,159,24,4.42,30.0,Good,55.661135,12.585711
+Copenhagen,185000,Vesterbro,Hotel room,1745.86,6,354,59,5.0,16.0,Good,55.650486,12.593704
+Copenhagen,394380,Valby,Hotel room,1459.37,2,64,58,4.24,,,55.62476,12.503122
+Copenhagen,842570,Indre By,Entire home/apt,563.82,2,92,30,,28.0,Good,55.689659,12.563555
+Copenhagen,924147,Amagerbro,Private room,2217.98,20,215,2,3.56,14.0,Good,55.688723,12.632553
+Copenhagen,255375,Nørrebro,Entire home/apt,1514.49,19,134,25,3.92,31.0,Good,55.70551,12.506959
+Copenhagen,873650,Nørrebro,Entire home/apt,1678.73,17,223,36,4.16,23.0,Good,55.621815,12.511837
+Copenhagen,467427,Indre By,Entire home/apt,1914.83,19,38,78,4.45,26.0,Good,55.624343,12.571513
+Copenhagen,286967,Amagerbro,Entire home/apt,,16,86,10,4.54,23.0,Good,55.657654,12.515616
+Copenhagen,310095,Indre By,Entire home/apt,2338.87,23,74,44,4.48,24.0,Good,55.637154,12.63333
+Copenhagen,199496,Valby,Shared room,1377.21,2,259,23,3.95,17.0,Good,55.657062,12.576414
+Copenhagen,279812,Christianshavn,Shared room,2338.48,1,51,76,4.22,23.0,Good,55.665685,12.535726
+Copenhagen,617975,Christianshavn,Entire home/apt,718.63,22,235,37,4.34,20.0,Good,55.714422,12.526754
+Copenhagen,463833,Østerbro,Shared room,2800.0,18,55,23,4.51,26.0,Good,55.619988,12.536279
+Copenhagen,662209,Indre By,Entire home/apt,797.48,2,322,25,4.05,20.0,Good,55.61772,12.594632
+Copenhagen,601025,Østerbro,Private room,2735.47,13,303,41,4.11,21.0,Good,55.623046,12.557385
+Copenhagen,518504,Vesterbro,Entire home/apt,2007.72,14,133,9,,26.0,Good,55.63803,12.60244
+Copenhagen,220282,Nørrebro,Private room,2800.0,9,306,78,4.13,32.0,Good,55.703008,12.590182
+Copenhagen,294140,Amagerbro,Entire home/apt,2800.0,20,214,0,3.9,7.0,Good,55.724631,12.606574
+Copenhagen,654998,Christianshavn,Private room,647.34,1,230,11,4.12,10.0,Good,55.676791,12.57275
+Copenhagen,435004,Vesterbro,Entire home/apt,1303.55,12,181,14,4.53,27.0,Good,55.654072,12.572179
+Copenhagen,659514,Frederiksberg,Private room,2146.84,1,282,284,4.43,17.0,Good,55.65966,12.606928
+Copenhagen,302100,Østerbro,Entire home/apt,1634.09,28,324,23,4.34,14.0,Good,55.672279,12.54938
+Copenhagen,167961,Valby,Private room,1313.22,16,277,5,4.61,33.0,Good,55.717065,12.544002
+Copenhagen,205140,Indre By,Private room,2253.67,1,343,20,4.46,21.0,Good,55.684453,12.552979
+Copenhagen,854629,Østerbro,Shared room,2800.0,4,79,6,2.86,27.0,Good,55.680232,12.633024
+Copenhagen,389458,Nørrebro,Entire home/apt,1208.88,12,97,148,,21.0,Good,55.684559,12.519913

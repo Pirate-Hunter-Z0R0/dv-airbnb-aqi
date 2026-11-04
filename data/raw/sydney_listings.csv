@@ -1,0 +1,401 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Sydney,688954,Surry Hills,Entire home/apt,315.08,13,330,40,,30.0,Good,-33.906493,151.206326
+Sydney,573901,Manly,Private room,380.0,5,18,11,4.81,30.0,Good,-33.869255,151.204546
+Sydney,959249,Manly,Private room,195.2,1,315,50,4.24,29.0,Good,-33.817432,151.170479
+Sydney,834189,Pyrmont,Entire home/apt,158.91,19,41,9,4.23,39.0,Good,-33.936345,151.181456
+Sydney,954127,Glebe,Private room,329.43,16,348,10,3.88,29.0,Good,-33.87753,151.24077
+Sydney,692906,Redfern,Private room,380.0,4,203,3,4.09,30.0,Good,-33.904678,151.268859
+Sydney,705823,Surry Hills,Shared room,,7,231,48,3.93,39.0,Good,-33.856477,151.200138
+Sydney,870812,Glebe,Entire home/apt,304.04,18,321,0,4.06,24.0,Good,-33.933875,151.179622
+Sydney,485882,Newtown,Shared room,131.4,23,46,4,4.88,41.0,Good,-33.854958,151.191948
+Sydney,929343,Manly,Entire home/apt,380.0,16,293,42,3.58,28.0,Good,-33.847312,151.264802
+Sydney,795686,Glebe,Entire home/apt,190.28,1,97,17,4.87,16.0,Good,-33.805599,151.201604
+Sydney,412799,Manly,Entire home/apt,164.81,28,277,39,,,,-33.845149,151.264695
+Sydney,511171,Glebe,Shared room,197.63,24,244,14,4.59,19.0,Good,-33.851418,151.150783
+Sydney,520591,Newtown,Hotel room,380.0,8,28,14,4.33,39.0,Good,-33.904249,151.140248
+Sydney,464486,CBD,Entire home/apt,369.11,14,29,184,3.86,20.0,Good,-33.919404,151.250976
+Sydney,867961,CBD,Entire home/apt,380.0,2,240,92,3.21,32.0,Good,-33.930951,151.214235
+Sydney,194154,Newtown,Entire home/apt,,21,354,21,4.21,25.0,Good,-33.932283,151.208738
+Sydney,525098,CBD,Private room,238.9,14,175,181,3.73,38.0,Good,-33.931558,151.268366
+Sydney,170174,Surry Hills,Private room,380.0,1,275,54,4.64,26.0,Good,-33.846526,151.244606
+Sydney,856435,Bondi,Entire home/apt,120.66,14,285,39,4.61,22.0,Good,-33.841015,151.170134
+Sydney,107611,Redfern,Shared room,151.07,17,121,19,,25.0,Good,-33.876977,151.164263
+Sydney,786084,Newtown,Entire home/apt,245.02,3,260,37,5.0,34.0,Good,-33.926366,151.14528
+Sydney,422080,Bondi,Entire home/apt,152.0,29,61,54,4.68,,,-33.93206,151.216245
+Sydney,716472,Manly,Private room,380.0,3,113,11,5.0,1.0,Good,-33.925851,151.145012
+Sydney,602882,Bondi,Entire home/apt,189.74,24,211,15,4.88,30.0,Good,-33.805813,151.247501
+Sydney,950327,Surry Hills,Private room,380.0,20,211,54,4.23,29.0,Good,-33.902473,151.183792
+Sydney,778314,Glebe,Entire home/apt,75.0,5,9,4,4.61,26.0,Good,-33.923774,151.217576
+Sydney,975319,Bondi,Entire home/apt,129.89,20,335,9,4.3,,,-33.817286,151.26188
+Sydney,139869,Surry Hills,Private room,111.27,2,277,17,4.08,43.0,Good,-33.806459,151.190649
+Sydney,672651,Redfern,Entire home/apt,342.55,20,167,28,5.0,37.0,Good,-33.823972,151.178577
+Sydney,516063,Manly,Entire home/apt,181.4,2,46,99,4.54,33.0,Good,-33.880566,151.171433
+Sydney,549528,Manly,Entire home/apt,,23,160,44,4.35,51.0,Moderate,-33.810155,151.172704
+Sydney,493525,Redfern,Entire home/apt,229.58,2,311,0,4.62,26.0,Good,-33.931089,151.181683
+Sydney,387158,CBD,Private room,90.76,1,135,35,5.0,20.0,Good,-33.927644,151.257208
+Sydney,475872,Bondi,Entire home/apt,176.81,1,110,15,3.86,23.0,Good,-33.90979,151.158503
+Sydney,733102,Glebe,Private room,,6,40,16,3.9,28.0,Good,-33.850677,151.158778
+Sydney,770115,Manly,Entire home/apt,92.81,8,139,24,4.25,31.0,Good,-33.832067,151.245457
+Sydney,729683,Manly,Hotel room,206.12,15,268,9,4.13,48.0,Good,-33.814131,151.145497
+Sydney,125620,Bondi,Entire home/apt,380.0,10,33,15,4.82,17.0,Good,-33.928306,151.232363
+Sydney,421180,Manly,Shared room,252.06,17,287,3,3.99,35.0,Good,-33.821569,151.218946
+Sydney,561508,Bondi,Entire home/apt,326.8,15,344,117,4.62,37.0,Good,-33.827301,151.25913
+Sydney,336016,Redfern,Entire home/apt,261.4,13,187,23,3.48,24.0,Good,-33.830844,151.275854
+Sydney,656966,Glebe,Private room,117.19,22,305,79,4.35,22.0,Good,-33.826839,151.252208
+Sydney,419534,CBD,Entire home/apt,223.59,3,289,10,3.7,22.0,Good,-33.871558,151.149306
+Sydney,658174,Newtown,Private room,310.03,19,144,0,3.87,37.0,Good,-33.866054,151.180336
+Sydney,206220,Glebe,Entire home/apt,181.69,19,190,29,,21.0,Good,-33.806028,151.18492
+Sydney,125305,Bondi,Entire home/apt,308.42,1,222,10,3.94,27.0,Good,-33.843084,151.231965
+Sydney,884650,Pyrmont,Entire home/apt,326.11,13,227,45,3.99,31.0,Good,-33.843325,151.267095
+Sydney,970770,Redfern,Shared room,380.0,5,249,43,4.61,22.0,Good,-33.821084,151.206521
+Sydney,132915,Pyrmont,Private room,,8,264,76,4.51,17.0,Good,-33.912208,151.193083
+Sydney,636868,Newtown,Private room,180.5,1,114,77,4.2,33.0,Good,-33.921707,151.154465
+Sydney,954735,Glebe,Entire home/apt,380.0,3,1,27,4.11,40.0,Good,-33.931779,151.275107
+Sydney,539575,Redfern,Entire home/apt,,7,220,23,3.4,28.0,Good,-33.914312,151.21022
+Sydney,265458,Bondi,Entire home/apt,111.2,13,89,1,4.05,16.0,Good,-33.881926,151.203279
+Sydney,211281,CBD,Entire home/apt,186.22,17,229,54,4.5,31.0,Good,-33.895127,151.157349
+Sydney,548663,Manly,Hotel room,102.19,25,119,94,4.35,8.0,Good,-33.92154,151.265597
+Sydney,698418,CBD,Entire home/apt,380.0,1,36,86,4.1,6.0,Good,-33.847893,151.265896
+Sydney,131960,Surry Hills,Hotel room,153.44,9,145,74,4.17,15.0,Good,-33.817496,151.214592
+Sydney,828400,Bondi,Entire home/apt,178.44,29,332,108,4.33,23.0,Good,-33.830233,151.219649
+Sydney,116713,Manly,Hotel room,292.05,1,243,49,5.0,29.0,Good,-33.875764,151.253069
+Sydney,155549,CBD,Entire home/apt,98.73,1,27,1,4.83,40.0,Good,-33.85736,151.243041
+Sydney,787209,Pyrmont,Private room,186.9,3,132,20,3.84,33.0,Good,-33.89311,151.236295
+Sydney,503907,Redfern,Entire home/apt,75.0,24,149,87,4.75,50.0,Good,-33.868751,151.210304
+Sydney,221768,Surry Hills,Entire home/apt,127.46,9,127,15,3.74,,,-33.83522,151.149853
+Sydney,846273,Newtown,Private room,152.09,1,20,1,4.01,34.0,Good,-33.85864,151.239054
+Sydney,557998,Surry Hills,Private room,148.54,21,194,30,4.37,50.0,Good,-33.895655,151.15233
+Sydney,303513,Manly,Entire home/apt,169.54,18,12,7,4.43,29.0,Good,-33.903407,151.139773
+Sydney,464422,Pyrmont,Shared room,,5,264,100,4.55,39.0,Good,-33.850295,151.152542
+Sydney,418117,Manly,Entire home/apt,,22,4,210,3.48,33.0,Good,-33.900485,151.23277
+Sydney,168677,Newtown,Private room,380.0,17,273,77,3.77,29.0,Good,-33.934363,151.157207
+Sydney,401222,Glebe,Shared room,180.08,13,211,29,4.03,,,-33.817249,151.177401
+Sydney,280646,Glebe,Entire home/apt,124.06,29,46,7,,46.0,Good,-33.846061,151.148768
+Sydney,808939,Bondi,Private room,201.69,1,53,20,3.16,39.0,Good,-33.919407,151.185242
+Sydney,807241,Redfern,Private room,155.32,23,131,49,4.46,38.0,Good,-33.926012,151.239738
+Sydney,538755,CBD,Private room,141.59,10,177,130,4.5,24.0,Good,-33.812596,151.167496
+Sydney,250265,Manly,Entire home/apt,369.96,24,324,9,4.25,34.0,Good,-33.92911,151.167113
+Sydney,317735,Surry Hills,Entire home/apt,380.0,2,210,110,4.38,16.0,Good,-33.901676,151.248907
+Sydney,619929,Bondi,Entire home/apt,161.88,11,201,119,4.3,36.0,Good,-33.88371,151.272583
+Sydney,994231,Pyrmont,Private room,,16,20,14,4.69,32.0,Good,-33.870444,151.268199
+Sydney,774626,Surry Hills,Entire home/apt,345.87,2,254,26,4.98,37.0,Good,-33.856951,151.255833
+Sydney,917773,Bondi,Hotel room,75.0,15,253,38,4.17,8.0,Good,-33.844546,151.181338
+Sydney,342393,CBD,Private room,217.02,3,230,37,4.38,26.0,Good,-33.870327,151.192558
+Sydney,977016,CBD,Hotel room,214.15,20,230,10,3.82,24.0,Good,-33.814726,151.259545
+Sydney,270852,Surry Hills,Entire home/apt,380.0,20,39,20,3.89,40.0,Good,-33.880103,151.152843
+Sydney,221169,Glebe,Private room,,13,275,10,3.86,52.0,Moderate,-33.823029,151.184882
+Sydney,907830,Pyrmont,Private room,107.13,19,70,32,4.62,23.0,Good,-33.855684,151.219413
+Sydney,752534,CBD,Entire home/apt,93.23,3,35,14,3.78,,,-33.915503,151.182324
+Sydney,477265,CBD,Entire home/apt,209.12,25,29,51,4.9,33.0,Good,-33.87232,151.14863
+Sydney,598335,Newtown,Private room,268.37,23,71,10,3.41,22.0,Good,-33.829701,151.249571
+Sydney,107419,CBD,Entire home/apt,264.17,1,300,6,4.79,30.0,Good,-33.802759,151.200576
+Sydney,218975,Redfern,Entire home/apt,274.13,5,27,0,4.56,25.0,Good,-33.923013,151.205637
+Sydney,887790,Surry Hills,Private room,380.0,24,17,19,4.86,30.0,Good,-33.856385,151.145894
+Sydney,345708,Pyrmont,Entire home/apt,327.1,13,275,26,3.41,32.0,Good,-33.925868,151.21574
+Sydney,625268,CBD,Entire home/apt,380.0,8,122,81,3.54,28.0,Good,-33.837266,151.247548
+Sydney,880950,CBD,Private room,229.18,8,269,6,4.08,23.0,Good,-33.842619,151.230973
+Sydney,392159,Manly,Entire home/apt,151.61,1,240,35,4.07,40.0,Good,-33.847509,151.224656
+Sydney,234136,Bondi,Private room,286.24,3,298,55,4.78,29.0,Good,-33.888785,151.272433
+Sydney,816847,Glebe,Entire home/apt,127.46,27,347,70,4.1,38.0,Good,-33.814311,151.183012
+Sydney,678417,Manly,Entire home/apt,380.0,19,187,46,4.41,35.0,Good,-33.904362,151.204163
+Sydney,561101,Bondi,Shared room,108.18,14,51,16,4.75,15.0,Good,-33.817233,151.264686
+Sydney,903182,Surry Hills,Private room,129.37,7,299,38,4.69,45.0,Good,-33.859652,151.167658
+Sydney,636408,Manly,Entire home/apt,156.48,4,284,48,4.14,37.0,Good,-33.824,151.171761
+Sydney,622339,Redfern,Entire home/apt,146.79,3,204,30,3.75,32.0,Good,-33.802811,151.272928
+Sydney,770641,Glebe,Private room,189.03,28,58,0,4.12,20.0,Good,-33.918099,151.19866
+Sydney,202591,Pyrmont,Entire home/apt,227.59,12,303,13,4.29,25.0,Good,-33.898699,151.277284
+Sydney,407226,Glebe,Entire home/apt,308.7,1,199,1,4.54,32.0,Good,-33.836565,151.275753
+Sydney,338569,Redfern,Hotel room,250.38,22,307,45,4.28,45.0,Good,-33.934491,151.244703
+Sydney,924387,Surry Hills,Private room,100.76,3,51,15,4.66,37.0,Good,-33.915373,151.200345
+Sydney,548094,CBD,Private room,153.23,30,364,23,4.63,26.0,Good,-33.811011,151.186246
+Sydney,737984,Redfern,Shared room,215.89,19,98,56,4.45,30.0,Good,-33.859559,151.168719
+Sydney,402014,Newtown,Private room,116.06,3,83,4,4.54,32.0,Good,-33.935058,151.176493
+Sydney,626250,Newtown,Entire home/apt,380.0,1,70,12,3.89,28.0,Good,-33.816955,151.161414
+Sydney,822534,Pyrmont,Private room,,16,359,25,4.32,29.0,Good,-33.893296,151.1486
+Sydney,258502,CBD,Entire home/apt,109.71,29,304,60,3.78,32.0,Good,-33.815691,151.162349
+Sydney,235992,CBD,Entire home/apt,380.0,1,82,13,4.75,46.0,Good,-33.809939,151.225233
+Sydney,443018,Glebe,Private room,232.38,17,57,14,4.77,24.0,Good,-33.90653,151.19062
+Sydney,711313,Redfern,Private room,282.53,21,292,10,3.43,30.0,Good,-33.93711,151.19586
+Sydney,477652,Surry Hills,Entire home/apt,307.17,4,348,44,3.43,38.0,Good,-33.835531,151.223821
+Sydney,609551,Glebe,Private room,196.31,1,144,126,4.02,22.0,Good,-33.814646,151.156134
+Sydney,482833,Pyrmont,Private room,,12,58,160,3.95,31.0,Good,-33.89815,151.158794
+Sydney,340303,Manly,Private room,295.77,2,336,16,3.89,17.0,Good,-33.857038,151.252436
+Sydney,383458,Glebe,Private room,380.0,1,69,63,4.0,32.0,Good,-33.877953,151.179866
+Sydney,803720,CBD,Entire home/apt,126.44,16,342,48,,39.0,Good,-33.834314,151.19654
+Sydney,242174,Glebe,Private room,186.34,14,98,97,4.63,42.0,Good,-33.808032,151.249058
+Sydney,171421,Redfern,Shared room,75.0,4,149,17,4.56,35.0,Good,-33.901486,151.237357
+Sydney,126928,Glebe,Entire home/apt,95.19,5,129,2,4.27,22.0,Good,-33.83772,151.175895
+Sydney,692447,Surry Hills,Hotel room,380.0,1,101,6,3.67,33.0,Good,-33.931581,151.239568
+Sydney,224175,Bondi,Private room,328.6,14,154,29,4.79,16.0,Good,-33.863001,151.156552
+Sydney,825728,Redfern,Entire home/apt,295.97,1,198,14,4.31,30.0,Good,-33.863127,151.246636
+Sydney,150935,Redfern,Entire home/apt,259.41,1,249,61,4.46,25.0,Good,-33.901647,151.163993
+Sydney,652982,Glebe,Entire home/apt,380.0,24,252,40,4.77,22.0,Good,-33.837268,151.143171
+Sydney,218187,Pyrmont,Entire home/apt,199.71,13,217,42,4.21,,,-33.833984,151.271871
+Sydney,931229,Surry Hills,Private room,75.0,22,149,43,3.99,28.0,Good,-33.874164,151.161229
+Sydney,722520,Bondi,Private room,287.87,2,20,77,4.42,43.0,Good,-33.865788,151.207861
+Sydney,742421,CBD,Entire home/apt,245.45,26,27,12,3.84,,,-33.840971,151.167822
+Sydney,129656,Bondi,Entire home/apt,203.12,4,3,106,4.3,21.0,Good,-33.896352,151.277565
+Sydney,251644,Bondi,Entire home/apt,298.89,29,145,53,4.56,27.0,Good,-33.815579,151.153642
+Sydney,437561,Manly,Private room,330.34,1,80,25,,25.0,Good,-33.867799,151.261384
+Sydney,466872,Redfern,Entire home/apt,153.33,11,74,31,,24.0,Good,-33.816787,151.140623
+Sydney,264956,Manly,Hotel room,189.91,2,225,8,3.29,33.0,Good,-33.878927,151.267163
+Sydney,130882,Manly,Entire home/apt,111.76,14,137,16,4.12,33.0,Good,-33.861347,151.142793
+Sydney,637460,Bondi,Entire home/apt,212.83,2,105,78,3.87,46.0,Good,-33.850128,151.183437
+Sydney,688159,Glebe,Private room,309.3,13,234,96,5.0,23.0,Good,-33.808596,151.279133
+Sydney,282463,Redfern,Entire home/apt,222.81,2,332,18,4.7,31.0,Good,-33.803879,151.166024
+Sydney,871659,Bondi,Entire home/apt,145.54,21,324,56,3.43,24.0,Good,-33.891782,151.154812
+Sydney,418058,Manly,Entire home/apt,287.93,15,134,105,,26.0,Good,-33.841743,151.260936
+Sydney,620201,Surry Hills,Entire home/apt,190.49,30,284,32,3.63,28.0,Good,-33.891404,151.148217
+Sydney,461038,Surry Hills,Private room,215.77,27,305,34,3.97,17.0,Good,-33.808158,151.150112
+Sydney,230534,CBD,Hotel room,178.77,6,140,36,4.49,27.0,Good,-33.856218,151.272442
+Sydney,227068,Bondi,Hotel room,221.41,19,170,97,4.3,30.0,Good,-33.902235,151.139875
+Sydney,425677,Surry Hills,Private room,214.36,11,168,88,5.0,,,-33.938519,151.151126
+Sydney,897630,Glebe,Entire home/apt,226.57,7,322,3,5.0,24.0,Good,-33.922466,151.149746
+Sydney,649287,Glebe,Private room,380.0,24,4,38,4.7,39.0,Good,-33.841006,151.211487
+Sydney,387624,Manly,Private room,254.86,1,44,71,3.96,19.0,Good,-33.916926,151.270942
+Sydney,238131,Bondi,Entire home/apt,305.34,9,108,51,4.33,35.0,Good,-33.884283,151.177542
+Sydney,176664,Redfern,Entire home/apt,380.0,11,38,94,4.83,22.0,Good,-33.876146,151.25514
+Sydney,236237,Manly,Hotel room,345.01,22,0,21,3.84,50.0,Good,-33.90815,151.169299
+Sydney,690475,Pyrmont,Private room,106.87,23,362,86,3.77,37.0,Good,-33.911969,151.18088
+Sydney,307606,Redfern,Private room,134.14,4,174,4,4.88,40.0,Good,-33.897769,151.239744
+Sydney,741572,Redfern,Entire home/apt,173.43,3,72,84,4.32,17.0,Good,-33.861662,151.168201
+Sydney,848514,CBD,Private room,194.72,16,108,47,3.95,,,-33.850353,151.198411
+Sydney,358591,Redfern,Entire home/apt,104.44,7,2,3,4.08,29.0,Good,-33.837546,151.201282
+Sydney,718217,Pyrmont,Private room,264.19,11,158,43,5.0,27.0,Good,-33.8969,151.251799
+Sydney,147824,Bondi,Entire home/apt,380.0,28,169,23,4.19,26.0,Good,-33.912939,151.159041
+Sydney,315815,Glebe,Entire home/apt,187.29,2,338,28,4.57,37.0,Good,-33.926616,151.146246
+Sydney,215097,Surry Hills,Private room,165.54,26,342,5,4.56,23.0,Good,-33.899715,151.238122
+Sydney,262701,Bondi,Entire home/apt,260.75,3,63,37,5.0,2.0,Good,-33.922294,151.270617
+Sydney,175151,Pyrmont,Entire home/apt,151.88,16,75,86,3.34,43.0,Good,-33.873769,151.209675
+Sydney,899143,Pyrmont,Entire home/apt,380.0,24,339,0,4.84,36.0,Good,-33.856842,151.217407
+Sydney,896507,CBD,Shared room,239.47,2,210,62,4.16,31.0,Good,-33.872868,151.154523
+Sydney,451762,Manly,Entire home/apt,156.01,13,275,60,3.95,,,-33.838152,151.148833
+Sydney,548659,Newtown,Entire home/apt,155.31,1,195,79,5.0,10.0,Good,-33.845988,151.23481
+Sydney,692052,Bondi,Entire home/apt,265.32,6,101,16,,33.0,Good,-33.917703,151.242993
+Sydney,828506,Surry Hills,Private room,226.32,25,248,13,4.61,32.0,Good,-33.888625,151.183242
+Sydney,213237,Glebe,Entire home/apt,380.0,20,68,14,3.63,32.0,Good,-33.865512,151.17042
+Sydney,455385,CBD,Entire home/apt,380.0,1,90,39,,23.0,Good,-33.847589,151.253796
+Sydney,964912,Glebe,Shared room,351.11,19,136,21,4.5,22.0,Good,-33.876461,151.22149
+Sydney,203249,CBD,Shared room,211.48,6,63,0,3.81,34.0,Good,-33.895039,151.268476
+Sydney,420868,Newtown,Private room,127.52,3,275,44,3.92,,,-33.812536,151.216266
+Sydney,574809,Glebe,Entire home/apt,101.33,2,140,25,4.19,35.0,Good,-33.805881,151.171598
+Sydney,611848,CBD,Shared room,276.42,1,360,80,4.24,41.0,Good,-33.889115,151.244034
+Sydney,622392,CBD,Shared room,126.19,2,285,114,4.11,35.0,Good,-33.871196,151.211335
+Sydney,620309,Newtown,Entire home/apt,100.49,23,96,0,4.39,39.0,Good,-33.827358,151.237828
+Sydney,750433,Pyrmont,Entire home/apt,112.49,1,235,7,3.94,40.0,Good,-33.872996,151.157442
+Sydney,110953,Manly,Private room,152.71,1,358,18,4.81,16.0,Good,-33.819988,151.221741
+Sydney,489877,Newtown,Entire home/apt,380.0,19,289,28,5.0,19.0,Good,-33.845927,151.154304
+Sydney,950708,Redfern,Hotel room,135.36,1,244,25,4.49,27.0,Good,-33.866725,151.166615
+Sydney,135638,CBD,Shared room,380.0,17,254,30,3.99,31.0,Good,-33.895163,151.222738
+Sydney,362821,CBD,Private room,233.73,2,125,75,3.97,34.0,Good,-33.875714,151.187431
+Sydney,660984,Manly,Entire home/apt,249.14,8,335,82,5.0,28.0,Good,-33.865305,151.141364
+Sydney,579232,CBD,Hotel room,365.8,3,303,23,5.0,18.0,Good,-33.916574,151.140228
+Sydney,187259,CBD,Private room,104.56,1,33,104,3.68,28.0,Good,-33.890875,151.153138
+Sydney,850134,CBD,Entire home/apt,364.93,20,252,34,4.58,21.0,Good,-33.919238,151.23327
+Sydney,588459,CBD,Entire home/apt,,7,0,15,4.28,41.0,Good,-33.831737,151.23401
+Sydney,344819,Glebe,Entire home/apt,98.65,3,231,6,4.13,29.0,Good,-33.879365,151.254601
+Sydney,448493,Glebe,Private room,180.67,3,265,47,4.51,35.0,Good,-33.806223,151.21413
+Sydney,745791,Newtown,Entire home/apt,338.62,6,86,54,4.62,,,-33.904467,151.166497
+Sydney,533601,Bondi,Entire home/apt,166.52,6,26,14,5.0,34.0,Good,-33.932772,151.261897
+Sydney,890882,Newtown,Entire home/apt,202.1,16,7,145,4.47,35.0,Good,-33.88148,151.217062
+Sydney,757287,Newtown,Hotel room,153.65,12,206,22,5.0,27.0,Good,-33.831328,151.188225
+Sydney,147639,Manly,Private room,197.24,19,216,48,4.65,46.0,Good,-33.814709,151.179915
+Sydney,137519,CBD,Entire home/apt,380.0,20,57,14,3.69,43.0,Good,-33.856208,151.186219
+Sydney,522431,Glebe,Private room,380.0,27,125,22,4.15,35.0,Good,-33.832862,151.251024
+Sydney,574854,Glebe,Entire home/apt,163.91,27,300,20,4.29,30.0,Good,-33.918966,151.180903
+Sydney,777192,Pyrmont,Private room,200.6,6,268,53,5.0,39.0,Good,-33.892014,151.195265
+Sydney,853155,Glebe,Private room,219.32,2,155,43,4.69,,,-33.893805,151.165806
+Sydney,837148,Glebe,Entire home/apt,207.25,30,171,15,3.38,20.0,Good,-33.827325,151.260178
+Sydney,467374,Manly,Entire home/apt,130.54,2,182,1,4.84,22.0,Good,-33.850018,151.230421
+Sydney,784207,Pyrmont,Entire home/apt,256.79,6,163,15,4.07,27.0,Good,-33.828282,151.162228
+Sydney,737009,Manly,Private room,380.0,16,303,16,3.78,28.0,Good,-33.93449,151.186272
+Sydney,921094,Glebe,Entire home/apt,204.56,11,203,85,4.27,24.0,Good,-33.935165,151.243013
+Sydney,691811,Bondi,Entire home/apt,327.09,2,176,2,4.55,24.0,Good,-33.903673,151.209924
+Sydney,830841,Manly,Private room,167.35,27,82,21,4.42,24.0,Good,-33.811173,151.234359
+Sydney,197464,Manly,Entire home/apt,,30,0,36,4.64,26.0,Good,-33.87003,151.178475
+Sydney,405764,Pyrmont,Private room,135.88,7,25,25,4.22,30.0,Good,-33.932623,151.234679
+Sydney,393593,Redfern,Entire home/apt,,2,319,73,3.73,40.0,Good,-33.857237,151.252986
+Sydney,601077,Pyrmont,Entire home/apt,134.01,3,153,4,4.54,28.0,Good,-33.918585,151.171515
+Sydney,444017,CBD,Entire home/apt,194.28,16,259,38,4.41,47.0,Good,-33.822467,151.259118
+Sydney,485620,CBD,Entire home/apt,380.0,22,175,56,4.22,31.0,Good,-33.810399,151.140124
+Sydney,417754,Pyrmont,Entire home/apt,302.71,18,321,54,4.37,26.0,Good,-33.863333,151.236007
+Sydney,158999,Glebe,Private room,234.27,18,328,25,4.24,17.0,Good,-33.86974,151.143866
+Sydney,722084,CBD,Entire home/apt,380.0,3,271,75,4.94,56.0,Moderate,-33.916489,151.150258
+Sydney,654897,Newtown,Entire home/apt,262.7,2,189,32,4.61,32.0,Good,-33.881808,151.155475
+Sydney,506767,Newtown,Private room,269.5,26,139,113,4.56,26.0,Good,-33.844568,151.240246
+Sydney,503948,Redfern,Hotel room,,18,128,45,4.1,28.0,Good,-33.818146,151.2592
+Sydney,418206,Pyrmont,Private room,179.11,2,86,25,4.05,25.0,Good,-33.867306,151.15152
+Sydney,790322,CBD,Entire home/apt,113.08,19,110,0,,20.0,Good,-33.82398,151.214059
+Sydney,256217,Manly,Private room,,26,109,42,4.94,42.0,Good,-33.925881,151.169121
+Sydney,789823,Bondi,Entire home/apt,375.84,6,205,11,4.22,40.0,Good,-33.84084,151.174632
+Sydney,315214,Surry Hills,Private room,311.4,1,364,49,,27.0,Good,-33.867265,151.199527
+Sydney,687635,Pyrmont,Entire home/apt,234.2,13,99,71,4.09,28.0,Good,-33.808888,151.21985
+Sydney,417977,Bondi,Shared room,380.0,9,130,12,4.34,17.0,Good,-33.818408,151.276107
+Sydney,206834,Newtown,Shared room,75.0,11,56,35,4.23,40.0,Good,-33.814346,151.165987
+Sydney,422419,Manly,Entire home/apt,223.16,12,33,5,5.0,32.0,Good,-33.918891,151.178532
+Sydney,773747,Newtown,Private room,236.82,12,224,17,3.02,49.0,Good,-33.881285,151.231026
+Sydney,714071,Manly,Entire home/apt,123.94,16,94,1,4.54,33.0,Good,-33.925671,151.22989
+Sydney,677761,Surry Hills,Entire home/apt,129.13,26,26,40,3.87,36.0,Good,-33.849195,151.192487
+Sydney,158093,Surry Hills,Private room,380.0,3,155,28,5.0,29.0,Good,-33.926417,151.278373
+Sydney,987824,Bondi,Entire home/apt,209.14,16,14,13,4.58,33.0,Good,-33.811155,151.185056
+Sydney,277992,Bondi,Entire home/apt,319.76,14,239,6,4.36,30.0,Good,-33.834424,151.21087
+Sydney,952820,Glebe,Entire home/apt,380.0,2,336,4,4.18,43.0,Good,-33.807709,151.143444
+Sydney,510486,Pyrmont,Private room,109.92,7,268,15,3.68,23.0,Good,-33.811301,151.227113
+Sydney,260990,Newtown,Entire home/apt,380.0,20,80,153,4.66,28.0,Good,-33.801217,151.176979
+Sydney,381425,Bondi,Hotel room,380.0,8,217,54,3.93,34.0,Good,-33.866382,151.261469
+Sydney,305706,Bondi,Entire home/apt,121.89,2,278,55,,,,-33.927432,151.185283
+Sydney,121548,Manly,Private room,173.84,30,24,24,5.0,30.0,Good,-33.871001,151.172577
+Sydney,887209,Newtown,Private room,174.81,7,45,52,3.61,32.0,Good,-33.898897,151.263898
+Sydney,305948,Redfern,Entire home/apt,380.0,3,21,30,4.09,34.0,Good,-33.930304,151.177926
+Sydney,572281,Pyrmont,Entire home/apt,279.12,21,349,30,4.05,20.0,Good,-33.91135,151.207956
+Sydney,464048,Glebe,Entire home/apt,142.76,23,65,56,3.8,30.0,Good,-33.905956,151.224522
+Sydney,198530,Pyrmont,Hotel room,284.17,26,72,44,4.64,37.0,Good,-33.931157,151.258019
+Sydney,826921,Glebe,Entire home/apt,164.24,30,356,8,5.0,16.0,Good,-33.926689,151.221352
+Sydney,739168,Glebe,Entire home/apt,257.19,23,37,25,4.06,17.0,Good,-33.932363,151.213897
+Sydney,267448,Manly,Entire home/apt,296.87,3,350,36,4.41,19.0,Good,-33.879807,151.220474
+Sydney,727742,Newtown,Hotel room,380.0,6,4,122,4.31,25.0,Good,-33.86203,151.188198
+Sydney,516577,CBD,Hotel room,192.96,2,329,15,3.88,20.0,Good,-33.914378,151.219592
+Sydney,721844,Bondi,Private room,204.23,2,42,31,4.43,23.0,Good,-33.812715,151.165484
+Sydney,222128,Bondi,Entire home/apt,192.29,1,255,47,3.74,43.0,Good,-33.84793,151.248547
+Sydney,585772,CBD,Private room,196.54,18,284,92,4.45,23.0,Good,-33.878538,151.216095
+Sydney,414993,Manly,Entire home/apt,210.75,9,142,15,4.03,,,-33.89475,151.260892
+Sydney,388964,Bondi,Entire home/apt,380.0,22,308,51,4.96,32.0,Good,-33.846303,151.221072
+Sydney,367246,Bondi,Entire home/apt,301.92,1,223,32,4.1,29.0,Good,-33.863709,151.246798
+Sydney,653756,Newtown,Private room,324.41,7,196,87,4.45,33.0,Good,-33.907028,151.199678
+Sydney,204216,Bondi,Entire home/apt,321.57,2,235,53,5.0,41.0,Good,-33.919976,151.165427
+Sydney,718621,Bondi,Shared room,359.01,17,333,45,4.46,13.0,Good,-33.873077,151.275325
+Sydney,776806,Bondi,Entire home/apt,272.86,25,316,89,4.43,20.0,Good,-33.844463,151.151794
+Sydney,196077,Pyrmont,Shared room,199.77,22,254,10,4.81,30.0,Good,-33.843467,151.185629
+Sydney,752328,Redfern,Shared room,,24,65,32,4.72,20.0,Good,-33.832355,151.186893
+Sydney,268332,Newtown,Shared room,155.11,13,108,30,4.12,35.0,Good,-33.894663,151.155247
+Sydney,240059,CBD,Entire home/apt,380.0,9,84,41,4.04,40.0,Good,-33.878031,151.141474
+Sydney,505693,Newtown,Entire home/apt,125.05,1,145,51,4.56,42.0,Good,-33.909923,151.140656
+Sydney,880809,Redfern,Private room,75.0,14,143,24,4.5,27.0,Good,-33.861221,151.207203
+Sydney,939068,Newtown,Private room,202.25,16,308,3,4.84,16.0,Good,-33.80269,151.141942
+Sydney,636843,Glebe,Entire home/apt,209.96,19,0,67,5.0,39.0,Good,-33.935321,151.176038
+Sydney,562272,Bondi,Entire home/apt,293.16,13,139,17,4.22,24.0,Good,-33.91698,151.234068
+Sydney,234458,Manly,Entire home/apt,,7,340,121,,18.0,Good,-33.890203,151.164645
+Sydney,361742,Manly,Entire home/apt,282.58,1,269,18,3.92,19.0,Good,-33.832188,151.201174
+Sydney,840525,Bondi,Entire home/apt,119.81,3,38,34,4.73,47.0,Good,-33.904566,151.217486
+Sydney,303103,Manly,Shared room,155.06,3,81,27,4.01,42.0,Good,-33.887435,151.23525
+Sydney,529229,CBD,Hotel room,380.0,30,339,32,4.37,18.0,Good,-33.850768,151.184657
+Sydney,795432,Glebe,Entire home/apt,319.74,6,62,1,5.0,17.0,Good,-33.816764,151.266185
+Sydney,725892,Redfern,Entire home/apt,380.0,7,360,12,3.85,44.0,Good,-33.825799,151.191893
+Sydney,242202,Surry Hills,Shared room,270.61,14,230,10,4.31,14.0,Good,-33.819625,151.228929
+Sydney,639523,Manly,Entire home/apt,,1,119,21,4.16,21.0,Good,-33.855572,151.21405
+Sydney,714300,CBD,Entire home/apt,180.29,2,64,74,4.45,25.0,Good,-33.804953,151.168268
+Sydney,108037,Newtown,Entire home/apt,204.68,2,352,22,3.96,27.0,Good,-33.809765,151.227089
+Sydney,451312,Pyrmont,Private room,156.21,1,124,1,3.92,31.0,Good,-33.877226,151.196792
+Sydney,110533,Pyrmont,Entire home/apt,327.06,26,71,72,4.56,27.0,Good,-33.817374,151.148418
+Sydney,704219,CBD,Entire home/apt,380.0,18,266,8,3.97,,,-33.891338,151.170476
+Sydney,312510,Surry Hills,Entire home/apt,219.59,8,245,16,4.59,34.0,Good,-33.920356,151.235507
+Sydney,184430,Glebe,Shared room,81.94,20,272,33,4.44,30.0,Good,-33.876696,151.238468
+Sydney,451078,Bondi,Entire home/apt,125.46,2,169,159,3.89,38.0,Good,-33.924093,151.183214
+Sydney,932782,Pyrmont,Entire home/apt,199.97,3,240,58,4.68,22.0,Good,-33.807109,151.242276
+Sydney,825869,Redfern,Shared room,213.78,22,154,33,4.88,32.0,Good,-33.816915,151.206588
+Sydney,818831,Glebe,Private room,380.0,19,178,50,4.07,30.0,Good,-33.853604,151.193504
+Sydney,398935,Newtown,Entire home/apt,308.84,1,308,2,4.49,28.0,Good,-33.829737,151.16429
+Sydney,981843,Surry Hills,Entire home/apt,158.46,21,27,23,3.96,25.0,Good,-33.824321,151.258731
+Sydney,110329,Pyrmont,Entire home/apt,265.87,9,309,57,5.0,39.0,Good,-33.847556,151.225919
+Sydney,516353,Pyrmont,Entire home/apt,251.67,2,288,32,4.74,30.0,Good,-33.832649,151.266161
+Sydney,525898,Redfern,Entire home/apt,233.36,1,55,65,,34.0,Good,-33.829623,151.234437
+Sydney,876737,Redfern,Private room,380.0,28,77,120,4.76,25.0,Good,-33.857474,151.186652
+Sydney,826890,Glebe,Entire home/apt,362.42,2,92,87,4.94,39.0,Good,-33.856967,151.248028
+Sydney,810812,Pyrmont,Private room,380.0,27,8,27,4.06,32.0,Good,-33.916485,151.185887
+Sydney,635270,Redfern,Private room,168.48,1,328,48,3.67,26.0,Good,-33.831036,151.175291
+Sydney,168002,Pyrmont,Hotel room,380.0,15,19,10,3.47,,,-33.89361,151.246292
+Sydney,145918,Surry Hills,Hotel room,380.0,14,2,2,4.13,19.0,Good,-33.847746,151.204935
+Sydney,796169,Surry Hills,Entire home/apt,380.0,10,181,63,3.59,37.0,Good,-33.82471,151.201932
+Sydney,133834,Surry Hills,Entire home/apt,212.21,11,163,16,4.62,39.0,Good,-33.813954,151.188418
+Sydney,871052,Newtown,Private room,252.99,4,172,43,4.14,31.0,Good,-33.921373,151.189407
+Sydney,321348,Glebe,Entire home/apt,281.51,26,297,67,,31.0,Good,-33.802717,151.153841
+Sydney,264417,Surry Hills,Private room,109.22,1,278,52,4.49,24.0,Good,-33.921019,151.279064
+Sydney,902130,Surry Hills,Entire home/apt,380.0,1,201,22,5.0,40.0,Good,-33.817952,151.220072
+Sydney,254111,Surry Hills,Private room,,11,351,6,4.45,39.0,Good,-33.87275,151.235908
+Sydney,841401,Surry Hills,Private room,380.0,26,302,18,3.56,29.0,Good,-33.868626,151.199139
+Sydney,396204,Redfern,Private room,214.63,1,317,5,3.82,29.0,Good,-33.830021,151.177473
+Sydney,861139,Surry Hills,Entire home/apt,203.12,11,256,34,4.33,46.0,Good,-33.853773,151.163325
+Sydney,822863,CBD,Shared room,165.33,2,12,16,5.0,31.0,Good,-33.808813,151.186519
+Sydney,255780,CBD,Private room,380.0,25,129,1,4.5,37.0,Good,-33.898301,151.200772
+Sydney,738872,CBD,Entire home/apt,279.43,28,176,4,4.33,,,-33.802054,151.244445
+Sydney,771985,Manly,Entire home/apt,192.92,13,234,63,4.13,23.0,Good,-33.856507,151.206028
+Sydney,215738,Manly,Hotel room,279.78,6,25,12,5.0,23.0,Good,-33.810729,151.1504
+Sydney,495049,Redfern,Entire home/apt,245.27,1,83,8,,37.0,Good,-33.887671,151.191061
+Sydney,475668,Manly,Hotel room,380.0,2,275,2,4.67,37.0,Good,-33.869642,151.226819
+Sydney,272660,CBD,Private room,380.0,1,296,38,5.0,14.0,Good,-33.832924,151.143113
+Sydney,894787,Manly,Private room,181.79,19,334,39,3.62,37.0,Good,-33.906704,151.231672
+Sydney,736239,Bondi,Entire home/apt,380.0,18,41,20,4.77,15.0,Good,-33.826077,151.218737
+Sydney,135389,Newtown,Entire home/apt,261.49,5,223,7,4.01,45.0,Good,-33.832833,151.27685
+Sydney,972402,Pyrmont,Private room,380.0,24,291,13,4.58,30.0,Good,-33.859041,151.194325
+Sydney,789765,Bondi,Private room,380.0,4,213,5,3.88,10.0,Good,-33.88369,151.266161
+Sydney,518130,Glebe,Shared room,330.07,4,320,37,4.92,25.0,Good,-33.891423,151.198926
+Sydney,510269,Redfern,Entire home/apt,380.0,2,214,150,4.4,21.0,Good,-33.922221,151.143495
+Sydney,357631,Manly,Entire home/apt,152.37,13,333,127,4.46,23.0,Good,-33.89499,151.156064
+Sydney,264041,Surry Hills,Entire home/apt,186.62,5,73,1,3.72,23.0,Good,-33.925546,151.21886
+Sydney,659481,Glebe,Entire home/apt,167.67,2,313,9,,43.0,Good,-33.873326,151.265008
+Sydney,883655,CBD,Private room,329.3,15,365,11,4.23,32.0,Good,-33.936021,151.253708
+Sydney,875831,Newtown,Entire home/apt,305.0,9,336,25,4.03,,,-33.913572,151.246819
+Sydney,979422,Redfern,Entire home/apt,,30,334,14,4.92,30.0,Good,-33.897686,151.14534
+Sydney,504153,Surry Hills,Entire home/apt,239.34,4,147,10,4.42,24.0,Good,-33.84727,151.27342
+Sydney,918527,Newtown,Entire home/apt,337.75,13,210,247,4.32,24.0,Good,-33.884511,151.239526
+Sydney,923298,Surry Hills,Entire home/apt,,1,234,19,4.64,36.0,Good,-33.911594,151.174271
+Sydney,846626,Bondi,Entire home/apt,242.84,3,205,46,4.16,,,-33.918661,151.235909
+Sydney,151253,Newtown,Entire home/apt,269.33,22,240,34,4.49,34.0,Good,-33.801708,151.186706
+Sydney,790085,Pyrmont,Entire home/apt,234.89,15,156,18,,40.0,Good,-33.883244,151.184091
+Sydney,681257,Bondi,Entire home/apt,355.32,16,72,36,4.12,25.0,Good,-33.83319,151.160358
+Sydney,308266,Redfern,Private room,114.15,1,181,52,3.69,26.0,Good,-33.839732,151.146956
+Sydney,296097,Pyrmont,Entire home/apt,288.71,23,14,25,4.11,28.0,Good,-33.847,151.140213
+Sydney,856523,CBD,Entire home/apt,82.85,1,121,19,4.19,40.0,Good,-33.841336,151.15174
+Sydney,799134,CBD,Entire home/apt,374.02,2,360,137,4.36,31.0,Good,-33.864048,151.268598
+Sydney,373835,CBD,Private room,141.93,24,304,107,4.23,29.0,Good,-33.839909,151.24203
+Sydney,385420,Glebe,Entire home/apt,212.22,3,330,70,3.43,29.0,Good,-33.838153,151.214222
+Sydney,306452,Surry Hills,Private room,380.0,11,158,151,,34.0,Good,-33.841821,151.26584
+Sydney,555970,Surry Hills,Private room,322.57,9,79,92,4.52,13.0,Good,-33.837173,151.278262
+Sydney,468778,CBD,Private room,283.12,28,17,3,3.63,32.0,Good,-33.827826,151.275046
+Sydney,125021,Bondi,Hotel room,84.55,6,66,52,4.43,35.0,Good,-33.879537,151.260135
+Sydney,839448,Surry Hills,Hotel room,249.93,19,279,51,,8.0,Good,-33.861021,151.217273
+Sydney,894770,Newtown,Entire home/apt,290.19,28,245,44,3.77,14.0,Good,-33.805909,151.156123
+Sydney,922119,Newtown,Private room,283.61,9,309,89,5.0,,,-33.930603,151.243151
+Sydney,722511,Glebe,Entire home/apt,,22,226,17,3.76,,,-33.865289,151.203776
+Sydney,176604,CBD,Entire home/apt,380.0,19,220,2,4.53,27.0,Good,-33.897416,151.21666
+Sydney,714368,Newtown,Private room,,3,114,22,3.49,19.0,Good,-33.888448,151.162502
+Sydney,689638,Surry Hills,Entire home/apt,247.32,14,156,8,4.2,32.0,Good,-33.913952,151.25844
+Sydney,683611,Manly,Entire home/apt,244.3,1,244,56,2.57,,,-33.848787,151.266911
+Sydney,226831,Pyrmont,Entire home/apt,243.14,12,49,3,3.8,47.0,Good,-33.822955,151.207966
+Sydney,298478,Surry Hills,Entire home/apt,213.73,19,133,38,3.94,27.0,Good,-33.817963,151.256912
+Sydney,743073,Newtown,Entire home/apt,146.84,27,228,88,4.96,40.0,Good,-33.867433,151.152214
+Sydney,139928,Manly,Private room,89.6,1,26,36,4.44,42.0,Good,-33.894744,151.237231
+Sydney,601411,Surry Hills,Entire home/apt,137.97,1,112,45,4.61,34.0,Good,-33.919035,151.276621
+Sydney,936957,Newtown,Shared room,147.91,20,237,76,4.66,31.0,Good,-33.902894,151.224795
+Sydney,516657,Newtown,Entire home/apt,126.54,19,320,52,,29.0,Good,-33.862722,151.187165
+Sydney,856516,Bondi,Private room,283.47,2,156,4,4.84,24.0,Good,-33.813224,151.216203
+Sydney,657589,Newtown,Private room,380.0,30,232,52,4.29,26.0,Good,-33.848191,151.187822
+Sydney,130871,Surry Hills,Entire home/apt,75.0,5,25,58,4.65,15.0,Good,-33.923443,151.16777
+Sydney,872938,Bondi,Entire home/apt,283.03,4,255,30,4.17,42.0,Good,-33.900697,151.179801
+Sydney,473516,Glebe,Entire home/apt,218.09,1,342,14,5.0,,,-33.91922,151.258836
+Sydney,839905,Newtown,Entire home/apt,212.43,1,122,25,3.65,24.0,Good,-33.913101,151.215357
+Sydney,396696,Bondi,Private room,199.39,11,37,35,4.53,34.0,Good,-33.844488,151.215174
+Sydney,362798,Redfern,Entire home/apt,260.29,2,38,5,3.53,39.0,Good,-33.881064,151.190641
+Sydney,688474,Glebe,Hotel room,166.95,22,156,99,4.51,27.0,Good,-33.862878,151.27586
+Sydney,336474,Manly,Shared room,99.75,23,70,1,5.0,11.0,Good,-33.901013,151.204191
+Sydney,585819,Pyrmont,Entire home/apt,344.68,2,69,51,4.27,37.0,Good,-33.913291,151.173814
+Sydney,240405,CBD,Hotel room,260.17,7,135,25,4.8,55.0,Moderate,-33.923538,151.14103
+Sydney,948659,Surry Hills,Private room,116.72,1,261,5,4.83,30.0,Good,-33.830886,151.272489
+Sydney,560625,Surry Hills,Hotel room,261.94,14,22,15,4.87,34.0,Good,-33.888326,151.257051
+Sydney,383072,Pyrmont,Private room,159.82,19,253,32,3.62,38.0,Good,-33.83601,151.24913
+Sydney,219888,Pyrmont,Entire home/apt,140.4,13,5,34,4.24,22.0,Good,-33.903586,151.159076
+Sydney,391102,Newtown,Private room,,19,254,37,5.0,52.0,Moderate,-33.875587,151.202268
+Sydney,182063,Newtown,Entire home/apt,380.0,9,129,194,,24.0,Good,-33.918411,151.201591
+Sydney,912463,Newtown,Private room,223.91,15,219,10,,30.0,Good,-33.839463,151.185111
+Sydney,158234,Redfern,Entire home/apt,171.17,1,363,21,4.68,,,-33.854091,151.212693
+Sydney,482166,CBD,Private room,212.25,10,19,83,3.98,38.0,Good,-33.810319,151.257616
+Sydney,214767,Surry Hills,Entire home/apt,134.69,23,221,53,4.5,38.0,Good,-33.802316,151.222016
+Sydney,292431,Surry Hills,Entire home/apt,293.8,1,213,20,4.59,18.0,Good,-33.908612,151.268608
+Sydney,678524,Bondi,Entire home/apt,200.38,6,243,12,4.99,20.0,Good,-33.901445,151.245804
+Sydney,306888,Bondi,Entire home/apt,249.93,15,193,18,4.24,23.0,Good,-33.821775,151.198405
+Sydney,176215,Surry Hills,Hotel room,305.56,5,66,136,4.05,24.0,Good,-33.894949,151.197748
+Sydney,559164,Redfern,Private room,344.21,9,23,60,4.25,34.0,Good,-33.833654,151.268646
+Sydney,917109,Manly,Entire home/apt,244.1,15,355,26,,23.0,Good,-33.866955,151.220473
+Sydney,449689,Bondi,Entire home/apt,250.84,1,110,63,3.29,43.0,Good,-33.904601,151.248736
+Sydney,283141,Glebe,Private room,152.75,1,79,1,4.3,21.0,Good,-33.864792,151.277928
+Sydney,651290,Surry Hills,Private room,173.83,5,326,84,,32.0,Good,-33.800738,151.171499

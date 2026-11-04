@@ -1,0 +1,351 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Budapest,453757,Óbuda,Entire home/apt,75000.0,7,342,33,3.94,43.0,Good,47.512399,19.102897
+Budapest,292116,District VI (Terézváros),Private room,36164.15,29,114,59,3.69,35.0,Good,47.537764,19.076268
+Budapest,200278,District VIII,Entire home/apt,52707.03,4,155,68,4.45,62.0,Moderate,47.43591,19.056962
+Budapest,137972,District VII (Jewish Quarter),Shared room,19404.26,3,33,21,4.03,38.0,Good,47.566062,19.036802
+Budapest,543318,District VIII,Entire home/apt,40952.68,10,181,16,4.24,50.0,Good,47.494007,19.066756
+Budapest,418768,District V (Belváros),Entire home/apt,59200.79,2,241,68,4.57,49.0,Good,47.539952,19.095605
+Budapest,177195,District II,Private room,,20,171,11,5.0,,,47.482813,19.084579
+Budapest,479615,District VIII,Entire home/apt,22213.61,5,161,88,4.55,71.0,Moderate,47.471603,19.009464
+Budapest,541717,District V (Belváros),Entire home/apt,45910.82,7,101,18,4.04,43.0,Good,47.477705,19.012255
+Budapest,935233,District V (Belváros),Private room,33275.64,7,341,10,4.41,69.0,Moderate,47.563353,19.097238
+Budapest,672922,Óbuda,Entire home/apt,37253.79,17,270,45,4.62,,,47.481709,19.05327
+Budapest,523252,District I (Castle District),Private room,37637.42,2,147,53,4.17,47.0,Good,47.536747,19.102002
+Budapest,469313,District I (Castle District),Entire home/apt,75000.0,29,359,22,,57.0,Moderate,47.550069,18.987923
+Budapest,723058,District IX,Entire home/apt,70760.92,1,78,2,,46.0,Good,47.554945,18.993345
+Budapest,245042,District I (Castle District),Entire home/apt,74802.61,12,128,8,4.37,,,47.456337,19.043121
+Budapest,490698,District V (Belváros),Entire home/apt,22479.66,29,12,22,4.74,53.0,Moderate,47.556869,18.983782
+Budapest,212173,District I (Castle District),Entire home/apt,47047.53,13,300,19,5.0,30.0,Good,47.517288,19.109303
+Budapest,595957,District VII (Jewish Quarter),Hotel room,73114.89,11,273,45,4.27,46.0,Good,47.566713,19.016567
+Budapest,985227,Óbuda,Private room,15061.94,12,260,12,4.64,46.0,Good,47.493281,19.036725
+Budapest,372300,District VII (Jewish Quarter),Entire home/apt,75000.0,24,26,4,4.77,80.0,Moderate,47.557039,19.045171
+Budapest,894185,District V (Belváros),Entire home/apt,35084.78,13,325,37,4.22,69.0,Moderate,47.565688,19.002192
+Budapest,402955,District VII (Jewish Quarter),Entire home/apt,54418.31,8,293,7,4.2,36.0,Good,47.550709,19.043428
+Budapest,887199,District V (Belváros),Shared room,,19,37,60,4.26,36.0,Good,47.555181,18.986552
+Budapest,636329,Óbuda,Shared room,46551.53,8,64,8,4.07,41.0,Good,47.55481,19.105977
+Budapest,145719,District I (Castle District),Entire home/apt,75000.0,21,26,27,3.64,47.0,Good,47.531746,19.002161
+Budapest,472906,District VII (Jewish Quarter),Entire home/apt,47417.74,2,214,7,,62.0,Moderate,47.442011,19.073513
+Budapest,282059,District VIII,Shared room,17378.86,1,60,12,4.13,53.0,Moderate,47.460968,18.974203
+Budapest,123155,District VII (Jewish Quarter),Shared room,34890.18,5,41,13,3.97,57.0,Moderate,47.54252,19.015297
+Budapest,734891,District VI (Terézváros),Entire home/apt,50141.78,4,226,30,3.94,33.0,Good,47.525106,19.039323
+Budapest,753463,District VIII,Hotel room,41884.29,11,32,99,3.74,60.0,Moderate,47.555947,18.974509
+Budapest,942782,Óbuda,Entire home/apt,35944.58,13,304,12,4.19,29.0,Good,47.451684,19.005857
+Budapest,294426,District VI (Terézváros),Private room,58934.91,2,352,23,4.26,49.0,Good,47.547987,19.014037
+Budapest,333704,Óbuda,Shared room,22331.41,1,328,147,,56.0,Moderate,47.519148,19.014087
+Budapest,959506,District VII (Jewish Quarter),Shared room,40299.51,27,155,7,4.2,86.0,Moderate,47.52766,19.000815
+Budapest,946567,Óbuda,Private room,34373.69,2,132,145,3.98,60.0,Moderate,47.47783,18.97078
+Budapest,470864,District IX,Shared room,20419.17,6,143,126,4.65,66.0,Moderate,47.468741,19.091506
+Budapest,765295,District V (Belváros),Entire home/apt,68567.4,3,291,26,3.55,55.0,Moderate,47.529612,18.988086
+Budapest,998789,District VII (Jewish Quarter),Entire home/apt,25937.56,2,61,49,3.91,54.0,Moderate,47.509708,19.05591
+Budapest,871656,District II,Entire home/apt,17785.07,11,142,6,3.56,59.0,Moderate,47.546108,19.033025
+Budapest,894506,District V (Belváros),Private room,33717.45,1,88,15,3.95,63.0,Moderate,47.536756,19.092926
+Budapest,136441,District VII (Jewish Quarter),Private room,75000.0,1,103,6,4.17,48.0,Good,47.518295,19.01221
+Budapest,580029,District VIII,Entire home/apt,,1,87,58,4.31,47.0,Good,47.567837,19.057685
+Budapest,565094,District VII (Jewish Quarter),Entire home/apt,57008.13,20,29,38,3.79,55.0,Moderate,47.513364,19.086642
+Budapest,613931,District I (Castle District),Entire home/apt,61302.52,3,133,0,3.79,,,47.551288,19.086277
+Budapest,760232,District VIII,Shared room,75000.0,11,56,7,2.99,37.0,Good,47.465822,19.101995
+Budapest,773443,District II,Entire home/apt,39237.24,1,211,17,4.76,52.0,Moderate,47.560931,19.052394
+Budapest,151222,District IX,Entire home/apt,57784.34,20,276,2,3.51,26.0,Good,47.54481,19.101734
+Budapest,595775,Óbuda,Private room,40725.92,5,245,46,,36.0,Good,47.44885,19.090175
+Budapest,664999,District VIII,Shared room,35003.88,3,188,9,3.86,74.0,Moderate,47.42916,18.984968
+Budapest,280329,District I (Castle District),Entire home/apt,54189.89,28,242,27,4.09,56.0,Moderate,47.464714,19.100548
+Budapest,677555,District II,Entire home/apt,48587.91,9,8,13,4.56,44.0,Good,47.44139,18.970678
+Budapest,112651,District IX,Shared room,59729.03,1,45,20,4.85,66.0,Moderate,47.501677,18.984913
+Budapest,477259,District I (Castle District),Private room,75000.0,3,131,42,4.8,51.0,Moderate,47.452156,19.073524
+Budapest,175347,District V (Belváros),Private room,30889.93,3,360,49,3.86,27.0,Good,47.527985,19.082008
+Budapest,671578,District VI (Terézváros),Entire home/apt,75000.0,21,109,44,4.03,73.0,Moderate,47.479242,19.051719
+Budapest,357484,District VI (Terézváros),Private room,30147.78,27,271,154,4.32,58.0,Moderate,47.466364,19.084545
+Budapest,915611,District V (Belváros),Entire home/apt,46685.9,27,87,8,3.99,69.0,Moderate,47.529745,19.032928
+Budapest,788423,District VI (Terézváros),Shared room,50935.94,3,355,12,3.87,55.0,Moderate,47.478926,19.03205
+Budapest,673662,District IX,Entire home/apt,71623.9,15,30,23,4.56,,,47.475164,19.09212
+Budapest,508550,District IX,Entire home/apt,65860.83,26,149,37,5.0,42.0,Good,47.480614,19.041449
+Budapest,603865,District V (Belváros),Entire home/apt,54010.91,2,267,18,4.75,57.0,Moderate,47.561764,19.088791
+Budapest,365603,District IX,Entire home/apt,45345.78,1,309,6,4.37,5.0,Good,47.505388,19.061368
+Budapest,324161,District IX,Entire home/apt,75000.0,19,329,175,,36.0,Good,47.51546,18.988734
+Budapest,983501,District II,Private room,57964.82,14,334,53,4.15,72.0,Moderate,47.495421,19.080633
+Budapest,230608,District VIII,Private room,20069.55,28,223,14,5.0,9.0,Good,47.518689,18.983965
+Budapest,567074,District II,Entire home/apt,46883.45,1,159,34,4.61,46.0,Good,47.543667,19.106303
+Budapest,522391,District VI (Terézváros),Shared room,25269.56,1,222,54,4.22,48.0,Good,47.52543,18.981813
+Budapest,504337,District VII (Jewish Quarter),Entire home/apt,31379.17,3,97,78,4.05,67.0,Moderate,47.46923,19.051423
+Budapest,232819,Óbuda,Entire home/apt,75000.0,16,261,13,5.0,28.0,Good,47.526308,19.06123
+Budapest,304447,District V (Belváros),Entire home/apt,45469.54,4,25,14,4.33,47.0,Good,47.462415,19.035087
+Budapest,903938,District VIII,Hotel room,26394.29,30,79,51,3.32,64.0,Moderate,47.474212,19.048938
+Budapest,274493,District VIII,Shared room,54788.68,20,0,158,,48.0,Good,47.478474,19.090027
+Budapest,345005,District VIII,Private room,32235.83,2,247,15,4.9,58.0,Moderate,47.490193,19.088321
+Budapest,876390,District VII (Jewish Quarter),Private room,44020.28,12,302,99,4.29,,,47.566687,18.982896
+Budapest,490924,District I (Castle District),Shared room,74650.22,3,261,62,3.9,59.0,Moderate,47.453533,19.010508
+Budapest,341160,District I (Castle District),Entire home/apt,45265.35,1,283,7,4.28,23.0,Good,47.490912,18.979595
+Budapest,275834,District I (Castle District),Private room,24254.08,2,106,96,,,,47.503127,18.984514
+Budapest,495386,District VIII,Entire home/apt,75000.0,7,144,56,3.92,70.0,Moderate,47.4478,19.016892
+Budapest,161388,District VII (Jewish Quarter),Entire home/apt,28205.37,11,279,60,4.14,77.0,Moderate,47.503512,19.038111
+Budapest,492920,District I (Castle District),Private room,38135.17,2,131,10,4.43,43.0,Good,47.501143,19.019084
+Budapest,579665,Óbuda,Private room,46585.91,2,34,15,4.88,11.0,Good,47.43971,19.046555
+Budapest,565273,District II,Entire home/apt,25094.84,3,164,32,3.55,50.0,Good,47.495387,19.005008
+Budapest,220695,District II,Entire home/apt,,5,259,29,4.85,67.0,Moderate,47.546428,19.069348
+Budapest,522145,District VIII,Private room,41295.54,2,149,8,4.95,68.0,Moderate,47.544675,18.983172
+Budapest,178647,Óbuda,Private room,50663.0,1,53,52,3.81,62.0,Moderate,47.485112,18.995778
+Budapest,775769,District I (Castle District),Entire home/apt,56051.0,2,224,33,3.82,81.0,Moderate,47.443345,19.051621
+Budapest,975877,District IX,Shared room,37255.53,7,86,2,,50.0,Good,47.506045,19.016889
+Budapest,377250,District V (Belváros),Entire home/apt,26415.89,23,236,17,4.14,68.0,Moderate,47.455944,19.026549
+Budapest,424799,Óbuda,Private room,70182.73,22,327,14,4.81,66.0,Moderate,47.483939,19.058161
+Budapest,195068,Óbuda,Entire home/apt,22609.99,28,185,60,4.02,43.0,Good,47.53184,19.019393
+Budapest,923405,District II,Entire home/apt,28205.61,27,18,13,4.23,37.0,Good,47.482254,19.063159
+Budapest,948858,District VI (Terézváros),Entire home/apt,32190.07,29,206,16,3.35,73.0,Moderate,47.518877,19.05811
+Budapest,442379,District VII (Jewish Quarter),Entire home/apt,27945.71,2,162,13,3.94,,,47.51627,19.0282
+Budapest,302765,District V (Belváros),Entire home/apt,75000.0,22,205,34,4.95,41.0,Good,47.507685,19.086129
+Budapest,622783,District I (Castle District),Private room,,24,54,3,3.24,27.0,Good,47.523344,18.977564
+Budapest,477340,District VII (Jewish Quarter),Hotel room,55136.04,28,340,9,2.84,64.0,Moderate,47.465813,19.033169
+Budapest,999019,Óbuda,Entire home/apt,31501.34,1,202,8,4.79,73.0,Moderate,47.477707,19.020661
+Budapest,893084,District VII (Jewish Quarter),Entire home/apt,52181.01,16,139,11,3.51,55.0,Moderate,47.55907,19.01596
+Budapest,988565,District VIII,Entire home/apt,40255.77,25,88,44,4.2,41.0,Good,47.563551,19.063549
+Budapest,422630,District VII (Jewish Quarter),Private room,62465.0,10,59,14,3.52,,,47.554613,18.979832
+Budapest,659649,District II,Entire home/apt,,2,178,16,4.28,44.0,Good,47.484565,18.991966
+Budapest,515635,District VIII,Shared room,44388.87,2,346,50,3.76,48.0,Good,47.500478,19.000002
+Budapest,737633,District I (Castle District),Entire home/apt,52276.5,30,364,59,4.17,57.0,Moderate,47.429652,19.098154
+Budapest,407147,District II,Entire home/apt,75000.0,8,296,14,4.23,27.0,Good,47.486747,19.050666
+Budapest,686960,District VII (Jewish Quarter),Entire home/apt,31934.95,23,1,57,4.8,45.0,Good,47.563331,19.02417
+Budapest,474773,District II,Shared room,,20,239,1,4.19,67.0,Moderate,47.496771,19.060917
+Budapest,570350,District VI (Terézváros),Entire home/apt,,30,243,59,4.23,79.0,Moderate,47.428473,19.096923
+Budapest,407001,District I (Castle District),Entire home/apt,35323.3,24,322,43,4.94,54.0,Moderate,47.455449,19.06254
+Budapest,875793,District II,Shared room,48577.76,11,343,55,4.93,66.0,Moderate,47.476313,19.044619
+Budapest,282340,District II,Entire home/apt,56089.65,2,89,15,4.51,76.0,Moderate,47.52002,19.00472
+Budapest,137519,District I (Castle District),Private room,43729.81,3,48,138,4.09,29.0,Good,47.540423,19.039579
+Budapest,725292,Óbuda,Entire home/apt,20750.74,7,109,20,3.71,70.0,Moderate,47.461046,19.046249
+Budapest,390721,District VII (Jewish Quarter),Hotel room,61076.95,19,243,208,4.18,19.0,Good,47.45571,18.97186
+Budapest,922920,District II,Private room,44873.15,26,361,4,4.06,40.0,Good,47.488317,18.984698
+Budapest,751098,District VII (Jewish Quarter),Entire home/apt,31083.9,27,323,43,4.25,40.0,Good,47.488106,19.089832
+Budapest,548953,District II,Private room,,2,364,8,,67.0,Moderate,47.499727,19.084388
+Budapest,448063,District IX,Shared room,20068.69,1,91,87,4.5,70.0,Moderate,47.491961,19.026081
+Budapest,209124,District I (Castle District),Shared room,30467.08,29,300,97,5.0,23.0,Good,47.522325,19.055293
+Budapest,861792,District IX,Private room,51920.24,20,51,25,4.45,76.0,Moderate,47.544652,19.032253
+Budapest,582877,District I (Castle District),Shared room,15677.14,22,317,33,4.5,49.0,Good,47.488416,19.081607
+Budapest,282795,District VII (Jewish Quarter),Entire home/apt,43171.32,3,299,24,3.92,30.0,Good,47.481045,19.100478
+Budapest,662052,District VII (Jewish Quarter),Entire home/apt,54917.37,8,309,36,4.55,68.0,Moderate,47.56337,19.042223
+Budapest,137193,District V (Belváros),Private room,19203.91,1,152,78,4.79,23.0,Good,47.552384,19.050622
+Budapest,522639,District IX,Private room,74292.31,2,27,19,4.31,46.0,Good,47.510911,19.081757
+Budapest,344568,District VIII,Entire home/apt,43472.77,22,342,12,4.31,37.0,Good,47.50161,19.039671
+Budapest,106406,District V (Belváros),Entire home/apt,43987.29,7,210,4,5.0,34.0,Good,47.506321,19.005907
+Budapest,389948,Óbuda,Entire home/apt,,3,322,20,4.36,42.0,Good,47.552994,18.970909
+Budapest,466241,District I (Castle District),Private room,28903.74,19,203,51,3.88,52.0,Moderate,47.443869,18.99447
+Budapest,644016,District II,Private room,23929.06,10,343,110,4.36,58.0,Moderate,47.520142,19.081407
+Budapest,391137,District I (Castle District),Shared room,25741.87,8,279,124,5.0,65.0,Moderate,47.558613,19.038331
+Budapest,491649,District VI (Terézváros),Entire home/apt,75000.0,16,193,39,4.09,43.0,Good,47.546862,19.067043
+Budapest,994532,District VI (Terézváros),Entire home/apt,36572.51,1,362,15,3.88,67.0,Moderate,47.499333,19.039952
+Budapest,550488,District VII (Jewish Quarter),Private room,51391.57,4,314,46,5.0,66.0,Moderate,47.446162,19.006155
+Budapest,365492,Óbuda,Entire home/apt,53037.58,23,304,53,4.04,56.0,Moderate,47.48941,19.088003
+Budapest,729427,District I (Castle District),Entire home/apt,30491.4,25,99,63,4.21,45.0,Good,47.494941,19.042696
+Budapest,882563,District VII (Jewish Quarter),Entire home/apt,59713.79,2,151,49,4.97,66.0,Moderate,47.482977,19.010568
+Budapest,419242,District II,Entire home/apt,39519.7,23,253,9,3.66,23.0,Good,47.56111,19.011497
+Budapest,400437,District VII (Jewish Quarter),Entire home/apt,63457.64,24,139,27,3.89,53.0,Moderate,47.491899,18.970864
+Budapest,199138,District V (Belváros),Entire home/apt,75000.0,4,271,10,4.71,,,47.458999,19.000105
+Budapest,594519,District I (Castle District),Entire home/apt,,2,12,145,4.49,36.0,Good,47.462684,19.037007
+Budapest,793279,District V (Belváros),Entire home/apt,73146.11,13,66,14,4.26,50.0,Good,47.549275,18.99311
+Budapest,449611,District VII (Jewish Quarter),Entire home/apt,29521.47,18,161,69,4.52,55.0,Moderate,47.521497,19.068881
+Budapest,988529,Óbuda,Shared room,69006.18,1,113,22,4.64,61.0,Moderate,47.540263,19.033416
+Budapest,411101,Óbuda,Private room,28849.68,26,194,59,3.88,40.0,Good,47.531361,18.974403
+Budapest,354442,District VIII,Entire home/apt,62691.72,25,200,0,4.65,54.0,Moderate,47.548847,18.991794
+Budapest,851878,Óbuda,Hotel room,30586.73,13,171,7,3.53,72.0,Moderate,47.562477,19.054738
+Budapest,536521,District VIII,Entire home/apt,73072.83,1,321,86,4.38,50.0,Good,47.431712,19.05927
+Budapest,628864,Óbuda,Shared room,52353.41,2,311,19,4.32,48.0,Good,47.537932,19.081491
+Budapest,356031,District IX,Entire home/apt,28726.23,20,205,21,,44.0,Good,47.480394,19.03671
+Budapest,202235,District IX,Entire home/apt,34939.95,1,248,2,4.77,77.0,Moderate,47.445839,19.066751
+Budapest,642423,District I (Castle District),Private room,30723.52,18,324,69,5.0,46.0,Good,47.44188,19.062817
+Budapest,228870,District I (Castle District),Hotel room,61185.46,21,35,2,,57.0,Moderate,47.472194,19.096103
+Budapest,349812,District V (Belváros),Entire home/apt,52141.98,9,56,14,4.32,53.0,Moderate,47.497046,18.998126
+Budapest,328608,Óbuda,Entire home/apt,72662.67,26,330,18,4.23,47.0,Good,47.531655,19.05998
+Budapest,417184,Óbuda,Entire home/apt,21195.35,5,4,5,4.2,62.0,Moderate,47.54286,19.109423
+Budapest,193293,District V (Belváros),Shared room,75000.0,1,14,16,,72.0,Moderate,47.534633,19.033307
+Budapest,523935,District II,Hotel room,60252.89,24,83,229,4.0,48.0,Good,47.528819,19.000686
+Budapest,408587,District I (Castle District),Entire home/apt,65452.53,26,47,86,4.78,33.0,Good,47.538727,19.066782
+Budapest,387346,District I (Castle District),Entire home/apt,23843.2,3,325,66,3.51,61.0,Moderate,47.504901,19.018088
+Budapest,669954,District I (Castle District),Private room,30573.42,18,199,19,4.43,44.0,Good,47.54477,19.063418
+Budapest,159948,Óbuda,Private room,,3,267,59,4.34,,,47.497283,19.071448
+Budapest,611673,Óbuda,Entire home/apt,75000.0,11,235,56,4.6,35.0,Good,47.470217,19.009806
+Budapest,294267,District II,Private room,29231.9,1,146,51,4.0,53.0,Moderate,47.428573,18.99118
+Budapest,887572,District VII (Jewish Quarter),Entire home/apt,75000.0,22,87,0,4.97,37.0,Good,47.464702,19.075674
+Budapest,514939,District V (Belváros),Entire home/apt,23667.8,18,276,25,4.35,40.0,Good,47.433398,19.100986
+Budapest,936472,District V (Belváros),Entire home/apt,,5,234,45,3.9,44.0,Good,47.509658,19.010794
+Budapest,248349,District I (Castle District),Private room,55827.7,2,327,5,3.73,52.0,Moderate,47.454715,19.004056
+Budapest,425053,District V (Belváros),Private room,44013.35,3,80,17,4.13,37.0,Good,47.437411,19.089262
+Budapest,385762,District V (Belváros),Entire home/apt,70370.64,2,138,14,4.68,39.0,Good,47.440625,19.045873
+Budapest,765454,District II,Shared room,,25,142,39,4.68,39.0,Good,47.474122,19.099527
+Budapest,298099,District VI (Terézváros),Entire home/apt,44001.94,6,32,88,5.0,54.0,Moderate,47.564984,19.025763
+Budapest,705796,District IX,Private room,75000.0,1,201,35,4.67,33.0,Good,47.473956,19.070953
+Budapest,454390,District VIII,Entire home/apt,75000.0,28,234,55,4.8,38.0,Good,47.47485,18.997904
+Budapest,232069,District VIII,Hotel room,65294.92,8,109,81,4.91,58.0,Moderate,47.559891,19.106784
+Budapest,740230,District I (Castle District),Entire home/apt,56780.82,25,323,49,4.1,47.0,Good,47.565443,18.990631
+Budapest,161369,District V (Belváros),Shared room,25960.68,2,261,26,4.15,72.0,Moderate,47.441842,19.049432
+Budapest,320667,District VIII,Entire home/apt,73433.24,2,177,26,4.1,19.0,Good,47.458296,19.083764
+Budapest,582773,District IX,Private room,43763.26,30,230,40,4.18,40.0,Good,47.465561,19.021195
+Budapest,372890,District VII (Jewish Quarter),Private room,36457.04,2,165,54,3.37,44.0,Good,47.494113,19.081574
+Budapest,832032,Óbuda,Private room,50240.56,20,336,1,4.35,71.0,Moderate,47.450405,19.046089
+Budapest,342560,District VIII,Private room,,15,207,2,4.98,74.0,Moderate,47.495508,19.051057
+Budapest,779892,District II,Entire home/apt,31921.88,2,321,10,4.39,26.0,Good,47.484525,19.061574
+Budapest,998255,District VIII,Hotel room,75000.0,24,303,20,3.98,37.0,Good,47.554482,19.04289
+Budapest,216972,District II,Entire home/apt,33003.04,2,16,68,4.61,67.0,Moderate,47.515077,19.108682
+Budapest,756551,Óbuda,Private room,75000.0,1,103,128,4.16,49.0,Good,47.555219,18.977084
+Budapest,527792,District VII (Jewish Quarter),Entire home/apt,37218.27,21,236,21,3.62,46.0,Good,47.488078,19.056672
+Budapest,439408,District VI (Terézváros),Entire home/apt,48808.96,24,37,20,4.18,54.0,Moderate,47.445105,19.047153
+Budapest,660504,District II,Hotel room,41438.67,18,85,42,4.79,87.0,Moderate,47.474693,19.082654
+Budapest,854887,District V (Belváros),Private room,26707.11,20,121,37,4.12,45.0,Good,47.440978,19.055928
+Budapest,189091,District I (Castle District),Entire home/apt,35035.88,11,188,28,3.79,,,47.455772,19.052293
+Budapest,884846,District V (Belváros),Entire home/apt,,21,114,50,3.04,76.0,Moderate,47.474352,19.079711
+Budapest,438392,District V (Belváros),Entire home/apt,75000.0,14,203,5,4.26,51.0,Moderate,47.431102,19.032769
+Budapest,430182,District I (Castle District),Hotel room,53089.56,3,222,17,3.46,42.0,Good,47.438683,19.019003
+Budapest,220285,District VII (Jewish Quarter),Entire home/apt,55141.32,13,266,58,4.8,33.0,Good,47.44634,19.048033
+Budapest,161665,District I (Castle District),Entire home/apt,75000.0,2,134,5,3.84,60.0,Moderate,47.453734,19.001669
+Budapest,478585,Óbuda,Entire home/apt,39346.02,3,65,1,3.99,71.0,Moderate,47.531188,19.015628
+Budapest,918399,District V (Belváros),Shared room,33950.64,8,139,70,4.32,50.0,Good,47.543637,19.030964
+Budapest,516289,District V (Belváros),Shared room,41747.63,3,350,113,3.92,37.0,Good,47.458146,19.018187
+Budapest,642337,Óbuda,Entire home/apt,75000.0,14,161,7,4.79,58.0,Moderate,47.441843,19.062602
+Budapest,715932,District I (Castle District),Entire home/apt,39824.81,8,315,12,,49.0,Good,47.455536,19.022428
+Budapest,834925,Óbuda,Entire home/apt,40062.23,17,11,20,4.51,52.0,Moderate,47.525521,19.026864
+Budapest,750133,District IX,Entire home/apt,45585.63,3,165,36,4.54,27.0,Good,47.560959,19.087525
+Budapest,932009,District VII (Jewish Quarter),Entire home/apt,29698.97,2,25,6,4.37,45.0,Good,47.509785,19.016481
+Budapest,498013,District V (Belváros),Private room,61028.18,26,6,58,4.56,47.0,Good,47.458209,19.081289
+Budapest,138599,District VIII,Entire home/apt,75000.0,1,287,1,4.77,88.0,Moderate,47.46883,19.043604
+Budapest,946764,District I (Castle District),Entire home/apt,28698.49,25,295,9,,33.0,Good,47.431645,19.046963
+Budapest,910850,District VI (Terézváros),Entire home/apt,75000.0,30,208,29,4.85,18.0,Good,47.472466,19.061936
+Budapest,551898,District II,Entire home/apt,54867.22,3,83,40,3.58,32.0,Good,47.555949,19.076509
+Budapest,714598,District VIII,Hotel room,75000.0,23,112,46,4.77,86.0,Moderate,47.48748,18.972642
+Budapest,427223,District IX,Private room,65194.18,11,160,22,4.44,43.0,Good,47.54512,19.059809
+Budapest,752645,District VII (Jewish Quarter),Private room,31847.83,1,96,0,,,,47.539153,19.071857
+Budapest,624161,District V (Belváros),Shared room,75000.0,26,115,0,4.53,50.0,Good,47.489328,19.020203
+Budapest,704941,District V (Belváros),Entire home/apt,54596.65,21,337,14,4.21,27.0,Good,47.505144,19.045006
+Budapest,932082,District V (Belváros),Entire home/apt,38121.85,24,311,21,4.07,55.0,Moderate,47.445993,19.019176
+Budapest,800855,District VI (Terézváros),Entire home/apt,61775.55,3,203,2,4.53,43.0,Good,47.505786,19.003155
+Budapest,311233,District V (Belváros),Entire home/apt,73413.34,5,30,13,3.12,60.0,Moderate,47.509378,19.084575
+Budapest,175846,District I (Castle District),Entire home/apt,75000.0,2,63,9,3.51,55.0,Moderate,47.48133,19.077393
+Budapest,657898,Óbuda,Private room,36682.53,12,300,17,4.16,37.0,Good,47.553899,18.998327
+Budapest,873440,District VII (Jewish Quarter),Private room,53342.47,27,227,35,3.87,42.0,Good,47.478049,18.971143
+Budapest,577029,District VII (Jewish Quarter),Entire home/apt,29415.95,11,170,2,3.36,51.0,Moderate,47.51138,19.081266
+Budapest,989372,District V (Belváros),Entire home/apt,67382.85,7,358,7,4.66,55.0,Moderate,47.556673,19.100698
+Budapest,768889,District I (Castle District),Entire home/apt,55427.74,14,54,18,,58.0,Moderate,47.536189,18.983289
+Budapest,227954,Óbuda,Shared room,43743.03,10,244,0,3.91,41.0,Good,47.56414,19.074888
+Budapest,411332,District VIII,Entire home/apt,53547.84,6,68,36,4.21,57.0,Moderate,47.48976,19.066718
+Budapest,845716,District IX,Entire home/apt,25835.46,3,90,21,4.69,41.0,Good,47.501529,19.080046
+Budapest,752908,District I (Castle District),Entire home/apt,15000.0,1,173,29,3.39,63.0,Moderate,47.460662,18.978977
+Budapest,758658,District VIII,Shared room,43336.66,19,63,55,3.81,33.0,Good,47.553922,19.029345
+Budapest,307973,District VI (Terézváros),Private room,30405.29,22,234,2,3.71,,,47.505348,18.992128
+Budapest,295936,District VII (Jewish Quarter),Entire home/apt,49467.99,2,286,64,4.14,66.0,Moderate,47.561141,18.994324
+Budapest,360727,District VII (Jewish Quarter),Entire home/apt,,13,62,176,4.03,23.0,Good,47.447031,19.031397
+Budapest,645175,District VIII,Hotel room,72885.37,26,169,12,4.3,51.0,Moderate,47.453943,19.085127
+Budapest,427538,District II,Private room,23178.27,2,301,50,,57.0,Moderate,47.477167,18.974269
+Budapest,744509,District V (Belváros),Private room,48304.88,17,334,72,4.68,72.0,Moderate,47.520595,19.030155
+Budapest,347786,District V (Belváros),Shared room,40801.45,19,58,11,3.78,52.0,Moderate,47.503569,19.081909
+Budapest,682317,District VI (Terézváros),Entire home/apt,45595.09,30,20,85,4.97,59.0,Moderate,47.501661,19.082235
+Budapest,161705,District VIII,Private room,15155.25,23,58,47,5.0,59.0,Moderate,47.460526,19.039674
+Budapest,431411,District V (Belváros),Entire home/apt,25238.7,18,196,11,3.83,30.0,Good,47.514583,19.08211
+Budapest,296752,District VII (Jewish Quarter),Hotel room,75000.0,3,188,111,4.55,35.0,Good,47.557718,18.995916
+Budapest,118148,District VI (Terézváros),Private room,38579.31,16,122,91,5.0,44.0,Good,47.565311,18.989274
+Budapest,695409,Óbuda,Shared room,28673.47,12,80,64,4.63,45.0,Good,47.539885,18.991405
+Budapest,690226,District VIII,Private room,75000.0,8,156,77,3.96,56.0,Moderate,47.528858,19.024279
+Budapest,170016,District VI (Terézváros),Entire home/apt,18953.48,17,27,9,4.65,40.0,Good,47.514765,19.048773
+Budapest,418570,District VI (Terézváros),Entire home/apt,22783.3,2,71,13,4.55,33.0,Good,47.438122,19.083854
+Budapest,822109,District IX,Private room,33964.7,9,148,126,3.85,50.0,Good,47.542844,19.0412
+Budapest,720698,District VIII,Entire home/apt,31005.72,14,39,93,4.32,61.0,Moderate,47.446277,19.036346
+Budapest,854448,District VIII,Private room,29063.24,6,56,42,3.82,29.0,Good,47.448389,19.008278
+Budapest,511010,District VIII,Entire home/apt,22293.44,11,61,150,4.14,62.0,Moderate,47.539047,19.074054
+Budapest,138693,Óbuda,Entire home/apt,39217.58,28,127,41,4.29,76.0,Moderate,47.523327,19.097143
+Budapest,123887,District V (Belváros),Entire home/apt,34935.65,25,176,111,4.0,23.0,Good,47.53737,18.995888
+Budapest,215388,District VI (Terézváros),Shared room,62780.85,30,243,47,4.64,34.0,Good,47.482462,19.057174
+Budapest,789122,Óbuda,Shared room,75000.0,2,347,27,5.0,26.0,Good,47.534682,19.030117
+Budapest,273506,District VII (Jewish Quarter),Entire home/apt,15586.05,13,170,26,3.72,69.0,Moderate,47.489345,19.016057
+Budapest,160654,District IX,Hotel room,56547.01,13,337,48,3.96,,,47.501093,19.063316
+Budapest,595689,District VIII,Shared room,,18,297,10,3.43,,,47.523897,19.011795
+Budapest,509833,District VIII,Entire home/apt,32231.18,13,136,15,4.1,63.0,Moderate,47.5014,19.048472
+Budapest,953336,District II,Private room,23273.62,7,220,4,4.57,66.0,Moderate,47.433391,19.067418
+Budapest,355879,District VI (Terézváros),Private room,51111.74,1,214,7,3.77,54.0,Moderate,47.510758,19.051334
+Budapest,540637,District II,Entire home/apt,30679.1,8,102,11,,38.0,Good,47.465083,19.028653
+Budapest,415017,District I (Castle District),Entire home/apt,41381.97,11,211,101,4.14,46.0,Good,47.457887,18.991975
+Budapest,299483,District VI (Terézváros),Hotel room,75000.0,2,202,32,4.12,41.0,Good,47.505119,18.995812
+Budapest,714527,District VIII,Entire home/apt,56698.21,28,272,28,4.26,30.0,Good,47.525122,19.004865
+Budapest,204998,District VI (Terézváros),Entire home/apt,60574.1,26,128,116,4.43,35.0,Good,47.430087,18.988733
+Budapest,689864,District I (Castle District),Entire home/apt,42790.22,23,364,1,3.81,45.0,Good,47.504755,19.006151
+Budapest,579006,District VIII,Entire home/apt,69962.51,25,207,37,5.0,35.0,Good,47.535529,18.972599
+Budapest,840336,District VI (Terézváros),Entire home/apt,37816.58,27,113,7,5.0,45.0,Good,47.478777,18.977138
+Budapest,450059,District V (Belváros),Entire home/apt,48689.5,2,89,29,4.45,69.0,Moderate,47.437077,19.101926
+Budapest,978541,Óbuda,Entire home/apt,75000.0,22,260,36,4.06,70.0,Moderate,47.560494,19.047654
+Budapest,419860,District VII (Jewish Quarter),Entire home/apt,75000.0,22,113,68,4.34,48.0,Good,47.483583,18.996686
+Budapest,294939,Óbuda,Entire home/apt,27664.5,2,26,24,4.39,39.0,Good,47.470472,19.042053
+Budapest,584352,District IX,Entire home/apt,17313.43,10,349,8,3.0,42.0,Good,47.542875,19.073464
+Budapest,261463,District II,Private room,56955.5,15,251,18,3.31,64.0,Moderate,47.564766,18.981058
+Budapest,573116,District I (Castle District),Entire home/apt,,3,316,8,3.63,46.0,Good,47.494722,18.987928
+Budapest,422842,District VIII,Entire home/apt,36456.62,1,301,56,3.42,44.0,Good,47.466549,19.065729
+Budapest,626788,Óbuda,Entire home/apt,34157.1,1,52,3,4.21,27.0,Good,47.477292,18.994463
+Budapest,205882,Óbuda,Entire home/apt,52376.48,17,161,21,3.67,40.0,Good,47.541519,19.081364
+Budapest,474754,District IX,Shared room,22620.84,14,9,13,4.27,73.0,Moderate,47.4923,19.095752
+Budapest,960364,District I (Castle District),Entire home/apt,69152.73,16,320,66,3.8,26.0,Good,47.561856,19.090315
+Budapest,642602,District VII (Jewish Quarter),Entire home/apt,31176.66,9,347,52,3.64,63.0,Moderate,47.4592,18.999541
+Budapest,453635,Óbuda,Entire home/apt,43773.13,3,92,54,4.15,40.0,Good,47.505783,19.056631
+Budapest,758116,District II,Hotel room,75000.0,13,92,1,4.3,42.0,Good,47.505724,18.970291
+Budapest,646365,District II,Private room,51934.3,19,207,63,3.31,58.0,Moderate,47.446941,19.087118
+Budapest,231041,District II,Entire home/apt,37041.24,3,31,30,4.03,27.0,Good,47.547782,18.975737
+Budapest,480092,District V (Belváros),Entire home/apt,,2,215,21,3.27,44.0,Good,47.513828,19.00984
+Budapest,659993,District V (Belváros),Entire home/apt,75000.0,17,150,36,4.73,52.0,Moderate,47.430274,19.042967
+Budapest,719349,District I (Castle District),Private room,50361.37,6,310,21,4.48,37.0,Good,47.465216,19.083706
+Budapest,315430,District VII (Jewish Quarter),Entire home/apt,22579.54,1,191,38,,12.0,Good,47.549304,19.092617
+Budapest,582752,District VIII,Private room,67097.91,25,349,8,4.65,43.0,Good,47.50019,18.996001
+Budapest,436503,District IX,Entire home/apt,31336.04,23,125,136,3.81,49.0,Good,47.486591,19.006558
+Budapest,228756,Óbuda,Entire home/apt,44062.95,9,78,6,3.69,65.0,Moderate,47.539218,18.970911
+Budapest,671970,District VII (Jewish Quarter),Entire home/apt,16862.32,17,5,37,4.23,52.0,Moderate,47.56144,19.098877
+Budapest,596140,District VI (Terézváros),Entire home/apt,75000.0,25,211,0,4.11,29.0,Good,47.523487,18.979303
+Budapest,528963,District V (Belváros),Private room,75000.0,17,267,14,4.1,68.0,Moderate,47.437577,19.021513
+Budapest,631314,Óbuda,Private room,45231.52,2,118,5,3.67,48.0,Good,47.465201,19.061791
+Budapest,786077,District VII (Jewish Quarter),Private room,28273.4,16,345,18,4.4,82.0,Moderate,47.506722,19.10007
+Budapest,362532,District VII (Jewish Quarter),Shared room,75000.0,1,219,16,4.47,41.0,Good,47.528789,18.970535
+Budapest,780994,District II,Shared room,45991.96,22,116,17,3.71,,,47.445375,19.064874
+Budapest,726770,Óbuda,Entire home/apt,75000.0,1,171,12,4.11,65.0,Moderate,47.465978,19.085629
+Budapest,865257,District V (Belváros),Private room,,21,41,1,4.13,52.0,Moderate,47.442662,19.075799
+Budapest,751802,District VII (Jewish Quarter),Entire home/apt,75000.0,28,136,56,4.42,39.0,Good,47.546765,18.98474
+Budapest,264067,District VI (Terézváros),Entire home/apt,19277.12,14,275,76,3.95,63.0,Moderate,47.528092,19.097184
+Budapest,123253,District I (Castle District),Entire home/apt,70315.12,21,226,49,4.47,24.0,Good,47.522542,19.004998
+Budapest,405962,District VI (Terézváros),Shared room,31138.18,25,244,59,4.62,59.0,Moderate,47.440526,19.010423
+Budapest,756834,District VI (Terézváros),Entire home/apt,27337.27,3,293,28,4.14,36.0,Good,47.551527,19.075576
+Budapest,271743,District VI (Terézváros),Private room,17888.18,4,221,89,4.84,50.0,Good,47.440415,19.016782
+Budapest,676582,District VIII,Private room,73290.19,1,84,5,5.0,42.0,Good,47.549778,19.014109
+Budapest,196931,District II,Private room,43090.22,3,63,1,4.11,46.0,Good,47.497186,19.056653
+Budapest,968371,District VII (Jewish Quarter),Entire home/apt,20480.44,2,83,212,3.3,72.0,Moderate,47.550472,19.044039
+Budapest,170807,District I (Castle District),Entire home/apt,39271.71,5,20,39,,40.0,Good,47.517637,19.100745
+Budapest,106190,District II,Entire home/apt,69042.78,13,14,112,4.62,34.0,Good,47.522938,19.07901
+Budapest,309337,District V (Belváros),Entire home/apt,38970.85,3,211,14,4.52,70.0,Moderate,47.493351,19.083085
+Budapest,271275,District V (Belváros),Entire home/apt,27844.82,8,169,8,4.33,57.0,Moderate,47.489994,18.981599
+Budapest,866820,District VII (Jewish Quarter),Hotel room,35944.4,7,322,63,4.8,,,47.43746,19.042297
+Budapest,636842,District VII (Jewish Quarter),Private room,31229.82,24,260,2,4.38,37.0,Good,47.445966,18.991068
+Budapest,663954,District II,Hotel room,35968.57,2,31,1,4.48,41.0,Good,47.562683,19.080714
+Budapest,131560,District VI (Terézváros),Entire home/apt,74376.02,8,222,15,3.69,47.0,Good,47.508331,19.089851
+Budapest,661992,District IX,Private room,50292.09,12,350,12,3.84,59.0,Moderate,47.495267,19.10377
+Budapest,317503,District II,Private room,66121.1,2,285,26,3.84,28.0,Good,47.431596,19.048269
+Budapest,455121,District VIII,Hotel room,43922.97,25,286,119,4.64,,,47.439027,19.073603
+Budapest,655311,District II,Private room,27139.28,20,203,180,3.83,32.0,Good,47.548588,19.004554
+Budapest,534687,District II,Private room,41122.89,27,135,13,4.17,42.0,Good,47.523786,19.014746
+Budapest,841001,District IX,Private room,44419.14,15,345,29,4.11,37.0,Good,47.447429,19.100059
+Budapest,911614,Óbuda,Entire home/apt,15000.0,1,362,43,4.53,61.0,Moderate,47.511176,18.980125
+Budapest,291640,District IX,Entire home/apt,24733.08,3,202,12,4.54,61.0,Moderate,47.546264,18.998916
+Budapest,840647,District II,Shared room,26622.2,1,4,6,5.0,38.0,Good,47.547763,19.033292
+Budapest,193243,District V (Belváros),Entire home/apt,73724.04,20,152,65,3.77,49.0,Good,47.440912,18.989713
+Budapest,383398,District VI (Terézváros),Entire home/apt,44491.04,18,61,64,3.88,50.0,Good,47.468338,18.971208
+Budapest,816871,Óbuda,Entire home/apt,28153.77,28,271,41,4.56,,,47.494626,19.066352
+Budapest,589664,District IX,Hotel room,71423.41,1,205,6,3.7,55.0,Moderate,47.464256,19.034806
+Budapest,988840,District VII (Jewish Quarter),Entire home/apt,42941.9,9,248,85,5.0,44.0,Good,47.555242,19.041691
+Budapest,602162,District VI (Terézváros),Private room,75000.0,3,189,1,4.32,59.0,Moderate,47.526855,19.109109
+Budapest,966043,District I (Castle District),Shared room,32102.67,26,82,94,4.22,26.0,Good,47.45202,18.992748
+Budapest,151683,Óbuda,Entire home/apt,33151.05,23,260,7,3.92,58.0,Moderate,47.552198,18.993579
+Budapest,891486,District VII (Jewish Quarter),Entire home/apt,44947.67,29,19,15,3.22,40.0,Good,47.437531,19.014133
+Budapest,237635,District II,Private room,45271.74,8,326,11,3.92,55.0,Moderate,47.507537,19.026465
+Budapest,226318,District I (Castle District),Entire home/apt,36766.66,3,311,50,3.93,60.0,Moderate,47.464611,18.994918
+Budapest,900793,District I (Castle District),Private room,60922.45,19,292,10,4.74,48.0,Good,47.53063,18.980421
+Budapest,663643,District V (Belváros),Shared room,75000.0,11,168,21,3.89,43.0,Good,47.448441,19.019706
+Budapest,645747,Óbuda,Private room,44135.2,13,66,74,3.21,71.0,Moderate,47.473266,19.092432
+Budapest,715353,District VIII,Entire home/apt,58633.51,23,52,102,4.86,43.0,Good,47.549851,19.087231
+Budapest,846294,District VI (Terézváros),Hotel room,75000.0,1,209,38,4.45,39.0,Good,47.549805,18.975139
+Budapest,173134,District VIII,Entire home/apt,19723.05,3,146,12,3.82,45.0,Good,47.445562,19.026244
+Budapest,231327,District VII (Jewish Quarter),Private room,73935.37,8,253,5,4.48,44.0,Good,47.546432,18.974846
+Budapest,378102,District VII (Jewish Quarter),Private room,34706.67,1,181,8,3.93,65.0,Moderate,47.439983,18.982677
+Budapest,653535,District IX,Entire home/apt,75000.0,10,1,7,3.52,,,47.552066,19.067915
+Budapest,686359,Óbuda,Entire home/apt,20175.36,1,76,5,4.79,,,47.468544,18.993287
+Budapest,191229,District V (Belváros),Private room,27546.14,2,156,2,4.29,62.0,Moderate,47.485363,19.045178
+Budapest,700500,District IX,Entire home/apt,37917.0,28,312,44,5.0,53.0,Moderate,47.565214,19.028727
+Budapest,395073,District IX,Entire home/apt,29640.26,24,92,36,4.22,50.0,Good,47.493893,18.983256
+Budapest,956452,District V (Belváros),Entire home/apt,21028.4,25,257,39,4.82,53.0,Moderate,47.561885,18.989904
+Budapest,118615,District II,Entire home/apt,22630.85,11,237,17,4.19,49.0,Good,47.533858,18.986446

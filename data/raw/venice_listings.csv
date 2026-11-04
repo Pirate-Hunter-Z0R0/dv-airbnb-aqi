@@ -1,0 +1,241 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Venice,396450,Santa Croce,Entire home/apt,426.83,23,338,13,5.0,38.0,Good,45.400078,12.270793
+Venice,351090,Santa Croce,Private room,333.58,1,111,5,3.99,,,45.472501,12.348666
+Venice,608673,Santa Croce,Entire home/apt,386.38,1,267,38,4.88,31.0,Good,45.442591,12.299986
+Venice,482186,Giudecca,Private room,450.0,3,42,19,3.66,29.0,Good,45.413252,12.270442
+Venice,906770,Castello,Private room,450.0,6,81,22,4.21,43.0,Good,45.421547,12.371817
+Venice,179396,Dorsoduro,Entire home/apt,450.0,22,258,34,4.77,42.0,Good,45.384392,12.249608
+Venice,539462,Santa Croce,Entire home/apt,243.91,29,106,30,4.09,43.0,Good,45.376119,12.325931
+Venice,572872,San Marco,Entire home/apt,183.49,1,309,8,4.72,,,45.405426,12.310987
+Venice,877663,Castello,Private room,278.33,24,243,8,3.72,33.0,Good,45.506446,12.26976
+Venice,569869,Lido,Entire home/apt,143.27,22,338,65,4.89,11.0,Good,45.465883,12.267368
+Venice,151895,Castello,Entire home/apt,216.19,3,39,10,3.71,45.0,Good,45.421818,12.285597
+Venice,727873,Cannaregio,Hotel room,243.59,4,181,52,3.95,47.0,Good,45.469596,12.336017
+Venice,198161,Dorsoduro,Private room,450.0,3,81,7,4.07,26.0,Good,45.461888,12.274495
+Venice,991595,San Marco,Entire home/apt,450.0,8,330,0,3.48,19.0,Good,45.506526,12.343458
+Venice,871408,Dorsoduro,Private room,189.19,2,337,75,,24.0,Good,45.456959,12.325737
+Venice,224589,Castello,Entire home/apt,160.57,13,98,4,4.44,43.0,Good,45.501298,12.353777
+Venice,427616,Dorsoduro,Entire home/apt,,24,329,17,3.45,38.0,Good,45.440298,12.273699
+Venice,853357,Cannaregio,Entire home/apt,105.94,15,180,4,3.47,40.0,Good,45.436236,12.273655
+Venice,438711,Cannaregio,Private room,217.54,30,26,4,4.78,36.0,Good,45.478451,12.275392
+Venice,721813,Giudecca,Entire home/apt,215.37,5,62,35,3.76,16.0,Good,45.46647,12.342875
+Venice,594496,Castello,Private room,362.41,8,98,128,4.03,41.0,Good,45.389547,12.26204
+Venice,935186,Santa Croce,Entire home/apt,298.5,13,345,11,3.83,37.0,Good,45.445974,12.309738
+Venice,648916,Giudecca,Private room,,15,175,100,4.42,40.0,Good,45.433939,12.299515
+Venice,283325,Dorsoduro,Private room,359.67,24,267,71,3.84,42.0,Good,45.457954,12.311272
+Venice,593137,Castello,Entire home/apt,226.78,4,103,46,4.42,34.0,Good,45.394348,12.309501
+Venice,789564,Dorsoduro,Entire home/apt,141.32,4,261,6,,20.0,Good,45.441353,12.362011
+Venice,242885,Dorsoduro,Entire home/apt,450.0,1,44,65,4.77,30.0,Good,45.397783,12.312241
+Venice,263712,Santa Croce,Entire home/apt,141.63,4,272,63,,37.0,Good,45.400067,12.265167
+Venice,586644,Castello,Entire home/apt,202.01,20,295,15,3.66,40.0,Good,45.372943,12.27006
+Venice,556631,San Polo,Entire home/apt,190.02,2,206,3,3.22,33.0,Good,45.413375,12.354208
+Venice,514474,Cannaregio,Entire home/apt,254.26,1,275,68,3.85,32.0,Good,45.483013,12.268438
+Venice,191032,Santa Croce,Entire home/apt,207.26,1,115,0,4.06,34.0,Good,45.390257,12.37673
+Venice,270539,Giudecca,Entire home/apt,221.96,9,3,50,4.43,39.0,Good,45.461683,12.324755
+Venice,453513,Cannaregio,Entire home/apt,254.13,2,164,12,4.67,18.0,Good,45.428345,12.365201
+Venice,745129,San Marco,Hotel room,159.87,4,82,39,4.19,34.0,Good,45.381181,12.384316
+Venice,971873,San Polo,Entire home/apt,290.27,2,172,6,4.11,49.0,Good,45.41717,12.269118
+Venice,697282,Giudecca,Private room,153.66,10,72,7,5.0,32.0,Good,45.48377,12.347014
+Venice,678942,Castello,Entire home/apt,291.11,18,243,27,4.78,38.0,Good,45.41595,12.261267
+Venice,646537,Dorsoduro,Private room,388.89,16,151,54,4.63,,,45.427617,12.270316
+Venice,578521,Castello,Entire home/apt,383.16,1,61,15,3.6,36.0,Good,45.481225,12.298356
+Venice,212565,Giudecca,Entire home/apt,155.7,12,227,5,5.0,38.0,Good,45.375611,12.308982
+Venice,113716,Santa Croce,Entire home/apt,358.71,3,129,0,4.15,43.0,Good,45.418792,12.255491
+Venice,196294,Castello,Entire home/apt,223.89,1,171,42,4.41,38.0,Good,45.488352,12.344556
+Venice,147205,San Polo,Entire home/apt,439.46,14,74,37,4.35,31.0,Good,45.387388,12.337926
+Venice,164590,Castello,Entire home/apt,135.47,2,19,2,4.23,31.0,Good,45.402434,12.289326
+Venice,141218,Dorsoduro,Entire home/apt,98.27,26,248,22,4.79,45.0,Good,45.489274,12.266347
+Venice,225305,Castello,Entire home/apt,241.75,11,181,155,4.58,36.0,Good,45.375306,12.282961
+Venice,610649,San Polo,Entire home/apt,429.04,17,183,42,3.78,39.0,Good,45.406635,12.280383
+Venice,518042,San Polo,Entire home/apt,222.71,3,251,36,3.72,22.0,Good,45.435426,12.369647
+Venice,342463,Santa Croce,Entire home/apt,127.73,12,207,37,3.5,,,45.486881,12.346593
+Venice,319322,Giudecca,Entire home/apt,231.72,28,196,81,4.51,26.0,Good,45.373048,12.300846
+Venice,180000,Lido,Hotel room,221.49,9,123,17,4.73,41.0,Good,45.422391,12.293092
+Venice,891501,Giudecca,Entire home/apt,341.99,4,95,53,4.54,44.0,Good,45.472274,12.265669
+Venice,561414,Santa Croce,Private room,257.15,29,289,4,,34.0,Good,45.507939,12.342842
+Venice,260013,San Polo,Entire home/apt,190.85,1,334,25,4.52,24.0,Good,45.484955,12.328464
+Venice,899721,San Polo,Private room,176.34,28,197,18,3.75,41.0,Good,45.479401,12.333439
+Venice,829937,San Marco,Hotel room,387.05,13,227,60,4.19,49.0,Good,45.491602,12.273638
+Venice,670692,Cannaregio,Private room,238.66,12,111,89,3.55,29.0,Good,45.408314,12.374738
+Venice,804285,Castello,Private room,239.51,17,233,32,4.35,44.0,Good,45.478955,12.246297
+Venice,830633,Santa Croce,Hotel room,254.6,10,66,26,3.62,40.0,Good,45.373536,12.35792
+Venice,681650,Cannaregio,Entire home/apt,298.35,11,68,14,4.17,34.0,Good,45.453733,12.282113
+Venice,102515,Santa Croce,Hotel room,308.67,26,37,6,3.28,49.0,Good,45.423239,12.267289
+Venice,602752,Santa Croce,Entire home/apt,249.41,28,202,17,4.16,29.0,Good,45.496417,12.277882
+Venice,185255,Lido,Private room,284.85,3,13,14,4.82,18.0,Good,45.441771,12.332788
+Venice,146737,Cannaregio,Private room,,21,163,103,4.25,41.0,Good,45.380444,12.277534
+Venice,119525,San Marco,Entire home/apt,450.0,1,278,2,4.24,28.0,Good,45.374403,12.258826
+Venice,870721,Giudecca,Entire home/apt,450.0,30,12,45,4.98,,,45.402666,12.374695
+Venice,230145,Lido,Private room,450.0,9,29,69,4.56,30.0,Good,45.407525,12.280942
+Venice,400730,Castello,Entire home/apt,450.0,5,125,15,4.45,28.0,Good,45.41469,12.268396
+Venice,669822,Castello,Entire home/apt,265.92,26,69,41,3.98,25.0,Good,45.488632,12.35965
+Venice,854332,San Polo,Hotel room,,1,225,62,4.17,25.0,Good,45.395064,12.248464
+Venice,770750,Dorsoduro,Entire home/apt,189.59,18,177,22,3.98,47.0,Good,45.388361,12.299496
+Venice,923018,Castello,Entire home/apt,430.17,21,310,46,4.77,30.0,Good,45.400172,12.266623
+Venice,511348,Castello,Entire home/apt,450.0,5,309,11,2.87,33.0,Good,45.452731,12.279577
+Venice,451396,Cannaregio,Entire home/apt,170.22,7,266,2,4.75,49.0,Good,45.487065,12.27647
+Venice,414016,Castello,Private room,202.8,6,43,27,4.21,36.0,Good,45.416171,12.341147
+Venice,537295,Cannaregio,Entire home/apt,415.04,2,55,25,5.0,15.0,Good,45.379729,12.2805
+Venice,310131,San Polo,Shared room,126.09,2,130,19,4.17,30.0,Good,45.419338,12.249264
+Venice,673450,Lido,Entire home/apt,310.49,23,262,6,3.59,8.0,Good,45.496294,12.296155
+Venice,478724,Santa Croce,Private room,337.57,3,331,17,3.85,44.0,Good,45.449016,12.268523
+Venice,315214,San Marco,Private room,228.59,14,311,56,3.65,28.0,Good,45.37119,12.247663
+Venice,323330,San Polo,Entire home/apt,325.49,16,201,1,4.6,22.0,Good,45.374733,12.34906
+Venice,397015,San Polo,Private room,316.83,8,264,65,4.45,41.0,Good,45.389428,12.281326
+Venice,161878,Castello,Shared room,450.0,2,266,74,4.35,30.0,Good,45.380953,12.252177
+Venice,569461,San Marco,Hotel room,358.83,2,101,45,4.31,23.0,Good,45.387655,12.373791
+Venice,757291,Dorsoduro,Private room,374.82,15,233,28,4.54,48.0,Good,45.464177,12.353592
+Venice,146728,Dorsoduro,Shared room,450.0,15,363,25,4.44,19.0,Good,45.444275,12.287196
+Venice,702569,Dorsoduro,Private room,192.47,2,111,45,5.0,36.0,Good,45.422371,12.329792
+Venice,832778,Castello,Entire home/apt,317.18,2,107,71,5.0,37.0,Good,45.432337,12.299546
+Venice,236018,Cannaregio,Hotel room,446.63,25,37,45,4.94,62.0,Moderate,45.41932,12.367425
+Venice,901492,San Marco,Entire home/apt,,2,41,23,4.67,24.0,Good,45.485608,12.336242
+Venice,282933,San Polo,Private room,391.98,20,72,29,4.37,28.0,Good,45.457794,12.262316
+Venice,560832,Giudecca,Entire home/apt,227.97,1,318,1,4.14,23.0,Good,45.370808,12.246004
+Venice,275294,Cannaregio,Entire home/apt,335.03,28,172,23,,39.0,Good,45.505779,12.286026
+Venice,785047,Cannaregio,Entire home/apt,231.72,8,13,15,4.35,27.0,Good,45.447706,12.28752
+Venice,155936,Castello,Entire home/apt,231.49,10,252,15,4.66,43.0,Good,45.481777,12.277827
+Venice,836208,Dorsoduro,Entire home/apt,151.06,19,249,12,4.87,37.0,Good,45.40276,12.355297
+Venice,388659,Dorsoduro,Entire home/apt,439.25,13,286,78,4.31,49.0,Good,45.395782,12.333398
+Venice,896396,Dorsoduro,Private room,450.0,1,275,29,3.85,34.0,Good,45.491199,12.253506
+Venice,100243,Santa Croce,Hotel room,178.1,2,87,87,4.17,19.0,Good,45.436192,12.304543
+Venice,787339,Cannaregio,Entire home/apt,121.21,3,129,0,4.75,28.0,Good,45.393747,12.36976
+Venice,678547,Cannaregio,Entire home/apt,218.97,19,311,2,3.89,36.0,Good,45.439114,12.251183
+Venice,429031,Dorsoduro,Private room,270.39,2,46,19,4.29,45.0,Good,45.468437,12.302249
+Venice,684589,Cannaregio,Entire home/apt,,29,287,22,5.0,32.0,Good,45.457967,12.254406
+Venice,289798,Dorsoduro,Private room,187.16,28,24,20,4.44,38.0,Good,45.404434,12.273908
+Venice,229550,Lido,Entire home/apt,421.58,1,10,63,4.11,44.0,Good,45.444841,12.287641
+Venice,513571,Cannaregio,Entire home/apt,382.03,25,111,112,5.0,38.0,Good,45.383738,12.322869
+Venice,345214,San Polo,Private room,122.1,3,290,77,3.88,42.0,Good,45.450667,12.317644
+Venice,303002,Giudecca,Entire home/apt,450.0,29,126,43,3.54,25.0,Good,45.416014,12.379787
+Venice,908233,Cannaregio,Private room,80.0,2,272,29,4.34,24.0,Good,45.39967,12.287498
+Venice,110874,Cannaregio,Entire home/apt,162.65,13,192,15,4.11,,,45.506168,12.356189
+Venice,447115,Santa Croce,Private room,253.93,2,342,150,3.68,29.0,Good,45.450311,12.331323
+Venice,186230,Santa Croce,Private room,,29,256,25,4.51,37.0,Good,45.422639,12.355977
+Venice,933966,Lido,Entire home/apt,199.44,28,146,2,4.17,48.0,Good,45.391125,12.28292
+Venice,249387,Castello,Private room,450.0,22,294,17,4.08,27.0,Good,45.462867,12.310705
+Venice,469031,Castello,Private room,216.55,17,128,5,4.06,10.0,Good,45.390809,12.254514
+Venice,656998,Cannaregio,Entire home/apt,80.0,29,147,51,4.7,32.0,Good,45.417253,12.365887
+Venice,494376,Dorsoduro,Entire home/apt,80.0,26,108,21,4.75,39.0,Good,45.499717,12.247894
+Venice,345757,Lido,Private room,449.03,3,156,62,,41.0,Good,45.393576,12.318676
+Venice,617026,Cannaregio,Entire home/apt,450.0,22,362,5,4.36,38.0,Good,45.475908,12.329053
+Venice,385068,Dorsoduro,Entire home/apt,450.0,12,196,2,4.2,24.0,Good,45.426209,12.318507
+Venice,236569,Cannaregio,Entire home/apt,450.0,29,98,10,,31.0,Good,45.504312,12.304409
+Venice,712228,Dorsoduro,Shared room,227.98,6,21,55,4.66,,,45.440619,12.371799
+Venice,786134,Castello,Private room,244.26,16,171,33,4.85,27.0,Good,45.436796,12.333738
+Venice,493771,Lido,Entire home/apt,450.0,17,83,1,3.77,38.0,Good,45.386701,12.378371
+Venice,692781,Cannaregio,Private room,385.35,29,256,114,3.97,45.0,Good,45.433288,12.29404
+Venice,394924,Cannaregio,Entire home/apt,279.33,5,241,33,4.02,27.0,Good,45.498922,12.328136
+Venice,675523,San Polo,Entire home/apt,200.51,3,193,17,4.34,24.0,Good,45.393068,12.253807
+Venice,490249,San Polo,Hotel room,164.54,26,48,31,4.36,30.0,Good,45.473241,12.28392
+Venice,303216,Cannaregio,Entire home/apt,337.03,12,204,3,3.36,26.0,Good,45.424937,12.253658
+Venice,773599,Lido,Hotel room,326.61,2,353,4,3.74,,,45.501861,12.265306
+Venice,112025,Lido,Private room,,17,304,13,3.99,36.0,Good,45.493412,12.280263
+Venice,764726,Giudecca,Entire home/apt,281.44,20,286,17,,35.0,Good,45.417496,12.313273
+Venice,363308,Castello,Private room,299.2,3,146,1,3.85,35.0,Good,45.494599,12.29768
+Venice,268798,San Marco,Private room,305.26,5,303,40,4.17,40.0,Good,45.424459,12.258047
+Venice,482100,Lido,Entire home/apt,448.58,18,188,148,,25.0,Good,45.430324,12.295001
+Venice,254539,Dorsoduro,Entire home/apt,,1,169,52,3.04,23.0,Good,45.474973,12.285638
+Venice,723846,San Polo,Shared room,175.06,1,51,2,4.08,27.0,Good,45.409137,12.297881
+Venice,183814,Dorsoduro,Hotel room,279.27,2,71,113,4.52,49.0,Good,45.455974,12.350988
+Venice,422132,San Marco,Private room,346.19,13,251,9,,40.0,Good,45.374732,12.247258
+Venice,285126,San Polo,Entire home/apt,138.83,10,217,1,5.0,36.0,Good,45.383698,12.377785
+Venice,678490,Giudecca,Private room,195.43,21,60,102,5.0,58.0,Moderate,45.386582,12.280062
+Venice,403827,San Marco,Entire home/apt,399.57,26,335,10,4.34,,,45.487711,12.378762
+Venice,528750,San Marco,Private room,212.72,16,324,10,4.42,32.0,Good,45.457554,12.271394
+Venice,592096,Dorsoduro,Hotel room,271.94,7,304,5,3.23,28.0,Good,45.413387,12.277989
+Venice,241346,Castello,Private room,303.72,12,215,20,4.3,41.0,Good,45.37748,12.308345
+Venice,702387,Cannaregio,Hotel room,163.26,26,18,32,4.91,30.0,Good,45.501241,12.353923
+Venice,951678,Lido,Entire home/apt,313.2,30,72,15,4.64,40.0,Good,45.488062,12.32184
+Venice,564108,Santa Croce,Entire home/apt,163.2,29,39,0,3.98,46.0,Good,45.392499,12.341525
+Venice,588079,Cannaregio,Entire home/apt,172.98,9,24,9,4.31,33.0,Good,45.380412,12.357555
+Venice,281108,Giudecca,Shared room,104.78,1,195,10,5.0,12.0,Good,45.410774,12.36889
+Venice,961996,San Polo,Private room,170.02,12,99,21,5.0,40.0,Good,45.379958,12.373375
+Venice,341613,San Marco,Entire home/apt,119.15,6,246,86,5.0,48.0,Good,45.3774,12.269012
+Venice,330584,Cannaregio,Entire home/apt,380.4,22,174,38,4.21,48.0,Good,45.503929,12.277413
+Venice,768178,Lido,Entire home/apt,,1,58,71,4.46,37.0,Good,45.473868,12.307518
+Venice,914880,Dorsoduro,Entire home/apt,,1,231,31,4.37,25.0,Good,45.393157,12.251837
+Venice,544723,Santa Croce,Private room,225.21,30,284,2,5.0,25.0,Good,45.393533,12.270978
+Venice,293247,Dorsoduro,Private room,450.0,22,131,40,3.84,31.0,Good,45.431702,12.340186
+Venice,924483,Giudecca,Private room,208.33,7,350,107,,33.0,Good,45.451462,12.289453
+Venice,302166,Dorsoduro,Entire home/apt,244.26,22,309,10,,32.0,Good,45.418542,12.336274
+Venice,511657,San Polo,Private room,450.0,2,173,10,4.16,33.0,Good,45.467175,12.333815
+Venice,654676,Lido,Entire home/apt,92.72,13,211,2,3.76,23.0,Good,45.505635,12.335846
+Venice,498394,Lido,Entire home/apt,423.26,3,315,44,4.03,42.0,Good,45.500092,12.361083
+Venice,437087,San Marco,Entire home/apt,234.74,7,56,4,3.86,26.0,Good,45.497188,12.247669
+Venice,698344,Lido,Entire home/apt,261.22,18,275,43,4.13,19.0,Good,45.415253,12.298009
+Venice,901951,Castello,Entire home/apt,227.25,2,33,40,4.15,44.0,Good,45.476572,12.272362
+Venice,161258,Cannaregio,Hotel room,276.2,13,25,39,5.0,34.0,Good,45.504474,12.332767
+Venice,978846,Dorsoduro,Private room,361.37,2,359,24,,26.0,Good,45.402424,12.253531
+Venice,357044,Castello,Entire home/apt,131.47,15,10,29,4.02,33.0,Good,45.382182,12.343793
+Venice,261783,San Marco,Entire home/apt,262.0,1,358,4,4.63,40.0,Good,45.426526,12.318851
+Venice,347626,San Marco,Entire home/apt,,6,328,21,3.41,25.0,Good,45.423242,12.328534
+Venice,878064,Santa Croce,Hotel room,205.28,5,364,38,3.79,37.0,Good,45.386785,12.264569
+Venice,220387,Santa Croce,Entire home/apt,,14,26,27,3.49,27.0,Good,45.392711,12.25781
+Venice,881366,Cannaregio,Entire home/apt,306.49,11,225,4,4.51,34.0,Good,45.420096,12.308061
+Venice,334209,Lido,Entire home/apt,450.0,1,278,4,4.51,44.0,Good,45.475066,12.355673
+Venice,561382,San Polo,Entire home/apt,192.5,1,195,7,4.09,28.0,Good,45.375799,12.246681
+Venice,315357,Giudecca,Entire home/apt,144.7,13,245,6,3.72,33.0,Good,45.491901,12.360132
+Venice,564609,Santa Croce,Entire home/apt,97.6,21,178,15,3.55,41.0,Good,45.43949,12.365545
+Venice,328148,Dorsoduro,Entire home/apt,389.12,8,156,41,4.87,34.0,Good,45.408412,12.378222
+Venice,569624,Dorsoduro,Entire home/apt,332.95,28,15,33,3.84,43.0,Good,45.510728,12.320645
+Venice,158593,San Polo,Entire home/apt,240.1,22,9,14,5.0,47.0,Good,45.459172,12.280885
+Venice,456153,Santa Croce,Entire home/apt,287.17,11,159,25,3.78,38.0,Good,45.444575,12.280855
+Venice,814245,Cannaregio,Private room,350.97,1,199,12,4.18,36.0,Good,45.404217,12.290428
+Venice,761646,San Marco,Entire home/apt,336.8,2,98,27,3.76,34.0,Good,45.464465,12.384956
+Venice,244645,Dorsoduro,Entire home/apt,135.58,10,54,5,5.0,20.0,Good,45.397912,12.296591
+Venice,764913,San Polo,Entire home/apt,169.86,2,156,4,4.92,23.0,Good,45.484606,12.351881
+Venice,417407,San Polo,Shared room,143.5,13,28,232,3.93,33.0,Good,45.41441,12.343876
+Venice,775966,Giudecca,Private room,193.55,2,221,60,4.35,,,45.483822,12.357198
+Venice,260289,Lido,Hotel room,171.41,14,352,21,3.84,16.0,Good,45.496584,12.3752
+Venice,252707,Giudecca,Entire home/apt,450.0,15,237,17,3.86,27.0,Good,45.424918,12.348889
+Venice,684740,San Polo,Private room,313.88,20,56,155,5.0,37.0,Good,45.37731,12.248487
+Venice,454441,Lido,Entire home/apt,124.84,14,36,7,3.35,,,45.483894,12.249177
+Venice,452082,San Marco,Entire home/apt,450.0,29,239,5,5.0,25.0,Good,45.497532,12.315104
+Venice,799118,Santa Croce,Entire home/apt,149.16,5,122,72,4.32,21.0,Good,45.506048,12.361275
+Venice,910487,San Polo,Private room,201.04,3,291,0,4.22,,,45.385373,12.293616
+Venice,756082,Giudecca,Private room,323.33,3,186,57,3.82,56.0,Moderate,45.489408,12.34663
+Venice,410013,Santa Croce,Private room,276.33,23,122,16,3.7,39.0,Good,45.45226,12.337486
+Venice,288818,Santa Croce,Entire home/apt,325.57,2,18,36,4.89,48.0,Good,45.450362,12.30841
+Venice,752781,Cannaregio,Private room,300.33,5,90,6,,34.0,Good,45.403565,12.337773
+Venice,887727,San Marco,Hotel room,191.05,19,142,0,4.11,23.0,Good,45.452057,12.299823
+Venice,997104,San Polo,Entire home/apt,341.5,24,261,8,4.26,32.0,Good,45.456313,12.304852
+Venice,323517,Dorsoduro,Entire home/apt,175.41,30,347,93,4.39,46.0,Good,45.445529,12.273338
+Venice,407101,Dorsoduro,Entire home/apt,210.97,25,125,33,3.9,33.0,Good,45.483921,12.332862
+Venice,672782,San Marco,Private room,347.72,30,222,84,3.54,34.0,Good,45.371561,12.281412
+Venice,165897,Lido,Entire home/apt,286.22,30,192,62,3.94,21.0,Good,45.488505,12.374728
+Venice,259696,Cannaregio,Entire home/apt,450.0,25,36,16,3.99,37.0,Good,45.381866,12.275648
+Venice,633775,Lido,Private room,112.72,26,14,17,4.14,33.0,Good,45.452997,12.369187
+Venice,662299,Cannaregio,Entire home/apt,249.28,1,220,4,3.62,28.0,Good,45.428642,12.279979
+Venice,511723,San Marco,Entire home/apt,385.73,28,192,9,4.13,34.0,Good,45.443876,12.248078
+Venice,724490,Castello,Entire home/apt,,2,221,7,4.03,30.0,Good,45.436359,12.262107
+Venice,580994,Cannaregio,Private room,,26,104,41,4.11,42.0,Good,45.410593,12.361973
+Venice,134864,Giudecca,Shared room,341.11,2,267,85,4.3,18.0,Good,45.467447,12.301373
+Venice,766349,Dorsoduro,Entire home/apt,233.33,5,294,241,4.02,48.0,Good,45.451771,12.342583
+Venice,538108,Lido,Entire home/apt,450.0,19,3,9,4.4,67.0,Moderate,45.465694,12.364001
+Venice,781875,Cannaregio,Private room,245.18,3,92,263,3.81,40.0,Good,45.427645,12.320212
+Venice,577878,Santa Croce,Shared room,280.97,2,363,46,3.59,49.0,Good,45.409528,12.314794
+Venice,141488,Santa Croce,Entire home/apt,122.7,5,355,11,3.89,44.0,Good,45.37526,12.328927
+Venice,415690,Cannaregio,Entire home/apt,135.08,1,204,66,3.97,28.0,Good,45.450126,12.35361
+Venice,523654,Dorsoduro,Private room,450.0,1,21,39,4.72,39.0,Good,45.453371,12.249365
+Venice,841520,San Marco,Private room,195.52,1,262,18,4.48,52.0,Moderate,45.432565,12.246048
+Venice,604521,Lido,Shared room,,2,329,27,5.0,21.0,Good,45.422194,12.278868
+Venice,788686,Dorsoduro,Entire home/apt,402.21,9,335,20,4.86,14.0,Good,45.373012,12.341115
+Venice,517316,Lido,Entire home/apt,130.25,12,198,9,4.8,38.0,Good,45.498017,12.330459
+Venice,795578,Dorsoduro,Entire home/apt,166.58,20,23,28,4.59,28.0,Good,45.445433,12.270415
+Venice,624851,Lido,Hotel room,,17,364,12,4.65,42.0,Good,45.469111,12.376171
+Venice,223564,San Marco,Hotel room,450.0,15,348,16,3.87,27.0,Good,45.427627,12.285963
+Venice,640561,San Polo,Private room,450.0,17,40,81,4.11,32.0,Good,45.402033,12.37042
+Venice,738875,Giudecca,Shared room,450.0,10,82,20,5.0,39.0,Good,45.50577,12.298539
+Venice,555039,Castello,Entire home/apt,236.97,20,323,28,5.0,,,45.458259,12.320225
+Venice,973279,San Polo,Hotel room,194.63,12,169,165,4.22,49.0,Good,45.374624,12.312266
+Venice,307083,San Polo,Private room,268.39,2,117,49,5.0,28.0,Good,45.404534,12.359612
+Venice,279155,Castello,Hotel room,338.53,30,311,30,3.87,,,45.487386,12.274823
+Venice,535743,Dorsoduro,Private room,140.06,11,98,42,3.88,33.0,Good,45.508438,12.294427
+Venice,875070,Dorsoduro,Private room,336.02,20,101,40,4.63,13.0,Good,45.398505,12.352487
+Venice,635413,San Marco,Hotel room,164.76,3,328,81,,15.0,Good,45.50594,12.365038
+Venice,723065,Castello,Entire home/apt,122.22,3,337,8,3.97,48.0,Good,45.385185,12.318419
+Venice,872631,Giudecca,Entire home/apt,,18,295,49,4.74,18.0,Good,45.473579,12.272813
+Venice,106293,San Marco,Private room,347.22,22,174,164,4.28,52.0,Moderate,45.492713,12.315722
+Venice,579324,Lido,Entire home/apt,274.66,28,355,8,5.0,29.0,Good,45.459354,12.260422
+Venice,208881,San Marco,Private room,295.72,26,120,45,4.49,,,45.372696,12.310397

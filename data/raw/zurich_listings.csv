@@ -1,0 +1,221 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Zurich,794494,Enge,Private room,251.54,2,96,19,4.24,28.0,Good,47.310452,8.594684
+Zurich,772017,Seefeld,Private room,490.2,27,36,0,4.55,13.0,Good,47.379112,8.603449
+Zurich,913601,Wipkingen,Private room,254.68,2,363,41,,14.0,Good,47.382559,8.593851
+Zurich,415989,Seefeld,Entire home/apt,498.19,27,78,48,4.63,6.0,Good,47.422338,8.585016
+Zurich,738694,Enge,Entire home/apt,329.04,2,220,40,4.08,16.0,Good,47.337626,8.569053
+Zurich,565101,Wipkingen,Entire home/apt,447.53,15,280,62,4.0,17.0,Good,47.356118,8.537909
+Zurich,325150,Zürich West,Entire home/apt,467.78,20,92,2,3.49,17.0,Good,47.363341,8.486672
+Zurich,901459,Seefeld,Entire home/apt,550.0,1,282,2,5.0,25.0,Good,47.345585,8.584514
+Zurich,740374,Seefeld,Hotel room,369.76,24,59,3,,16.0,Good,47.334538,8.480028
+Zurich,752846,Zürich West,Private room,433.03,2,95,46,5.0,13.0,Good,47.351147,8.507422
+Zurich,186709,Oerlikon,Entire home/apt,280.54,27,363,36,3.79,14.0,Good,47.405122,8.550034
+Zurich,108534,Seefeld,Entire home/apt,550.0,3,178,163,4.95,25.0,Good,47.31928,8.579758
+Zurich,747897,Wipkingen,Shared room,263.67,17,315,19,4.49,,,47.359623,8.584176
+Zurich,475261,Albisrieden,Entire home/apt,550.0,1,23,56,3.43,16.0,Good,47.42627,8.570567
+Zurich,382339,Zürich West,Entire home/apt,289.84,29,17,19,3.43,18.0,Good,47.318714,8.592823
+Zurich,678904,Albisrieden,Entire home/apt,201.53,21,127,68,4.01,21.0,Good,47.339574,8.492409
+Zurich,975201,Seefeld,Entire home/apt,550.0,24,328,27,4.7,23.0,Good,47.377393,8.575641
+Zurich,644905,Leimbach,Hotel room,240.61,6,119,59,4.1,17.0,Good,47.361074,8.514253
+Zurich,272009,Albisrieden,Entire home/apt,100.0,15,274,90,3.73,19.0,Good,47.362868,8.551697
+Zurich,608456,Wipkingen,Entire home/apt,523.94,3,127,6,4.96,14.0,Good,47.343772,8.476329
+Zurich,887712,Oerlikon,Private room,532.13,12,252,21,3.69,17.0,Good,47.406019,8.512468
+Zurich,352695,Albisrieden,Private room,231.53,5,101,10,4.7,24.0,Good,47.385279,8.582104
+Zurich,584273,Seefeld,Entire home/apt,,6,236,4,4.41,,,47.436779,8.569517
+Zurich,393516,Zürich West,Entire home/apt,261.64,9,70,13,4.79,16.0,Good,47.331946,8.570012
+Zurich,195019,Albisrieden,Private room,347.05,26,336,40,3.61,23.0,Good,47.317105,8.554969
+Zurich,525608,Oerlikon,Private room,219.61,25,97,29,4.62,11.0,Good,47.381901,8.499052
+Zurich,423672,Altstadt,Shared room,,30,204,66,,13.0,Good,47.413769,8.532936
+Zurich,288844,Leimbach,Entire home/apt,250.33,27,14,15,3.77,15.0,Good,47.387111,8.593522
+Zurich,580050,Zürich West,Private room,190.12,20,49,45,3.89,26.0,Good,47.432273,8.578784
+Zurich,268884,Zürich West,Entire home/apt,222.18,27,263,55,4.19,22.0,Good,47.412421,8.569944
+Zurich,917980,Albisrieden,Entire home/apt,431.57,4,293,44,,13.0,Good,47.358286,8.562713
+Zurich,772446,Zürich West,Entire home/apt,373.5,22,172,44,4.1,27.0,Good,47.402718,8.525219
+Zurich,195697,Zürich West,Entire home/apt,100.0,7,347,148,4.82,7.0,Good,47.360644,8.489228
+Zurich,883893,Leimbach,Entire home/apt,137.27,21,116,7,3.83,23.0,Good,47.37078,8.60007
+Zurich,635887,Seefeld,Entire home/apt,472.97,25,107,50,4.22,25.0,Good,47.43656,8.477872
+Zurich,593643,Leimbach,Private room,550.0,4,191,24,4.38,18.0,Good,47.317858,8.609914
+Zurich,275285,Albisrieden,Entire home/apt,250.12,2,351,18,3.83,18.0,Good,47.367657,8.559026
+Zurich,476128,Altstadt,Entire home/apt,458.0,5,136,24,,17.0,Good,47.347031,8.497197
+Zurich,426174,Enge,Private room,,25,239,41,5.0,34.0,Good,47.363608,8.583859
+Zurich,678894,Leimbach,Entire home/apt,260.17,22,325,5,2.78,17.0,Good,47.316619,8.572402
+Zurich,711840,Albisrieden,Private room,334.63,1,61,10,5.0,31.0,Good,47.331204,8.54322
+Zurich,244550,Wipkingen,Private room,194.29,1,315,2,3.32,21.0,Good,47.396911,8.491573
+Zurich,845741,Albisrieden,Entire home/apt,398.96,25,300,149,3.97,18.0,Good,47.395962,8.604066
+Zurich,362787,Altstadt,Hotel room,348.16,1,308,120,5.0,12.0,Good,47.423082,8.543123
+Zurich,865337,Altstadt,Entire home/apt,537.81,3,18,41,3.66,26.0,Good,47.319224,8.592572
+Zurich,992424,Wipkingen,Private room,170.67,5,47,111,4.0,17.0,Good,47.389342,8.516299
+Zurich,601096,Altstadt,Entire home/apt,264.24,13,114,29,4.72,8.0,Good,47.336005,8.544784
+Zurich,799006,Wipkingen,Private room,,6,269,64,,13.0,Good,47.376582,8.597127
+Zurich,577935,Zürich West,Private room,295.61,2,78,1,3.71,22.0,Good,47.372481,8.522179
+Zurich,581743,Wipkingen,Private room,252.33,28,65,79,5.0,15.0,Good,47.399609,8.565173
+Zurich,898425,Seefeld,Private room,195.42,27,363,58,4.55,21.0,Good,47.35224,8.591531
+Zurich,934236,Enge,Entire home/apt,210.89,1,310,10,4.39,15.0,Good,47.414451,8.50717
+Zurich,208984,Leimbach,Entire home/apt,121.63,8,300,10,3.8,9.0,Good,47.390449,8.529234
+Zurich,559367,Wipkingen,Entire home/apt,342.97,29,65,1,4.19,5.0,Good,47.436527,8.550205
+Zurich,193130,Leimbach,Entire home/apt,272.81,17,71,92,3.88,,,47.331434,8.498597
+Zurich,169831,Oerlikon,Entire home/apt,358.77,30,334,33,4.19,20.0,Good,47.353001,8.584405
+Zurich,413824,Albisrieden,Private room,281.26,7,154,172,4.48,6.0,Good,47.359237,8.545704
+Zurich,179438,Altstadt,Entire home/apt,550.0,6,17,35,4.65,23.0,Good,47.308403,8.570088
+Zurich,954063,Seefeld,Private room,155.02,12,259,68,4.51,13.0,Good,47.4393,8.520899
+Zurich,711332,Seefeld,Private room,550.0,12,249,27,4.88,,,47.380764,8.565756
+Zurich,224007,Altstadt,Entire home/apt,186.5,9,145,28,3.78,19.0,Good,47.414258,8.577084
+Zurich,394522,Altstadt,Entire home/apt,179.61,18,297,25,4.63,12.0,Good,47.43246,8.575306
+Zurich,360653,Seefeld,Entire home/apt,101.05,18,333,147,3.8,,,47.402279,8.570023
+Zurich,218032,Altstadt,Entire home/apt,360.7,3,84,12,5.0,12.0,Good,47.412049,8.604691
+Zurich,720271,Enge,Entire home/apt,,19,76,17,4.34,26.0,Good,47.361399,8.511015
+Zurich,327564,Enge,Entire home/apt,287.3,26,342,50,3.98,20.0,Good,47.363784,8.494405
+Zurich,762895,Wipkingen,Entire home/apt,354.14,1,38,14,4.89,15.0,Good,47.406048,8.521742
+Zurich,854037,Altstadt,Hotel room,254.55,1,286,16,3.89,22.0,Good,47.323511,8.511409
+Zurich,799551,Leimbach,Entire home/apt,344.62,1,314,50,3.68,17.0,Good,47.315147,8.514369
+Zurich,138655,Albisrieden,Shared room,229.24,10,107,1,5.0,29.0,Good,47.370023,8.586305
+Zurich,988815,Oerlikon,Entire home/apt,192.91,2,125,27,4.64,24.0,Good,47.329031,8.5787
+Zurich,476667,Oerlikon,Private room,550.0,17,198,45,4.37,24.0,Good,47.372367,8.611198
+Zurich,409261,Albisrieden,Hotel room,333.52,2,116,22,4.3,17.0,Good,47.406272,8.534934
+Zurich,994456,Zürich West,Entire home/apt,386.53,3,354,43,4.56,14.0,Good,47.359565,8.526731
+Zurich,888583,Zürich West,Entire home/apt,187.04,20,147,28,4.25,19.0,Good,47.379544,8.607684
+Zurich,220008,Albisrieden,Entire home/apt,322.65,13,93,31,3.77,17.0,Good,47.442146,8.528762
+Zurich,979027,Albisrieden,Hotel room,183.43,2,279,61,4.86,15.0,Good,47.404274,8.504667
+Zurich,407575,Enge,Shared room,337.3,10,19,44,,18.0,Good,47.346604,8.607882
+Zurich,198436,Seefeld,Entire home/apt,461.93,2,299,72,3.8,23.0,Good,47.423417,8.541997
+Zurich,282090,Albisrieden,Private room,243.12,3,276,42,4.79,23.0,Good,47.369482,8.561485
+Zurich,547828,Leimbach,Shared room,241.2,9,52,8,3.7,,,47.316749,8.509367
+Zurich,345209,Wipkingen,Private room,,23,174,28,5.0,10.0,Good,47.407396,8.483412
+Zurich,186505,Wipkingen,Private room,357.14,15,226,72,4.38,21.0,Good,47.413122,8.543754
+Zurich,196591,Altstadt,Entire home/apt,226.8,9,68,78,3.46,33.0,Good,47.363137,8.537729
+Zurich,444255,Albisrieden,Shared room,264.03,3,179,100,4.89,13.0,Good,47.332014,8.56019
+Zurich,972286,Altstadt,Entire home/apt,202.04,1,159,48,4.06,5.0,Good,47.31516,8.489545
+Zurich,377139,Wipkingen,Private room,285.48,1,267,26,4.65,16.0,Good,47.322116,8.607805
+Zurich,502359,Wipkingen,Shared room,209.33,5,119,26,4.95,,,47.391332,8.473247
+Zurich,106691,Wipkingen,Entire home/apt,426.42,25,312,18,3.86,24.0,Good,47.394992,8.593637
+Zurich,820369,Altstadt,Entire home/apt,322.74,9,280,25,4.35,24.0,Good,47.309026,8.505661
+Zurich,597872,Leimbach,Hotel room,303.38,19,263,9,4.43,18.0,Good,47.424123,8.48686
+Zurich,573629,Leimbach,Entire home/apt,550.0,3,262,18,3.61,18.0,Good,47.33538,8.564258
+Zurich,147743,Albisrieden,Entire home/apt,187.18,6,199,4,3.9,24.0,Good,47.389482,8.559565
+Zurich,436599,Altstadt,Private room,110.4,23,108,44,4.39,19.0,Good,47.348208,8.581158
+Zurich,246159,Altstadt,Entire home/apt,334.26,1,178,1,3.55,21.0,Good,47.307696,8.581951
+Zurich,147889,Altstadt,Entire home/apt,477.71,1,216,50,,17.0,Good,47.388841,8.540421
+Zurich,575992,Seefeld,Entire home/apt,550.0,23,329,47,4.96,9.0,Good,47.321953,8.541913
+Zurich,356385,Albisrieden,Entire home/apt,227.17,26,100,8,3.77,12.0,Good,47.393461,8.499387
+Zurich,486329,Seefeld,Private room,473.64,5,46,51,4.56,12.0,Good,47.337433,8.567129
+Zurich,574515,Seefeld,Private room,104.4,9,190,28,,18.0,Good,47.426006,8.538519
+Zurich,570360,Enge,Private room,550.0,1,286,10,,13.0,Good,47.313324,8.510466
+Zurich,140293,Wipkingen,Entire home/apt,260.63,28,250,311,4.75,20.0,Good,47.331533,8.550542
+Zurich,277456,Oerlikon,Entire home/apt,215.35,27,326,5,4.64,11.0,Good,47.401526,8.477747
+Zurich,228799,Seefeld,Private room,355.64,2,90,39,3.9,15.0,Good,47.365392,8.512994
+Zurich,696277,Zürich West,Entire home/apt,550.0,7,179,57,4.17,5.0,Good,47.399002,8.508126
+Zurich,349361,Albisrieden,Entire home/apt,264.81,10,155,44,4.44,19.0,Good,47.384224,8.568614
+Zurich,839716,Zürich West,Entire home/apt,157.29,10,332,56,3.86,24.0,Good,47.322101,8.497218
+Zurich,403011,Enge,Entire home/apt,374.0,17,57,24,4.63,16.0,Good,47.373248,8.574791
+Zurich,907410,Seefeld,Entire home/apt,263.56,23,239,8,4.2,23.0,Good,47.405002,8.509341
+Zurich,573144,Seefeld,Entire home/apt,550.0,18,157,33,4.71,17.0,Good,47.321734,8.553486
+Zurich,699717,Leimbach,Entire home/apt,307.71,28,280,15,3.76,20.0,Good,47.446813,8.515607
+Zurich,658990,Seefeld,Entire home/apt,205.12,20,114,18,4.0,15.0,Good,47.385495,8.485311
+Zurich,787738,Altstadt,Entire home/apt,413.08,4,267,13,4.18,14.0,Good,47.437962,8.5677
+Zurich,423110,Oerlikon,Private room,107.71,5,120,24,4.29,17.0,Good,47.35031,8.50499
+Zurich,657892,Zürich West,Entire home/apt,115.56,11,245,31,4.05,26.0,Good,47.438473,8.512292
+Zurich,807996,Oerlikon,Private room,247.57,23,68,151,4.43,21.0,Good,47.443147,8.507564
+Zurich,681567,Enge,Private room,,19,362,139,5.0,18.0,Good,47.392436,8.5713
+Zurich,773210,Zürich West,Private room,,15,332,5,4.16,21.0,Good,47.41588,8.574731
+Zurich,612733,Zürich West,Entire home/apt,250.09,14,164,5,3.28,12.0,Good,47.409195,8.591199
+Zurich,520843,Albisrieden,Entire home/apt,404.56,3,15,19,5.0,11.0,Good,47.352773,8.574802
+Zurich,137558,Zürich West,Private room,529.19,26,111,21,4.2,24.0,Good,47.343218,8.490798
+Zurich,701069,Zürich West,Private room,219.05,29,328,17,4.3,7.0,Good,47.343386,8.571448
+Zurich,951275,Oerlikon,Entire home/apt,439.09,11,9,12,4.15,20.0,Good,47.363268,8.60125
+Zurich,386703,Albisrieden,Entire home/apt,220.35,1,68,39,4.84,31.0,Good,47.446819,8.519979
+Zurich,729823,Zürich West,Private room,192.58,8,13,24,4.33,10.0,Good,47.332064,8.518499
+Zurich,159751,Wipkingen,Private room,147.82,11,16,113,3.96,12.0,Good,47.442162,8.576352
+Zurich,701131,Altstadt,Entire home/apt,444.69,1,363,8,4.13,12.0,Good,47.44467,8.489898
+Zurich,928258,Seefeld,Private room,409.6,3,78,2,4.9,32.0,Good,47.446705,8.594448
+Zurich,869725,Zürich West,Shared room,370.27,1,71,33,4.94,19.0,Good,47.35082,8.507942
+Zurich,192327,Seefeld,Private room,,1,255,63,4.15,16.0,Good,47.431757,8.542868
+Zurich,377319,Oerlikon,Shared room,510.04,23,308,0,3.88,2.0,Good,47.396305,8.513484
+Zurich,471140,Albisrieden,Private room,401.44,2,231,9,4.02,10.0,Good,47.402037,8.560932
+Zurich,743818,Zürich West,Private room,405.48,2,198,173,4.64,14.0,Good,47.351941,8.483334
+Zurich,117241,Oerlikon,Private room,182.6,21,363,2,4.72,18.0,Good,47.33662,8.490136
+Zurich,179653,Zürich West,Hotel room,504.73,6,81,21,4.06,17.0,Good,47.353936,8.604273
+Zurich,440000,Leimbach,Entire home/apt,333.69,1,169,6,4.36,24.0,Good,47.444006,8.500825
+Zurich,773172,Altstadt,Shared room,545.4,27,126,18,4.37,,,47.377172,8.575061
+Zurich,927853,Leimbach,Entire home/apt,222.6,1,170,23,,18.0,Good,47.424217,8.502039
+Zurich,441147,Enge,Entire home/apt,330.17,1,52,14,4.45,21.0,Good,47.400423,8.55003
+Zurich,714738,Altstadt,Entire home/apt,185.28,18,219,7,3.61,19.0,Good,47.363531,8.487986
+Zurich,601640,Leimbach,Entire home/apt,440.93,15,130,45,4.38,21.0,Good,47.376666,8.520903
+Zurich,813117,Zürich West,Private room,231.03,28,76,0,4.74,24.0,Good,47.420386,8.496799
+Zurich,940447,Oerlikon,Entire home/apt,235.95,11,245,121,4.23,16.0,Good,47.352567,8.547133
+Zurich,842023,Wipkingen,Private room,291.91,17,336,19,4.54,17.0,Good,47.331595,8.493719
+Zurich,340657,Oerlikon,Private room,258.62,3,48,7,4.03,16.0,Good,47.35984,8.586727
+Zurich,609562,Enge,Hotel room,513.52,4,72,4,4.25,,,47.435365,8.541458
+Zurich,559000,Wipkingen,Entire home/apt,327.08,14,44,249,4.36,14.0,Good,47.39724,8.607824
+Zurich,894417,Albisrieden,Entire home/apt,374.05,3,326,14,4.8,15.0,Good,47.374332,8.585544
+Zurich,273074,Wipkingen,Entire home/apt,374.79,5,44,37,4.93,13.0,Good,47.311045,8.584263
+Zurich,578857,Leimbach,Private room,141.55,3,364,37,3.73,15.0,Good,47.428908,8.52023
+Zurich,165136,Leimbach,Hotel room,241.02,18,141,5,5.0,20.0,Good,47.30706,8.477069
+Zurich,426592,Wipkingen,Hotel room,100.0,12,206,45,3.73,17.0,Good,47.414496,8.546122
+Zurich,896919,Wipkingen,Private room,161.52,1,0,82,3.17,18.0,Good,47.382373,8.492645
+Zurich,744184,Albisrieden,Entire home/apt,377.25,15,31,6,5.0,13.0,Good,47.364745,8.588417
+Zurich,642790,Seefeld,Private room,166.67,13,111,5,5.0,7.0,Good,47.425406,8.571569
+Zurich,764802,Seefeld,Shared room,331.21,16,240,6,5.0,21.0,Good,47.330151,8.602228
+Zurich,236239,Oerlikon,Entire home/apt,288.0,27,352,4,4.79,15.0,Good,47.424135,8.509021
+Zurich,516585,Zürich West,Shared room,438.29,3,147,67,4.72,14.0,Good,47.364006,8.552073
+Zurich,395159,Altstadt,Entire home/apt,303.32,1,224,83,4.55,21.0,Good,47.323701,8.537726
+Zurich,222005,Oerlikon,Entire home/apt,426.66,15,120,18,3.35,15.0,Good,47.398667,8.552194
+Zurich,742851,Albisrieden,Shared room,461.37,14,19,21,4.69,8.0,Good,47.336011,8.531919
+Zurich,495991,Enge,Private room,371.26,1,221,8,4.13,23.0,Good,47.38764,8.60535
+Zurich,390226,Enge,Private room,513.7,12,225,12,4.35,16.0,Good,47.403769,8.593036
+Zurich,813877,Altstadt,Entire home/apt,284.93,19,140,6,4.08,11.0,Good,47.332111,8.544889
+Zurich,871200,Zürich West,Shared room,352.25,22,169,162,3.8,11.0,Good,47.381988,8.577422
+Zurich,286613,Zürich West,Private room,263.59,27,243,52,4.31,15.0,Good,47.362324,8.590341
+Zurich,420463,Oerlikon,Private room,338.94,11,145,24,4.92,11.0,Good,47.418664,8.531386
+Zurich,446763,Wipkingen,Hotel room,353.69,2,40,12,3.99,14.0,Good,47.388245,8.545725
+Zurich,776390,Seefeld,Entire home/apt,,3,162,4,4.95,22.0,Good,47.403919,8.610428
+Zurich,977302,Leimbach,Entire home/apt,111.6,20,18,65,3.81,23.0,Good,47.417375,8.573756
+Zurich,390220,Wipkingen,Entire home/apt,267.68,5,94,60,3.49,9.0,Good,47.37983,8.525091
+Zurich,782510,Oerlikon,Private room,306.09,28,136,37,5.0,27.0,Good,47.402012,8.491017
+Zurich,218488,Zürich West,Entire home/apt,279.24,2,108,11,4.92,18.0,Good,47.403637,8.578237
+Zurich,939984,Enge,Entire home/apt,505.22,14,333,78,3.58,16.0,Good,47.3894,8.551599
+Zurich,829988,Wipkingen,Private room,257.62,3,228,76,4.18,19.0,Good,47.354265,8.588149
+Zurich,596803,Altstadt,Entire home/apt,281.15,1,280,6,3.53,,,47.313643,8.507539
+Zurich,988181,Altstadt,Private room,311.15,7,351,3,4.93,19.0,Good,47.36935,8.49542
+Zurich,943409,Seefeld,Entire home/apt,231.02,19,240,2,4.08,20.0,Good,47.408715,8.570653
+Zurich,488068,Zürich West,Entire home/apt,352.96,2,201,16,4.23,22.0,Good,47.380059,8.501538
+Zurich,189593,Wipkingen,Entire home/apt,550.0,2,149,32,4.43,11.0,Good,47.317189,8.603986
+Zurich,754253,Wipkingen,Entire home/apt,,22,205,30,3.54,22.0,Good,47.444792,8.6089
+Zurich,770277,Albisrieden,Entire home/apt,185.98,20,30,13,4.61,21.0,Good,47.314587,8.568897
+Zurich,819951,Seefeld,Private room,227.55,22,169,1,4.71,,,47.400645,8.548166
+Zurich,686641,Oerlikon,Entire home/apt,170.11,2,329,28,4.51,22.0,Good,47.318516,8.554389
+Zurich,118331,Oerlikon,Entire home/apt,196.48,2,107,0,4.03,20.0,Good,47.410762,8.506126
+Zurich,973084,Altstadt,Entire home/apt,,1,311,46,4.45,18.0,Good,47.439992,8.51336
+Zurich,332917,Oerlikon,Entire home/apt,221.08,3,122,81,3.33,21.0,Good,47.409302,8.476354
+Zurich,467619,Zürich West,Private room,408.02,2,288,19,3.0,25.0,Good,47.343828,8.528987
+Zurich,749548,Altstadt,Entire home/apt,279.55,14,281,30,4.65,28.0,Good,47.331956,8.580178
+Zurich,980197,Albisrieden,Entire home/apt,286.15,1,161,11,4.61,23.0,Good,47.37852,8.503365
+Zurich,748874,Zürich West,Private room,284.62,16,122,9,3.94,12.0,Good,47.38152,8.586536
+Zurich,298677,Oerlikon,Private room,143.16,27,51,35,3.07,29.0,Good,47.42902,8.609155
+Zurich,121724,Leimbach,Entire home/apt,258.44,2,143,12,4.16,25.0,Good,47.434842,8.527791
+Zurich,407738,Enge,Entire home/apt,391.91,1,63,6,4.48,9.0,Good,47.340321,8.527998
+Zurich,737511,Oerlikon,Entire home/apt,182.19,4,324,87,4.2,16.0,Good,47.310819,8.558023
+Zurich,939784,Oerlikon,Private room,228.1,16,182,13,4.35,14.0,Good,47.323616,8.487116
+Zurich,523086,Zürich West,Entire home/apt,188.48,15,137,11,4.59,11.0,Good,47.413568,8.524762
+Zurich,131536,Leimbach,Private room,185.44,6,39,6,4.6,21.0,Good,47.438603,8.546954
+Zurich,416497,Leimbach,Private room,199.03,6,190,41,5.0,24.0,Good,47.308873,8.565516
+Zurich,759995,Altstadt,Private room,176.71,10,240,14,4.5,15.0,Good,47.348322,8.582858
+Zurich,811484,Oerlikon,Private room,315.83,14,295,41,3.29,17.0,Good,47.372678,8.599017
+Zurich,107357,Altstadt,Entire home/apt,386.94,1,288,0,4.1,5.0,Good,47.388588,8.527781
+Zurich,362366,Enge,Hotel room,550.0,4,143,21,4.85,30.0,Good,47.404072,8.574146
+Zurich,825583,Leimbach,Entire home/apt,210.63,2,27,41,2.94,16.0,Good,47.391866,8.476438
+Zurich,746553,Wipkingen,Shared room,541.04,29,106,5,4.55,20.0,Good,47.341016,8.55658
+Zurich,519418,Oerlikon,Entire home/apt,369.16,10,250,3,4.56,15.0,Good,47.421581,8.52535
+Zurich,217930,Leimbach,Entire home/apt,432.2,14,95,40,,32.0,Good,47.343314,8.493446
+Zurich,675829,Altstadt,Entire home/apt,550.0,21,61,191,3.27,23.0,Good,47.325704,8.482434
+Zurich,757029,Zürich West,Private room,474.07,11,198,11,3.27,21.0,Good,47.367918,8.538216
+Zurich,955660,Leimbach,Hotel room,446.6,23,302,28,4.25,11.0,Good,47.382225,8.535352
+Zurich,512212,Seefeld,Entire home/apt,290.82,2,54,52,5.0,20.0,Good,47.309564,8.524439
+Zurich,931993,Albisrieden,Entire home/apt,336.03,6,57,62,4.31,16.0,Good,47.426973,8.558072
+Zurich,111242,Seefeld,Entire home/apt,268.57,2,323,122,3.85,22.0,Good,47.421832,8.589405
+Zurich,837622,Oerlikon,Entire home/apt,218.24,14,54,17,4.46,16.0,Good,47.330696,8.538625
+Zurich,107088,Seefeld,Private room,550.0,2,135,62,4.71,20.0,Good,47.413431,8.47341
+Zurich,527987,Wipkingen,Private room,550.0,1,251,13,5.0,13.0,Good,47.325013,8.569216
+Zurich,643284,Altstadt,Entire home/apt,,3,132,28,5.0,15.0,Good,47.332858,8.610188
+Zurich,748912,Seefeld,Entire home/apt,215.14,29,154,5,4.97,16.0,Good,47.328894,8.595692
+Zurich,653310,Seefeld,Entire home/apt,353.37,23,153,6,4.17,18.0,Good,47.364524,8.507724
+Zurich,889155,Enge,Entire home/apt,233.19,4,301,63,5.0,15.0,Good,47.37126,8.585465

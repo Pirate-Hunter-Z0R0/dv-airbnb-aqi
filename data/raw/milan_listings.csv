@@ -1,0 +1,331 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Milan,483350,Brera,Hotel room,115.3,3,23,37,4.56,53.0,Moderate,45.440767,9.116494
+Milan,135959,Brera,Entire home/apt,148.4,11,326,14,4.43,50.0,Good,45.404224,9.153297
+Milan,637051,Isola,Hotel room,184.69,2,123,54,3.05,73.0,Moderate,45.481606,9.214752
+Milan,425623,Duomo,Entire home/apt,137.92,11,220,8,5.0,56.0,Moderate,45.515145,9.212637
+Milan,753317,Brera,Entire home/apt,86.72,1,59,0,4.21,51.0,Moderate,45.441663,9.226103
+Milan,128400,Nolo,Entire home/apt,133.54,22,310,82,3.94,59.0,Moderate,45.502067,9.118885
+Milan,102398,Ticinese,Entire home/apt,76.22,11,131,50,5.0,59.0,Moderate,45.415012,9.161392
+Milan,435371,Navigli,Entire home/apt,261.25,1,105,12,4.55,55.0,Moderate,45.464422,9.206572
+Milan,477553,Brera,Private room,290.0,10,137,9,5.0,54.0,Moderate,45.4926,9.125381
+Milan,762006,Duomo,Entire home/apt,290.0,12,282,19,4.77,53.0,Moderate,45.498343,9.198862
+Milan,775549,Brera,Entire home/apt,290.0,1,278,23,4.33,67.0,Moderate,45.512966,9.212112
+Milan,552946,Loreto,Private room,126.24,8,87,11,4.16,61.0,Moderate,45.505643,9.187458
+Milan,118913,Duomo,Private room,162.05,3,214,19,4.08,83.0,Moderate,45.530623,9.122701
+Milan,936360,Navigli,Hotel room,70.54,29,195,38,4.9,63.0,Moderate,45.491199,9.253288
+Milan,619116,Loreto,Private room,148.35,19,219,26,4.1,52.0,Moderate,45.49462,9.211596
+Milan,859880,Nolo,Entire home/apt,142.12,1,19,17,3.95,59.0,Moderate,45.476347,9.243878
+Milan,224435,Duomo,Entire home/apt,167.9,3,357,87,,42.0,Good,45.455774,9.209489
+Milan,506015,Duomo,Shared room,60.0,30,262,176,4.97,64.0,Moderate,45.403593,9.226096
+Milan,749450,Porta Venezia,Entire home/apt,219.42,3,23,37,3.63,52.0,Moderate,45.532228,9.252336
+Milan,311743,Ticinese,Private room,158.22,18,65,63,3.48,45.0,Good,45.501154,9.169801
+Milan,643446,Isola,Entire home/apt,110.86,25,161,92,4.85,73.0,Moderate,45.464774,9.162726
+Milan,156571,Porta Venezia,Shared room,149.09,11,317,73,4.47,59.0,Moderate,45.440594,9.141005
+Milan,355444,Navigli,Private room,290.0,10,196,12,5.0,,,45.52212,9.217002
+Milan,176302,Porta Venezia,Entire home/apt,200.45,24,319,26,4.04,66.0,Moderate,45.399531,9.248955
+Milan,394156,Duomo,Hotel room,150.17,20,90,59,4.2,44.0,Good,45.438209,9.166185
+Milan,308968,Ticinese,Entire home/apt,142.87,23,353,13,3.97,69.0,Moderate,45.435388,9.230571
+Milan,475285,Isola,Entire home/apt,146.53,8,58,9,4.15,51.0,Moderate,45.412077,9.216153
+Milan,274370,Navigli,Entire home/apt,177.75,24,208,71,4.4,20.0,Good,45.5037,9.136964
+Milan,102718,Loreto,Hotel room,290.0,29,132,28,4.72,59.0,Moderate,45.452155,9.165348
+Milan,272493,Navigli,Private room,,7,78,73,4.54,51.0,Moderate,45.533722,9.254839
+Milan,655772,Loreto,Entire home/apt,182.43,1,146,18,4.6,53.0,Moderate,45.515885,9.252234
+Milan,812496,Isola,Private room,260.66,16,287,60,4.05,66.0,Moderate,45.512065,9.253514
+Milan,393253,Ticinese,Entire home/apt,126.29,3,318,9,,37.0,Good,45.409977,9.239332
+Milan,144253,Porta Venezia,Shared room,290.0,23,160,23,4.28,74.0,Moderate,45.447561,9.169875
+Milan,540140,Loreto,Entire home/apt,207.14,1,117,65,4.22,39.0,Good,45.41198,9.166002
+Milan,922092,Isola,Private room,210.4,14,114,35,4.21,19.0,Good,45.50452,9.140949
+Milan,299343,Isola,Entire home/apt,163.15,8,191,73,5.0,49.0,Good,45.403137,9.232593
+Milan,452712,Isola,Private room,90.48,18,308,88,4.06,14.0,Good,45.470221,9.21737
+Milan,181847,Duomo,Hotel room,290.0,1,216,160,3.86,42.0,Good,45.454984,9.179899
+Milan,577929,Nolo,Entire home/apt,222.97,22,341,6,3.8,63.0,Moderate,45.488161,9.224478
+Milan,849434,Isola,Hotel room,226.9,17,89,42,4.8,68.0,Moderate,45.403553,9.233885
+Milan,410017,Loreto,Entire home/apt,171.87,3,261,67,4.2,67.0,Moderate,45.510639,9.201218
+Milan,346056,Brera,Entire home/apt,170.63,11,246,23,4.3,54.0,Moderate,45.532034,9.245778
+Milan,193252,Nolo,Entire home/apt,183.45,1,107,28,,89.0,Moderate,45.404428,9.253407
+Milan,660409,Porta Venezia,Shared room,130.83,18,324,5,4.51,49.0,Good,45.514603,9.121962
+Milan,559850,Isola,Entire home/apt,175.13,10,150,63,,20.0,Good,45.492612,9.192632
+Milan,132713,Isola,Entire home/apt,290.0,1,225,28,4.06,98.0,Moderate,45.455638,9.203249
+Milan,287943,Ticinese,Private room,,24,235,31,3.98,110.0,Unhealthy for Sensitive Groups,45.500166,9.189704
+Milan,652392,Ticinese,Entire home/apt,290.0,3,338,94,4.73,39.0,Good,45.430369,9.231844
+Milan,182259,Porta Venezia,Private room,290.0,9,214,23,3.27,41.0,Good,45.436709,9.14305
+Milan,213219,Isola,Entire home/apt,290.0,12,195,32,3.7,72.0,Moderate,45.510134,9.227728
+Milan,759885,Brera,Entire home/apt,167.93,8,151,62,4.22,56.0,Moderate,45.496343,9.198277
+Milan,671791,Navigli,Private room,106.38,7,216,54,4.09,,,45.398533,9.154862
+Milan,636310,Navigli,Private room,164.78,22,116,2,4.37,59.0,Moderate,45.505194,9.195406
+Milan,125018,Loreto,Shared room,104.05,29,194,1,4.46,75.0,Moderate,45.506983,9.152789
+Milan,920929,Isola,Private room,102.87,23,251,15,4.41,71.0,Moderate,45.501194,9.144854
+Milan,230415,Brera,Entire home/apt,149.57,28,235,14,,29.0,Good,45.39564,9.198048
+Milan,467370,Duomo,Private room,106.43,6,208,6,,37.0,Good,45.401426,9.149986
+Milan,998803,Nolo,Entire home/apt,107.88,8,298,5,4.41,40.0,Good,45.448614,9.213706
+Milan,766190,Ticinese,Entire home/apt,188.22,6,328,7,3.69,65.0,Moderate,45.412284,9.126383
+Milan,217959,Isola,Entire home/apt,244.3,2,245,2,4.7,,,45.494585,9.160234
+Milan,368954,Brera,Entire home/apt,196.71,20,216,20,4.11,56.0,Moderate,45.518505,9.240587
+Milan,652084,Navigli,Entire home/apt,180.86,17,294,21,3.63,49.0,Good,45.467334,9.24874
+Milan,109433,Navigli,Entire home/apt,290.0,22,104,16,4.18,39.0,Good,45.435928,9.202226
+Milan,382380,Loreto,Hotel room,60.0,13,155,14,3.84,67.0,Moderate,45.401644,9.21157
+Milan,548145,Navigli,Entire home/apt,,7,191,1,4.53,39.0,Good,45.41295,9.172202
+Milan,114305,Nolo,Hotel room,187.83,30,314,18,4.48,69.0,Moderate,45.441627,9.227735
+Milan,777713,Isola,Entire home/apt,225.1,1,234,1,4.27,72.0,Moderate,45.407085,9.166667
+Milan,141157,Loreto,Private room,258.48,26,246,34,3.73,75.0,Moderate,45.469925,9.159606
+Milan,244509,Isola,Entire home/apt,272.16,4,323,15,3.03,63.0,Moderate,45.51071,9.142067
+Milan,425166,Porta Venezia,Entire home/apt,156.61,17,297,37,,25.0,Good,45.486665,9.159471
+Milan,381985,Isola,Hotel room,145.98,17,305,30,4.46,37.0,Good,45.425475,9.183564
+Milan,207014,Loreto,Entire home/apt,153.14,1,25,8,4.25,34.0,Good,45.441455,9.125194
+Milan,748104,Ticinese,Private room,290.0,30,19,1,3.67,80.0,Moderate,45.423217,9.21915
+Milan,415331,Porta Venezia,Entire home/apt,290.0,24,30,39,3.89,68.0,Moderate,45.477361,9.185014
+Milan,543550,Loreto,Private room,290.0,2,48,26,2.89,41.0,Good,45.466807,9.193648
+Milan,489295,Brera,Private room,229.06,1,199,30,4.19,45.0,Good,45.430591,9.162113
+Milan,866293,Duomo,Entire home/apt,,2,3,12,3.95,67.0,Moderate,45.501382,9.141505
+Milan,433037,Duomo,Entire home/apt,90.53,1,297,11,4.86,49.0,Good,45.451459,9.126945
+Milan,376086,Loreto,Private room,117.65,4,127,30,4.58,33.0,Good,45.427333,9.223935
+Milan,116678,Porta Venezia,Private room,170.43,23,223,14,4.91,48.0,Good,45.459373,9.150878
+Milan,957613,Duomo,Hotel room,107.17,1,29,17,4.24,,,45.509989,9.141194
+Milan,195750,Porta Venezia,Entire home/apt,290.0,4,53,2,4.32,55.0,Moderate,45.451403,9.230207
+Milan,886059,Porta Venezia,Entire home/apt,213.79,13,28,229,3.94,45.0,Good,45.416611,9.122201
+Milan,260087,Brera,Entire home/apt,128.6,4,239,48,4.82,57.0,Moderate,45.481044,9.150498
+Milan,457070,Porta Venezia,Private room,200.42,24,192,5,4.0,72.0,Moderate,45.466849,9.216714
+Milan,444591,Porta Venezia,Hotel room,,26,88,25,4.02,64.0,Moderate,45.418007,9.213004
+Milan,492900,Ticinese,Entire home/apt,290.0,1,178,38,4.4,70.0,Moderate,45.473722,9.206485
+Milan,510479,Navigli,Private room,,5,52,2,3.86,,,45.397799,9.133091
+Milan,364612,Nolo,Shared room,,19,118,6,4.4,52.0,Moderate,45.397374,9.251194
+Milan,647292,Brera,Entire home/apt,185.97,6,348,2,3.75,66.0,Moderate,45.426939,9.122419
+Milan,721595,Ticinese,Entire home/apt,290.0,13,97,48,4.99,42.0,Good,45.465492,9.187074
+Milan,318676,Nolo,Shared room,164.1,1,257,34,4.27,25.0,Good,45.419309,9.187228
+Milan,947565,Duomo,Entire home/apt,91.1,20,54,25,4.56,94.0,Moderate,45.422847,9.153389
+Milan,411873,Loreto,Private room,,2,364,100,3.72,66.0,Moderate,45.426097,9.23435
+Milan,549353,Duomo,Shared room,290.0,2,257,18,4.53,65.0,Moderate,45.397933,9.151297
+Milan,697158,Duomo,Entire home/apt,290.0,10,248,46,3.28,70.0,Moderate,45.473816,9.146772
+Milan,892371,Ticinese,Private room,180.83,2,254,18,3.96,60.0,Moderate,45.465234,9.130146
+Milan,217568,Duomo,Entire home/apt,97.34,27,24,63,4.94,56.0,Moderate,45.474184,9.150108
+Milan,547995,Nolo,Private room,178.2,24,318,17,4.61,59.0,Moderate,45.471586,9.221071
+Milan,852607,Brera,Entire home/apt,124.72,27,311,7,4.16,58.0,Moderate,45.427894,9.13135
+Milan,107886,Loreto,Shared room,99.7,28,323,103,4.31,63.0,Moderate,45.485566,9.159831
+Milan,651481,Navigli,Private room,129.3,20,168,103,3.58,54.0,Moderate,45.490444,9.157496
+Milan,394250,Porta Venezia,Entire home/apt,145.78,18,363,0,4.74,43.0,Good,45.473247,9.164516
+Milan,245704,Duomo,Entire home/apt,108.93,1,203,56,4.31,75.0,Moderate,45.467656,9.229543
+Milan,492416,Navigli,Private room,290.0,7,84,10,4.14,77.0,Moderate,45.423522,9.124068
+Milan,216951,Duomo,Private room,95.65,14,187,6,4.67,56.0,Moderate,45.447545,9.13266
+Milan,660505,Duomo,Entire home/apt,,21,60,5,4.15,,,45.448541,9.194723
+Milan,622507,Porta Venezia,Private room,144.28,1,343,43,4.86,60.0,Moderate,45.448355,9.239739
+Milan,401001,Porta Venezia,Entire home/apt,192.7,7,246,6,4.13,,,45.425336,9.185508
+Milan,447199,Loreto,Entire home/apt,160.84,29,309,10,4.67,28.0,Good,45.509598,9.217163
+Milan,127190,Isola,Private room,91.52,24,178,34,3.76,59.0,Moderate,45.524439,9.245436
+Milan,436839,Nolo,Private room,265.53,2,286,6,4.39,69.0,Moderate,45.435496,9.171308
+Milan,641936,Isola,Private room,,21,94,31,4.56,31.0,Good,45.437037,9.234156
+Milan,803944,Brera,Private room,163.73,2,161,47,5.0,57.0,Moderate,45.467706,9.215951
+Milan,286177,Loreto,Private room,290.0,22,204,3,4.39,70.0,Moderate,45.46753,9.191919
+Milan,165922,Loreto,Private room,95.09,8,229,35,4.45,32.0,Good,45.42715,9.120468
+Milan,768549,Loreto,Entire home/apt,200.35,14,191,34,4.15,,,45.4281,9.145654
+Milan,317835,Navigli,Shared room,,11,8,6,4.32,54.0,Moderate,45.435757,9.141215
+Milan,992355,Loreto,Shared room,290.0,29,215,23,5.0,66.0,Moderate,45.396521,9.169844
+Milan,679563,Navigli,Entire home/apt,151.18,6,8,113,4.59,46.0,Good,45.489934,9.137991
+Milan,238617,Isola,Private room,110.29,19,283,27,4.47,24.0,Good,45.471126,9.163664
+Milan,620362,Duomo,Private room,185.99,26,30,68,3.94,66.0,Moderate,45.456015,9.185788
+Milan,267110,Ticinese,Private room,144.85,23,345,15,4.45,45.0,Good,45.419547,9.199978
+Milan,554160,Brera,Entire home/apt,290.0,23,116,3,4.0,53.0,Moderate,45.5052,9.252887
+Milan,780786,Porta Venezia,Shared room,96.92,3,230,149,4.88,,,45.445633,9.129867
+Milan,488605,Brera,Private room,128.96,27,341,78,4.29,90.0,Moderate,45.432585,9.25435
+Milan,126563,Duomo,Entire home/apt,205.61,28,349,12,4.34,69.0,Moderate,45.4034,9.236469
+Milan,957157,Loreto,Entire home/apt,225.23,1,250,5,3.9,39.0,Good,45.512437,9.143771
+Milan,860018,Brera,Private room,280.21,18,207,1,4.81,66.0,Moderate,45.500903,9.12067
+Milan,925961,Loreto,Entire home/apt,198.14,10,155,67,4.17,74.0,Moderate,45.456475,9.157528
+Milan,995562,Navigli,Hotel room,108.58,21,33,165,3.88,15.0,Good,45.494226,9.190421
+Milan,405722,Porta Venezia,Private room,290.0,3,159,6,4.43,82.0,Moderate,45.473768,9.142085
+Milan,967589,Porta Venezia,Entire home/apt,290.0,30,178,38,3.97,42.0,Good,45.453286,9.224447
+Milan,164711,Nolo,Private room,198.85,23,92,17,4.5,30.0,Good,45.412939,9.231244
+Milan,568550,Isola,Entire home/apt,231.92,19,214,2,4.33,23.0,Good,45.519217,9.17509
+Milan,235554,Brera,Entire home/apt,290.0,2,143,34,3.75,39.0,Good,45.408847,9.147089
+Milan,189643,Duomo,Entire home/apt,102.75,24,360,41,4.22,39.0,Good,45.449208,9.213895
+Milan,452006,Nolo,Entire home/apt,,23,140,81,4.35,63.0,Moderate,45.427779,9.142314
+Milan,313537,Ticinese,Shared room,108.1,2,92,65,4.95,49.0,Good,45.518224,9.157224
+Milan,256094,Ticinese,Entire home/apt,133.03,25,114,69,5.0,42.0,Good,45.455594,9.246422
+Milan,327389,Loreto,Private room,152.82,27,79,0,3.9,,,45.489907,9.244848
+Milan,994847,Isola,Private room,290.0,2,61,10,4.06,54.0,Moderate,45.397124,9.237977
+Milan,383847,Duomo,Entire home/apt,140.08,1,358,30,4.63,59.0,Moderate,45.519345,9.195092
+Milan,314602,Nolo,Entire home/apt,201.6,14,127,8,4.05,62.0,Moderate,45.460096,9.16376
+Milan,610325,Brera,Private room,290.0,2,192,16,3.9,48.0,Good,45.505959,9.155041
+Milan,589799,Duomo,Private room,116.97,3,176,110,2.92,55.0,Moderate,45.468597,9.134986
+Milan,708616,Isola,Hotel room,263.92,1,222,98,3.96,,,45.531208,9.187842
+Milan,723501,Nolo,Private room,105.78,10,35,84,4.03,76.0,Moderate,45.50351,9.206358
+Milan,535174,Navigli,Entire home/apt,290.0,1,26,2,3.96,62.0,Moderate,45.399333,9.189557
+Milan,655428,Brera,Private room,290.0,29,7,6,4.86,43.0,Good,45.51514,9.174061
+Milan,706501,Isola,Entire home/apt,286.32,27,16,127,4.22,63.0,Moderate,45.416226,9.188364
+Milan,747034,Isola,Entire home/apt,114.74,1,197,71,4.2,54.0,Moderate,45.497306,9.184468
+Milan,602776,Loreto,Private room,263.21,3,14,23,5.0,72.0,Moderate,45.511306,9.171293
+Milan,751736,Isola,Entire home/apt,290.0,6,75,33,3.54,24.0,Good,45.425455,9.167965
+Milan,600007,Duomo,Shared room,290.0,13,323,1,,65.0,Moderate,45.491063,9.209078
+Milan,397827,Isola,Entire home/apt,90.82,24,303,121,3.79,33.0,Good,45.493422,9.172809
+Milan,840867,Nolo,Private room,210.81,26,201,3,4.47,62.0,Moderate,45.458771,9.207284
+Milan,838459,Loreto,Private room,65.96,19,161,2,3.04,87.0,Moderate,45.514298,9.142053
+Milan,249986,Porta Venezia,Entire home/apt,176.3,2,230,2,4.27,38.0,Good,45.481973,9.203933
+Milan,738499,Porta Venezia,Entire home/apt,193.56,2,267,4,4.89,46.0,Good,45.513258,9.230681
+Milan,618849,Porta Venezia,Private room,169.67,7,325,25,4.54,54.0,Moderate,45.482647,9.137576
+Milan,299506,Loreto,Entire home/apt,187.52,29,354,1,3.46,32.0,Good,45.412376,9.241348
+Milan,235835,Loreto,Private room,241.01,7,270,119,4.54,63.0,Moderate,45.397964,9.204732
+Milan,475615,Porta Venezia,Entire home/apt,93.94,22,314,59,4.55,56.0,Moderate,45.485226,9.136097
+Milan,431329,Isola,Entire home/apt,90.62,1,240,25,4.61,31.0,Good,45.531122,9.191829
+Milan,415603,Isola,Entire home/apt,72.24,2,233,41,4.48,61.0,Moderate,45.501747,9.247902
+Milan,329137,Porta Venezia,Private room,140.81,14,95,47,4.12,75.0,Moderate,45.487655,9.18314
+Milan,848672,Loreto,Hotel room,,30,290,30,3.95,58.0,Moderate,45.478101,9.212123
+Milan,354963,Porta Venezia,Entire home/apt,215.88,4,208,32,4.21,49.0,Good,45.416694,9.193929
+Milan,851648,Porta Venezia,Private room,290.0,1,183,1,4.5,53.0,Moderate,45.42503,9.119846
+Milan,560787,Brera,Private room,167.24,3,180,2,4.18,51.0,Moderate,45.464231,9.218212
+Milan,103849,Nolo,Entire home/apt,62.52,12,116,33,4.13,45.0,Good,45.41401,9.179414
+Milan,392446,Nolo,Private room,290.0,22,137,25,,60.0,Moderate,45.507818,9.219195
+Milan,294722,Loreto,Hotel room,206.24,25,260,141,4.23,55.0,Moderate,45.484082,9.238686
+Milan,796516,Navigli,Entire home/apt,133.26,2,74,104,4.06,41.0,Good,45.406056,9.154326
+Milan,758491,Nolo,Hotel room,203.04,17,299,25,4.2,56.0,Moderate,45.500263,9.16973
+Milan,448660,Loreto,Private room,63.63,12,324,59,4.38,34.0,Good,45.494813,9.125118
+Milan,826379,Ticinese,Private room,212.96,21,270,142,4.14,47.0,Good,45.487596,9.119263
+Milan,703650,Isola,Entire home/apt,169.11,12,205,10,4.04,35.0,Good,45.493714,9.23407
+Milan,306369,Nolo,Entire home/apt,187.79,13,247,48,3.93,74.0,Moderate,45.529431,9.25305
+Milan,892836,Nolo,Entire home/apt,154.46,14,274,150,4.67,58.0,Moderate,45.396993,9.157907
+Milan,281110,Duomo,Shared room,290.0,1,237,34,3.91,52.0,Moderate,45.433826,9.138524
+Milan,627156,Porta Venezia,Private room,202.13,1,335,68,3.79,71.0,Moderate,45.416798,9.165754
+Milan,387163,Navigli,Private room,,1,55,7,4.05,71.0,Moderate,45.526108,9.225925
+Milan,158742,Nolo,Entire home/apt,285.24,24,206,21,4.2,,,45.514874,9.193889
+Milan,747860,Loreto,Private room,290.0,19,187,53,4.89,40.0,Good,45.406386,9.231151
+Milan,582980,Duomo,Entire home/apt,290.0,1,271,36,4.84,53.0,Moderate,45.447914,9.178232
+Milan,181633,Duomo,Entire home/apt,230.16,28,305,139,3.48,51.0,Moderate,45.508002,9.222609
+Milan,727211,Duomo,Private room,242.55,25,114,5,4.52,68.0,Moderate,45.534821,9.191969
+Milan,262077,Porta Venezia,Entire home/apt,111.16,1,314,14,4.54,80.0,Moderate,45.533102,9.116034
+Milan,443266,Isola,Entire home/apt,290.0,17,220,33,5.0,60.0,Moderate,45.506493,9.147666
+Milan,509938,Nolo,Private room,146.45,21,278,12,3.78,49.0,Good,45.508986,9.153637
+Milan,585370,Loreto,Hotel room,156.29,21,243,30,4.16,98.0,Moderate,45.421624,9.187659
+Milan,808001,Nolo,Private room,,6,63,15,4.85,88.0,Moderate,45.482184,9.132876
+Milan,563623,Ticinese,Entire home/apt,228.09,24,329,6,4.82,70.0,Moderate,45.483565,9.228666
+Milan,672285,Nolo,Entire home/apt,178.59,2,147,13,4.59,36.0,Good,45.444946,9.17791
+Milan,296945,Nolo,Entire home/apt,114.12,2,7,15,3.68,46.0,Good,45.444246,9.255698
+Milan,795951,Nolo,Entire home/apt,193.08,1,15,5,,68.0,Moderate,45.488585,9.210769
+Milan,900966,Nolo,Entire home/apt,159.47,2,206,21,4.06,54.0,Moderate,45.468202,9.160441
+Milan,169525,Duomo,Entire home/apt,290.0,30,334,40,4.84,49.0,Good,45.429272,9.146601
+Milan,571906,Ticinese,Entire home/apt,151.31,26,249,81,3.22,76.0,Moderate,45.47372,9.206052
+Milan,418543,Navigli,Entire home/apt,191.6,19,80,5,4.31,47.0,Good,45.457489,9.216673
+Milan,325330,Brera,Shared room,206.5,27,118,29,4.67,64.0,Moderate,45.409283,9.122141
+Milan,234359,Isola,Entire home/apt,63.53,16,316,5,4.31,60.0,Moderate,45.52812,9.242192
+Milan,355000,Loreto,Private room,255.85,2,284,69,5.0,91.0,Moderate,45.494667,9.122968
+Milan,436558,Loreto,Entire home/apt,116.29,8,176,54,3.81,71.0,Moderate,45.520952,9.160682
+Milan,926458,Ticinese,Entire home/apt,60.76,19,233,96,4.58,69.0,Moderate,45.494919,9.156828
+Milan,425253,Ticinese,Private room,148.47,8,272,34,4.87,53.0,Moderate,45.402458,9.124801
+Milan,155607,Loreto,Entire home/apt,113.9,27,313,3,3.59,57.0,Moderate,45.450178,9.174727
+Milan,987775,Ticinese,Entire home/apt,,1,258,4,3.44,58.0,Moderate,45.497033,9.122575
+Milan,738833,Duomo,Private room,239.76,9,146,28,5.0,51.0,Moderate,45.510749,9.134114
+Milan,634948,Brera,Shared room,134.64,3,365,23,,39.0,Good,45.491006,9.127172
+Milan,732172,Ticinese,Entire home/apt,133.2,17,308,11,4.87,84.0,Moderate,45.496952,9.137584
+Milan,637266,Duomo,Entire home/apt,172.74,6,173,2,4.4,60.0,Moderate,45.432157,9.228281
+Milan,453433,Navigli,Entire home/apt,242.57,13,58,4,4.04,72.0,Moderate,45.421094,9.219843
+Milan,491553,Navigli,Entire home/apt,163.81,12,230,45,3.73,20.0,Good,45.458587,9.177753
+Milan,183538,Loreto,Entire home/apt,89.17,3,3,102,,59.0,Moderate,45.466511,9.245859
+Milan,115990,Nolo,Entire home/apt,290.0,1,172,103,3.66,81.0,Moderate,45.493107,9.168686
+Milan,843845,Nolo,Hotel room,290.0,11,283,7,4.4,73.0,Moderate,45.482489,9.12977
+Milan,128197,Brera,Private room,191.48,21,88,6,,32.0,Good,45.469604,9.204107
+Milan,639179,Navigli,Private room,82.8,21,349,142,4.07,49.0,Good,45.40231,9.19583
+Milan,276783,Isola,Entire home/apt,,25,277,127,,36.0,Good,45.47962,9.122288
+Milan,787675,Loreto,Hotel room,147.43,24,365,8,3.96,48.0,Good,45.419846,9.117986
+Milan,117774,Navigli,Entire home/apt,226.64,9,70,20,4.72,58.0,Moderate,45.440912,9.166088
+Milan,968860,Loreto,Entire home/apt,272.7,23,34,141,4.35,70.0,Moderate,45.44533,9.148978
+Milan,305638,Nolo,Private room,164.58,13,331,123,4.17,45.0,Good,45.497522,9.117299
+Milan,865134,Navigli,Private room,210.21,3,281,45,4.43,,,45.46684,9.249041
+Milan,187792,Porta Venezia,Private room,,14,255,18,4.82,10.0,Good,45.490927,9.124229
+Milan,339212,Loreto,Private room,160.48,27,319,2,4.54,60.0,Moderate,45.397649,9.175091
+Milan,653738,Porta Venezia,Entire home/apt,187.85,19,1,26,3.94,64.0,Moderate,45.476208,9.174114
+Milan,755847,Loreto,Entire home/apt,290.0,9,18,73,4.08,58.0,Moderate,45.443576,9.218256
+Milan,543564,Porta Venezia,Entire home/apt,185.57,10,343,78,4.58,64.0,Moderate,45.409864,9.137502
+Milan,246739,Isola,Private room,267.99,2,317,168,3.98,33.0,Good,45.456187,9.191644
+Milan,854386,Ticinese,Shared room,87.19,23,225,61,4.33,83.0,Moderate,45.408889,9.236406
+Milan,437876,Porta Venezia,Entire home/apt,129.88,30,182,8,4.1,95.0,Moderate,45.417027,9.155875
+Milan,364383,Brera,Entire home/apt,107.7,27,256,73,,70.0,Moderate,45.41983,9.246736
+Milan,952225,Isola,Entire home/apt,290.0,21,208,63,4.0,,,45.509205,9.19105
+Milan,718718,Duomo,Entire home/apt,269.41,9,293,1,4.11,55.0,Moderate,45.47506,9.23586
+Milan,418901,Navigli,Shared room,290.0,3,103,81,3.99,46.0,Good,45.490779,9.147005
+Milan,329688,Navigli,Private room,199.47,26,2,8,4.58,56.0,Moderate,45.456068,9.156515
+Milan,628092,Brera,Private room,290.0,28,246,163,4.47,44.0,Good,45.407363,9.126402
+Milan,861549,Porta Venezia,Entire home/apt,130.03,14,23,35,3.87,67.0,Moderate,45.441032,9.161332
+Milan,925394,Porta Venezia,Entire home/apt,180.53,25,337,119,3.7,33.0,Good,45.449203,9.167974
+Milan,593158,Ticinese,Entire home/apt,161.42,29,353,31,4.55,33.0,Good,45.518996,9.161287
+Milan,582819,Nolo,Entire home/apt,180.98,12,122,17,3.81,51.0,Moderate,45.533934,9.158114
+Milan,188621,Loreto,Private room,290.0,25,364,24,3.94,46.0,Good,45.419477,9.161351
+Milan,931139,Porta Venezia,Entire home/apt,290.0,3,225,29,4.31,72.0,Moderate,45.470364,9.166995
+Milan,626768,Brera,Entire home/apt,220.42,7,318,71,3.68,65.0,Moderate,45.516841,9.130359
+Milan,632381,Ticinese,Entire home/apt,62.23,5,194,22,3.79,31.0,Good,45.468164,9.202025
+Milan,865441,Navigli,Private room,137.59,1,196,61,4.42,68.0,Moderate,45.510274,9.210196
+Milan,362618,Nolo,Entire home/apt,104.93,22,329,92,4.47,80.0,Moderate,45.492539,9.226712
+Milan,237455,Brera,Entire home/apt,77.08,1,275,111,4.04,42.0,Good,45.529311,9.132453
+Milan,758504,Ticinese,Entire home/apt,93.14,13,6,67,4.24,70.0,Moderate,45.408745,9.185198
+Milan,157782,Ticinese,Private room,271.13,30,310,14,3.8,52.0,Moderate,45.533724,9.120917
+Milan,989623,Ticinese,Entire home/apt,79.19,8,313,2,4.85,56.0,Moderate,45.447083,9.166081
+Milan,248629,Duomo,Entire home/apt,128.62,3,127,5,4.74,59.0,Moderate,45.51909,9.254229
+Milan,542989,Navigli,Private room,191.68,1,210,24,4.76,68.0,Moderate,45.519542,9.199589
+Milan,217902,Navigli,Shared room,131.85,9,311,1,4.26,49.0,Good,45.504495,9.202661
+Milan,674727,Loreto,Entire home/apt,290.0,9,181,9,3.61,50.0,Good,45.457962,9.129419
+Milan,855577,Isola,Hotel room,281.42,28,148,18,5.0,80.0,Moderate,45.433672,9.11693
+Milan,898179,Navigli,Private room,158.62,17,244,2,3.47,41.0,Good,45.494519,9.223367
+Milan,881450,Porta Venezia,Private room,128.36,1,97,1,4.97,33.0,Good,45.498,9.255078
+Milan,971704,Porta Venezia,Entire home/apt,234.57,8,161,14,4.18,54.0,Moderate,45.471129,9.215935
+Milan,772745,Nolo,Shared room,138.51,5,227,5,4.48,81.0,Moderate,45.490588,9.12033
+Milan,485293,Brera,Entire home/apt,69.13,28,11,48,4.16,54.0,Moderate,45.503875,9.178712
+Milan,417108,Loreto,Entire home/apt,290.0,2,74,18,5.0,53.0,Moderate,45.42003,9.165219
+Milan,724227,Isola,Shared room,126.02,15,134,52,4.87,75.0,Moderate,45.465331,9.247595
+Milan,989887,Navigli,Private room,290.0,29,221,110,3.58,46.0,Good,45.460967,9.162154
+Milan,488696,Brera,Private room,188.17,26,66,75,3.74,62.0,Moderate,45.395838,9.204968
+Milan,916936,Nolo,Entire home/apt,218.84,24,149,92,3.77,61.0,Moderate,45.418764,9.150097
+Milan,296239,Isola,Hotel room,131.54,25,114,22,5.0,55.0,Moderate,45.417058,9.132855
+Milan,369702,Navigli,Entire home/apt,259.7,27,147,10,4.63,57.0,Moderate,45.407603,9.12846
+Milan,877843,Brera,Entire home/apt,141.96,25,123,59,4.78,64.0,Moderate,45.436451,9.206376
+Milan,497765,Ticinese,Private room,212.89,29,25,34,4.17,46.0,Good,45.451097,9.227811
+Milan,868813,Nolo,Entire home/apt,60.0,18,150,24,4.14,70.0,Moderate,45.524586,9.122862
+Milan,218478,Isola,Entire home/apt,117.15,7,124,22,4.33,21.0,Good,45.398941,9.144713
+Milan,778042,Brera,Hotel room,93.29,21,50,78,4.07,55.0,Moderate,45.466311,9.24143
+Milan,328378,Porta Venezia,Private room,125.29,13,119,26,4.49,64.0,Moderate,45.39768,9.194052
+Milan,542669,Duomo,Entire home/apt,108.22,20,155,91,3.86,79.0,Moderate,45.442095,9.122735
+Milan,331266,Porta Venezia,Private room,,16,107,12,4.81,72.0,Moderate,45.50315,9.144071
+Milan,710376,Porta Venezia,Entire home/apt,146.79,2,158,11,4.59,51.0,Moderate,45.495475,9.127335
+Milan,549352,Brera,Entire home/apt,115.65,16,161,47,4.2,54.0,Moderate,45.448459,9.115956
+Milan,939469,Brera,Entire home/apt,262.77,1,197,1,3.51,49.0,Good,45.428133,9.229274
+Milan,510629,Isola,Entire home/apt,208.44,3,71,11,3.85,72.0,Moderate,45.466386,9.248895
+Milan,959380,Duomo,Private room,,1,310,19,4.56,55.0,Moderate,45.417289,9.189455
+Milan,443382,Duomo,Entire home/apt,120.96,27,112,35,4.69,,,45.40651,9.247479
+Milan,405467,Isola,Entire home/apt,225.87,1,42,70,4.53,53.0,Moderate,45.442093,9.122211
+Milan,491014,Porta Venezia,Entire home/apt,82.45,3,168,23,4.24,65.0,Moderate,45.413668,9.241244
+Milan,676144,Ticinese,Entire home/apt,120.19,22,303,4,3.81,59.0,Moderate,45.459453,9.118909
+Milan,774101,Navigli,Entire home/apt,221.94,18,307,12,4.64,32.0,Good,45.421148,9.166874
+Milan,383140,Duomo,Entire home/apt,90.46,7,290,15,3.83,40.0,Good,45.412923,9.182402
+Milan,624320,Isola,Entire home/apt,188.31,12,60,14,,72.0,Moderate,45.49213,9.248014
+Milan,675724,Isola,Shared room,290.0,23,365,26,4.35,38.0,Good,45.524764,9.166798
+Milan,326500,Isola,Private room,165.14,23,144,6,4.69,64.0,Moderate,45.456081,9.141449
+Milan,684270,Isola,Private room,130.0,10,197,32,3.63,72.0,Moderate,45.515284,9.255571
+Milan,286455,Duomo,Private room,115.8,9,89,38,4.09,85.0,Moderate,45.527712,9.241004
+Milan,883929,Navigli,Shared room,169.01,18,328,19,5.0,44.0,Good,45.446429,9.206177
+Milan,216580,Porta Venezia,Entire home/apt,159.26,11,133,8,3.9,65.0,Moderate,45.432829,9.242184
+Milan,151576,Loreto,Entire home/apt,137.81,20,176,136,4.71,53.0,Moderate,45.5068,9.127065
+Milan,389959,Navigli,Private room,290.0,15,163,36,4.19,67.0,Moderate,45.507283,9.136347
+Milan,134112,Nolo,Shared room,114.49,20,133,1,4.5,34.0,Good,45.397171,9.239568
+Milan,778015,Nolo,Entire home/apt,176.01,2,82,20,3.4,36.0,Good,45.457559,9.222291
+Milan,343958,Isola,Entire home/apt,290.0,27,95,39,4.02,51.0,Moderate,45.511673,9.251075
+Milan,903136,Ticinese,Entire home/apt,278.69,2,147,57,2.45,55.0,Moderate,45.501527,9.159169
+Milan,544048,Duomo,Private room,244.4,1,243,70,4.93,45.0,Good,45.466615,9.17358
+Milan,744927,Brera,Entire home/apt,290.0,3,204,53,4.2,57.0,Moderate,45.462428,9.170438
+Milan,989764,Isola,Private room,290.0,6,357,19,5.0,70.0,Moderate,45.512562,9.177676
+Milan,120159,Isola,Shared room,182.99,1,38,75,4.36,55.0,Moderate,45.531189,9.146497
+Milan,655235,Duomo,Private room,,2,334,7,3.67,53.0,Moderate,45.492805,9.140324
+Milan,611971,Isola,Shared room,128.74,29,217,68,4.31,68.0,Moderate,45.398261,9.12452
+Milan,331845,Nolo,Entire home/apt,183.44,10,238,24,4.53,62.0,Moderate,45.426255,9.208782
+Milan,168536,Ticinese,Entire home/apt,95.6,11,50,6,4.1,67.0,Moderate,45.41155,9.190155
+Milan,484452,Navigli,Private room,91.95,28,37,0,4.18,49.0,Good,45.506603,9.189037
+Milan,826171,Brera,Entire home/apt,180.13,14,359,3,4.13,51.0,Moderate,45.467584,9.190164
+Milan,659150,Navigli,Private room,290.0,5,97,60,4.21,62.0,Moderate,45.514356,9.166396
+Milan,783070,Loreto,Hotel room,195.87,23,225,53,4.02,79.0,Moderate,45.451953,9.175297
+Milan,564091,Isola,Entire home/apt,175.4,8,296,14,,53.0,Moderate,45.528476,9.217651
+Milan,582923,Loreto,Private room,187.06,3,326,26,4.6,62.0,Moderate,45.418468,9.23578
+Milan,932368,Porta Venezia,Shared room,111.7,6,356,14,4.11,40.0,Good,45.437168,9.229951
+Milan,693957,Ticinese,Entire home/apt,127.22,29,276,36,4.13,,,45.533672,9.202358
+Milan,374754,Porta Venezia,Private room,166.9,9,308,55,3.77,60.0,Moderate,45.422997,9.237328
+Milan,129416,Brera,Entire home/apt,276.55,5,75,21,3.85,79.0,Moderate,45.402266,9.254667
+Milan,620965,Navigli,Entire home/apt,290.0,21,269,8,5.0,72.0,Moderate,45.457988,9.195982
+Milan,664344,Duomo,Entire home/apt,60.0,9,221,33,4.7,49.0,Good,45.454977,9.15308
+Milan,751287,Navigli,Hotel room,69.21,25,278,21,4.06,54.0,Moderate,45.421151,9.136931
+Milan,799928,Isola,Entire home/apt,193.21,17,335,47,5.0,47.0,Good,45.535024,9.197076
+Milan,146549,Nolo,Entire home/apt,212.7,30,171,16,3.97,76.0,Moderate,45.506853,9.117315
+Milan,431546,Loreto,Entire home/apt,218.04,2,289,29,5.0,49.0,Good,45.427441,9.143909
+Milan,716957,Nolo,Entire home/apt,282.46,26,241,1,4.55,,,45.406864,9.156245

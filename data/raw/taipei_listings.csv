@@ -1,0 +1,311 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Taipei,752703,Wanhua,Shared room,5524.13,2,16,33,4.38,83.0,Moderate,25.053972,121.583566
+Taipei,972626,Zhongshan,Private room,8000.0,2,92,38,4.84,44.0,Good,25.098378,121.564012
+Taipei,727641,Shilin,Entire home/apt,4089.75,3,215,184,5.0,88.0,Moderate,25.069309,121.503374
+Taipei,371398,Shilin,Shared room,7961.89,30,37,17,3.85,105.0,Unhealthy for Sensitive Groups,25.0757,121.603649
+Taipei,462713,Zhongshan,Private room,8000.0,18,127,14,4.7,76.0,Moderate,25.094988,121.555011
+Taipei,669667,Neihu,Private room,3208.99,5,354,119,4.9,,,25.048832,121.52849
+Taipei,924624,Zhongshan,Entire home/apt,4273.86,11,15,3,4.27,62.0,Moderate,25.026915,121.626802
+Taipei,356917,Wanhua,Private room,8000.0,18,86,1,3.36,81.0,Moderate,24.976675,121.545479
+Taipei,390317,Xinyi,Private room,8000.0,3,166,39,,81.0,Moderate,25.061073,121.499254
+Taipei,662583,Songshan,Private room,3063.38,2,80,136,4.39,78.0,Moderate,25.030089,121.56948
+Taipei,804510,Zhongshan,Entire home/apt,4714.88,30,268,50,3.88,22.0,Good,25.042557,121.549795
+Taipei,434982,Zhongshan,Entire home/apt,3452.37,5,1,6,4.55,54.0,Moderate,25.086712,121.633864
+Taipei,736106,Da'an,Entire home/apt,7713.4,28,266,25,4.1,50.0,Good,25.084867,121.621545
+Taipei,590005,Songshan,Entire home/apt,4506.91,5,51,20,4.46,,,25.078805,121.531408
+Taipei,442197,Songshan,Hotel room,4554.38,2,319,50,3.58,57.0,Moderate,24.993155,121.562915
+Taipei,977643,Neihu,Private room,3761.31,2,55,29,4.69,84.0,Moderate,25.089619,121.505951
+Taipei,520986,Neihu,Entire home/apt,4113.38,1,291,115,4.29,90.0,Moderate,25.020165,121.605718
+Taipei,655351,Songshan,Private room,6024.38,8,177,14,4.17,113.0,Unhealthy for Sensitive Groups,25.055305,121.549236
+Taipei,568459,Wanhua,Entire home/apt,2610.88,14,212,10,4.81,,,25.092509,121.627451
+Taipei,328474,Zhongshan,Entire home/apt,6377.79,14,284,34,4.6,124.0,Unhealthy for Sensitive Groups,25.023473,121.633372
+Taipei,243217,Da'an,Entire home/apt,2221.51,27,5,8,3.36,88.0,Moderate,24.963744,121.526649
+Taipei,158282,Wanhua,Private room,5212.32,26,123,52,4.03,57.0,Moderate,25.025179,121.620885
+Taipei,719251,Da'an,Entire home/apt,5705.2,28,137,8,4.25,95.0,Moderate,24.975642,121.579639
+Taipei,764351,Da'an,Entire home/apt,3650.49,27,206,3,,48.0,Good,25.026683,121.620696
+Taipei,320151,Songshan,Entire home/apt,8000.0,19,232,7,4.61,70.0,Moderate,25.097674,121.577866
+Taipei,110652,Shilin,Entire home/apt,,28,85,55,3.84,77.0,Moderate,25.071051,121.633855
+Taipei,224292,Zhongshan,Entire home/apt,2605.68,29,320,95,,,,25.013596,121.546001
+Taipei,404559,Shilin,Entire home/apt,5366.26,24,99,8,4.29,,,25.021759,121.507714
+Taipei,514994,Xinyi,Private room,3375.57,10,216,46,4.27,68.0,Moderate,25.024304,121.555755
+Taipei,186215,Xinyi,Entire home/apt,4193.19,23,148,65,3.03,77.0,Moderate,24.978109,121.505568
+Taipei,411854,Zhongzheng,Entire home/apt,8000.0,4,124,39,4.6,87.0,Moderate,25.102545,121.583753
+Taipei,175976,Wanhua,Entire home/apt,6151.0,2,63,1,4.24,61.0,Moderate,25.083412,121.585979
+Taipei,399616,Xinyi,Private room,3748.51,2,36,23,4.09,62.0,Moderate,25.00861,121.542727
+Taipei,865755,Shilin,Private room,1825.57,26,69,16,4.03,69.0,Moderate,24.986429,121.56166
+Taipei,107919,Xinyi,Entire home/apt,1809.51,3,25,59,4.16,79.0,Moderate,25.096012,121.581666
+Taipei,511453,Shilin,Entire home/apt,8000.0,10,44,13,5.0,123.0,Unhealthy for Sensitive Groups,24.973864,121.506494
+Taipei,128129,Zhongshan,Entire home/apt,7503.76,2,241,41,4.29,96.0,Moderate,24.984664,121.574059
+Taipei,325297,Xinyi,Shared room,7752.79,2,146,31,4.66,87.0,Moderate,25.032961,121.553572
+Taipei,480495,Neihu,Hotel room,,30,83,118,4.89,71.0,Moderate,24.996254,121.628194
+Taipei,580830,Neihu,Private room,8000.0,30,85,51,3.92,42.0,Good,25.04255,121.583474
+Taipei,314832,Shilin,Entire home/apt,5719.25,15,278,42,4.4,105.0,Unhealthy for Sensitive Groups,24.986577,121.572561
+Taipei,911106,Songshan,Entire home/apt,8000.0,18,331,0,4.24,89.0,Moderate,25.095054,121.589429
+Taipei,890588,Xinyi,Entire home/apt,5898.77,9,335,75,3.39,80.0,Moderate,25.026429,121.59671
+Taipei,789869,Zhongzheng,Entire home/apt,2609.97,7,70,69,4.67,79.0,Moderate,25.028719,121.566691
+Taipei,618248,Songshan,Entire home/apt,3414.38,23,167,12,3.93,67.0,Moderate,25.082587,121.602359
+Taipei,292062,Da'an,Entire home/apt,2022.96,8,313,56,4.23,83.0,Moderate,25.030536,121.538311
+Taipei,915957,Xinyi,Private room,5518.44,12,3,27,3.93,80.0,Moderate,24.986622,121.625191
+Taipei,107077,Shilin,Entire home/apt,4360.77,23,179,44,4.41,43.0,Good,24.972612,121.546153
+Taipei,294164,Shilin,Private room,,2,284,12,4.76,57.0,Moderate,25.091968,121.620639
+Taipei,108836,Zhongzheng,Private room,4833.68,20,73,24,3.86,86.0,Moderate,25.045332,121.595244
+Taipei,483130,Xinyi,Entire home/apt,4533.4,1,68,2,4.52,50.0,Good,25.013051,121.61256
+Taipei,179073,Shilin,Shared room,8000.0,1,296,102,4.47,28.0,Good,25.036754,121.630182
+Taipei,543878,Songshan,Shared room,4868.36,6,302,22,3.36,56.0,Moderate,25.101286,121.612174
+Taipei,352024,Zhongshan,Private room,8000.0,6,250,1,4.32,87.0,Moderate,24.966954,121.50845
+Taipei,517743,Songshan,Shared room,2742.23,19,266,26,4.74,102.0,Unhealthy for Sensitive Groups,25.08991,121.569864
+Taipei,371811,Shilin,Entire home/apt,7738.76,7,318,6,4.47,70.0,Moderate,25.028509,121.559927
+Taipei,900333,Da'an,Private room,2655.72,29,196,15,4.44,89.0,Moderate,25.055807,121.549313
+Taipei,421563,Wanhua,Entire home/apt,2649.86,22,197,5,3.88,74.0,Moderate,24.995372,121.508472
+Taipei,993632,Da'an,Entire home/apt,4493.44,8,285,135,4.44,53.0,Moderate,24.991472,121.553193
+Taipei,530136,Wanhua,Entire home/apt,,24,97,53,4.5,68.0,Moderate,24.987282,121.571755
+Taipei,960475,Neihu,Private room,3721.34,11,167,70,4.36,40.0,Good,25.005157,121.540214
+Taipei,337530,Zhongshan,Entire home/apt,2178.33,2,53,39,3.76,112.0,Unhealthy for Sensitive Groups,25.002737,121.569421
+Taipei,453659,Songshan,Shared room,3345.4,1,240,58,4.54,67.0,Moderate,24.9782,121.553926
+Taipei,342696,Zhongshan,Private room,2305.96,18,92,11,5.0,108.0,Unhealthy for Sensitive Groups,25.099794,121.570406
+Taipei,579114,Zhongzheng,Shared room,4838.14,23,336,29,3.16,49.0,Good,25.032527,121.589945
+Taipei,790929,Shilin,Entire home/apt,6186.59,3,326,22,3.75,67.0,Moderate,24.970115,121.499714
+Taipei,967528,Songshan,Entire home/apt,2373.63,20,167,4,4.69,75.0,Moderate,25.011364,121.510081
+Taipei,218040,Songshan,Shared room,3401.37,16,196,40,4.22,74.0,Moderate,25.001317,121.595634
+Taipei,306138,Neihu,Entire home/apt,3992.6,17,260,8,4.91,83.0,Moderate,24.999862,121.614979
+Taipei,107871,Songshan,Private room,2697.6,25,174,5,5.0,90.0,Moderate,25.067726,121.535442
+Taipei,458805,Xinyi,Entire home/apt,8000.0,4,239,86,4.15,76.0,Moderate,25.09746,121.509367
+Taipei,172838,Neihu,Private room,6929.62,17,201,6,4.23,106.0,Unhealthy for Sensitive Groups,25.039839,121.530068
+Taipei,978916,Songshan,Private room,,6,154,38,4.59,23.0,Good,24.972532,121.530437
+Taipei,190401,Zhongzheng,Private room,3182.78,4,315,15,4.1,52.0,Moderate,25.084332,121.569337
+Taipei,472197,Da'an,Entire home/apt,5248.24,27,189,0,3.94,78.0,Moderate,24.977318,121.561986
+Taipei,215145,Xinyi,Entire home/apt,,2,188,51,4.02,85.0,Moderate,24.990415,121.53718
+Taipei,717095,Shilin,Entire home/apt,7140.96,22,179,185,3.81,77.0,Moderate,25.059566,121.519233
+Taipei,348649,Da'an,Entire home/apt,6863.07,1,82,48,4.08,97.0,Moderate,25.102906,121.545304
+Taipei,455050,Wanhua,Entire home/apt,2837.64,23,146,28,5.0,88.0,Moderate,24.995936,121.582408
+Taipei,866797,Wanhua,Entire home/apt,3364.83,1,21,8,3.48,109.0,Unhealthy for Sensitive Groups,25.074396,121.513
+Taipei,845638,Shilin,Entire home/apt,3407.97,6,132,5,3.67,49.0,Good,24.979261,121.506861
+Taipei,906733,Zhongzheng,Entire home/apt,7614.45,28,218,4,3.59,77.0,Moderate,25.038366,121.562987
+Taipei,960860,Wanhua,Shared room,2479.69,21,3,21,4.66,67.0,Moderate,25.054356,121.601029
+Taipei,696065,Wanhua,Entire home/apt,8000.0,1,195,45,4.87,96.0,Moderate,25.077805,121.55777
+Taipei,281062,Zhongzheng,Private room,4255.03,29,14,3,5.0,76.0,Moderate,25.016602,121.555266
+Taipei,192032,Neihu,Entire home/apt,1968.65,2,6,19,3.82,95.0,Moderate,25.066455,121.587768
+Taipei,478470,Zhongzheng,Entire home/apt,,8,189,19,,55.0,Moderate,24.972583,121.560035
+Taipei,878438,Da'an,Private room,,12,0,48,3.85,89.0,Moderate,24.988063,121.619025
+Taipei,851034,Shilin,Entire home/apt,6661.82,19,185,118,4.57,54.0,Moderate,24.983035,121.565392
+Taipei,460212,Zhongshan,Entire home/apt,4610.88,6,71,97,3.86,73.0,Moderate,25.04742,121.571494
+Taipei,152064,Songshan,Entire home/apt,4354.23,19,364,9,,135.0,Unhealthy for Sensitive Groups,25.018106,121.515543
+Taipei,241776,Zhongshan,Shared room,8000.0,21,103,6,4.54,63.0,Moderate,24.971442,121.627036
+Taipei,450956,Shilin,Entire home/apt,5918.3,4,359,4,3.91,36.0,Good,24.967782,121.627721
+Taipei,949015,Zhongshan,Entire home/apt,5465.07,21,39,2,4.2,55.0,Moderate,25.006891,121.542352
+Taipei,449795,Da'an,Entire home/apt,1599.1,30,188,0,3.63,69.0,Moderate,25.096508,121.616723
+Taipei,214744,Zhongshan,Entire home/apt,2942.09,7,128,7,4.29,80.0,Moderate,24.978214,121.533971
+Taipei,126440,Zhongshan,Private room,5442.95,17,42,84,3.61,69.0,Moderate,24.987179,121.611665
+Taipei,107662,Neihu,Hotel room,5402.57,7,263,55,5.0,65.0,Moderate,24.965101,121.563126
+Taipei,936264,Neihu,Entire home/apt,3230.97,21,356,42,4.9,79.0,Moderate,25.043499,121.581783
+Taipei,586406,Shilin,Private room,7588.61,13,356,60,4.42,106.0,Unhealthy for Sensitive Groups,25.097502,121.62965
+Taipei,272070,Wanhua,Entire home/apt,5844.09,19,287,55,3.93,78.0,Moderate,25.031702,121.51773
+Taipei,888294,Xinyi,Entire home/apt,,2,153,164,4.65,,,25.101696,121.61991
+Taipei,676941,Zhongshan,Entire home/apt,2591.65,15,323,4,4.07,47.0,Good,25.090516,121.602608
+Taipei,317324,Xinyi,Entire home/apt,3691.57,7,152,60,4.22,101.0,Unhealthy for Sensitive Groups,25.01217,121.567981
+Taipei,477248,Wanhua,Entire home/apt,2887.48,17,206,31,3.58,47.0,Good,24.976831,121.554803
+Taipei,891440,Xinyi,Private room,8000.0,29,184,12,4.83,69.0,Moderate,25.012389,121.611563
+Taipei,878192,Neihu,Entire home/apt,4644.28,10,98,5,4.83,92.0,Moderate,24.967213,121.595097
+Taipei,459599,Da'an,Shared room,7754.17,24,126,28,3.85,71.0,Moderate,25.007816,121.625036
+Taipei,767435,Songshan,Private room,3498.5,16,1,57,4.3,,,25.076655,121.535794
+Taipei,920483,Zhongshan,Hotel room,3715.32,25,250,5,4.09,62.0,Moderate,25.102575,121.598709
+Taipei,771595,Neihu,Private room,5264.3,11,83,11,3.92,93.0,Moderate,25.007141,121.617167
+Taipei,144993,Wanhua,Private room,,22,222,139,5.0,90.0,Moderate,25.071527,121.550665
+Taipei,444516,Songshan,Entire home/apt,,24,207,139,,62.0,Moderate,24.999857,121.554491
+Taipei,100903,Xinyi,Entire home/apt,5446.11,18,63,4,3.77,69.0,Moderate,24.969435,121.545925
+Taipei,648063,Neihu,Entire home/apt,3037.88,12,293,20,4.25,45.0,Good,25.081083,121.542346
+Taipei,109211,Zhongzheng,Entire home/apt,5555.33,20,152,6,3.84,90.0,Moderate,25.093459,121.534408
+Taipei,234505,Da'an,Entire home/apt,4724.01,15,206,91,3.81,,,24.995051,121.56131
+Taipei,526054,Zhongshan,Private room,4289.33,14,349,105,,52.0,Moderate,25.069035,121.530564
+Taipei,991820,Xinyi,Private room,8000.0,17,80,12,4.96,70.0,Moderate,24.997663,121.595501
+Taipei,953044,Wanhua,Entire home/apt,8000.0,17,60,3,5.0,90.0,Moderate,25.087963,121.536439
+Taipei,397254,Zhongzheng,Entire home/apt,3508.36,12,68,0,,51.0,Moderate,24.986532,121.626678
+Taipei,491959,Da'an,Hotel room,8000.0,10,29,46,4.16,81.0,Moderate,25.023372,121.598711
+Taipei,417942,Neihu,Hotel room,4635.97,20,99,139,4.33,61.0,Moderate,25.081262,121.498712
+Taipei,491236,Songshan,Entire home/apt,2201.8,8,353,19,5.0,91.0,Moderate,24.986254,121.554484
+Taipei,347453,Songshan,Entire home/apt,6377.01,2,181,46,4.67,103.0,Unhealthy for Sensitive Groups,24.970558,121.55336
+Taipei,526135,Songshan,Entire home/apt,3849.64,2,276,51,,36.0,Good,25.010772,121.503304
+Taipei,399269,Xinyi,Entire home/apt,1312.51,7,71,41,4.99,45.0,Good,24.986654,121.503556
+Taipei,199249,Songshan,Entire home/apt,1967.61,1,120,2,4.54,70.0,Moderate,25.088429,121.531484
+Taipei,483863,Zhongshan,Entire home/apt,3261.93,4,78,12,3.64,108.0,Unhealthy for Sensitive Groups,24.975356,121.626712
+Taipei,307591,Xinyi,Private room,2621.52,19,91,45,5.0,75.0,Moderate,25.001222,121.604827
+Taipei,444925,Shilin,Entire home/apt,2565.73,4,90,43,3.62,73.0,Moderate,25.031472,121.567718
+Taipei,329264,Xinyi,Entire home/apt,3951.14,17,158,65,,61.0,Moderate,25.036049,121.622401
+Taipei,371428,Wanhua,Entire home/apt,8000.0,2,156,2,3.58,106.0,Unhealthy for Sensitive Groups,24.993853,121.608377
+Taipei,763552,Da'an,Private room,1521.7,1,123,18,3.31,87.0,Moderate,24.985019,121.599787
+Taipei,714227,Wanhua,Entire home/apt,4768.53,29,115,9,3.94,83.0,Moderate,25.037924,121.508089
+Taipei,170900,Zhongshan,Private room,3907.84,3,100,41,3.86,96.0,Moderate,25.047369,121.581784
+Taipei,676342,Songshan,Entire home/apt,6702.75,5,242,54,3.81,87.0,Moderate,25.063565,121.545049
+Taipei,811048,Zhongzheng,Private room,4228.89,29,214,57,4.12,62.0,Moderate,25.095861,121.585571
+Taipei,215828,Zhongshan,Shared room,4942.86,1,52,32,4.58,53.0,Moderate,24.991419,121.629197
+Taipei,207190,Wanhua,Entire home/apt,,27,75,55,4.61,69.0,Moderate,24.995607,121.609341
+Taipei,803001,Da'an,Hotel room,4171.59,18,268,18,4.26,52.0,Moderate,25.099368,121.585409
+Taipei,936198,Da'an,Entire home/apt,7468.28,29,219,8,2.71,60.0,Moderate,24.968359,121.589533
+Taipei,238354,Da'an,Shared room,,1,294,42,4.06,67.0,Moderate,25.064029,121.634116
+Taipei,754805,Da'an,Private room,7865.88,22,38,68,4.61,40.0,Good,24.992496,121.516605
+Taipei,369400,Da'an,Entire home/apt,3788.95,1,296,3,4.3,107.0,Unhealthy for Sensitive Groups,25.092278,121.590556
+Taipei,634208,Zhongzheng,Private room,3063.66,2,99,56,3.36,61.0,Moderate,25.023395,121.521472
+Taipei,115986,Wanhua,Entire home/apt,4378.55,5,210,43,5.0,61.0,Moderate,25.003832,121.613685
+Taipei,508694,Zhongzheng,Private room,2331.86,26,141,30,4.25,66.0,Moderate,24.974077,121.512604
+Taipei,897106,Zhongshan,Entire home/apt,6216.04,28,166,82,4.51,88.0,Moderate,25.086713,121.598857
+Taipei,314638,Neihu,Entire home/apt,2887.9,7,20,32,4.51,,,24.994169,121.609853
+Taipei,205248,Zhongzheng,Private room,1816.84,6,11,63,4.01,100.0,Moderate,25.100471,121.560606
+Taipei,276572,Da'an,Entire home/apt,8000.0,2,365,15,5.0,,,25.040118,121.616641
+Taipei,426392,Neihu,Entire home/apt,2241.65,27,310,9,4.75,86.0,Moderate,25.082271,121.532399
+Taipei,185444,Neihu,Entire home/apt,5503.86,18,98,75,4.51,87.0,Moderate,24.990851,121.606911
+Taipei,676818,Da'an,Entire home/apt,4494.66,15,241,28,4.27,91.0,Moderate,25.034883,121.603333
+Taipei,116161,Da'an,Entire home/apt,1547.0,4,220,58,,102.0,Unhealthy for Sensitive Groups,25.065793,121.56185
+Taipei,646211,Songshan,Entire home/apt,,25,242,97,4.95,89.0,Moderate,25.082894,121.523479
+Taipei,840980,Songshan,Entire home/apt,2448.8,17,116,16,3.75,37.0,Good,24.975907,121.578224
+Taipei,159079,Zhongshan,Hotel room,7255.93,30,185,0,4.77,52.0,Moderate,25.004608,121.603919
+Taipei,962604,Neihu,Shared room,4923.68,30,80,28,3.99,63.0,Moderate,25.024904,121.612535
+Taipei,301223,Zhongzheng,Shared room,8000.0,13,257,19,3.3,75.0,Moderate,25.072053,121.607759
+Taipei,254139,Wanhua,Entire home/apt,,5,104,11,4.1,110.0,Unhealthy for Sensitive Groups,25.001169,121.499176
+Taipei,135866,Xinyi,Shared room,7135.5,14,332,111,3.9,76.0,Moderate,25.036566,121.624656
+Taipei,277038,Zhongshan,Entire home/apt,4453.59,9,277,70,4.99,100.0,Moderate,25.056029,121.559881
+Taipei,611736,Xinyi,Private room,8000.0,30,154,71,5.0,97.0,Moderate,24.970081,121.556704
+Taipei,138669,Da'an,Entire home/apt,5080.5,1,170,85,4.64,67.0,Moderate,25.014852,121.558746
+Taipei,325358,Neihu,Entire home/apt,5510.97,4,52,2,,78.0,Moderate,24.995889,121.572857
+Taipei,399685,Zhongshan,Entire home/apt,6224.95,28,3,38,4.49,69.0,Moderate,24.964067,121.588342
+Taipei,772554,Wanhua,Entire home/apt,3918.06,3,165,18,3.77,75.0,Moderate,24.98455,121.497429
+Taipei,698533,Zhongzheng,Shared room,3650.04,26,321,8,4.4,38.0,Good,25.084073,121.58307
+Taipei,668585,Wanhua,Hotel room,1683.97,23,20,18,5.0,48.0,Good,25.053342,121.592599
+Taipei,909141,Zhongzheng,Entire home/apt,5739.08,3,158,44,4.56,76.0,Moderate,24.980325,121.626233
+Taipei,921608,Zhongzheng,Entire home/apt,3475.29,4,325,129,4.03,119.0,Unhealthy for Sensitive Groups,25.024953,121.53962
+Taipei,969951,Zhongzheng,Entire home/apt,3976.81,9,222,6,4.35,41.0,Good,25.036641,121.584433
+Taipei,914490,Neihu,Entire home/apt,3895.93,21,45,12,4.66,71.0,Moderate,25.080616,121.634959
+Taipei,154713,Neihu,Private room,,6,33,47,4.19,,,25.06044,121.584162
+Taipei,154055,Xinyi,Private room,3911.22,8,8,28,5.0,78.0,Moderate,25.080285,121.5324
+Taipei,621476,Neihu,Shared room,5068.19,7,79,13,5.0,38.0,Good,25.036122,121.567242
+Taipei,727784,Neihu,Private room,4648.76,22,46,6,4.82,86.0,Moderate,25.08859,121.622547
+Taipei,482544,Zhongzheng,Private room,8000.0,26,23,23,4.64,21.0,Good,24.983798,121.626458
+Taipei,673604,Zhongzheng,Entire home/apt,5944.46,30,162,15,5.0,,,24.99151,121.531979
+Taipei,408542,Zhongzheng,Entire home/apt,2305.72,16,226,34,3.61,,,25.062365,121.588741
+Taipei,367090,Neihu,Entire home/apt,5394.55,12,178,9,4.13,62.0,Moderate,25.027281,121.591577
+Taipei,203195,Da'an,Entire home/apt,4399.35,15,309,15,3.75,74.0,Moderate,25.061633,121.635354
+Taipei,674242,Neihu,Entire home/apt,8000.0,24,60,48,4.08,88.0,Moderate,25.063917,121.52011
+Taipei,272009,Shilin,Entire home/apt,4144.91,3,336,17,4.73,94.0,Moderate,25.027884,121.516245
+Taipei,765436,Neihu,Entire home/apt,1727.21,3,229,102,3.89,49.0,Good,25.074387,121.591951
+Taipei,263018,Wanhua,Entire home/apt,7524.51,20,348,8,,60.0,Moderate,25.051602,121.630167
+Taipei,392975,Wanhua,Private room,4462.14,2,140,32,4.2,109.0,Unhealthy for Sensitive Groups,25.059042,121.528112
+Taipei,940278,Songshan,Private room,7840.21,24,2,5,,77.0,Moderate,24.968441,121.527231
+Taipei,633942,Songshan,Entire home/apt,3647.15,3,299,3,3.67,65.0,Moderate,25.096016,121.626009
+Taipei,370026,Neihu,Shared room,8000.0,3,18,13,4.65,69.0,Moderate,25.028105,121.633618
+Taipei,174856,Da'an,Private room,1349.44,22,117,7,5.0,,,25.09373,121.61089
+Taipei,146365,Xinyi,Private room,8000.0,1,46,108,4.1,91.0,Moderate,24.994973,121.578146
+Taipei,154716,Shilin,Entire home/apt,,26,44,10,4.33,77.0,Moderate,25.002125,121.61971
+Taipei,865048,Songshan,Private room,6472.01,2,225,3,4.93,71.0,Moderate,24.992238,121.593274
+Taipei,273390,Zhongshan,Entire home/apt,3038.61,6,25,17,4.64,125.0,Unhealthy for Sensitive Groups,25.063925,121.596827
+Taipei,281499,Zhongshan,Private room,1968.94,2,323,76,4.62,90.0,Moderate,25.042289,121.556194
+Taipei,147921,Da'an,Shared room,8000.0,24,236,104,4.69,44.0,Good,25.015834,121.504234
+Taipei,859957,Zhongshan,Entire home/apt,3065.53,1,47,44,4.52,100.0,Moderate,25.06723,121.598596
+Taipei,266418,Wanhua,Entire home/apt,2592.02,26,20,31,3.67,,,24.984332,121.503931
+Taipei,170350,Zhongshan,Entire home/apt,6494.02,1,177,93,,111.0,Unhealthy for Sensitive Groups,25.053363,121.603977
+Taipei,133251,Songshan,Entire home/apt,2670.97,2,355,57,5.0,84.0,Moderate,25.000703,121.550439
+Taipei,455750,Zhongzheng,Private room,2903.43,10,90,50,4.54,75.0,Moderate,25.055513,121.570304
+Taipei,284647,Xinyi,Shared room,,3,8,73,5.0,84.0,Moderate,25.016055,121.502468
+Taipei,610856,Zhongshan,Entire home/apt,2887.5,29,74,41,4.24,78.0,Moderate,25.011499,121.528826
+Taipei,598188,Wanhua,Entire home/apt,6713.22,8,42,9,3.54,40.0,Good,25.052391,121.623265
+Taipei,369671,Zhongzheng,Entire home/apt,4984.27,8,152,2,4.26,61.0,Moderate,25.03858,121.630342
+Taipei,413279,Zhongzheng,Private room,5624.95,3,332,26,4.37,38.0,Good,25.012752,121.548838
+Taipei,538314,Songshan,Shared room,4727.38,2,326,29,4.3,76.0,Moderate,25.082234,121.533257
+Taipei,893016,Neihu,Entire home/apt,6027.54,6,134,201,4.03,89.0,Moderate,24.990822,121.553496
+Taipei,525961,Wanhua,Entire home/apt,8000.0,22,61,7,5.0,87.0,Moderate,24.992133,121.558423
+Taipei,984531,Songshan,Entire home/apt,5038.13,15,181,3,4.36,78.0,Moderate,25.047705,121.551986
+Taipei,212694,Neihu,Entire home/apt,4942.09,4,41,31,4.02,102.0,Unhealthy for Sensitive Groups,25.048279,121.626902
+Taipei,164150,Neihu,Private room,4942.33,5,124,59,3.25,75.0,Moderate,25.037383,121.507056
+Taipei,930172,Zhongshan,Entire home/apt,4989.75,2,144,71,4.37,93.0,Moderate,25.023558,121.620767
+Taipei,752529,Neihu,Shared room,3546.77,1,245,24,4.08,72.0,Moderate,25.001475,121.536986
+Taipei,316876,Songshan,Private room,4873.48,2,154,68,,75.0,Moderate,24.984251,121.533831
+Taipei,164964,Da'an,Private room,4085.72,14,65,64,4.64,40.0,Good,25.025974,121.568265
+Taipei,152924,Shilin,Entire home/apt,1869.16,12,341,57,3.49,83.0,Moderate,25.063411,121.621407
+Taipei,431289,Wanhua,Private room,6715.81,22,202,72,,91.0,Moderate,25.057302,121.535396
+Taipei,363392,Neihu,Entire home/apt,8000.0,19,20,32,4.48,82.0,Moderate,25.015707,121.533238
+Taipei,610300,Neihu,Entire home/apt,1801.53,10,301,9,4.08,76.0,Moderate,24.983606,121.53992
+Taipei,934613,Xinyi,Entire home/apt,4056.62,3,229,9,4.45,29.0,Good,25.079727,121.568594
+Taipei,905618,Zhongzheng,Private room,5025.78,2,47,17,4.97,,,25.004547,121.555215
+Taipei,261031,Zhongshan,Entire home/apt,4906.2,3,309,36,5.0,55.0,Moderate,25.102471,121.61926
+Taipei,464876,Shilin,Entire home/apt,4989.33,8,224,82,4.59,28.0,Good,25.090914,121.569691
+Taipei,781567,Songshan,Private room,4550.91,28,289,43,3.66,83.0,Moderate,25.097209,121.540899
+Taipei,978257,Da'an,Hotel room,2029.31,3,23,17,4.63,94.0,Moderate,25.050003,121.586539
+Taipei,509592,Xinyi,Hotel room,3835.48,23,176,15,3.98,,,25.030137,121.550927
+Taipei,895043,Songshan,Private room,7347.81,15,68,17,4.61,65.0,Moderate,25.077387,121.518743
+Taipei,117888,Neihu,Shared room,2101.18,11,90,79,4.49,88.0,Moderate,24.974027,121.571516
+Taipei,373022,Shilin,Entire home/apt,8000.0,21,59,53,3.34,62.0,Moderate,25.098174,121.598452
+Taipei,155301,Wanhua,Hotel room,4653.97,3,278,0,,60.0,Moderate,25.057438,121.579569
+Taipei,731919,Neihu,Entire home/apt,3464.04,1,266,15,4.76,67.0,Moderate,24.997404,121.624814
+Taipei,915897,Songshan,Entire home/apt,2085.73,1,329,60,4.77,95.0,Moderate,24.996121,121.577774
+Taipei,782147,Songshan,Entire home/apt,3694.97,30,172,55,5.0,86.0,Moderate,25.036973,121.56755
+Taipei,467047,Songshan,Private room,6059.51,9,111,24,3.75,106.0,Unhealthy for Sensitive Groups,25.051646,121.526685
+Taipei,262004,Shilin,Entire home/apt,3869.71,1,208,4,4.25,,,25.030568,121.631725
+Taipei,687208,Songshan,Entire home/apt,5019.8,27,203,57,3.64,92.0,Moderate,24.970379,121.628408
+Taipei,833997,Shilin,Entire home/apt,2841.55,2,196,9,4.25,78.0,Moderate,25.037925,121.63413
+Taipei,336826,Zhongshan,Entire home/apt,7320.72,25,257,88,5.0,68.0,Moderate,25.100556,121.520185
+Taipei,636274,Zhongshan,Entire home/apt,3998.59,17,345,95,5.0,97.0,Moderate,25.099,121.626403
+Taipei,859530,Shilin,Entire home/apt,8000.0,7,19,36,3.98,93.0,Moderate,24.985159,121.574318
+Taipei,785937,Zhongshan,Entire home/apt,2906.22,8,337,16,4.47,,,25.095906,121.55415
+Taipei,251260,Da'an,Private room,5362.44,13,296,16,3.81,101.0,Unhealthy for Sensitive Groups,24.970773,121.504153
+Taipei,127948,Zhongzheng,Entire home/apt,,13,22,66,4.94,68.0,Moderate,25.062552,121.526893
+Taipei,590839,Shilin,Private room,8000.0,15,225,0,5.0,61.0,Moderate,25.017554,121.534405
+Taipei,355889,Zhongshan,Entire home/apt,3886.08,26,315,32,3.93,78.0,Moderate,25.019947,121.565224
+Taipei,538869,Xinyi,Entire home/apt,3070.59,19,177,20,4.44,64.0,Moderate,25.010129,121.629105
+Taipei,497740,Xinyi,Entire home/apt,2042.45,28,132,101,4.23,80.0,Moderate,25.002917,121.52354
+Taipei,769395,Wanhua,Entire home/apt,,25,162,28,4.25,68.0,Moderate,25.030502,121.544711
+Taipei,204374,Shilin,Shared room,2245.7,2,361,51,3.52,74.0,Moderate,24.989266,121.54884
+Taipei,421810,Zhongzheng,Entire home/apt,3886.35,28,52,2,3.39,94.0,Moderate,25.070301,121.55557
+Taipei,648815,Zhongzheng,Shared room,2361.95,1,239,18,3.73,,,25.061291,121.558747
+Taipei,748082,Shilin,Shared room,4355.41,10,157,156,4.48,77.0,Moderate,25.078623,121.512055
+Taipei,216688,Shilin,Entire home/apt,,16,119,105,5.0,102.0,Unhealthy for Sensitive Groups,25.042931,121.595971
+Taipei,729316,Neihu,Shared room,2883.03,2,127,8,4.68,,,24.992184,121.610859
+Taipei,404617,Zhongzheng,Entire home/apt,8000.0,15,130,99,3.81,72.0,Moderate,25.082489,121.534738
+Taipei,983639,Neihu,Private room,5504.85,3,314,63,4.06,95.0,Moderate,25.053759,121.519111
+Taipei,112808,Songshan,Private room,3483.21,30,151,78,5.0,69.0,Moderate,25.002691,121.586716
+Taipei,552440,Xinyi,Entire home/apt,3370.66,9,353,132,3.43,75.0,Moderate,25.052311,121.577461
+Taipei,482759,Wanhua,Private room,3983.56,2,179,1,3.96,76.0,Moderate,24.992076,121.591139
+Taipei,706081,Xinyi,Private room,2697.66,10,271,41,4.22,78.0,Moderate,25.010804,121.59827
+Taipei,623526,Neihu,Entire home/apt,7838.34,3,65,29,3.42,49.0,Good,25.040409,121.633035
+Taipei,605692,Neihu,Entire home/apt,6405.08,12,22,132,4.84,80.0,Moderate,25.034109,121.609031
+Taipei,655861,Neihu,Entire home/apt,2770.67,9,252,63,3.88,,,25.02234,121.558757
+Taipei,917255,Neihu,Private room,5066.22,19,306,40,3.87,87.0,Moderate,25.055993,121.541069
+Taipei,100392,Zhongzheng,Shared room,2774.01,3,83,21,4.08,94.0,Moderate,25.067846,121.612072
+Taipei,116580,Zhongzheng,Private room,2505.51,5,361,33,3.76,69.0,Moderate,24.986792,121.566857
+Taipei,281018,Xinyi,Entire home/apt,5506.62,6,119,48,4.15,86.0,Moderate,25.088129,121.528035
+Taipei,572754,Zhongzheng,Entire home/apt,5160.53,9,186,14,,39.0,Good,25.0675,121.510197
+Taipei,463089,Shilin,Private room,6020.94,28,160,1,4.79,44.0,Good,25.078485,121.511199
+Taipei,784282,Zhongzheng,Entire home/apt,5342.12,28,357,46,4.6,111.0,Unhealthy for Sensitive Groups,24.990427,121.631958
+Taipei,662467,Zhongzheng,Entire home/apt,,11,90,179,4.25,21.0,Good,25.062648,121.538187
+Taipei,501681,Zhongshan,Shared room,2964.08,15,17,27,,,,25.043657,121.619883
+Taipei,352581,Xinyi,Entire home/apt,3003.75,4,137,49,4.15,109.0,Unhealthy for Sensitive Groups,25.071969,121.620538
+Taipei,551291,Wanhua,Shared room,7425.59,20,27,53,4.38,58.0,Moderate,25.019574,121.516215
+Taipei,526384,Da'an,Entire home/apt,3554.32,2,271,113,4.71,70.0,Moderate,25.019289,121.613366
+Taipei,220637,Shilin,Entire home/apt,3703.83,5,346,61,4.46,84.0,Moderate,24.964516,121.634534
+Taipei,467153,Xinyi,Entire home/apt,3744.11,2,333,143,5.0,77.0,Moderate,25.087386,121.520996
+Taipei,363286,Da'an,Private room,3709.86,4,285,7,4.38,29.0,Good,25.006335,121.622901
+Taipei,231618,Zhongzheng,Entire home/apt,6202.0,24,332,70,4.11,116.0,Unhealthy for Sensitive Groups,25.052955,121.629975
+Taipei,598987,Zhongshan,Private room,8000.0,13,280,136,5.0,118.0,Unhealthy for Sensitive Groups,25.0336,121.608563
+Taipei,117671,Zhongzheng,Private room,3206.68,11,29,16,4.84,100.0,Moderate,25.015198,121.626285
+Taipei,976748,Zhongzheng,Private room,5668.2,26,257,17,4.38,90.0,Moderate,25.087832,121.581858
+Taipei,368776,Zhongshan,Private room,7071.0,28,325,78,4.55,64.0,Moderate,25.043798,121.56122
+Taipei,993869,Songshan,Shared room,6487.26,21,364,48,4.35,81.0,Moderate,25.095518,121.547166
+Taipei,973640,Shilin,Entire home/apt,6509.7,25,45,123,3.47,71.0,Moderate,25.040977,121.626334
+Taipei,615796,Zhongzheng,Entire home/apt,3068.89,28,352,43,3.45,81.0,Moderate,24.977827,121.619073
+Taipei,384425,Neihu,Entire home/apt,4164.75,20,240,111,3.68,41.0,Good,25.000329,121.552978
+Taipei,206508,Wanhua,Private room,2440.69,25,182,21,5.0,79.0,Moderate,25.017558,121.583832
+Taipei,987670,Zhongzheng,Entire home/apt,3706.26,3,289,62,4.57,82.0,Moderate,25.080444,121.623565
+Taipei,399841,Neihu,Entire home/apt,3768.81,7,160,30,3.45,102.0,Unhealthy for Sensitive Groups,25.093551,121.578071
+Taipei,898735,Shilin,Private room,,27,188,5,4.85,59.0,Moderate,25.035728,121.511477
+Taipei,267537,Wanhua,Entire home/apt,2718.49,7,312,41,3.63,60.0,Moderate,25.078575,121.633104
+Taipei,917534,Shilin,Entire home/apt,6524.03,24,150,25,,94.0,Moderate,25.026017,121.567343
+Taipei,741169,Wanhua,Entire home/apt,3869.95,9,74,7,5.0,45.0,Good,25.088366,121.598415
+Taipei,235317,Xinyi,Hotel room,3346.83,22,143,3,4.07,,,24.964033,121.619561
+Taipei,436232,Zhongshan,Private room,3787.14,28,209,16,3.75,54.0,Moderate,25.002052,121.599367
+Taipei,712493,Da'an,Private room,3954.05,2,14,9,4.59,76.0,Moderate,25.015429,121.555016
+Taipei,189462,Neihu,Entire home/apt,2213.11,28,267,79,4.29,62.0,Moderate,25.100092,121.572705
+Taipei,429927,Da'an,Entire home/apt,1471.93,30,136,2,4.38,94.0,Moderate,24.99646,121.505237
+Taipei,662958,Wanhua,Entire home/apt,4484.79,22,212,38,3.99,86.0,Moderate,24.986117,121.62465
+Taipei,357673,Neihu,Hotel room,3746.34,1,82,7,4.1,81.0,Moderate,25.065344,121.572098
+Taipei,669709,Da'an,Private room,2034.12,2,90,46,5.0,101.0,Unhealthy for Sensitive Groups,25.053405,121.502187
+Taipei,324134,Da'an,Entire home/apt,2544.92,3,81,14,3.74,58.0,Moderate,24.983567,121.570687
+Taipei,160169,Wanhua,Entire home/apt,5335.71,8,360,33,3.29,71.0,Moderate,24.973681,121.529174
+Taipei,502567,Songshan,Shared room,2712.76,13,303,8,,71.0,Moderate,25.045588,121.621071
+Taipei,282697,Xinyi,Entire home/apt,2899.43,2,80,99,5.0,54.0,Moderate,25.08773,121.600038

@@ -1,0 +1,381 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Montreal,486834,Verdun,Entire home/apt,152.33,14,244,0,4.58,30.0,Good,45.44398,-73.522105
+Montreal,600216,Griffintown,Hotel room,,4,136,66,4.12,14.0,Good,45.49144,-73.600113
+Montreal,732617,Old Montreal,Entire home/apt,173.03,4,341,2,4.3,25.0,Good,45.472593,-73.546092
+Montreal,753234,Verdun,Entire home/apt,284.76,21,316,53,4.93,24.0,Good,45.554093,-73.52315
+Montreal,471677,Griffintown,Entire home/apt,287.69,24,319,108,4.44,29.0,Good,45.449167,-73.590895
+Montreal,572321,Plateau-Mont-Royal,Private room,193.93,14,271,50,3.69,25.0,Good,45.496877,-73.607911
+Montreal,532605,Villeray,Entire home/apt,211.74,15,332,4,4.09,23.0,Good,45.463507,-73.536834
+Montreal,726651,Rosemont,Entire home/apt,233.91,10,205,34,4.74,17.0,Good,45.557814,-73.507942
+Montreal,428403,Downtown,Private room,144.36,3,11,25,4.36,28.0,Good,45.478357,-73.622668
+Montreal,384349,Rosemont,Entire home/apt,109.15,8,35,23,,30.0,Good,45.435599,-73.560904
+Montreal,983915,Villeray,Entire home/apt,234.29,16,49,31,4.08,26.0,Good,45.538187,-73.605198
+Montreal,492103,Old Montreal,Hotel room,340.0,25,127,32,3.45,36.0,Good,45.519687,-73.543173
+Montreal,935093,Plateau-Mont-Royal,Private room,340.0,3,121,115,5.0,26.0,Good,45.509115,-73.624715
+Montreal,678141,Downtown,Private room,249.25,11,85,69,4.78,18.0,Good,45.460311,-73.525529
+Montreal,426714,Griffintown,Entire home/apt,94.16,25,230,24,3.84,31.0,Good,45.466718,-73.541373
+Montreal,452720,Rosemont,Entire home/apt,,22,304,34,4.19,,,45.458134,-73.51776
+Montreal,749103,Villeray,Entire home/apt,340.0,27,244,9,4.01,34.0,Good,45.560074,-73.534252
+Montreal,779811,Verdun,Private room,299.89,7,19,72,5.0,25.0,Good,45.48697,-73.622282
+Montreal,369769,Rosemont,Entire home/apt,243.27,5,318,17,4.13,37.0,Good,45.557658,-73.526349
+Montreal,906778,Downtown,Private room,216.45,7,292,221,4.03,26.0,Good,45.531109,-73.53358
+Montreal,206723,Old Montreal,Entire home/apt,295.65,29,191,23,3.65,29.0,Good,45.529538,-73.627009
+Montreal,497722,Mile End,Entire home/apt,309.32,1,84,73,3.95,12.0,Good,45.43326,-73.567614
+Montreal,563298,Downtown,Entire home/apt,,1,56,13,4.71,28.0,Good,45.500392,-73.505826
+Montreal,168824,Verdun,Entire home/apt,136.17,21,254,23,4.44,33.0,Good,45.433562,-73.556531
+Montreal,225503,Old Montreal,Entire home/apt,305.98,20,332,3,3.26,36.0,Good,45.536691,-73.59062
+Montreal,359709,Rosemont,Hotel room,198.18,29,141,6,4.29,27.0,Good,45.522644,-73.606177
+Montreal,109600,Downtown,Entire home/apt,318.11,13,114,34,4.41,22.0,Good,45.460777,-73.497435
+Montreal,670975,Plateau-Mont-Royal,Private room,120.4,5,183,6,4.06,32.0,Good,45.486228,-73.572816
+Montreal,273787,Downtown,Shared room,281.04,25,337,19,4.48,26.0,Good,45.508791,-73.545255
+Montreal,748199,Mile End,Shared room,276.69,13,126,21,4.1,30.0,Good,45.46577,-73.62188
+Montreal,588031,Downtown,Private room,306.43,3,350,32,,31.0,Good,45.557509,-73.612175
+Montreal,150749,Mile End,Entire home/apt,104.87,24,292,8,3.81,16.0,Good,45.451175,-73.572951
+Montreal,690693,Rosemont,Private room,,7,326,60,4.04,,,45.435683,-73.533248
+Montreal,414384,Griffintown,Shared room,340.0,2,314,1,3.88,,,45.53865,-73.541901
+Montreal,426747,Plateau-Mont-Royal,Entire home/apt,133.06,2,340,0,4.69,58.0,Moderate,45.511664,-73.606147
+Montreal,573298,Plateau-Mont-Royal,Private room,105.31,22,86,8,4.04,,,45.455538,-73.634446
+Montreal,893691,Old Montreal,Private room,182.5,12,23,34,4.22,30.0,Good,45.519876,-73.593296
+Montreal,273160,Griffintown,Entire home/apt,226.08,15,38,13,3.26,34.0,Good,45.465726,-73.622039
+Montreal,719373,Verdun,Private room,208.51,2,272,20,5.0,27.0,Good,45.453756,-73.515654
+Montreal,921374,Downtown,Private room,224.11,25,112,11,4.58,24.0,Good,45.526389,-73.588561
+Montreal,553362,Old Montreal,Entire home/apt,215.94,3,354,9,4.13,18.0,Good,45.551486,-73.636226
+Montreal,777533,Downtown,Entire home/apt,340.0,1,243,37,4.24,39.0,Good,45.524163,-73.529074
+Montreal,413787,Plateau-Mont-Royal,Private room,340.0,30,31,97,4.1,43.0,Good,45.437579,-73.63566
+Montreal,608609,Plateau-Mont-Royal,Entire home/apt,188.24,26,123,51,4.74,40.0,Good,45.542959,-73.591902
+Montreal,750216,Plateau-Mont-Royal,Private room,210.1,10,344,5,4.85,33.0,Good,45.503203,-73.585888
+Montreal,384425,Verdun,Private room,218.58,30,242,103,4.23,48.0,Good,45.539703,-73.631412
+Montreal,741731,Plateau-Mont-Royal,Private room,248.32,17,198,16,4.62,30.0,Good,45.472917,-73.531443
+Montreal,837034,Mile End,Hotel room,134.99,1,138,32,4.55,26.0,Good,45.487996,-73.532014
+Montreal,446760,Villeray,Private room,266.88,18,95,6,4.21,24.0,Good,45.566412,-73.534137
+Montreal,666476,Old Montreal,Entire home/apt,180.33,7,321,24,4.25,40.0,Good,45.448741,-73.506321
+Montreal,358533,Rosemont,Entire home/apt,332.58,27,86,14,3.85,23.0,Good,45.546109,-73.589577
+Montreal,428102,Old Montreal,Entire home/apt,233.59,13,277,10,4.7,45.0,Good,45.466351,-73.525193
+Montreal,504355,Verdun,Entire home/apt,218.03,10,346,38,4.33,14.0,Good,45.562592,-73.601351
+Montreal,250520,Downtown,Private room,215.95,21,101,23,4.18,24.0,Good,45.499875,-73.596724
+Montreal,548792,Downtown,Private room,105.85,12,251,7,3.95,31.0,Good,45.57045,-73.612724
+Montreal,968647,Griffintown,Hotel room,134.89,20,83,15,4.24,43.0,Good,45.441831,-73.504219
+Montreal,640496,Old Montreal,Entire home/apt,340.0,3,349,111,5.0,24.0,Good,45.571323,-73.531665
+Montreal,498053,Plateau-Mont-Royal,Entire home/apt,176.69,1,352,11,4.09,24.0,Good,45.482631,-73.633456
+Montreal,800774,Downtown,Entire home/apt,300.15,3,141,23,4.34,21.0,Good,45.501288,-73.559864
+Montreal,484035,Old Montreal,Private room,198.19,20,26,2,4.53,25.0,Good,45.480115,-73.608986
+Montreal,332084,Mile End,Entire home/apt,75.0,21,83,26,4.51,30.0,Good,45.455056,-73.594617
+Montreal,773536,Verdun,Entire home/apt,124.87,1,182,23,4.72,11.0,Good,45.511174,-73.630002
+Montreal,976861,Downtown,Entire home/apt,264.7,1,313,23,3.87,17.0,Good,45.510009,-73.58804
+Montreal,370708,Verdun,Entire home/apt,240.55,29,234,14,4.91,27.0,Good,45.504327,-73.630998
+Montreal,416512,Griffintown,Entire home/apt,242.06,15,205,24,3.9,28.0,Good,45.526133,-73.535022
+Montreal,102925,Plateau-Mont-Royal,Hotel room,295.77,15,361,71,3.8,32.0,Good,45.479096,-73.593154
+Montreal,158534,Mile End,Entire home/apt,284.18,4,258,2,5.0,30.0,Good,45.516842,-73.630788
+Montreal,525893,Old Montreal,Entire home/apt,247.66,17,42,1,4.36,28.0,Good,45.489403,-73.550346
+Montreal,232435,Mile End,Private room,238.67,16,210,4,4.28,33.0,Good,45.431766,-73.526461
+Montreal,385793,Griffintown,Private room,280.88,15,190,4,4.34,40.0,Good,45.531647,-73.531393
+Montreal,444143,Plateau-Mont-Royal,Entire home/apt,232.84,27,355,4,4.01,20.0,Good,45.432108,-73.533041
+Montreal,821925,Downtown,Private room,163.92,25,314,25,4.97,31.0,Good,45.498476,-73.606203
+Montreal,898102,Verdun,Entire home/apt,,6,302,77,4.69,36.0,Good,45.502078,-73.519444
+Montreal,641565,Old Montreal,Entire home/apt,312.33,1,313,6,,16.0,Good,45.570972,-73.629895
+Montreal,440688,Griffintown,Entire home/apt,135.95,12,6,8,3.47,6.0,Good,45.536556,-73.631909
+Montreal,834255,Downtown,Private room,175.23,1,316,61,4.0,43.0,Good,45.524776,-73.529914
+Montreal,389231,Old Montreal,Entire home/apt,,3,272,243,4.86,32.0,Good,45.540474,-73.575704
+Montreal,258558,Plateau-Mont-Royal,Private room,260.81,18,269,48,4.48,24.0,Good,45.555441,-73.625182
+Montreal,947088,Villeray,Entire home/apt,157.78,1,286,14,5.0,15.0,Good,45.437357,-73.630234
+Montreal,765197,Verdun,Private room,154.4,25,90,20,4.02,38.0,Good,45.494777,-73.629901
+Montreal,438787,Old Montreal,Private room,,18,261,32,4.47,28.0,Good,45.487691,-73.533452
+Montreal,980828,Downtown,Shared room,340.0,30,82,17,4.5,1.0,Good,45.554605,-73.615516
+Montreal,744012,Plateau-Mont-Royal,Entire home/apt,,12,105,146,3.58,28.0,Good,45.4912,-73.5341
+Montreal,314371,Old Montreal,Hotel room,162.03,7,132,32,4.0,22.0,Good,45.529123,-73.63578
+Montreal,240632,Villeray,Shared room,340.0,11,252,49,4.26,,,45.498026,-73.512339
+Montreal,256388,Villeray,Entire home/apt,112.83,12,326,145,5.0,29.0,Good,45.555738,-73.610438
+Montreal,387081,Mile End,Entire home/apt,340.0,5,158,11,,19.0,Good,45.494975,-73.53437
+Montreal,535081,Old Montreal,Private room,209.3,7,41,15,3.94,25.0,Good,45.488903,-73.505275
+Montreal,724720,Rosemont,Shared room,115.83,22,318,17,3.9,20.0,Good,45.525552,-73.562242
+Montreal,362588,Villeray,Entire home/apt,124.96,9,241,9,4.5,41.0,Good,45.512953,-73.503848
+Montreal,548950,Mile End,Entire home/apt,340.0,24,0,32,4.33,12.0,Good,45.533148,-73.507694
+Montreal,309668,Rosemont,Private room,75.0,11,68,40,4.04,23.0,Good,45.501604,-73.503876
+Montreal,207909,Villeray,Entire home/apt,325.89,1,4,8,4.07,40.0,Good,45.482758,-73.502651
+Montreal,540853,Rosemont,Entire home/apt,193.14,4,114,13,4.93,22.0,Good,45.527523,-73.593671
+Montreal,850233,Rosemont,Shared room,141.79,3,188,8,3.46,31.0,Good,45.505201,-73.529825
+Montreal,269460,Downtown,Entire home/apt,263.58,27,76,22,3.81,18.0,Good,45.492237,-73.53186
+Montreal,514348,Villeray,Private room,340.0,8,4,53,4.97,20.0,Good,45.500603,-73.543945
+Montreal,953278,Villeray,Entire home/apt,340.0,21,217,27,4.38,27.0,Good,45.549931,-73.51222
+Montreal,940633,Villeray,Entire home/apt,,3,30,32,4.8,40.0,Good,45.53752,-73.611095
+Montreal,380373,Old Montreal,Shared room,139.02,22,230,5,4.1,39.0,Good,45.454226,-73.602771
+Montreal,952997,Verdun,Entire home/apt,215.03,21,245,5,4.97,,,45.47205,-73.630132
+Montreal,752044,Rosemont,Entire home/apt,,9,96,28,4.31,14.0,Good,45.464796,-73.526546
+Montreal,401526,Old Montreal,Entire home/apt,123.2,2,282,31,4.67,32.0,Good,45.50313,-73.599642
+Montreal,956502,Griffintown,Entire home/apt,340.0,1,9,3,4.12,30.0,Good,45.51911,-73.566176
+Montreal,907521,Griffintown,Private room,340.0,4,325,58,4.51,20.0,Good,45.538857,-73.551112
+Montreal,729416,Mile End,Hotel room,255.02,30,75,9,3.71,35.0,Good,45.468552,-73.513552
+Montreal,890081,Downtown,Entire home/apt,94.96,15,252,27,4.19,21.0,Good,45.440232,-73.544768
+Montreal,495488,Rosemont,Private room,325.57,23,118,2,4.07,,,45.456191,-73.59464
+Montreal,659074,Downtown,Hotel room,168.23,3,222,4,3.23,16.0,Good,45.564186,-73.606328
+Montreal,984813,Griffintown,Private room,175.59,2,359,19,5.0,34.0,Good,45.554046,-73.612304
+Montreal,198284,Griffintown,Private room,167.13,27,19,119,4.86,33.0,Good,45.557205,-73.507045
+Montreal,926812,Plateau-Mont-Royal,Private room,130.68,5,300,12,4.13,25.0,Good,45.443778,-73.503003
+Montreal,308451,Rosemont,Entire home/apt,,24,226,16,5.0,21.0,Good,45.541339,-73.526199
+Montreal,683690,Verdun,Entire home/apt,99.21,3,211,76,4.38,25.0,Good,45.54981,-73.532706
+Montreal,681039,Griffintown,Entire home/apt,124.64,10,202,32,,37.0,Good,45.568219,-73.618645
+Montreal,200923,Old Montreal,Entire home/apt,,29,285,10,4.29,32.0,Good,45.438355,-73.571328
+Montreal,230661,Verdun,Entire home/apt,292.47,2,182,31,5.0,21.0,Good,45.442758,-73.61468
+Montreal,197827,Verdun,Entire home/apt,,28,310,3,4.61,22.0,Good,45.558624,-73.608972
+Montreal,782178,Mile End,Entire home/apt,340.0,19,119,8,4.6,14.0,Good,45.512729,-73.507029
+Montreal,372939,Rosemont,Entire home/apt,188.6,26,138,0,4.13,14.0,Good,45.489188,-73.610541
+Montreal,534688,Verdun,Hotel room,91.1,26,149,0,4.64,16.0,Good,45.445732,-73.52163
+Montreal,268842,Plateau-Mont-Royal,Entire home/apt,340.0,23,252,14,4.94,38.0,Good,45.452572,-73.596141
+Montreal,634983,Villeray,Entire home/apt,168.79,4,191,41,3.8,41.0,Good,45.448754,-73.507869
+Montreal,564689,Villeray,Entire home/apt,144.93,22,252,47,5.0,8.0,Good,45.475706,-73.544331
+Montreal,835955,Villeray,Shared room,340.0,4,144,10,3.6,29.0,Good,45.526615,-73.617533
+Montreal,624287,Old Montreal,Entire home/apt,158.27,6,96,11,4.25,30.0,Good,45.467024,-73.632878
+Montreal,414754,Villeray,Private room,100.02,19,46,27,4.39,27.0,Good,45.480097,-73.621272
+Montreal,700059,Mile End,Entire home/apt,104.21,2,43,16,3.49,39.0,Good,45.468095,-73.526583
+Montreal,286102,Plateau-Mont-Royal,Private room,195.12,15,129,31,4.36,30.0,Good,45.448058,-73.602871
+Montreal,970207,Old Montreal,Private room,144.08,22,294,94,4.37,45.0,Good,45.512643,-73.584175
+Montreal,654206,Verdun,Entire home/apt,90.94,26,40,13,4.89,49.0,Good,45.509828,-73.541421
+Montreal,508501,Old Montreal,Entire home/apt,340.0,7,93,8,5.0,38.0,Good,45.551058,-73.592381
+Montreal,535159,Griffintown,Private room,133.07,7,57,70,4.79,14.0,Good,45.5587,-73.628856
+Montreal,819626,Downtown,Private room,139.59,1,75,58,4.33,17.0,Good,45.493766,-73.613243
+Montreal,254973,Old Montreal,Hotel room,165.69,24,191,32,4.58,25.0,Good,45.495378,-73.584128
+Montreal,304302,Rosemont,Hotel room,233.94,21,0,97,4.17,34.0,Good,45.465106,-73.624345
+Montreal,661288,Old Montreal,Private room,117.86,3,211,13,3.96,,,45.464691,-73.564879
+Montreal,192703,Griffintown,Private room,340.0,30,333,25,4.29,15.0,Good,45.530592,-73.528752
+Montreal,460404,Griffintown,Private room,92.95,4,205,31,3.92,39.0,Good,45.442679,-73.545601
+Montreal,731025,Verdun,Entire home/apt,308.73,26,172,12,4.69,28.0,Good,45.548117,-73.520865
+Montreal,114219,Plateau-Mont-Royal,Private room,164.23,20,66,15,5.0,36.0,Good,45.477827,-73.58964
+Montreal,210785,Downtown,Private room,304.07,1,108,48,5.0,27.0,Good,45.478224,-73.613691
+Montreal,567414,Downtown,Private room,340.0,2,119,5,4.4,22.0,Good,45.495585,-73.51081
+Montreal,657541,Plateau-Mont-Royal,Private room,241.33,29,277,61,4.59,24.0,Good,45.490129,-73.517046
+Montreal,291169,Downtown,Private room,340.0,28,107,80,4.14,25.0,Good,45.491027,-73.589193
+Montreal,789534,Mile End,Entire home/apt,77.12,2,265,72,4.91,,,45.466468,-73.611877
+Montreal,412751,Griffintown,Entire home/apt,340.0,22,337,10,4.26,17.0,Good,45.441017,-73.554109
+Montreal,796045,Downtown,Private room,200.03,13,236,4,4.45,29.0,Good,45.481355,-73.615256
+Montreal,653134,Verdun,Entire home/apt,88.47,28,347,68,3.97,36.0,Good,45.55907,-73.58503
+Montreal,733696,Old Montreal,Private room,323.52,2,166,4,3.94,,,45.492948,-73.574008
+Montreal,974755,Griffintown,Entire home/apt,259.41,12,114,20,3.52,36.0,Good,45.536938,-73.526647
+Montreal,559067,Plateau-Mont-Royal,Entire home/apt,116.63,1,70,46,4.8,24.0,Good,45.498359,-73.630305
+Montreal,837746,Old Montreal,Hotel room,,28,240,2,4.18,34.0,Good,45.486585,-73.524114
+Montreal,681518,Mile End,Entire home/apt,297.13,23,354,3,4.14,,,45.457346,-73.624442
+Montreal,794562,Downtown,Entire home/apt,340.0,3,115,5,4.9,62.0,Moderate,45.438359,-73.536345
+Montreal,861739,Old Montreal,Entire home/apt,227.17,1,35,86,3.86,23.0,Good,45.564456,-73.498864
+Montreal,754394,Mile End,Entire home/apt,191.23,9,141,115,4.04,30.0,Good,45.503324,-73.507931
+Montreal,576899,Rosemont,Private room,203.41,3,44,11,4.02,37.0,Good,45.511174,-73.623449
+Montreal,963108,Villeray,Shared room,171.26,3,302,144,3.9,19.0,Good,45.538645,-73.629701
+Montreal,927404,Plateau-Mont-Royal,Entire home/apt,170.35,13,128,83,3.61,23.0,Good,45.537059,-73.595308
+Montreal,802329,Verdun,Shared room,107.02,1,333,27,3.56,52.0,Moderate,45.46087,-73.524754
+Montreal,532055,Villeray,Entire home/apt,228.11,14,362,44,4.36,32.0,Good,45.435724,-73.519262
+Montreal,743751,Mile End,Private room,,17,114,96,4.98,38.0,Good,45.556671,-73.606963
+Montreal,572325,Verdun,Private room,247.97,3,69,90,4.74,18.0,Good,45.507015,-73.559038
+Montreal,763689,Old Montreal,Entire home/apt,250.89,2,205,33,4.09,20.0,Good,45.48219,-73.616272
+Montreal,704355,Griffintown,Entire home/apt,,17,31,7,3.97,16.0,Good,45.551211,-73.533838
+Montreal,908076,Plateau-Mont-Royal,Entire home/apt,125.27,20,306,69,4.19,39.0,Good,45.462519,-73.536422
+Montreal,453459,Griffintown,Hotel room,340.0,22,177,42,4.14,24.0,Good,45.554697,-73.62774
+Montreal,519979,Verdun,Entire home/apt,121.21,30,269,8,4.81,41.0,Good,45.510077,-73.616104
+Montreal,102733,Mile End,Private room,,15,232,25,3.64,36.0,Good,45.495279,-73.542458
+Montreal,869534,Rosemont,Shared room,313.09,18,341,42,4.57,21.0,Good,45.48664,-73.543436
+Montreal,852922,Villeray,Entire home/apt,257.48,10,63,79,3.97,,,45.507943,-73.617549
+Montreal,422843,Mile End,Private room,75.0,10,149,72,,41.0,Good,45.439244,-73.510509
+Montreal,804162,Downtown,Hotel room,313.58,20,213,2,4.0,38.0,Good,45.521826,-73.598657
+Montreal,455364,Plateau-Mont-Royal,Private room,299.41,1,310,72,4.98,17.0,Good,45.491849,-73.536153
+Montreal,434911,Downtown,Entire home/apt,181.98,2,182,17,4.57,21.0,Good,45.483256,-73.613726
+Montreal,736111,Old Montreal,Shared room,340.0,19,241,86,4.17,26.0,Good,45.504132,-73.623346
+Montreal,675284,Plateau-Mont-Royal,Private room,226.16,16,309,60,4.94,21.0,Good,45.443957,-73.542286
+Montreal,349177,Villeray,Entire home/apt,340.0,1,315,20,4.47,29.0,Good,45.501128,-73.635324
+Montreal,639070,Downtown,Private room,94.26,20,235,8,4.49,25.0,Good,45.505579,-73.552359
+Montreal,845556,Griffintown,Entire home/apt,222.41,5,168,20,4.19,40.0,Good,45.555897,-73.557005
+Montreal,716132,Mile End,Entire home/apt,203.52,30,95,67,4.77,17.0,Good,45.483305,-73.506722
+Montreal,577298,Villeray,Private room,,3,147,22,5.0,27.0,Good,45.562205,-73.540039
+Montreal,756046,Verdun,Private room,228.77,13,242,22,5.0,24.0,Good,45.440532,-73.615647
+Montreal,614007,Downtown,Shared room,149.58,4,103,9,2.37,34.0,Good,45.446114,-73.611299
+Montreal,890627,Rosemont,Private room,165.31,1,95,102,3.92,31.0,Good,45.517793,-73.510953
+Montreal,557742,Rosemont,Entire home/apt,220.65,3,89,28,4.06,41.0,Good,45.568694,-73.566058
+Montreal,478257,Griffintown,Shared room,340.0,23,163,108,3.68,25.0,Good,45.462205,-73.622461
+Montreal,724145,Villeray,Entire home/apt,202.14,2,150,72,5.0,28.0,Good,45.562379,-73.571003
+Montreal,449425,Verdun,Private room,216.25,11,160,80,3.68,48.0,Good,45.503559,-73.622524
+Montreal,729802,Mile End,Entire home/apt,112.97,7,342,7,3.72,23.0,Good,45.563355,-73.545837
+Montreal,212424,Plateau-Mont-Royal,Entire home/apt,340.0,7,346,61,3.93,23.0,Good,45.538022,-73.599844
+Montreal,477701,Downtown,Entire home/apt,340.0,6,131,18,3.68,28.0,Good,45.486029,-73.561101
+Montreal,231900,Rosemont,Entire home/apt,263.94,2,106,28,4.61,18.0,Good,45.541757,-73.620269
+Montreal,903572,Downtown,Hotel room,138.09,17,54,34,4.3,17.0,Good,45.441445,-73.514924
+Montreal,376757,Old Montreal,Private room,187.86,10,197,70,3.85,33.0,Good,45.478684,-73.616533
+Montreal,251791,Griffintown,Entire home/apt,185.92,9,56,12,4.09,,,45.563928,-73.605172
+Montreal,105283,Downtown,Private room,329.67,5,5,73,3.46,11.0,Good,45.449702,-73.599818
+Montreal,587217,Villeray,Shared room,124.71,6,94,49,4.87,44.0,Good,45.465649,-73.594291
+Montreal,651014,Verdun,Private room,182.2,11,237,41,4.39,44.0,Good,45.448464,-73.509715
+Montreal,388452,Mile End,Entire home/apt,204.48,9,324,16,3.8,19.0,Good,45.506124,-73.583938
+Montreal,770099,Verdun,Entire home/apt,270.63,19,39,12,4.24,21.0,Good,45.457462,-73.542633
+Montreal,188021,Downtown,Entire home/apt,75.0,1,129,3,4.88,,,45.436299,-73.501785
+Montreal,856172,Downtown,Shared room,215.9,12,355,41,4.68,38.0,Good,45.509248,-73.618129
+Montreal,149544,Villeray,Entire home/apt,340.0,28,87,53,4.65,24.0,Good,45.507006,-73.544364
+Montreal,368191,Verdun,Entire home/apt,171.47,3,270,12,3.71,32.0,Good,45.547706,-73.612167
+Montreal,170721,Villeray,Entire home/apt,145.16,7,3,62,3.66,36.0,Good,45.525094,-73.529124
+Montreal,600083,Rosemont,Entire home/apt,123.95,18,75,9,5.0,41.0,Good,45.455894,-73.60274
+Montreal,295033,Villeray,Entire home/apt,184.16,18,340,14,4.33,34.0,Good,45.481546,-73.554669
+Montreal,943274,Verdun,Hotel room,260.25,1,207,42,4.5,25.0,Good,45.499917,-73.546344
+Montreal,142723,Griffintown,Entire home/apt,258.28,26,286,116,4.16,29.0,Good,45.512957,-73.536677
+Montreal,357704,Villeray,Entire home/apt,340.0,29,89,77,4.25,28.0,Good,45.47914,-73.620207
+Montreal,825719,Villeray,Entire home/apt,243.35,24,210,63,4.19,35.0,Good,45.547631,-73.554958
+Montreal,842938,Downtown,Entire home/apt,190.71,3,15,74,3.38,,,45.454039,-73.580388
+Montreal,995867,Downtown,Private room,340.0,3,40,8,4.92,24.0,Good,45.545798,-73.617523
+Montreal,674429,Old Montreal,Entire home/apt,96.68,6,251,52,4.23,35.0,Good,45.551908,-73.62638
+Montreal,757941,Griffintown,Entire home/apt,176.57,2,127,29,4.34,23.0,Good,45.487483,-73.575277
+Montreal,637886,Plateau-Mont-Royal,Shared room,340.0,1,257,53,3.84,14.0,Good,45.436927,-73.520283
+Montreal,649942,Villeray,Shared room,228.13,7,67,95,3.62,28.0,Good,45.460843,-73.545607
+Montreal,205959,Old Montreal,Entire home/apt,217.75,2,134,27,4.2,29.0,Good,45.519858,-73.611792
+Montreal,877514,Mile End,Entire home/apt,340.0,28,150,25,,21.0,Good,45.504189,-73.601121
+Montreal,198332,Verdun,Private room,160.2,16,109,38,4.02,,,45.543204,-73.50343
+Montreal,608738,Downtown,Hotel room,191.23,24,238,0,,32.0,Good,45.566784,-73.527238
+Montreal,835256,Old Montreal,Shared room,226.97,27,228,113,4.62,20.0,Good,45.534371,-73.505059
+Montreal,266523,Griffintown,Entire home/apt,124.31,27,181,73,4.11,19.0,Good,45.529973,-73.629342
+Montreal,542127,Rosemont,Private room,227.05,16,109,17,3.86,19.0,Good,45.463936,-73.587875
+Montreal,595814,Old Montreal,Private room,229.56,1,243,14,3.5,29.0,Good,45.447279,-73.607521
+Montreal,415846,Rosemont,Entire home/apt,267.4,29,102,26,4.79,30.0,Good,45.465613,-73.604392
+Montreal,203189,Villeray,Entire home/apt,303.62,23,342,49,4.47,23.0,Good,45.563757,-73.589975
+Montreal,116403,Rosemont,Private room,75.0,24,261,27,5.0,23.0,Good,45.444452,-73.625542
+Montreal,630265,Downtown,Shared room,285.88,24,357,54,4.8,18.0,Good,45.475762,-73.555295
+Montreal,623384,Mile End,Private room,340.0,1,258,25,4.13,23.0,Good,45.48258,-73.593388
+Montreal,848355,Griffintown,Entire home/apt,222.09,13,146,42,4.01,18.0,Good,45.501151,-73.583777
+Montreal,491379,Rosemont,Private room,154.43,12,254,34,3.98,39.0,Good,45.533125,-73.544407
+Montreal,413336,Old Montreal,Entire home/apt,75.0,15,324,93,3.69,,,45.527095,-73.573745
+Montreal,548426,Plateau-Mont-Royal,Entire home/apt,,25,83,31,4.1,18.0,Good,45.528933,-73.591976
+Montreal,656030,Mile End,Private room,295.59,19,71,39,4.39,17.0,Good,45.44436,-73.560965
+Montreal,803723,Griffintown,Private room,191.3,20,3,119,5.0,28.0,Good,45.449518,-73.633597
+Montreal,473371,Mile End,Entire home/apt,197.59,30,238,17,4.04,23.0,Good,45.56414,-73.555082
+Montreal,747906,Griffintown,Shared room,177.86,16,226,37,3.15,36.0,Good,45.479716,-73.588498
+Montreal,434207,Villeray,Entire home/apt,340.0,14,275,64,4.41,29.0,Good,45.501229,-73.617687
+Montreal,333722,Verdun,Hotel room,239.25,4,57,1,4.45,17.0,Good,45.523331,-73.633056
+Montreal,796995,Old Montreal,Entire home/apt,340.0,1,268,92,4.07,37.0,Good,45.482456,-73.497589
+Montreal,851718,Mile End,Private room,156.64,1,88,72,4.57,29.0,Good,45.469336,-73.518258
+Montreal,679181,Griffintown,Shared room,249.96,29,16,10,4.14,22.0,Good,45.436669,-73.565264
+Montreal,202399,Downtown,Private room,340.0,19,164,28,,23.0,Good,45.464097,-73.631344
+Montreal,235842,Rosemont,Private room,100.57,2,114,126,4.46,32.0,Good,45.561429,-73.556861
+Montreal,818844,Mile End,Entire home/apt,,1,351,13,,25.0,Good,45.461704,-73.519455
+Montreal,582225,Villeray,Entire home/apt,340.0,3,34,61,4.62,29.0,Good,45.5297,-73.636594
+Montreal,685336,Verdun,Hotel room,340.0,3,187,23,4.46,,,45.567431,-73.596407
+Montreal,669581,Plateau-Mont-Royal,Entire home/apt,340.0,30,34,51,5.0,25.0,Good,45.472505,-73.571269
+Montreal,408997,Griffintown,Hotel room,340.0,20,13,87,3.86,20.0,Good,45.505811,-73.549339
+Montreal,226064,Downtown,Hotel room,277.06,1,248,82,4.28,19.0,Good,45.557304,-73.558165
+Montreal,417592,Downtown,Entire home/apt,239.04,2,355,33,4.69,25.0,Good,45.505444,-73.618387
+Montreal,893732,Rosemont,Private room,246.3,13,144,34,4.37,30.0,Good,45.534503,-73.557616
+Montreal,849613,Verdun,Shared room,86.87,17,170,52,4.28,26.0,Good,45.496645,-73.612728
+Montreal,282841,Verdun,Entire home/apt,281.77,10,112,27,,32.0,Good,45.536675,-73.581454
+Montreal,986564,Old Montreal,Entire home/apt,124.91,17,97,37,4.06,28.0,Good,45.503124,-73.550579
+Montreal,350089,Villeray,Shared room,269.36,8,50,1,3.47,32.0,Good,45.444056,-73.587322
+Montreal,665537,Rosemont,Private room,,1,305,155,4.49,23.0,Good,45.560012,-73.620353
+Montreal,858332,Verdun,Private room,231.05,10,160,16,3.67,30.0,Good,45.523747,-73.585883
+Montreal,458196,Mile End,Entire home/apt,169.45,28,110,26,3.51,26.0,Good,45.483021,-73.542533
+Montreal,363095,Verdun,Entire home/apt,173.23,15,3,46,4.3,11.0,Good,45.476332,-73.499159
+Montreal,878107,Downtown,Private room,196.75,7,311,89,3.26,29.0,Good,45.450507,-73.560682
+Montreal,583034,Old Montreal,Private room,225.93,5,120,61,4.18,,,45.4759,-73.537656
+Montreal,744550,Old Montreal,Entire home/apt,187.35,18,340,17,4.29,24.0,Good,45.485465,-73.55802
+Montreal,885484,Villeray,Entire home/apt,201.91,17,256,18,4.28,19.0,Good,45.49296,-73.557562
+Montreal,738315,Mile End,Entire home/apt,88.52,22,16,61,,34.0,Good,45.448837,-73.574258
+Montreal,472729,Verdun,Entire home/apt,177.25,18,246,163,3.51,22.0,Good,45.560332,-73.605632
+Montreal,768749,Griffintown,Private room,202.4,5,360,10,4.43,,,45.559488,-73.629851
+Montreal,673111,Griffintown,Entire home/apt,320.0,5,12,22,4.71,37.0,Good,45.523057,-73.519939
+Montreal,339491,Downtown,Entire home/apt,195.68,2,3,144,4.31,39.0,Good,45.452768,-73.537506
+Montreal,784956,Downtown,Private room,340.0,19,96,72,4.19,23.0,Good,45.501774,-73.557451
+Montreal,209054,Rosemont,Entire home/apt,125.27,7,318,17,3.64,25.0,Good,45.468676,-73.515557
+Montreal,352132,Old Montreal,Entire home/apt,304.46,11,211,78,3.85,42.0,Good,45.516097,-73.574556
+Montreal,179138,Rosemont,Entire home/apt,280.97,15,357,103,4.74,25.0,Good,45.563817,-73.607017
+Montreal,245062,Verdun,Entire home/apt,139.44,15,33,73,,24.0,Good,45.479766,-73.59808
+Montreal,164767,Old Montreal,Private room,335.84,23,69,66,4.32,24.0,Good,45.498425,-73.50439
+Montreal,697501,Villeray,Entire home/apt,152.56,1,135,31,4.62,18.0,Good,45.481243,-73.589612
+Montreal,630191,Old Montreal,Entire home/apt,193.89,9,106,84,4.17,31.0,Good,45.532304,-73.585975
+Montreal,738322,Plateau-Mont-Royal,Hotel room,267.79,5,342,1,4.82,,,45.481555,-73.537377
+Montreal,565853,Downtown,Hotel room,123.95,8,70,25,4.47,21.0,Good,45.48121,-73.499891
+Montreal,264393,Verdun,Private room,289.01,15,333,6,4.2,29.0,Good,45.488672,-73.503148
+Montreal,342261,Downtown,Hotel room,96.53,8,346,23,4.11,28.0,Good,45.431996,-73.566955
+Montreal,643548,Mile End,Entire home/apt,86.19,3,44,5,4.69,21.0,Good,45.542559,-73.591109
+Montreal,404822,Griffintown,Private room,158.23,19,115,27,3.82,30.0,Good,45.565857,-73.574403
+Montreal,394930,Old Montreal,Entire home/apt,340.0,7,111,55,4.57,,,45.460666,-73.510892
+Montreal,774006,Downtown,Hotel room,340.0,20,99,59,4.66,41.0,Good,45.556238,-73.573276
+Montreal,774057,Old Montreal,Shared room,267.97,21,8,98,,24.0,Good,45.434481,-73.510168
+Montreal,942155,Mile End,Entire home/apt,170.59,8,34,0,4.2,25.0,Good,45.462904,-73.580486
+Montreal,779171,Downtown,Entire home/apt,176.49,4,126,176,4.74,14.0,Good,45.567596,-73.56286
+Montreal,246998,Plateau-Mont-Royal,Entire home/apt,194.74,25,297,84,4.58,29.0,Good,45.458121,-73.594265
+Montreal,846184,Old Montreal,Private room,169.84,27,84,18,4.44,31.0,Good,45.557282,-73.566619
+Montreal,646671,Mile End,Entire home/apt,203.1,1,90,5,4.74,22.0,Good,45.493444,-73.532913
+Montreal,964713,Mile End,Private room,228.68,26,207,12,5.0,20.0,Good,45.533326,-73.610612
+Montreal,231537,Griffintown,Shared room,152.62,16,186,48,3.8,25.0,Good,45.435539,-73.619645
+Montreal,446300,Old Montreal,Private room,219.38,2,222,115,,20.0,Good,45.470812,-73.587253
+Montreal,804129,Mile End,Entire home/apt,95.72,1,131,29,4.55,37.0,Good,45.506442,-73.532025
+Montreal,708107,Griffintown,Private room,80.68,12,263,11,4.78,33.0,Good,45.52852,-73.618017
+Montreal,460296,Villeray,Entire home/apt,134.42,4,213,115,4.04,46.0,Good,45.450655,-73.600554
+Montreal,876451,Mile End,Entire home/apt,138.23,28,104,20,4.38,32.0,Good,45.465913,-73.59248
+Montreal,940732,Old Montreal,Private room,340.0,29,226,36,4.39,45.0,Good,45.54362,-73.627118
+Montreal,246356,Villeray,Private room,232.32,4,64,49,4.22,23.0,Good,45.434666,-73.544801
+Montreal,657055,Villeray,Entire home/apt,340.0,3,54,90,3.22,37.0,Good,45.500827,-73.551632
+Montreal,460188,Old Montreal,Entire home/apt,340.0,18,255,30,4.39,42.0,Good,45.480866,-73.556767
+Montreal,331983,Rosemont,Private room,171.17,26,178,14,4.32,34.0,Good,45.560315,-73.551366
+Montreal,831464,Griffintown,Private room,245.62,2,304,8,4.59,27.0,Good,45.565927,-73.523491
+Montreal,336915,Villeray,Entire home/apt,238.77,18,236,35,4.52,13.0,Good,45.507067,-73.54475
+Montreal,967452,Mile End,Entire home/apt,93.49,10,66,1,5.0,22.0,Good,45.530129,-73.58298
+Montreal,256724,Villeray,Entire home/apt,97.64,27,275,22,4.34,32.0,Good,45.540078,-73.537349
+Montreal,502080,Rosemont,Entire home/apt,,7,243,3,4.5,40.0,Good,45.539592,-73.597087
+Montreal,428152,Verdun,Entire home/apt,340.0,3,61,4,4.68,21.0,Good,45.569206,-73.523423
+Montreal,317890,Old Montreal,Entire home/apt,142.58,3,98,3,3.41,29.0,Good,45.564743,-73.594235
+Montreal,633114,Rosemont,Entire home/apt,273.54,24,122,18,5.0,29.0,Good,45.53948,-73.612076
+Montreal,561646,Griffintown,Entire home/apt,197.81,14,66,53,4.14,33.0,Good,45.467366,-73.522898
+Montreal,401165,Old Montreal,Private room,,5,171,18,3.65,21.0,Good,45.514705,-73.627852
+Montreal,746140,Villeray,Private room,227.26,1,206,36,5.0,,,45.55977,-73.62488
+Montreal,799214,Griffintown,Private room,294.26,22,305,13,,,,45.442409,-73.603725
+Montreal,932184,Griffintown,Entire home/apt,75.0,2,140,10,4.5,39.0,Good,45.452522,-73.51537
+Montreal,802118,Plateau-Mont-Royal,Private room,271.72,14,189,142,4.5,42.0,Good,45.525378,-73.565675
+Montreal,270891,Rosemont,Entire home/apt,340.0,2,273,116,4.41,26.0,Good,45.495832,-73.57777
+Montreal,637923,Downtown,Entire home/apt,191.38,26,141,32,3.21,30.0,Good,45.544206,-73.581372
+Montreal,879698,Downtown,Private room,239.15,8,342,50,4.91,24.0,Good,45.517032,-73.62949
+Montreal,846893,Downtown,Private room,192.78,6,166,32,4.44,31.0,Good,45.55695,-73.587853
+Montreal,590933,Villeray,Private room,220.18,20,313,15,4.16,29.0,Good,45.497993,-73.623506
+Montreal,883000,Downtown,Entire home/apt,230.27,3,6,15,4.23,31.0,Good,45.562561,-73.52942
+Montreal,974461,Rosemont,Entire home/apt,340.0,27,118,53,4.52,32.0,Good,45.453855,-73.595335
+Montreal,995573,Griffintown,Hotel room,340.0,1,106,14,3.92,37.0,Good,45.512859,-73.579382
+Montreal,800031,Downtown,Private room,91.95,2,15,29,3.86,19.0,Good,45.488311,-73.604994
+Montreal,508505,Old Montreal,Hotel room,184.16,19,335,72,3.94,29.0,Good,45.449047,-73.532663
+Montreal,371275,Villeray,Entire home/apt,340.0,2,29,20,4.6,11.0,Good,45.478517,-73.636152
+Montreal,853899,Verdun,Entire home/apt,262.95,29,302,75,,26.0,Good,45.530847,-73.603499
+Montreal,458938,Verdun,Entire home/apt,190.91,29,76,2,4.41,7.0,Good,45.549772,-73.628129
+Montreal,369036,Griffintown,Private room,,27,62,1,3.57,22.0,Good,45.53294,-73.566153
+Montreal,185280,Rosemont,Entire home/apt,229.33,25,175,9,3.61,44.0,Good,45.570203,-73.541877
+Montreal,413122,Downtown,Shared room,128.65,1,82,10,4.14,36.0,Good,45.435306,-73.601554
+Montreal,177370,Verdun,Private room,340.0,16,227,61,4.11,30.0,Good,45.537004,-73.550482
+Montreal,859841,Griffintown,Entire home/apt,340.0,26,288,26,3.55,25.0,Good,45.442611,-73.626937
+Montreal,351503,Old Montreal,Entire home/apt,148.28,4,28,47,4.14,37.0,Good,45.564589,-73.559578
+Montreal,900327,Downtown,Entire home/apt,340.0,14,126,83,4.59,31.0,Good,45.564479,-73.531934
+Montreal,288367,Plateau-Mont-Royal,Private room,255.45,1,31,10,4.79,10.0,Good,45.450887,-73.636103
+Montreal,502532,Downtown,Entire home/apt,205.89,11,93,40,4.47,33.0,Good,45.50488,-73.502051
+Montreal,782948,Verdun,Entire home/apt,113.34,4,248,140,4.41,30.0,Good,45.517012,-73.567009
+Montreal,193460,Plateau-Mont-Royal,Entire home/apt,167.6,15,171,6,3.81,36.0,Good,45.541696,-73.562654
+Montreal,833027,Old Montreal,Private room,164.87,4,224,27,4.2,29.0,Good,45.522492,-73.618026
+Montreal,520839,Downtown,Shared room,218.37,17,43,21,4.64,42.0,Good,45.487437,-73.58775
+Montreal,258714,Mile End,Entire home/apt,283.64,2,180,219,4.78,29.0,Good,45.49837,-73.586401
+Montreal,475489,Villeray,Private room,269.48,5,12,18,4.51,45.0,Good,45.441311,-73.527381
+Montreal,154543,Verdun,Entire home/apt,252.15,1,205,51,4.87,16.0,Good,45.458312,-73.535833
+Montreal,232120,Rosemont,Shared room,119.32,25,58,20,4.21,17.0,Good,45.540627,-73.521458
+Montreal,141104,Plateau-Mont-Royal,Private room,162.44,3,245,49,4.18,19.0,Good,45.454129,-73.513379
+Montreal,679486,Mile End,Private room,284.37,27,300,100,4.81,18.0,Good,45.52905,-73.595525
+Montreal,788129,Downtown,Entire home/apt,166.57,11,72,11,4.06,31.0,Good,45.451915,-73.607288
+Montreal,552849,Verdun,Entire home/apt,155.93,25,318,81,4.31,13.0,Good,45.473894,-73.502631
+Montreal,761064,Plateau-Mont-Royal,Entire home/apt,318.28,7,144,69,4.25,17.0,Good,45.536747,-73.581858
+Montreal,847003,Rosemont,Entire home/apt,212.36,2,243,33,4.18,27.0,Good,45.51396,-73.612238
+Montreal,266749,Verdun,Entire home/apt,272.95,29,94,26,4.7,32.0,Good,45.528984,-73.576404
+Montreal,374900,Plateau-Mont-Royal,Entire home/apt,340.0,2,246,56,3.95,23.0,Good,45.46923,-73.534279
+Montreal,490692,Plateau-Mont-Royal,Private room,251.51,25,71,4,4.69,28.0,Good,45.483841,-73.628042
+Montreal,504725,Old Montreal,Private room,156.08,29,296,5,,17.0,Good,45.524512,-73.61522
+Montreal,352290,Verdun,Shared room,340.0,14,93,31,4.01,29.0,Good,45.432619,-73.541703
+Montreal,898877,Old Montreal,Entire home/apt,327.81,14,361,3,4.31,41.0,Good,45.530604,-73.552528
+Montreal,958046,Rosemont,Hotel room,84.12,8,111,63,4.52,,,45.504518,-73.604695
+Montreal,843367,Verdun,Private room,93.3,29,197,17,4.11,23.0,Good,45.506824,-73.528878
+Montreal,694334,Villeray,Entire home/apt,99.17,12,330,2,3.17,28.0,Good,45.466713,-73.549385
+Montreal,236717,Plateau-Mont-Royal,Entire home/apt,269.52,23,137,15,3.48,18.0,Good,45.506979,-73.613746
+Montreal,229765,Plateau-Mont-Royal,Entire home/apt,340.0,7,230,13,3.45,34.0,Good,45.449609,-73.505622
+Montreal,966242,Old Montreal,Entire home/apt,337.24,3,188,229,3.96,36.0,Good,45.446547,-73.578442
+Montreal,332988,Villeray,Entire home/apt,115.54,27,131,143,3.88,,,45.564759,-73.562837
+Montreal,120678,Downtown,Entire home/apt,260.68,22,35,90,4.0,32.0,Good,45.548945,-73.550575
+Montreal,532529,Villeray,Entire home/apt,,13,23,11,,28.0,Good,45.44363,-73.620278
+Montreal,894839,Mile End,Hotel room,163.82,30,114,29,4.31,36.0,Good,45.522238,-73.580707
+Montreal,947895,Downtown,Entire home/apt,158.47,22,344,57,4.83,26.0,Good,45.505232,-73.60003
+Montreal,553623,Verdun,Private room,340.0,1,15,2,4.18,27.0,Good,45.566343,-73.55174
+Montreal,972205,Mile End,Private room,340.0,22,83,3,5.0,30.0,Good,45.509496,-73.521789
+Montreal,871183,Villeray,Entire home/apt,188.27,6,23,9,3.75,13.0,Good,45.488165,-73.552737
+Montreal,703542,Rosemont,Private room,340.0,6,10,15,3.15,5.0,Good,45.463594,-73.547747
+Montreal,704486,Rosemont,Entire home/apt,180.91,21,72,35,3.91,38.0,Good,45.534541,-73.628101
+Montreal,444250,Rosemont,Private room,88.71,24,243,45,5.0,28.0,Good,45.443083,-73.515292
+Montreal,988295,Rosemont,Entire home/apt,230.48,12,296,12,4.09,29.0,Good,45.480681,-73.54507

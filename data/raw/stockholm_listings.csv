@@ -1,0 +1,271 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Stockholm,461145,Kungsholmen,Entire home/apt,2019.32,7,167,113,4.03,21.0,Good,59.341298,18.103964
+Stockholm,517977,Södermalm,Hotel room,2723.28,23,258,9,,17.0,Good,59.31766,18.000148
+Stockholm,898601,Hammarby Sjöstad,Entire home/apt,1540.07,22,240,10,4.85,16.0,Good,59.329876,18.087197
+Stockholm,154767,Gamla Stan,Entire home/apt,3200.0,21,163,20,,23.0,Good,59.391507,18.119743
+Stockholm,782427,Hammarby Sjöstad,Entire home/apt,844.56,3,325,8,4.76,20.0,Good,59.368511,18.002017
+Stockholm,201709,Vasastan,Entire home/apt,1289.24,1,33,96,3.32,26.0,Good,59.269155,18.042608
+Stockholm,593434,Östermalm,Entire home/apt,1227.17,2,27,92,5.0,23.0,Good,59.331916,18.051518
+Stockholm,333299,Lidingö,Entire home/apt,,30,361,6,4.25,18.0,Good,59.263068,18.107607
+Stockholm,332168,Östermalm,Private room,956.67,20,144,7,4.68,16.0,Good,59.396611,18.032438
+Stockholm,467733,Södermalm,Private room,1743.01,5,162,107,4.02,9.0,Good,59.291143,18.137379
+Stockholm,335045,Södermalm,Private room,2405.55,1,240,21,4.57,22.0,Good,59.396022,18.056822
+Stockholm,947034,Gamla Stan,Private room,1107.4,10,142,39,4.48,26.0,Good,59.36883,18.055998
+Stockholm,498194,Norrmalm,Private room,1706.03,2,266,19,4.26,22.0,Good,59.309728,18.120702
+Stockholm,475611,Gamla Stan,Entire home/apt,756.96,4,74,35,4.09,23.0,Good,59.352567,18.129151
+Stockholm,279052,Norrmalm,Private room,1576.17,2,137,68,5.0,30.0,Good,59.264117,18.069456
+Stockholm,607092,Kungsholmen,Entire home/apt,2461.88,1,173,49,3.82,22.0,Good,59.388645,18.001715
+Stockholm,785766,Norrmalm,Entire home/apt,1594.85,3,306,8,,34.0,Good,59.334241,18.033589
+Stockholm,833507,Östermalm,Private room,2134.09,25,267,188,3.68,17.0,Good,59.262622,18.030433
+Stockholm,925723,Gamla Stan,Shared room,1928.41,9,78,93,5.0,18.0,Good,59.276936,18.004348
+Stockholm,437494,Lidingö,Hotel room,1043.17,11,247,23,3.78,21.0,Good,59.260061,18.080831
+Stockholm,508220,Norrmalm,Private room,3189.73,12,182,38,4.1,14.0,Good,59.369188,18.016046
+Stockholm,673615,Gamla Stan,Entire home/apt,1856.63,4,68,37,4.96,19.0,Good,59.292784,18.137058
+Stockholm,351821,Vasastan,Hotel room,1959.53,21,104,48,4.0,15.0,Good,59.380181,18.056282
+Stockholm,397164,Södermalm,Entire home/apt,1426.38,8,259,7,3.61,24.0,Good,59.268181,18.022553
+Stockholm,846865,Södermalm,Hotel room,1119.22,21,260,16,,19.0,Good,59.347335,18.065179
+Stockholm,842091,Gamla Stan,Entire home/apt,1448.61,22,3,5,4.45,15.0,Good,59.289678,18.024733
+Stockholm,484492,Hammarby Sjöstad,Entire home/apt,,15,164,25,4.63,19.0,Good,59.315622,18.127418
+Stockholm,378697,Lidingö,Entire home/apt,2694.39,4,84,86,4.43,16.0,Good,59.382806,18.093281
+Stockholm,816888,Norrmalm,Private room,1791.45,10,5,41,4.72,20.0,Good,59.395142,18.089847
+Stockholm,895842,Södermalm,Entire home/apt,2641.27,29,301,30,3.56,12.0,Good,59.308129,18.084484
+Stockholm,905731,Kungsholmen,Entire home/apt,2782.56,4,156,46,3.26,,,59.355537,18.128382
+Stockholm,564578,Gamla Stan,Private room,3200.0,1,140,45,3.96,20.0,Good,59.376443,18.081397
+Stockholm,826123,Norrmalm,Entire home/apt,2158.27,6,221,18,4.73,23.0,Good,59.288028,18.049025
+Stockholm,604237,Lidingö,Private room,1951.14,2,311,15,3.83,18.0,Good,59.268161,18.0792
+Stockholm,932723,Kungsholmen,Private room,868.87,25,114,75,3.82,21.0,Good,59.362471,18.024508
+Stockholm,100835,Södermalm,Private room,707.76,6,68,3,5.0,19.0,Good,59.354485,18.002446
+Stockholm,117054,Kungsholmen,Shared room,1671.2,16,300,3,4.43,23.0,Good,59.333257,18.054003
+Stockholm,484767,Södermalm,Private room,3200.0,18,141,0,5.0,17.0,Good,59.289525,18.136659
+Stockholm,540545,Lidingö,Entire home/apt,2459.07,14,82,14,3.78,24.0,Good,59.356698,18.036045
+Stockholm,914899,Hammarby Sjöstad,Private room,1316.99,13,117,24,4.26,15.0,Good,59.291985,18.081649
+Stockholm,564392,Norrmalm,Entire home/apt,1308.01,3,184,46,4.62,18.0,Good,59.392713,18.040893
+Stockholm,687738,Gamla Stan,Entire home/apt,2905.53,7,79,37,4.84,16.0,Good,59.373523,18.068334
+Stockholm,449003,Hammarby Sjöstad,Entire home/apt,,5,172,47,4.79,20.0,Good,59.265183,18.093536
+Stockholm,669935,Vasastan,Shared room,1262.34,10,90,2,4.57,22.0,Good,59.319796,18.012011
+Stockholm,861373,Östermalm,Entire home/apt,2970.1,18,297,129,4.2,22.0,Good,59.32228,18.066914
+Stockholm,946405,Lidingö,Hotel room,1526.64,1,83,7,4.17,29.0,Good,59.335135,18.032392
+Stockholm,196512,Östermalm,Entire home/apt,,1,52,176,3.98,19.0,Good,59.370511,18.057944
+Stockholm,850089,Södermalm,Entire home/apt,2438.64,6,315,31,4.88,24.0,Good,59.271096,18.018767
+Stockholm,219584,Lidingö,Private room,1656.87,16,205,165,4.31,22.0,Good,59.332476,18.111464
+Stockholm,694862,Södermalm,Entire home/apt,3200.0,24,44,94,4.26,10.0,Good,59.323236,18.002703
+Stockholm,394220,Östermalm,Entire home/apt,2148.36,11,112,5,,13.0,Good,59.296952,18.069474
+Stockholm,675397,Vasastan,Private room,3200.0,3,336,4,4.73,21.0,Good,59.384066,18.001377
+Stockholm,587841,Norrmalm,Entire home/apt,1760.84,17,342,49,4.2,19.0,Good,59.375326,18.072623
+Stockholm,596677,Gamla Stan,Entire home/apt,1720.1,1,362,10,4.7,21.0,Good,59.348979,18.056937
+Stockholm,319796,Lidingö,Entire home/apt,2466.21,14,225,5,4.58,17.0,Good,59.276184,18.005848
+Stockholm,469362,Kungsholmen,Entire home/apt,866.46,13,249,24,4.17,18.0,Good,59.353239,18.058592
+Stockholm,805127,Östermalm,Entire home/apt,2674.83,21,4,19,3.53,20.0,Good,59.294372,18.046167
+Stockholm,344625,Lidingö,Private room,1600.3,2,123,76,3.41,18.0,Good,59.259601,18.131514
+Stockholm,275487,Kungsholmen,Entire home/apt,,2,347,86,,27.0,Good,59.337619,18.099472
+Stockholm,621822,Norrmalm,Private room,1121.91,18,144,78,4.15,22.0,Good,59.316249,18.061203
+Stockholm,897160,Vasastan,Private room,,12,323,163,4.69,19.0,Good,59.310845,18.054687
+Stockholm,896976,Kungsholmen,Entire home/apt,794.26,20,327,4,3.87,19.0,Good,59.35033,18.006941
+Stockholm,332240,Norrmalm,Entire home/apt,2183.88,25,319,15,3.76,25.0,Good,59.34668,18.127629
+Stockholm,715462,Hammarby Sjöstad,Entire home/apt,1595.85,3,264,73,3.98,30.0,Good,59.318281,18.045772
+Stockholm,200566,Kungsholmen,Entire home/apt,1415.69,11,27,58,4.11,18.0,Good,59.289233,18.12422
+Stockholm,263911,Östermalm,Entire home/apt,2337.18,24,76,16,4.52,39.0,Good,59.321493,18.12701
+Stockholm,350003,Norrmalm,Entire home/apt,3200.0,24,202,2,3.76,20.0,Good,59.394992,18.043151
+Stockholm,570983,Norrmalm,Private room,992.31,17,77,25,4.82,6.0,Good,59.332602,18.075562
+Stockholm,824755,Kungsholmen,Shared room,811.09,25,126,36,3.83,21.0,Good,59.321952,18.108095
+Stockholm,352345,Gamla Stan,Private room,3200.0,25,235,46,4.39,19.0,Good,59.310949,18.124691
+Stockholm,378213,Kungsholmen,Private room,1016.13,3,125,9,5.0,15.0,Good,59.336461,18.096415
+Stockholm,929484,Vasastan,Private room,2299.29,17,182,41,3.89,25.0,Good,59.39323,18.091045
+Stockholm,400863,Gamla Stan,Shared room,1678.23,3,138,91,4.18,19.0,Good,59.328003,18.035342
+Stockholm,533482,Norrmalm,Entire home/apt,1224.26,1,0,163,4.33,23.0,Good,59.353381,18.057814
+Stockholm,172861,Östermalm,Private room,,10,302,2,4.34,19.0,Good,59.291621,18.069485
+Stockholm,254886,Östermalm,Private room,1820.53,27,133,29,4.12,23.0,Good,59.296703,18.080043
+Stockholm,939304,Vasastan,Entire home/apt,2191.1,21,121,23,4.4,24.0,Good,59.374176,18.100342
+Stockholm,545958,Gamla Stan,Hotel room,887.05,12,217,16,4.23,22.0,Good,59.309029,18.092857
+Stockholm,914024,Gamla Stan,Entire home/apt,,17,21,17,3.14,14.0,Good,59.283276,18.037761
+Stockholm,151579,Hammarby Sjöstad,Entire home/apt,2946.54,30,163,60,3.29,17.0,Good,59.392113,18.018724
+Stockholm,636136,Vasastan,Entire home/apt,1725.61,18,323,111,,9.0,Good,59.3985,18.090795
+Stockholm,827962,Gamla Stan,Shared room,,7,240,37,3.88,12.0,Good,59.345069,18.042835
+Stockholm,733326,Vasastan,Private room,3199.45,10,323,20,4.29,,,59.367067,18.017151
+Stockholm,144468,Hammarby Sjöstad,Entire home/apt,1949.31,13,52,17,4.21,16.0,Good,59.333144,18.03492
+Stockholm,874113,Lidingö,Private room,2888.29,14,262,15,5.0,20.0,Good,59.29304,18.137884
+Stockholm,998409,Gamla Stan,Entire home/apt,3200.0,3,321,28,3.9,20.0,Good,59.289343,18.089274
+Stockholm,404514,Östermalm,Private room,2434.0,2,29,158,5.0,,,59.278151,18.010223
+Stockholm,128093,Vasastan,Private room,1478.31,30,208,6,4.41,19.0,Good,59.395715,18.077948
+Stockholm,663501,Lidingö,Entire home/apt,1430.55,22,363,9,4.48,18.0,Good,59.306538,18.119041
+Stockholm,864981,Hammarby Sjöstad,Private room,1323.61,3,317,30,3.63,22.0,Good,59.365323,18.061714
+Stockholm,132874,Lidingö,Private room,1325.1,18,279,21,3.83,23.0,Good,59.267398,18.085127
+Stockholm,790826,Lidingö,Entire home/apt,1585.26,19,316,43,4.78,17.0,Good,59.386495,18.102486
+Stockholm,937426,Lidingö,Shared room,2161.65,21,153,57,4.67,,,59.271004,17.999225
+Stockholm,998590,Vasastan,Private room,2441.14,16,181,6,4.4,21.0,Good,59.319157,18.126273
+Stockholm,823731,Hammarby Sjöstad,Entire home/apt,1578.38,1,173,25,4.19,22.0,Good,59.321424,18.099542
+Stockholm,263287,Södermalm,Entire home/apt,1405.2,17,336,14,4.51,,,59.363697,18.007326
+Stockholm,958949,Norrmalm,Entire home/apt,689.6,29,212,131,4.99,28.0,Good,59.320305,18.122012
+Stockholm,512970,Östermalm,Entire home/apt,1334.85,6,128,22,5.0,24.0,Good,59.379657,18.013418
+Stockholm,704963,Lidingö,Entire home/apt,2881.88,9,334,38,4.36,19.0,Good,59.286399,18.079525
+Stockholm,210663,Östermalm,Entire home/apt,2722.93,2,246,21,4.0,26.0,Good,59.271624,18.120784
+Stockholm,558033,Kungsholmen,Private room,1560.67,1,253,22,4.57,23.0,Good,59.321733,18.113862
+Stockholm,753291,Östermalm,Entire home/apt,2146.64,1,174,79,3.9,12.0,Good,59.338837,18.079246
+Stockholm,255806,Kungsholmen,Shared room,3200.0,2,325,67,4.75,21.0,Good,59.313451,18.11423
+Stockholm,539093,Hammarby Sjöstad,Entire home/apt,3200.0,4,153,49,5.0,20.0,Good,59.308219,18.09043
+Stockholm,849237,Östermalm,Shared room,940.67,24,313,6,4.27,23.0,Good,59.272632,18.044357
+Stockholm,691584,Kungsholmen,Shared room,822.54,21,56,117,5.0,8.0,Good,59.375165,18.095417
+Stockholm,913971,Kungsholmen,Entire home/apt,1546.27,9,231,32,4.64,,,59.338091,18.100665
+Stockholm,234147,Lidingö,Entire home/apt,2642.78,20,63,8,3.7,15.0,Good,59.390838,18.085699
+Stockholm,394974,Gamla Stan,Entire home/apt,1340.17,7,174,12,3.82,19.0,Good,59.322412,18.03984
+Stockholm,629161,Hammarby Sjöstad,Shared room,997.0,5,197,36,4.63,19.0,Good,59.33009,18.119273
+Stockholm,743733,Vasastan,Entire home/apt,1618.15,16,31,0,3.63,18.0,Good,59.306153,18.085916
+Stockholm,762496,Vasastan,Entire home/apt,1570.65,30,253,6,4.02,23.0,Good,59.276841,18.130037
+Stockholm,166101,Östermalm,Entire home/apt,1598.33,4,116,114,3.33,23.0,Good,59.299499,18.052732
+Stockholm,320106,Vasastan,Hotel room,2031.86,1,150,29,3.36,11.0,Good,59.325665,18.128849
+Stockholm,650267,Gamla Stan,Entire home/apt,1235.1,10,31,30,4.1,23.0,Good,59.39363,18.079386
+Stockholm,905542,Vasastan,Private room,2470.66,28,119,3,4.41,20.0,Good,59.397678,18.092771
+Stockholm,900449,Norrmalm,Hotel room,1148.61,3,36,61,4.43,23.0,Good,59.394102,18.01102
+Stockholm,941987,Lidingö,Entire home/apt,1865.3,1,6,4,4.46,,,59.343825,18.09153
+Stockholm,324596,Hammarby Sjöstad,Private room,1381.93,11,184,24,,10.0,Good,59.346078,18.063608
+Stockholm,316098,Kungsholmen,Private room,1707.67,17,339,4,3.99,21.0,Good,59.37318,18.10446
+Stockholm,681826,Gamla Stan,Private room,1162.12,3,66,84,4.12,19.0,Good,59.353791,18.137357
+Stockholm,146687,Hammarby Sjöstad,Private room,1514.85,28,344,13,4.53,17.0,Good,59.306906,18.119769
+Stockholm,102201,Södermalm,Hotel room,3200.0,3,207,36,,24.0,Good,59.280044,18.054346
+Stockholm,916538,Södermalm,Private room,3200.0,3,315,32,3.31,29.0,Good,59.309528,18.123282
+Stockholm,679605,Vasastan,Entire home/apt,1674.12,1,337,11,4.44,24.0,Good,59.369991,18.129765
+Stockholm,642237,Kungsholmen,Private room,3200.0,23,204,31,3.88,16.0,Good,59.380199,18.047828
+Stockholm,159789,Vasastan,Entire home/apt,2621.43,2,78,24,4.37,19.0,Good,59.274211,18.008317
+Stockholm,975285,Norrmalm,Entire home/apt,1603.97,4,288,47,4.27,21.0,Good,59.316777,18.088812
+Stockholm,787747,Kungsholmen,Entire home/apt,,7,300,6,3.83,15.0,Good,59.268441,17.998729
+Stockholm,973931,Gamla Stan,Private room,800.14,4,16,16,4.38,13.0,Good,59.352487,18.030272
+Stockholm,126198,Södermalm,Entire home/apt,1224.2,3,280,74,4.7,17.0,Good,59.359622,18.066689
+Stockholm,610012,Södermalm,Hotel room,600.0,1,266,6,,15.0,Good,59.307621,18.132425
+Stockholm,579882,Norrmalm,Private room,3200.0,1,96,195,5.0,20.0,Good,59.340404,18.018786
+Stockholm,548342,Östermalm,Entire home/apt,1956.12,2,364,46,2.93,20.0,Good,59.320599,18.112829
+Stockholm,141762,Vasastan,Private room,2207.22,2,150,9,3.15,10.0,Good,59.290841,18.068215
+Stockholm,301468,Kungsholmen,Hotel room,,2,245,14,5.0,,,59.291731,18.055146
+Stockholm,742329,Gamla Stan,Entire home/apt,2518.12,2,125,1,4.89,15.0,Good,59.353821,18.063983
+Stockholm,778471,Lidingö,Private room,2022.08,21,353,44,5.0,13.0,Good,59.275748,18.023388
+Stockholm,923890,Hammarby Sjöstad,Shared room,1620.24,4,324,27,4.46,27.0,Good,59.396825,18.025472
+Stockholm,232751,Södermalm,Entire home/apt,1621.68,9,65,36,3.91,,,59.34833,18.012089
+Stockholm,666704,Norrmalm,Private room,1874.64,3,124,4,4.38,10.0,Good,59.364792,18.027457
+Stockholm,482971,Norrmalm,Entire home/apt,1207.28,3,319,156,4.17,19.0,Good,59.325393,18.005273
+Stockholm,214795,Norrmalm,Entire home/apt,2754.23,15,230,115,4.55,31.0,Good,59.34863,18.051989
+Stockholm,103066,Södermalm,Private room,3016.2,1,171,7,,16.0,Good,59.373035,18.12604
+Stockholm,369007,Kungsholmen,Entire home/apt,600.0,24,74,91,,6.0,Good,59.369659,18.024525
+Stockholm,445588,Östermalm,Entire home/apt,985.9,11,248,3,5.0,16.0,Good,59.316666,18.102827
+Stockholm,275641,Lidingö,Entire home/apt,2079.36,28,216,20,3.88,15.0,Good,59.363261,18.045749
+Stockholm,883555,Vasastan,Shared room,3200.0,1,99,47,4.64,22.0,Good,59.37408,18.091557
+Stockholm,933458,Kungsholmen,Entire home/apt,,7,343,6,4.34,21.0,Good,59.347859,18.016892
+Stockholm,729043,Vasastan,Entire home/apt,1548.93,11,304,58,4.21,27.0,Good,59.36263,18.033622
+Stockholm,645846,Vasastan,Entire home/apt,,8,224,10,,24.0,Good,59.383586,18.102744
+Stockholm,830191,Gamla Stan,Entire home/apt,3200.0,19,194,74,4.06,8.0,Good,59.363279,18.104192
+Stockholm,507198,Södermalm,Entire home/apt,1772.4,1,243,64,4.45,,,59.343592,18.11901
+Stockholm,967630,Norrmalm,Private room,2441.3,1,133,5,,27.0,Good,59.357536,18.00531
+Stockholm,521056,Norrmalm,Entire home/apt,,24,62,18,3.74,19.0,Good,59.294893,18.111936
+Stockholm,997170,Vasastan,Entire home/apt,2731.82,2,132,5,4.7,22.0,Good,59.339187,18.137718
+Stockholm,349571,Lidingö,Private room,1162.29,22,272,16,3.39,23.0,Good,59.354468,18.059718
+Stockholm,634212,Södermalm,Entire home/apt,2690.14,13,265,111,5.0,25.0,Good,59.332584,18.115296
+Stockholm,963094,Kungsholmen,Private room,3200.0,2,25,0,4.29,23.0,Good,59.357393,18.066655
+Stockholm,502991,Hammarby Sjöstad,Entire home/apt,2995.74,1,84,28,5.0,24.0,Good,59.388883,18.023321
+Stockholm,377922,Östermalm,Private room,2056.06,29,319,8,4.5,16.0,Good,59.321408,18.003771
+Stockholm,788798,Hammarby Sjöstad,Entire home/apt,2084.05,13,116,12,,24.0,Good,59.37489,18.035519
+Stockholm,800342,Hammarby Sjöstad,Shared room,1735.14,30,24,150,3.98,12.0,Good,59.262243,18.001702
+Stockholm,690002,Lidingö,Entire home/apt,3200.0,4,0,40,4.9,17.0,Good,59.361526,18.072051
+Stockholm,899524,Kungsholmen,Shared room,2723.53,7,180,11,4.16,17.0,Good,59.293032,18.082349
+Stockholm,732353,Södermalm,Entire home/apt,3106.59,17,295,27,3.79,12.0,Good,59.37189,18.013515
+Stockholm,784571,Södermalm,Entire home/apt,3114.63,18,128,83,3.76,16.0,Good,59.327017,18.02243
+Stockholm,921079,Hammarby Sjöstad,Entire home/apt,2938.98,24,173,116,4.47,21.0,Good,59.331832,18.086394
+Stockholm,676273,Södermalm,Entire home/apt,,1,310,88,4.12,22.0,Good,59.26843,18.136671
+Stockholm,426733,Hammarby Sjöstad,Private room,2270.26,7,138,72,4.23,,,59.306054,18.035367
+Stockholm,752329,Kungsholmen,Private room,1414.56,15,110,21,3.95,26.0,Good,59.374301,18.004644
+Stockholm,563691,Östermalm,Entire home/apt,3200.0,6,270,21,3.19,32.0,Good,59.353844,18.072438
+Stockholm,881089,Östermalm,Shared room,1534.44,22,298,10,4.18,15.0,Good,59.377318,18.078957
+Stockholm,496187,Kungsholmen,Entire home/apt,3200.0,2,217,95,4.2,19.0,Good,59.39501,18.136481
+Stockholm,788780,Södermalm,Hotel room,3200.0,17,205,3,4.7,16.0,Good,59.361351,18.055368
+Stockholm,754308,Kungsholmen,Entire home/apt,2602.16,24,345,6,4.73,18.0,Good,59.278639,18.091645
+Stockholm,537710,Kungsholmen,Entire home/apt,3200.0,13,190,15,3.53,11.0,Good,59.268246,18.13749
+Stockholm,554007,Lidingö,Private room,2107.02,29,24,2,4.61,17.0,Good,59.309884,18.114944
+Stockholm,739824,Gamla Stan,Entire home/apt,,1,281,205,4.32,15.0,Good,59.363814,18.137247
+Stockholm,704891,Gamla Stan,Private room,1407.02,15,177,5,4.49,25.0,Good,59.331541,18.09055
+Stockholm,408458,Vasastan,Entire home/apt,936.25,8,7,75,4.66,12.0,Good,59.283992,18.113896
+Stockholm,477056,Lidingö,Entire home/apt,3200.0,21,334,16,3.33,19.0,Good,59.284781,18.100743
+Stockholm,887448,Lidingö,Private room,1029.89,18,154,2,4.15,22.0,Good,59.32056,18.04248
+Stockholm,474772,Vasastan,Entire home/apt,2054.66,11,6,12,4.62,22.0,Good,59.275737,18.067637
+Stockholm,122024,Lidingö,Entire home/apt,2109.08,9,5,24,3.49,17.0,Good,59.285332,18.010122
+Stockholm,966741,Norrmalm,Entire home/apt,2426.48,25,292,18,4.4,23.0,Good,59.397673,18.073708
+Stockholm,959081,Gamla Stan,Entire home/apt,1647.61,1,266,21,4.1,31.0,Good,59.286704,18.041266
+Stockholm,911831,Lidingö,Private room,3200.0,1,122,4,3.74,16.0,Good,59.314444,18.032169
+Stockholm,597826,Kungsholmen,Private room,896.27,21,24,59,3.75,24.0,Good,59.398547,18.028275
+Stockholm,941673,Gamla Stan,Entire home/apt,3200.0,3,73,38,4.49,18.0,Good,59.284558,18.007803
+Stockholm,165430,Södermalm,Private room,2134.08,16,363,83,3.97,22.0,Good,59.355572,18.092967
+Stockholm,229760,Lidingö,Hotel room,2893.36,30,314,14,,28.0,Good,59.26537,18.006925
+Stockholm,267809,Lidingö,Entire home/apt,1916.87,2,12,26,4.25,19.0,Good,59.26022,18.084549
+Stockholm,307223,Östermalm,Shared room,1516.63,3,180,2,4.87,16.0,Good,59.273691,18.030793
+Stockholm,459918,Lidingö,Private room,1640.8,3,170,8,5.0,17.0,Good,59.26782,18.11052
+Stockholm,865718,Gamla Stan,Private room,3200.0,5,313,58,4.46,21.0,Good,59.30024,18.023082
+Stockholm,968371,Östermalm,Entire home/apt,1157.15,11,219,74,4.26,19.0,Good,59.295974,18.027661
+Stockholm,543448,Gamla Stan,Entire home/apt,642.82,2,88,15,4.79,18.0,Good,59.2711,18.043949
+Stockholm,808559,Östermalm,Private room,1484.57,13,217,4,3.79,28.0,Good,59.382181,18.106829
+Stockholm,873430,Vasastan,Entire home/apt,1018.08,17,217,10,4.14,22.0,Good,59.288917,18.043044
+Stockholm,888090,Kungsholmen,Private room,2816.53,9,78,40,4.01,,,59.264348,18.136063
+Stockholm,488605,Gamla Stan,Entire home/apt,3200.0,2,196,47,3.51,26.0,Good,59.329717,18.13616
+Stockholm,975504,Hammarby Sjöstad,Private room,1468.43,7,44,51,3.8,15.0,Good,59.267435,17.999911
+Stockholm,989382,Lidingö,Private room,1327.87,6,87,0,4.29,18.0,Good,59.328719,18.090411
+Stockholm,722049,Vasastan,Private room,2543.47,27,310,49,4.42,25.0,Good,59.324579,18.053599
+Stockholm,311491,Hammarby Sjöstad,Entire home/apt,2182.87,20,233,2,3.5,23.0,Good,59.378021,18.057651
+Stockholm,815143,Kungsholmen,Entire home/apt,791.26,17,351,119,4.4,29.0,Good,59.371841,18.072544
+Stockholm,650187,Vasastan,Entire home/apt,1043.13,2,218,36,4.15,19.0,Good,59.39897,18.068763
+Stockholm,447608,Södermalm,Entire home/apt,651.02,24,198,84,4.53,,,59.266034,18.012246
+Stockholm,102297,Södermalm,Entire home/apt,1048.67,1,310,2,4.36,20.0,Good,59.277287,18.059206
+Stockholm,803606,Norrmalm,Shared room,1223.52,15,254,18,4.34,15.0,Good,59.368493,18.097743
+Stockholm,303809,Kungsholmen,Private room,2113.42,16,157,0,4.24,9.0,Good,59.380599,18.10942
+Stockholm,244780,Östermalm,Entire home/apt,1736.95,28,289,12,4.41,23.0,Good,59.306013,18.126753
+Stockholm,595606,Gamla Stan,Private room,2683.81,17,177,108,3.93,28.0,Good,59.388976,18.038123
+Stockholm,933346,Kungsholmen,Entire home/apt,3200.0,28,335,6,5.0,13.0,Good,59.334413,18.119986
+Stockholm,379211,Hammarby Sjöstad,Entire home/apt,983.18,3,109,84,4.3,18.0,Good,59.372362,18.071966
+Stockholm,346050,Gamla Stan,Private room,1440.35,1,187,64,4.44,15.0,Good,59.344479,18.049048
+Stockholm,353982,Södermalm,Private room,1944.43,17,97,72,3.92,26.0,Good,59.26746,18.075916
+Stockholm,520564,Hammarby Sjöstad,Private room,1003.05,2,93,99,3.75,17.0,Good,59.327178,18.130139
+Stockholm,637320,Östermalm,Entire home/apt,1360.46,20,231,83,4.07,35.0,Good,59.289548,18.099842
+Stockholm,827197,Lidingö,Entire home/apt,1385.34,24,232,11,4.45,24.0,Good,59.30773,18.025709
+Stockholm,177510,Vasastan,Private room,3200.0,8,284,12,4.02,30.0,Good,59.281312,18.06962
+Stockholm,219771,Kungsholmen,Shared room,1095.88,5,233,125,,17.0,Good,59.281311,18.049477
+Stockholm,186911,Vasastan,Private room,2723.9,7,290,36,5.0,18.0,Good,59.355927,18.126127
+Stockholm,108696,Kungsholmen,Private room,1001.28,9,221,5,4.37,,,59.318965,18.106224
+Stockholm,973751,Kungsholmen,Private room,1395.94,14,297,85,4.52,22.0,Good,59.332421,18.098533
+Stockholm,902943,Vasastan,Entire home/apt,3200.0,15,136,28,4.76,13.0,Good,59.273816,18.017005
+Stockholm,230406,Norrmalm,Private room,3200.0,8,353,0,4.32,12.0,Good,59.329825,18.028529
+Stockholm,423927,Kungsholmen,Shared room,2025.23,24,306,1,3.87,13.0,Good,59.364189,18.10519
+Stockholm,960702,Gamla Stan,Private room,3200.0,2,30,48,5.0,16.0,Good,59.365586,18.013864
+Stockholm,680921,Hammarby Sjöstad,Entire home/apt,2309.65,6,134,10,4.7,20.0,Good,59.313457,18.033554
+Stockholm,238327,Gamla Stan,Shared room,1695.77,7,60,2,,1.0,Good,59.327335,18.009288
+Stockholm,986261,Vasastan,Entire home/apt,904.55,19,219,10,5.0,15.0,Good,59.315412,18.103025
+Stockholm,826555,Gamla Stan,Shared room,1847.3,2,180,23,,16.0,Good,59.290355,18.067956
+Stockholm,492749,Lidingö,Private room,2417.38,1,138,47,3.87,28.0,Good,59.274964,18.052738
+Stockholm,515446,Norrmalm,Private room,2082.11,4,245,97,4.95,18.0,Good,59.303641,18.044569
+Stockholm,260293,Gamla Stan,Private room,1888.94,21,329,55,4.79,26.0,Good,59.27951,18.066378
+Stockholm,864040,Södermalm,Entire home/apt,2458.15,12,1,1,5.0,8.0,Good,59.277939,18.008141
+Stockholm,243746,Gamla Stan,Private room,2552.26,1,325,9,4.18,,,59.393992,18.11876
+Stockholm,234096,Norrmalm,Hotel room,600.0,3,228,83,5.0,12.0,Good,59.320812,18.133735
+Stockholm,726611,Lidingö,Entire home/apt,3200.0,25,94,0,4.03,22.0,Good,59.303519,18.060131
+Stockholm,675762,Gamla Stan,Entire home/apt,1074.83,2,159,22,2.85,18.0,Good,59.385744,18.044615
+Stockholm,746346,Hammarby Sjöstad,Shared room,3161.22,2,19,126,3.74,28.0,Good,59.365247,18.095955
+Stockholm,698561,Vasastan,Entire home/apt,963.27,23,174,35,5.0,20.0,Good,59.334468,18.010158
+Stockholm,299953,Gamla Stan,Entire home/apt,2434.64,24,165,29,5.0,28.0,Good,59.339932,18.049108
+Stockholm,937153,Kungsholmen,Entire home/apt,2873.47,15,88,119,3.45,30.0,Good,59.314014,18.006174
+Stockholm,238276,Lidingö,Shared room,2231.18,14,365,76,4.74,28.0,Good,59.32874,18.001147
+Stockholm,525139,Lidingö,Hotel room,2381.06,2,57,25,4.25,26.0,Good,59.396597,18.127254
+Stockholm,248157,Norrmalm,Entire home/apt,2484.15,2,75,34,3.57,18.0,Good,59.319062,18.063318
+Stockholm,189026,Norrmalm,Entire home/apt,3200.0,2,322,48,,30.0,Good,59.358496,18.013625
+Stockholm,533139,Lidingö,Entire home/apt,1783.65,21,298,74,3.63,17.0,Good,59.313444,18.000059
+Stockholm,785592,Lidingö,Private room,2983.75,14,82,39,3.92,22.0,Good,59.260949,18.032812
+Stockholm,447790,Hammarby Sjöstad,Private room,1069.68,26,213,10,4.3,3.0,Good,59.261681,18.091886
+Stockholm,311847,Lidingö,Private room,1198.72,2,45,21,4.02,,,59.395643,18.016984
+Stockholm,629021,Lidingö,Entire home/apt,1348.59,2,28,3,4.65,22.0,Good,59.367854,18.129004
+Stockholm,763095,Hammarby Sjöstad,Private room,2496.84,18,114,0,4.28,27.0,Good,59.356246,18.127286
+Stockholm,807229,Norrmalm,Private room,992.24,13,56,38,5.0,19.0,Good,59.389855,18.057007
+Stockholm,744826,Södermalm,Entire home/apt,2373.66,2,364,7,4.0,27.0,Good,59.336719,18.122956
+Stockholm,665434,Södermalm,Private room,2527.36,14,195,2,,24.0,Good,59.382401,18.091518
+Stockholm,472234,Gamla Stan,Entire home/apt,916.0,20,122,73,4.18,16.0,Good,59.349766,18.103332
+Stockholm,411200,Kungsholmen,Entire home/apt,3200.0,1,340,11,4.41,,,59.38673,18.010362
+Stockholm,731667,Östermalm,Private room,1509.22,1,233,47,4.13,19.0,Good,59.382885,18.068873
+Stockholm,679295,Kungsholmen,Private room,2077.28,19,360,35,4.01,15.0,Good,59.289581,18.03273
+Stockholm,915225,Lidingö,Hotel room,1957.72,9,310,9,5.0,22.0,Good,59.321107,17.999413
+Stockholm,426362,Östermalm,Entire home/apt,1487.71,9,308,7,3.84,18.0,Good,59.320143,18.098346
+Stockholm,919889,Lidingö,Hotel room,1319.08,2,35,32,4.08,17.0,Good,59.268074,18.056309
+Stockholm,269733,Vasastan,Entire home/apt,1308.81,14,250,31,3.83,18.0,Good,59.346702,18.124585
+Stockholm,672654,Gamla Stan,Entire home/apt,896.97,20,108,14,4.65,13.0,Good,59.376423,18.036762
+Stockholm,444893,Norrmalm,Entire home/apt,2296.21,2,313,85,4.51,26.0,Good,59.362575,18.060788
+Stockholm,690899,Hammarby Sjöstad,Private room,1441.99,12,288,44,3.65,23.0,Good,59.336697,18.051985

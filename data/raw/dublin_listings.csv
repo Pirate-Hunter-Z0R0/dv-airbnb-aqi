@@ -1,0 +1,291 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Dublin,287887,Phibsborough,Hotel room,190.73,26,62,130,4.32,35.0,Good,53.362091,-6.285908
+Dublin,870842,Ranelagh,Private room,350.0,19,332,10,5.0,17.0,Good,53.358186,-6.20969
+Dublin,517301,Portobello,Entire home/apt,308.18,19,217,7,4.27,31.0,Good,53.370327,-6.281807
+Dublin,169684,Ballsbridge,Entire home/apt,326.89,1,349,5,4.66,17.0,Good,53.323741,-6.247791
+Dublin,811222,Phibsborough,Entire home/apt,191.26,4,53,3,5.0,27.0,Good,53.373891,-6.208559
+Dublin,849675,Temple Bar,Entire home/apt,276.84,12,151,8,4.08,13.0,Good,53.34533,-6.193174
+Dublin,862909,Ranelagh,Shared room,336.76,25,198,85,4.16,19.0,Good,53.410009,-6.30757
+Dublin,767878,Ballsbridge,Entire home/apt,246.04,25,174,100,4.32,19.0,Good,53.369729,-6.293532
+Dublin,271426,Ballsbridge,Entire home/apt,70.0,3,17,4,4.57,13.0,Good,53.396116,-6.220481
+Dublin,931119,Docklands,Private room,350.0,9,294,0,4.34,24.0,Good,53.381009,-6.208128
+Dublin,474104,Phibsborough,Private room,333.1,17,33,8,4.68,34.0,Good,53.328467,-6.325736
+Dublin,450136,Docklands,Hotel room,181.33,29,314,82,4.71,27.0,Good,53.396354,-6.311172
+Dublin,700347,Clontarf,Private room,147.61,22,87,55,4.49,27.0,Good,53.369758,-6.22387
+Dublin,474425,Temple Bar,Entire home/apt,350.0,25,204,16,4.89,17.0,Good,53.31976,-6.282733
+Dublin,632976,Ballsbridge,Entire home/apt,350.0,19,355,70,4.3,18.0,Good,53.334016,-6.209079
+Dublin,197193,Ballsbridge,Entire home/apt,283.82,21,154,22,4.06,20.0,Good,53.400362,-6.198554
+Dublin,158044,Ranelagh,Hotel room,288.5,1,63,11,5.0,,,53.309585,-6.251887
+Dublin,818640,Ballsbridge,Entire home/apt,177.34,13,280,41,4.08,25.0,Good,53.369352,-6.223982
+Dublin,963268,Phibsborough,Shared room,87.5,11,28,55,4.7,16.0,Good,53.322117,-6.212903
+Dublin,552860,Ballsbridge,Entire home/apt,178.44,7,167,0,4.53,16.0,Good,53.365281,-6.272564
+Dublin,388414,Docklands,Entire home/apt,203.52,19,251,8,3.56,17.0,Good,53.373628,-6.281283
+Dublin,798272,Temple Bar,Private room,188.23,24,166,29,3.86,20.0,Good,53.34097,-6.297299
+Dublin,763421,Portobello,Private room,221.0,26,56,58,4.38,25.0,Good,53.385984,-6.326884
+Dublin,630170,Phibsborough,Entire home/apt,119.47,7,52,4,5.0,32.0,Good,53.356248,-6.286542
+Dublin,333345,Phibsborough,Entire home/apt,322.13,20,178,0,4.1,20.0,Good,53.279823,-6.260318
+Dublin,963098,Portobello,Private room,181.55,3,85,5,3.98,39.0,Good,53.361166,-6.215792
+Dublin,797079,Temple Bar,Hotel room,121.23,27,359,17,3.92,21.0,Good,53.408209,-6.19746
+Dublin,704038,Temple Bar,Entire home/apt,350.0,7,43,63,4.89,40.0,Good,53.313234,-6.202702
+Dublin,284849,Portobello,Entire home/apt,170.31,2,230,59,4.5,14.0,Good,53.417882,-6.260568
+Dublin,708355,Portobello,Entire home/apt,236.48,3,25,8,3.88,20.0,Good,53.403232,-6.27948
+Dublin,557862,Clontarf,Entire home/apt,216.44,9,116,33,4.07,43.0,Good,53.415541,-6.212068
+Dublin,933890,Portobello,Entire home/apt,204.4,28,11,35,3.3,20.0,Good,53.354105,-6.195106
+Dublin,541890,Phibsborough,Entire home/apt,350.0,11,264,18,3.39,,,53.304028,-6.23921
+Dublin,208806,Clontarf,Entire home/apt,211.53,5,143,96,4.02,20.0,Good,53.345615,-6.191228
+Dublin,930667,Ranelagh,Entire home/apt,79.97,1,355,13,4.02,37.0,Good,53.287495,-6.280511
+Dublin,863433,Docklands,Entire home/apt,,8,65,12,5.0,30.0,Good,53.367748,-6.245345
+Dublin,528935,Rathmines,Private room,201.45,21,76,24,5.0,29.0,Good,53.405692,-6.326913
+Dublin,546596,Phibsborough,Entire home/apt,260.98,28,292,21,4.5,8.0,Good,53.335509,-6.223512
+Dublin,537492,Ballsbridge,Private room,350.0,16,346,41,4.44,,,53.357772,-6.31543
+Dublin,973143,Docklands,Private room,169.53,30,126,169,3.09,38.0,Good,53.298117,-6.239966
+Dublin,211545,Temple Bar,Entire home/apt,127.7,2,316,39,4.26,25.0,Good,53.33647,-6.194369
+Dublin,489741,Ballsbridge,Entire home/apt,276.03,3,19,2,5.0,29.0,Good,53.346254,-6.235769
+Dublin,269230,Temple Bar,Entire home/apt,297.16,25,206,41,4.21,16.0,Good,53.356315,-6.217757
+Dublin,939116,Clontarf,Shared room,158.15,17,126,25,4.99,19.0,Good,53.340032,-6.297923
+Dublin,984031,Clontarf,Entire home/apt,135.66,3,11,63,5.0,12.0,Good,53.290497,-6.24768
+Dublin,269191,Rathmines,Entire home/apt,350.0,3,289,5,4.19,,,53.371989,-6.280601
+Dublin,783303,Rathmines,Private room,313.47,2,134,17,,24.0,Good,53.288423,-6.289034
+Dublin,613581,Ranelagh,Entire home/apt,350.0,2,253,39,4.42,3.0,Good,53.389654,-6.234192
+Dublin,227002,Clontarf,Entire home/apt,,2,167,6,4.94,12.0,Good,53.400884,-6.222185
+Dublin,300029,Clontarf,Entire home/apt,240.11,27,51,83,4.14,28.0,Good,53.35583,-6.215545
+Dublin,643629,Docklands,Private room,118.02,21,25,7,4.67,40.0,Good,53.281618,-6.295746
+Dublin,110196,Docklands,Entire home/apt,165.09,2,326,133,3.82,29.0,Good,53.355589,-6.240111
+Dublin,144152,Clontarf,Entire home/apt,,2,154,3,3.34,33.0,Good,53.409677,-6.269673
+Dublin,667701,Docklands,Entire home/apt,,2,305,47,,32.0,Good,53.313033,-6.253914
+Dublin,240891,Ballsbridge,Entire home/apt,159.96,1,322,55,4.19,22.0,Good,53.391531,-6.311053
+Dublin,854208,Clontarf,Entire home/apt,150.58,26,140,36,4.73,21.0,Good,53.29814,-6.215394
+Dublin,156700,Docklands,Entire home/apt,115.17,19,34,36,4.37,23.0,Good,53.403572,-6.320852
+Dublin,555666,Ballsbridge,Entire home/apt,153.81,14,163,41,4.13,13.0,Good,53.409043,-6.257361
+Dublin,491538,Phibsborough,Entire home/apt,89.38,30,303,5,5.0,30.0,Good,53.316403,-6.208578
+Dublin,410031,Temple Bar,Entire home/apt,338.41,3,280,18,4.49,21.0,Good,53.418635,-6.200438
+Dublin,181214,Temple Bar,Entire home/apt,145.39,2,152,73,4.66,29.0,Good,53.339441,-6.252072
+Dublin,797721,Rathmines,Entire home/apt,,26,301,29,3.62,19.0,Good,53.371303,-6.219571
+Dublin,879338,Clontarf,Hotel room,210.52,7,84,8,4.28,23.0,Good,53.345495,-6.195528
+Dublin,694941,Ballsbridge,Entire home/apt,300.37,6,3,23,4.4,34.0,Good,53.415095,-6.196828
+Dublin,300222,Rathmines,Entire home/apt,275.02,27,239,20,4.56,15.0,Good,53.366883,-6.290599
+Dublin,380134,Temple Bar,Entire home/apt,282.23,9,227,19,4.02,31.0,Good,53.28044,-6.258902
+Dublin,545524,Clontarf,Entire home/apt,248.82,24,275,32,,26.0,Good,53.348915,-6.315931
+Dublin,867331,Phibsborough,Private room,350.0,1,248,2,4.42,13.0,Good,53.319885,-6.247675
+Dublin,767583,Ranelagh,Entire home/apt,350.0,1,153,14,4.61,27.0,Good,53.324109,-6.202273
+Dublin,177533,Ranelagh,Entire home/apt,350.0,15,274,2,4.03,24.0,Good,53.395604,-6.325941
+Dublin,793715,Temple Bar,Entire home/apt,,28,205,13,4.18,24.0,Good,53.397306,-6.242171
+Dublin,287539,Temple Bar,Entire home/apt,,21,346,19,4.84,21.0,Good,53.358153,-6.233464
+Dublin,301150,Rathmines,Entire home/apt,100.19,1,149,224,2.99,4.0,Good,53.415861,-6.327689
+Dublin,484433,Docklands,Hotel room,208.98,20,106,29,4.45,27.0,Good,53.292152,-6.288742
+Dublin,660493,Clontarf,Shared room,240.04,23,141,23,4.13,37.0,Good,53.29957,-6.293349
+Dublin,541193,Rathmines,Entire home/apt,158.18,2,208,8,4.87,17.0,Good,53.293757,-6.316234
+Dublin,490031,Portobello,Entire home/apt,80.61,21,281,51,4.13,31.0,Good,53.407487,-6.228512
+Dublin,545617,Temple Bar,Entire home/apt,350.0,1,193,112,4.94,38.0,Good,53.378448,-6.256857
+Dublin,487629,Ranelagh,Entire home/apt,,3,313,26,4.48,31.0,Good,53.40677,-6.211907
+Dublin,128979,Docklands,Entire home/apt,174.08,6,208,51,3.55,19.0,Good,53.325877,-6.317818
+Dublin,713875,Phibsborough,Entire home/apt,227.95,6,228,40,4.51,22.0,Good,53.320162,-6.27034
+Dublin,607903,Rathmines,Entire home/apt,,1,270,15,4.11,29.0,Good,53.327996,-6.306813
+Dublin,133200,Portobello,Entire home/apt,350.0,13,234,19,4.1,34.0,Good,53.329859,-6.319371
+Dublin,991954,Ballsbridge,Entire home/apt,328.21,11,174,70,3.46,19.0,Good,53.367322,-6.223804
+Dublin,583197,Phibsborough,Shared room,119.99,1,345,72,4.01,26.0,Good,53.359776,-6.261039
+Dublin,614434,Temple Bar,Entire home/apt,124.83,28,45,6,4.08,41.0,Good,53.357271,-6.275521
+Dublin,964066,Phibsborough,Entire home/apt,350.0,2,103,21,3.61,28.0,Good,53.293359,-6.241694
+Dublin,546526,Rathmines,Private room,209.91,1,38,33,4.23,33.0,Good,53.369283,-6.222677
+Dublin,129962,Clontarf,Entire home/apt,121.97,3,257,7,4.83,29.0,Good,53.394386,-6.210095
+Dublin,599638,Temple Bar,Shared room,350.0,11,181,7,,21.0,Good,53.408325,-6.304558
+Dublin,566590,Rathmines,Entire home/apt,210.95,7,55,29,4.77,24.0,Good,53.358465,-6.236753
+Dublin,778430,Ranelagh,Entire home/apt,,21,349,38,4.45,27.0,Good,53.355823,-6.193317
+Dublin,865939,Portobello,Hotel room,107.83,10,262,64,4.75,28.0,Good,53.343988,-6.278517
+Dublin,455765,Clontarf,Entire home/apt,302.11,9,17,7,4.12,11.0,Good,53.35699,-6.235198
+Dublin,731558,Rathmines,Entire home/apt,255.0,20,214,46,4.89,30.0,Good,53.304182,-6.211981
+Dublin,768407,Docklands,Entire home/apt,256.52,13,280,30,3.85,34.0,Good,53.352872,-6.216415
+Dublin,636368,Ballsbridge,Entire home/apt,99.14,16,17,31,4.67,20.0,Good,53.385162,-6.298709
+Dublin,396466,Temple Bar,Entire home/apt,350.0,30,224,15,4.65,23.0,Good,53.382293,-6.190619
+Dublin,579991,Docklands,Entire home/apt,350.0,12,198,20,4.27,5.0,Good,53.395018,-6.270909
+Dublin,201749,Ballsbridge,Shared room,152.02,10,217,41,4.44,17.0,Good,53.353926,-6.265738
+Dublin,561886,Temple Bar,Entire home/apt,250.36,15,81,94,3.15,21.0,Good,53.293061,-6.211358
+Dublin,879346,Ballsbridge,Entire home/apt,299.91,22,26,11,4.48,22.0,Good,53.30663,-6.201686
+Dublin,290416,Ranelagh,Private room,273.63,24,145,12,3.07,13.0,Good,53.402114,-6.199144
+Dublin,280510,Ranelagh,Private room,322.47,12,288,20,5.0,10.0,Good,53.287369,-6.283698
+Dublin,297890,Phibsborough,Hotel room,318.75,24,185,4,4.32,20.0,Good,53.312669,-6.203941
+Dublin,103709,Docklands,Entire home/apt,276.57,23,213,59,4.0,22.0,Good,53.402258,-6.196658
+Dublin,855531,Temple Bar,Entire home/apt,211.57,1,350,28,4.83,23.0,Good,53.293124,-6.195989
+Dublin,768867,Rathmines,Private room,166.65,21,219,5,4.44,37.0,Good,53.286751,-6.203999
+Dublin,762779,Phibsborough,Private room,282.63,13,191,3,4.14,12.0,Good,53.40399,-6.295322
+Dublin,531555,Docklands,Entire home/apt,350.0,29,312,41,4.36,,,53.333549,-6.230148
+Dublin,480457,Ranelagh,Shared room,350.0,15,167,4,4.27,24.0,Good,53.34135,-6.328784
+Dublin,115090,Portobello,Private room,313.08,26,112,129,3.62,18.0,Good,53.292396,-6.234284
+Dublin,116622,Ballsbridge,Entire home/apt,144.96,21,110,20,4.68,29.0,Good,53.38102,-6.279215
+Dublin,422436,Phibsborough,Entire home/apt,102.69,19,237,2,5.0,32.0,Good,53.306967,-6.21086
+Dublin,729538,Phibsborough,Entire home/apt,246.77,5,200,28,3.35,25.0,Good,53.325471,-6.238579
+Dublin,233528,Phibsborough,Entire home/apt,155.87,3,317,147,4.06,27.0,Good,53.336776,-6.317915
+Dublin,902793,Rathmines,Private room,231.48,2,315,21,4.04,18.0,Good,53.351031,-6.316996
+Dublin,891513,Temple Bar,Private room,154.28,1,252,10,4.32,31.0,Good,53.405524,-6.230157
+Dublin,842785,Rathmines,Entire home/apt,197.0,6,145,10,4.78,13.0,Good,53.303809,-6.258167
+Dublin,470925,Docklands,Entire home/apt,217.7,14,153,19,4.68,38.0,Good,53.364628,-6.204133
+Dublin,128241,Docklands,Shared room,157.35,19,39,45,,30.0,Good,53.32033,-6.242552
+Dublin,975604,Phibsborough,Private room,289.59,7,219,21,,35.0,Good,53.283375,-6.286596
+Dublin,635211,Portobello,Entire home/apt,101.24,14,357,1,5.0,23.0,Good,53.311186,-6.222819
+Dublin,419176,Clontarf,Entire home/apt,141.07,27,156,4,4.43,19.0,Good,53.325852,-6.201066
+Dublin,397695,Rathmines,Entire home/apt,350.0,21,33,27,4.7,33.0,Good,53.372487,-6.26369
+Dublin,723904,Rathmines,Private room,155.15,1,248,35,,35.0,Good,53.405474,-6.250755
+Dublin,972838,Clontarf,Entire home/apt,235.59,19,364,30,4.43,21.0,Good,53.299494,-6.213761
+Dublin,566802,Clontarf,Private room,149.05,16,183,48,3.95,44.0,Good,53.332321,-6.238092
+Dublin,577870,Ballsbridge,Entire home/apt,311.01,1,143,15,4.38,15.0,Good,53.377782,-6.200019
+Dublin,615012,Temple Bar,Entire home/apt,144.32,8,102,4,3.74,7.0,Good,53.35454,-6.283115
+Dublin,178029,Rathmines,Entire home/apt,250.0,21,114,18,4.56,23.0,Good,53.409311,-6.209545
+Dublin,385646,Temple Bar,Entire home/apt,82.85,2,309,2,4.03,,,53.289814,-6.274797
+Dublin,531675,Clontarf,Private room,264.7,25,10,6,4.63,31.0,Good,53.320859,-6.2826
+Dublin,106187,Phibsborough,Private room,307.64,28,214,70,3.8,21.0,Good,53.372776,-6.22145
+Dublin,289387,Rathmines,Shared room,202.33,1,346,25,4.58,12.0,Good,53.387566,-6.254447
+Dublin,378911,Ballsbridge,Entire home/apt,350.0,1,206,18,4.18,24.0,Good,53.291621,-6.245463
+Dublin,408352,Ballsbridge,Entire home/apt,130.11,8,51,23,4.03,,,53.313774,-6.2233
+Dublin,829987,Ranelagh,Entire home/apt,,2,25,61,5.0,32.0,Good,53.414881,-6.324667
+Dublin,826011,Rathmines,Entire home/apt,109.98,17,235,61,4.3,27.0,Good,53.283152,-6.301903
+Dublin,109048,Temple Bar,Hotel room,103.3,12,339,12,4.04,32.0,Good,53.384045,-6.239914
+Dublin,686444,Rathmines,Private room,174.53,29,33,27,4.84,24.0,Good,53.305528,-6.307449
+Dublin,157931,Ballsbridge,Entire home/apt,287.04,3,205,21,3.57,26.0,Good,53.316359,-6.299539
+Dublin,171876,Portobello,Entire home/apt,114.36,1,218,54,4.49,47.0,Good,53.391278,-6.202441
+Dublin,655609,Phibsborough,Shared room,219.36,2,10,7,4.54,36.0,Good,53.393556,-6.210306
+Dublin,284007,Portobello,Private room,350.0,26,236,1,3.66,31.0,Good,53.299186,-6.303836
+Dublin,417216,Temple Bar,Private room,339.7,2,298,45,3.58,29.0,Good,53.391377,-6.31744
+Dublin,671179,Ballsbridge,Entire home/apt,91.85,3,21,85,4.14,28.0,Good,53.345083,-6.264463
+Dublin,637697,Portobello,Entire home/apt,236.59,10,360,47,3.49,17.0,Good,53.36865,-6.236261
+Dublin,377387,Clontarf,Entire home/apt,120.7,12,90,7,3.77,38.0,Good,53.316683,-6.22536
+Dublin,585411,Ballsbridge,Entire home/apt,226.42,18,164,23,4.7,5.0,Good,53.28682,-6.225962
+Dublin,857969,Rathmines,Entire home/apt,345.14,1,36,17,4.67,17.0,Good,53.312857,-6.270301
+Dublin,921011,Portobello,Private room,187.51,29,125,12,4.13,27.0,Good,53.380721,-6.195539
+Dublin,890667,Ranelagh,Entire home/apt,313.01,2,289,3,,33.0,Good,53.366484,-6.270702
+Dublin,191132,Rathmines,Private room,105.92,2,78,54,3.43,,,53.320069,-6.226243
+Dublin,246688,Phibsborough,Entire home/apt,196.73,30,76,13,3.53,39.0,Good,53.384381,-6.216046
+Dublin,731281,Portobello,Entire home/apt,,8,155,46,4.13,28.0,Good,53.317715,-6.233123
+Dublin,893064,Portobello,Entire home/apt,170.74,4,182,57,5.0,22.0,Good,53.303088,-6.267193
+Dublin,380627,Ranelagh,Entire home/apt,210.49,15,122,32,3.98,16.0,Good,53.366615,-6.255543
+Dublin,861281,Phibsborough,Entire home/apt,350.0,8,144,19,4.49,14.0,Good,53.338694,-6.304746
+Dublin,809104,Phibsborough,Private room,189.82,19,185,29,5.0,25.0,Good,53.309226,-6.256421
+Dublin,173755,Rathmines,Private room,335.26,6,365,167,4.7,42.0,Good,53.366094,-6.20909
+Dublin,561525,Clontarf,Entire home/apt,261.48,1,363,6,4.01,25.0,Good,53.352953,-6.316723
+Dublin,469022,Clontarf,Private room,222.48,2,131,58,4.43,14.0,Good,53.331336,-6.319774
+Dublin,993637,Rathmines,Entire home/apt,350.0,2,267,62,3.99,20.0,Good,53.396946,-6.325207
+Dublin,162607,Docklands,Shared room,309.37,14,126,24,3.37,12.0,Good,53.313435,-6.196355
+Dublin,134484,Docklands,Entire home/apt,,27,54,63,4.75,13.0,Good,53.412293,-6.205297
+Dublin,258543,Phibsborough,Entire home/apt,86.58,2,38,25,3.8,32.0,Good,53.300061,-6.209456
+Dublin,241496,Ballsbridge,Entire home/apt,84.31,18,161,30,4.04,35.0,Good,53.354186,-6.265164
+Dublin,967541,Portobello,Hotel room,236.61,26,274,39,4.77,14.0,Good,53.341256,-6.305078
+Dublin,739971,Phibsborough,Entire home/apt,179.22,23,144,3,3.6,25.0,Good,53.320095,-6.192757
+Dublin,695059,Phibsborough,Private room,294.13,6,107,0,3.99,25.0,Good,53.296244,-6.207849
+Dublin,377936,Ranelagh,Entire home/apt,350.0,17,146,0,4.77,19.0,Good,53.394774,-6.328557
+Dublin,568984,Phibsborough,Hotel room,71.04,5,64,71,,22.0,Good,53.413801,-6.291502
+Dublin,406273,Docklands,Private room,350.0,4,250,83,,35.0,Good,53.338987,-6.2078
+Dublin,372937,Phibsborough,Entire home/apt,350.0,11,247,32,4.42,23.0,Good,53.415043,-6.221964
+Dublin,153115,Portobello,Entire home/apt,350.0,2,156,9,4.68,11.0,Good,53.334492,-6.277063
+Dublin,901141,Phibsborough,Entire home/apt,236.35,3,125,4,,24.0,Good,53.302442,-6.231578
+Dublin,940773,Phibsborough,Private room,261.82,1,358,54,4.62,34.0,Good,53.354297,-6.274964
+Dublin,566479,Ballsbridge,Private room,146.1,22,212,76,,17.0,Good,53.355035,-6.222165
+Dublin,973779,Temple Bar,Shared room,,3,209,10,4.32,26.0,Good,53.340249,-6.329184
+Dublin,341028,Portobello,Shared room,148.57,2,335,5,3.55,22.0,Good,53.283125,-6.312309
+Dublin,326870,Temple Bar,Entire home/apt,128.76,10,64,23,4.2,29.0,Good,53.353594,-6.288079
+Dublin,676585,Rathmines,Entire home/apt,171.61,19,55,54,4.57,22.0,Good,53.315214,-6.197481
+Dublin,222884,Temple Bar,Entire home/apt,264.21,4,297,49,4.43,18.0,Good,53.331601,-6.253946
+Dublin,584221,Phibsborough,Entire home/apt,183.67,10,258,1,5.0,11.0,Good,53.382521,-6.275313
+Dublin,882056,Docklands,Entire home/apt,163.41,17,46,16,3.96,18.0,Good,53.388302,-6.322983
+Dublin,916408,Temple Bar,Private room,111.79,11,154,158,4.58,25.0,Good,53.311556,-6.287835
+Dublin,844298,Clontarf,Entire home/apt,283.51,2,125,57,3.76,,,53.30682,-6.231291
+Dublin,318908,Rathmines,Private room,,22,356,1,3.8,33.0,Good,53.369223,-6.238396
+Dublin,628021,Docklands,Entire home/apt,114.62,22,202,180,4.42,22.0,Good,53.341601,-6.261784
+Dublin,716278,Ranelagh,Entire home/apt,350.0,10,252,32,4.02,30.0,Good,53.388559,-6.30989
+Dublin,517914,Ballsbridge,Private room,155.44,9,3,15,4.39,7.0,Good,53.336413,-6.311746
+Dublin,927025,Ballsbridge,Entire home/apt,350.0,19,9,38,4.43,20.0,Good,53.382596,-6.226877
+Dublin,973463,Temple Bar,Shared room,250.51,11,170,8,5.0,12.0,Good,53.377966,-6.329045
+Dublin,884952,Phibsborough,Private room,118.58,1,125,20,4.3,26.0,Good,53.303071,-6.200413
+Dublin,494061,Docklands,Hotel room,174.04,2,206,96,4.02,22.0,Good,53.302283,-6.219501
+Dublin,337209,Rathmines,Shared room,96.94,17,269,59,5.0,32.0,Good,53.309506,-6.248884
+Dublin,856132,Rathmines,Shared room,191.29,3,273,3,4.37,23.0,Good,53.332903,-6.202463
+Dublin,479475,Temple Bar,Entire home/apt,,29,114,29,4.3,32.0,Good,53.352304,-6.249076
+Dublin,510899,Ballsbridge,Entire home/apt,84.66,1,209,78,4.05,36.0,Good,53.396357,-6.310919
+Dublin,589253,Phibsborough,Entire home/apt,,1,86,7,4.41,17.0,Good,53.344102,-6.21502
+Dublin,346759,Phibsborough,Entire home/apt,278.61,24,91,83,2.65,20.0,Good,53.324351,-6.233532
+Dublin,996856,Ranelagh,Entire home/apt,,21,233,58,4.98,20.0,Good,53.292307,-6.253353
+Dublin,482412,Ballsbridge,Private room,350.0,15,114,60,4.1,29.0,Good,53.348974,-6.235402
+Dublin,257091,Ranelagh,Private room,211.74,3,50,68,,24.0,Good,53.386323,-6.20843
+Dublin,917321,Ranelagh,Entire home/apt,292.63,19,102,72,4.45,22.0,Good,53.347693,-6.259534
+Dublin,173484,Docklands,Private room,127.3,6,260,12,3.04,14.0,Good,53.335247,-6.243167
+Dublin,852614,Ballsbridge,Entire home/apt,152.44,17,172,5,4.24,,,53.349147,-6.195366
+Dublin,918309,Rathmines,Shared room,277.51,2,196,13,4.04,39.0,Good,53.374589,-6.318811
+Dublin,189397,Ballsbridge,Private room,159.79,18,289,101,,,,53.397229,-6.264355
+Dublin,662798,Ballsbridge,Private room,349.44,1,173,9,4.48,32.0,Good,53.336102,-6.196075
+Dublin,605160,Docklands,Hotel room,173.5,2,180,136,4.43,25.0,Good,53.376395,-6.213452
+Dublin,843006,Clontarf,Private room,126.1,5,160,2,5.0,22.0,Good,53.28574,-6.2036
+Dublin,461843,Temple Bar,Entire home/apt,111.95,29,267,98,4.04,18.0,Good,53.38291,-6.203295
+Dublin,362542,Clontarf,Entire home/apt,217.36,12,306,7,3.89,6.0,Good,53.399076,-6.266068
+Dublin,794670,Clontarf,Entire home/apt,262.47,15,134,26,4.76,18.0,Good,53.360718,-6.206215
+Dublin,184237,Ballsbridge,Entire home/apt,175.84,19,108,18,5.0,20.0,Good,53.378669,-6.208223
+Dublin,319845,Temple Bar,Entire home/apt,76.1,25,62,3,4.21,16.0,Good,53.364008,-6.327247
+Dublin,804657,Ranelagh,Entire home/apt,261.78,2,83,34,4.71,29.0,Good,53.2948,-6.25747
+Dublin,155927,Temple Bar,Hotel room,246.79,13,319,33,4.46,27.0,Good,53.35859,-6.215631
+Dublin,779556,Phibsborough,Entire home/apt,321.77,3,125,4,3.88,29.0,Good,53.376744,-6.22218
+Dublin,414024,Ranelagh,Private room,,25,85,18,4.62,26.0,Good,53.418137,-6.283526
+Dublin,598304,Phibsborough,Entire home/apt,300.0,9,248,48,3.58,20.0,Good,53.357853,-6.208536
+Dublin,901494,Rathmines,Entire home/apt,350.0,24,296,165,4.48,27.0,Good,53.350866,-6.241848
+Dublin,202455,Temple Bar,Entire home/apt,239.08,25,139,2,3.83,,,53.402399,-6.323755
+Dublin,424130,Portobello,Entire home/apt,114.32,28,204,70,4.18,16.0,Good,53.356983,-6.208388
+Dublin,509086,Ballsbridge,Entire home/apt,171.03,30,347,41,4.58,,,53.353353,-6.213254
+Dublin,609532,Rathmines,Entire home/apt,282.23,23,211,23,4.04,37.0,Good,53.328491,-6.324107
+Dublin,526668,Clontarf,Hotel room,129.68,6,220,4,4.66,18.0,Good,53.321676,-6.314537
+Dublin,509464,Portobello,Entire home/apt,350.0,4,333,3,4.65,23.0,Good,53.330928,-6.296927
+Dublin,752256,Phibsborough,Entire home/apt,332.01,1,231,14,3.69,32.0,Good,53.365962,-6.300786
+Dublin,652000,Docklands,Shared room,165.95,15,244,65,4.4,31.0,Good,53.34185,-6.281963
+Dublin,858112,Temple Bar,Hotel room,308.34,14,334,42,4.41,27.0,Good,53.383414,-6.237192
+Dublin,473757,Docklands,Private room,177.22,4,103,1,4.93,25.0,Good,53.304074,-6.228545
+Dublin,343691,Portobello,Private room,151.41,13,209,85,4.38,18.0,Good,53.327862,-6.234597
+Dublin,143484,Portobello,Entire home/apt,266.87,6,275,81,4.28,,,53.372556,-6.226653
+Dublin,382132,Clontarf,Entire home/apt,274.66,7,126,104,4.47,12.0,Good,53.377399,-6.287319
+Dublin,876668,Ballsbridge,Entire home/apt,171.61,13,191,4,4.26,17.0,Good,53.316304,-6.273493
+Dublin,252320,Portobello,Entire home/apt,325.07,2,284,22,4.27,12.0,Good,53.392468,-6.320207
+Dublin,182292,Portobello,Shared room,129.3,30,247,46,4.29,28.0,Good,53.37036,-6.301523
+Dublin,305581,Ballsbridge,Hotel room,316.93,17,286,6,4.64,15.0,Good,53.307351,-6.306007
+Dublin,781182,Temple Bar,Hotel room,231.59,13,66,222,5.0,25.0,Good,53.413537,-6.3121
+Dublin,564807,Clontarf,Shared room,79.35,23,333,18,3.9,22.0,Good,53.318384,-6.320138
+Dublin,220054,Clontarf,Private room,140.29,13,290,8,4.44,30.0,Good,53.398142,-6.215795
+Dublin,745729,Ranelagh,Hotel room,350.0,28,190,39,4.53,32.0,Good,53.323933,-6.219216
+Dublin,694577,Docklands,Entire home/apt,127.74,4,226,2,4.08,,,53.316174,-6.262249
+Dublin,284102,Clontarf,Private room,285.59,2,363,0,,16.0,Good,53.282918,-6.261295
+Dublin,259366,Temple Bar,Shared room,168.47,3,70,37,4.21,35.0,Good,53.366906,-6.278919
+Dublin,383744,Ranelagh,Entire home/apt,220.86,18,4,13,4.95,28.0,Good,53.304155,-6.302966
+Dublin,314572,Docklands,Entire home/apt,157.46,24,251,5,,18.0,Good,53.356142,-6.219584
+Dublin,477278,Docklands,Entire home/apt,193.39,3,69,12,4.21,37.0,Good,53.288403,-6.282549
+Dublin,820294,Docklands,Private room,100.87,3,348,12,4.33,27.0,Good,53.293067,-6.197097
+Dublin,109480,Portobello,Entire home/apt,322.89,16,342,133,4.34,34.0,Good,53.352524,-6.233093
+Dublin,768403,Phibsborough,Entire home/apt,272.59,14,197,45,3.21,14.0,Good,53.320267,-6.213909
+Dublin,797485,Ballsbridge,Entire home/apt,350.0,9,73,69,5.0,16.0,Good,53.372063,-6.244015
+Dublin,598441,Portobello,Hotel room,165.68,25,339,6,5.0,28.0,Good,53.313329,-6.317367
+Dublin,344787,Docklands,Entire home/apt,204.23,24,95,21,4.83,27.0,Good,53.345628,-6.211552
+Dublin,241254,Temple Bar,Shared room,102.22,15,282,11,5.0,25.0,Good,53.286291,-6.277444
+Dublin,358213,Clontarf,Entire home/apt,244.4,24,214,31,4.06,40.0,Good,53.419166,-6.302386
+Dublin,579895,Clontarf,Private room,200.85,28,8,52,,11.0,Good,53.312151,-6.228794
+Dublin,726393,Temple Bar,Private room,350.0,5,88,60,,25.0,Good,53.38219,-6.234466
+Dublin,108322,Temple Bar,Entire home/apt,206.65,2,308,22,,30.0,Good,53.40911,-6.244093
+Dublin,308866,Rathmines,Entire home/apt,111.68,5,21,6,4.42,13.0,Good,53.325125,-6.272512
+Dublin,857535,Ranelagh,Shared room,261.3,1,226,0,3.29,24.0,Good,53.391018,-6.287797
+Dublin,350126,Temple Bar,Entire home/apt,140.48,10,25,0,4.28,27.0,Good,53.335575,-6.27088
+Dublin,419696,Rathmines,Entire home/apt,347.18,8,64,14,4.07,20.0,Good,53.368142,-6.27972
+Dublin,112762,Clontarf,Entire home/apt,179.29,12,15,9,4.55,26.0,Good,53.338497,-6.328082
+Dublin,934294,Portobello,Private room,172.8,13,5,5,5.0,18.0,Good,53.37419,-6.308675
+Dublin,155966,Phibsborough,Entire home/apt,140.94,2,256,40,5.0,30.0,Good,53.380806,-6.319564
+Dublin,205760,Temple Bar,Private room,350.0,25,289,20,4.14,22.0,Good,53.316865,-6.279365
+Dublin,975876,Clontarf,Shared room,258.69,18,103,68,3.85,30.0,Good,53.325274,-6.320837
+Dublin,174357,Rathmines,Entire home/apt,238.64,2,206,96,5.0,26.0,Good,53.284121,-6.225405
+Dublin,129882,Portobello,Entire home/apt,304.05,19,103,0,4.8,37.0,Good,53.31279,-6.294993
+Dublin,372898,Rathmines,Entire home/apt,101.52,2,11,2,4.25,27.0,Good,53.377882,-6.300221
+Dublin,189561,Ballsbridge,Private room,154.74,16,246,15,4.71,14.0,Good,53.414433,-6.32399
+Dublin,103170,Rathmines,Entire home/apt,70.0,7,247,28,4.91,29.0,Good,53.312682,-6.215648
+Dublin,713053,Phibsborough,Private room,207.45,21,67,34,4.7,,,53.39447,-6.277354
+Dublin,111539,Ballsbridge,Shared room,350.0,6,13,6,3.83,27.0,Good,53.391078,-6.276936
+Dublin,304395,Docklands,Entire home/apt,350.0,23,208,21,5.0,31.0,Good,53.355146,-6.308482
+Dublin,315312,Temple Bar,Entire home/apt,189.72,28,187,37,4.62,34.0,Good,53.337934,-6.233031
+Dublin,195060,Rathmines,Private room,169.66,15,293,42,4.25,41.0,Good,53.286078,-6.223346
+Dublin,835969,Phibsborough,Private room,164.68,21,4,16,4.26,16.0,Good,53.359505,-6.198744
+Dublin,319507,Rathmines,Entire home/apt,85.14,1,30,28,5.0,,,53.372835,-6.301491
+Dublin,871170,Clontarf,Private room,,2,326,63,4.77,,,53.314776,-6.281249
+Dublin,374700,Phibsborough,Entire home/apt,149.29,19,26,15,4.69,25.0,Good,53.412283,-6.295909
+Dublin,360022,Temple Bar,Private room,,1,279,64,4.37,,,53.318255,-6.235574
+Dublin,982716,Rathmines,Private room,299.74,1,290,24,3.03,,,53.388192,-6.277665
+Dublin,529461,Portobello,Entire home/apt,193.04,4,336,25,3.83,23.0,Good,53.405879,-6.322572
+Dublin,751866,Ranelagh,Private room,264.17,21,185,36,,33.0,Good,53.351248,-6.261559
+Dublin,994839,Phibsborough,Entire home/apt,317.46,1,210,10,5.0,34.0,Good,53.280314,-6.320166

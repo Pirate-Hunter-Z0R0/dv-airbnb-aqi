@@ -1,0 +1,461 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Shanghai,479253,Jing'an,Private room,1102.93,30,282,2,3.99,118.0,Unhealthy for Sensitive Groups,31.178811,121.414226
+Shanghai,810459,Huangpu,Private room,1540.04,3,296,1,3.94,179.0,Unhealthy,31.248098,121.52111
+Shanghai,735391,French Concession,Entire home/apt,1450.47,17,287,20,4.66,72.0,Moderate,31.219078,121.46839
+Shanghai,285400,French Concession,Entire home/apt,1119.62,1,158,28,4.29,99.0,Moderate,31.203019,121.452649
+Shanghai,214474,Changning,Private room,2000.0,30,348,2,4.41,59.0,Moderate,31.258643,121.44816
+Shanghai,361623,Changning,Entire home/apt,2000.0,11,315,66,4.36,160.0,Unhealthy,31.258763,121.515005
+Shanghai,131479,French Concession,Entire home/apt,1648.27,26,233,62,3.06,171.0,Unhealthy,31.20426,121.514293
+Shanghai,399968,Hongkou,Private room,2000.0,26,214,17,4.65,109.0,Unhealthy for Sensitive Groups,31.278909,121.510655
+Shanghai,612391,Changning,Entire home/apt,1658.94,2,254,26,5.0,87.0,Moderate,31.194198,121.476029
+Shanghai,154008,Xuhui,Entire home/apt,658.41,1,172,6,3.94,146.0,Unhealthy for Sensitive Groups,31.265264,121.489802
+Shanghai,301173,Xuhui,Private room,1725.64,19,70,4,4.02,76.0,Moderate,31.17524,121.439082
+Shanghai,810706,Xuhui,Shared room,2000.0,15,320,3,4.0,78.0,Moderate,31.183794,121.451367
+Shanghai,987165,Bund,Entire home/apt,948.46,3,186,11,4.63,91.0,Moderate,31.251266,121.504897
+Shanghai,733495,Huangpu,Private room,1065.37,23,42,62,3.55,122.0,Unhealthy for Sensitive Groups,31.207097,121.4299
+Shanghai,231097,Bund,Entire home/apt,1485.5,30,40,57,4.72,100.0,Moderate,31.215863,121.44027
+Shanghai,539882,Bund,Hotel room,2000.0,14,282,0,4.17,70.0,Moderate,31.171169,121.521762
+Shanghai,717771,Jing'an,Private room,861.83,2,176,17,4.8,160.0,Unhealthy,31.187133,121.44861
+Shanghai,461658,French Concession,Entire home/apt,899.65,1,42,13,4.52,118.0,Unhealthy for Sensitive Groups,31.286362,121.520474
+Shanghai,676696,Xuhui,Private room,739.81,9,150,65,4.56,84.0,Moderate,31.181329,121.464142
+Shanghai,401360,Bund,Private room,854.02,12,320,10,4.55,135.0,Unhealthy for Sensitive Groups,31.200299,121.415852
+Shanghai,422754,Xuhui,Entire home/apt,,3,47,2,3.48,62.0,Moderate,31.205796,121.527384
+Shanghai,553294,Jing'an,Private room,485.72,4,69,3,4.59,127.0,Unhealthy for Sensitive Groups,31.252519,121.532745
+Shanghai,859190,Hongkou,Entire home/apt,1034.05,24,236,1,5.0,161.0,Unhealthy,31.183581,121.436899
+Shanghai,626586,Pudong,Entire home/apt,918.12,2,295,4,4.89,195.0,Unhealthy,31.191155,121.409415
+Shanghai,249551,Jing'an,Private room,707.32,28,202,15,4.16,67.0,Moderate,31.231133,121.531943
+Shanghai,969608,Changning,Entire home/apt,1338.71,1,209,25,4.63,158.0,Unhealthy,31.298198,121.470393
+Shanghai,552410,Huangpu,Private room,799.72,29,298,13,3.57,140.0,Unhealthy for Sensitive Groups,31.213232,121.43214
+Shanghai,418969,Xuhui,Private room,2000.0,28,91,64,4.57,98.0,Moderate,31.222815,121.488417
+Shanghai,798519,Xuhui,Entire home/apt,2000.0,28,86,184,4.1,120.0,Unhealthy for Sensitive Groups,31.291573,121.406198
+Shanghai,851094,Changning,Private room,983.65,7,67,4,4.04,124.0,Unhealthy for Sensitive Groups,31.180174,121.448847
+Shanghai,601412,Huangpu,Entire home/apt,1460.68,1,177,2,3.52,127.0,Unhealthy for Sensitive Groups,31.233946,121.427118
+Shanghai,386630,Huangpu,Hotel room,1516.89,22,204,4,4.76,,,31.238803,121.526008
+Shanghai,828308,Changning,Entire home/apt,760.2,27,96,29,3.56,99.0,Moderate,31.199687,121.448362
+Shanghai,629637,Xuhui,Entire home/apt,946.21,25,167,8,4.49,132.0,Unhealthy for Sensitive Groups,31.248102,121.408443
+Shanghai,820185,Pudong,Entire home/apt,1768.7,15,165,24,3.99,52.0,Moderate,31.28539,121.508847
+Shanghai,573712,Jing'an,Entire home/apt,1426.44,24,270,13,,126.0,Unhealthy for Sensitive Groups,31.209753,121.470342
+Shanghai,153038,Changning,Private room,1023.51,3,55,11,4.98,98.0,Moderate,31.17515,121.419451
+Shanghai,770462,Jing'an,Entire home/apt,711.04,17,30,81,4.31,105.0,Unhealthy for Sensitive Groups,31.287221,121.520096
+Shanghai,466466,Pudong,Private room,1218.15,27,271,80,4.26,,,31.228588,121.439752
+Shanghai,617530,Huangpu,Private room,952.7,29,227,15,3.57,90.0,Moderate,31.191271,121.453656
+Shanghai,930586,Xuhui,Private room,1501.41,1,62,21,4.58,96.0,Moderate,31.232453,121.492147
+Shanghai,271276,Jing'an,Entire home/apt,792.39,16,27,6,3.89,127.0,Unhealthy for Sensitive Groups,31.204653,121.448429
+Shanghai,312253,French Concession,Entire home/apt,,18,114,13,4.26,85.0,Moderate,31.256477,121.485709
+Shanghai,177090,Hongkou,Private room,1223.03,21,1,26,3.19,101.0,Unhealthy for Sensitive Groups,31.209456,121.469555
+Shanghai,484856,Huangpu,Entire home/apt,1006.59,27,72,42,4.09,58.0,Moderate,31.266371,121.515865
+Shanghai,539575,Hongkou,Entire home/apt,1256.14,2,296,165,4.75,92.0,Moderate,31.278628,121.421603
+Shanghai,378519,Xuhui,Private room,919.09,2,328,0,4.05,84.0,Moderate,31.290753,121.514938
+Shanghai,918665,Jing'an,Hotel room,320.28,15,59,9,,125.0,Unhealthy for Sensitive Groups,31.216472,121.468247
+Shanghai,825779,Xuhui,Entire home/apt,1111.34,12,280,13,4.07,130.0,Unhealthy for Sensitive Groups,31.291315,121.497227
+Shanghai,281631,Huangpu,Entire home/apt,734.9,16,349,2,4.65,118.0,Unhealthy for Sensitive Groups,31.170164,121.537834
+Shanghai,517442,Changning,Private room,1790.13,3,241,7,4.55,100.0,Moderate,31.267097,121.464543
+Shanghai,579420,Huangpu,Private room,1598.2,30,295,12,4.82,135.0,Unhealthy for Sensitive Groups,31.243057,121.473426
+Shanghai,194561,Pudong,Private room,778.07,5,254,19,5.0,,,31.275194,121.529094
+Shanghai,833291,Huangpu,Entire home/apt,,23,274,34,4.44,81.0,Moderate,31.244316,121.439313
+Shanghai,220221,French Concession,Entire home/apt,838.26,17,240,62,4.61,108.0,Unhealthy for Sensitive Groups,31.247962,121.448208
+Shanghai,764569,Hongkou,Entire home/apt,422.91,13,235,75,4.13,79.0,Moderate,31.206487,121.496788
+Shanghai,331301,Pudong,Entire home/apt,868.95,8,129,12,4.37,146.0,Unhealthy for Sensitive Groups,31.205911,121.513753
+Shanghai,908492,Changning,Private room,1033.09,17,337,68,4.05,104.0,Unhealthy for Sensitive Groups,31.240172,121.453746
+Shanghai,749430,French Concession,Entire home/apt,915.35,15,67,8,4.78,48.0,Good,31.271812,121.458524
+Shanghai,817519,Xuhui,Entire home/apt,1660.41,1,365,42,3.5,104.0,Unhealthy for Sensitive Groups,31.243918,121.523737
+Shanghai,297756,Jing'an,Entire home/apt,676.47,17,261,9,4.41,75.0,Moderate,31.236339,121.49044
+Shanghai,492307,Huangpu,Entire home/apt,583.49,9,83,5,4.39,70.0,Moderate,31.222867,121.519787
+Shanghai,122440,Xuhui,Entire home/apt,1630.38,13,330,4,4.69,138.0,Unhealthy for Sensitive Groups,31.234728,121.434485
+Shanghai,229123,Changning,Private room,1327.51,4,355,36,4.53,58.0,Moderate,31.233263,121.528985
+Shanghai,129785,Huangpu,Private room,890.93,22,73,21,4.82,65.0,Moderate,31.291383,121.535393
+Shanghai,703856,Bund,Private room,2000.0,21,342,52,4.14,188.0,Unhealthy,31.165582,121.435305
+Shanghai,720566,Hongkou,Entire home/apt,1179.38,3,89,137,4.38,128.0,Unhealthy for Sensitive Groups,31.295176,121.523675
+Shanghai,301283,Changning,Hotel room,427.95,22,67,23,3.92,118.0,Unhealthy for Sensitive Groups,31.290573,121.433399
+Shanghai,365810,Huangpu,Entire home/apt,712.62,10,257,54,3.79,136.0,Unhealthy for Sensitive Groups,31.176064,121.499064
+Shanghai,272729,Hongkou,Private room,,14,254,45,3.85,90.0,Moderate,31.176285,121.429802
+Shanghai,389860,Pudong,Entire home/apt,562.84,11,297,55,4.17,116.0,Unhealthy for Sensitive Groups,31.196354,121.444334
+Shanghai,197922,Hongkou,Entire home/apt,1277.44,16,85,63,4.75,118.0,Unhealthy for Sensitive Groups,31.239256,121.414468
+Shanghai,485054,Xuhui,Hotel room,1395.13,9,249,47,4.41,95.0,Moderate,31.237299,121.421867
+Shanghai,102257,Pudong,Entire home/apt,1248.03,15,221,19,3.97,95.0,Moderate,31.220148,121.438126
+Shanghai,932105,Xuhui,Private room,1520.24,23,120,6,4.58,112.0,Unhealthy for Sensitive Groups,31.226777,121.508374
+Shanghai,804589,Bund,Entire home/apt,707.15,21,297,18,3.58,92.0,Moderate,31.1941,121.46661
+Shanghai,757562,Changning,Private room,1988.97,2,263,68,5.0,138.0,Unhealthy for Sensitive Groups,31.209793,121.475097
+Shanghai,920770,French Concession,Entire home/apt,629.31,10,208,15,4.17,105.0,Unhealthy for Sensitive Groups,31.170972,121.481139
+Shanghai,899736,Jing'an,Entire home/apt,1461.7,3,342,44,3.82,82.0,Moderate,31.212942,121.411852
+Shanghai,203373,Xuhui,Entire home/apt,1393.84,19,275,21,4.45,78.0,Moderate,31.200055,121.541902
+Shanghai,372884,Pudong,Entire home/apt,1169.82,1,71,18,3.97,98.0,Moderate,31.22057,121.43408
+Shanghai,953555,Xuhui,Entire home/apt,,5,5,37,,112.0,Unhealthy for Sensitive Groups,31.171724,121.437476
+Shanghai,260031,Huangpu,Entire home/apt,482.34,4,86,57,3.69,141.0,Unhealthy for Sensitive Groups,31.284941,121.506509
+Shanghai,949114,Hongkou,Entire home/apt,1618.21,1,222,11,4.28,70.0,Moderate,31.214566,121.459159
+Shanghai,344373,Jing'an,Entire home/apt,829.68,1,236,1,4.8,155.0,Unhealthy,31.206874,121.524162
+Shanghai,555601,French Concession,Entire home/apt,1088.83,1,356,34,5.0,99.0,Moderate,31.173367,121.460499
+Shanghai,323341,Bund,Entire home/apt,1065.38,4,208,0,,49.0,Good,31.225459,121.440688
+Shanghai,421435,Hongkou,Private room,1264.39,23,149,8,3.69,103.0,Unhealthy for Sensitive Groups,31.211552,121.501842
+Shanghai,170014,Changning,Entire home/apt,726.69,1,64,35,3.64,50.0,Good,31.208027,121.479846
+Shanghai,566887,Huangpu,Private room,2000.0,28,351,21,4.83,,,31.219492,121.515145
+Shanghai,394633,Jing'an,Private room,744.7,28,206,28,3.43,125.0,Unhealthy for Sensitive Groups,31.281267,121.411428
+Shanghai,419383,Changning,Private room,1779.44,2,274,82,4.45,103.0,Unhealthy for Sensitive Groups,31.276284,121.457058
+Shanghai,563652,Huangpu,Private room,1177.78,26,334,1,3.79,131.0,Unhealthy for Sensitive Groups,31.246462,121.423037
+Shanghai,560969,Jing'an,Entire home/apt,1498.92,1,78,0,4.83,149.0,Unhealthy for Sensitive Groups,31.242693,121.428484
+Shanghai,255731,Hongkou,Entire home/apt,899.92,2,234,8,3.95,,,31.282131,121.47809
+Shanghai,267260,Hongkou,Entire home/apt,510.67,30,29,13,4.02,131.0,Unhealthy for Sensitive Groups,31.255883,121.484538
+Shanghai,796692,Pudong,Entire home/apt,765.8,25,150,69,3.8,99.0,Moderate,31.270705,121.51614
+Shanghai,992485,Hongkou,Entire home/apt,1110.98,2,35,13,4.04,164.0,Unhealthy,31.181903,121.534086
+Shanghai,957043,Pudong,Shared room,1395.31,15,227,87,4.04,114.0,Unhealthy for Sensitive Groups,31.191477,121.499672
+Shanghai,933273,Changning,Private room,1627.12,1,47,96,3.72,146.0,Unhealthy for Sensitive Groups,31.228962,121.515622
+Shanghai,883342,Hongkou,Entire home/apt,1785.98,1,45,15,4.62,147.0,Unhealthy for Sensitive Groups,31.224576,121.437634
+Shanghai,392226,Changning,Entire home/apt,1380.37,26,122,71,4.52,100.0,Moderate,31.193233,121.516675
+Shanghai,653734,French Concession,Entire home/apt,1001.56,22,103,29,4.06,131.0,Unhealthy for Sensitive Groups,31.261097,121.443157
+Shanghai,703293,Xuhui,Entire home/apt,636.99,2,247,6,4.05,153.0,Unhealthy,31.225299,121.527469
+Shanghai,584832,French Concession,Entire home/apt,1393.72,16,352,64,3.59,108.0,Unhealthy for Sensitive Groups,31.214736,121.477178
+Shanghai,923710,Xuhui,Entire home/apt,2000.0,22,154,3,4.46,133.0,Unhealthy for Sensitive Groups,31.164499,121.522651
+Shanghai,460039,Hongkou,Shared room,1281.89,18,127,123,4.01,54.0,Moderate,31.205409,121.486823
+Shanghai,451571,Xuhui,Entire home/apt,2000.0,1,266,143,3.24,147.0,Unhealthy for Sensitive Groups,31.289613,121.54296
+Shanghai,710443,Pudong,Shared room,,2,186,17,4.01,71.0,Moderate,31.24323,121.421422
+Shanghai,407132,Pudong,Entire home/apt,2000.0,3,172,77,4.52,70.0,Moderate,31.206057,121.414519
+Shanghai,985507,Bund,Private room,1927.3,2,346,2,4.83,154.0,Unhealthy,31.19645,121.423938
+Shanghai,916818,Jing'an,Entire home/apt,908.76,5,130,6,4.14,167.0,Unhealthy,31.210076,121.433024
+Shanghai,499012,Pudong,Private room,1639.68,26,179,14,5.0,97.0,Moderate,31.230755,121.4396
+Shanghai,552029,Hongkou,Entire home/apt,1409.52,21,196,26,4.04,137.0,Unhealthy for Sensitive Groups,31.229658,121.502721
+Shanghai,379692,Jing'an,Entire home/apt,1378.69,12,198,3,3.98,79.0,Moderate,31.286397,121.501954
+Shanghai,781126,French Concession,Entire home/apt,1492.75,25,316,2,4.62,139.0,Unhealthy for Sensitive Groups,31.18734,121.461179
+Shanghai,738385,Huangpu,Entire home/apt,896.06,23,131,30,4.33,95.0,Moderate,31.270658,121.447829
+Shanghai,746212,Changning,Entire home/apt,1466.77,25,195,4,4.53,142.0,Unhealthy for Sensitive Groups,31.187245,121.487618
+Shanghai,977172,Bund,Entire home/apt,,1,346,26,,81.0,Moderate,31.20554,121.406184
+Shanghai,513348,French Concession,Entire home/apt,596.11,20,169,15,4.73,120.0,Unhealthy for Sensitive Groups,31.277891,121.461856
+Shanghai,983403,Changning,Entire home/apt,368.56,14,21,31,,,,31.281015,121.460455
+Shanghai,208362,French Concession,Entire home/apt,1585.11,2,266,9,4.09,111.0,Unhealthy for Sensitive Groups,31.17489,121.537851
+Shanghai,804987,Hongkou,Entire home/apt,1267.76,6,209,50,3.92,113.0,Unhealthy for Sensitive Groups,31.276894,121.477829
+Shanghai,181395,Jing'an,Entire home/apt,1344.09,12,107,13,4.47,100.0,Moderate,31.228575,121.431224
+Shanghai,170550,Jing'an,Entire home/apt,1393.82,4,265,58,,159.0,Unhealthy,31.248213,121.533706
+Shanghai,857175,Xuhui,Private room,2000.0,14,155,29,3.41,111.0,Unhealthy for Sensitive Groups,31.183206,121.455403
+Shanghai,863107,Hongkou,Entire home/apt,851.68,20,199,83,3.7,37.0,Good,31.199625,121.528577
+Shanghai,994970,Changning,Entire home/apt,475.98,13,83,29,5.0,102.0,Unhealthy for Sensitive Groups,31.250408,121.543461
+Shanghai,708650,Hongkou,Hotel room,2000.0,6,81,43,4.26,120.0,Unhealthy for Sensitive Groups,31.264058,121.429274
+Shanghai,709239,Pudong,Entire home/apt,611.99,2,363,7,,97.0,Moderate,31.288365,121.461533
+Shanghai,497754,French Concession,Entire home/apt,724.27,16,161,0,4.72,103.0,Unhealthy for Sensitive Groups,31.275194,121.453555
+Shanghai,224218,Jing'an,Shared room,1409.66,3,28,47,,104.0,Unhealthy for Sensitive Groups,31.229844,121.469736
+Shanghai,561856,Bund,Private room,779.51,1,215,4,4.5,135.0,Unhealthy for Sensitive Groups,31.242783,121.460385
+Shanghai,911534,Pudong,Private room,1718.78,26,152,90,4.39,179.0,Unhealthy,31.262451,121.520203
+Shanghai,664003,Bund,Entire home/apt,1487.15,1,128,7,3.52,111.0,Unhealthy for Sensitive Groups,31.198468,121.424663
+Shanghai,919880,Hongkou,Entire home/apt,679.3,17,321,87,,67.0,Moderate,31.165099,121.475152
+Shanghai,406745,Bund,Entire home/apt,476.58,15,291,30,4.78,133.0,Unhealthy for Sensitive Groups,31.217758,121.404639
+Shanghai,160500,Hongkou,Private room,694.38,14,252,26,4.86,114.0,Unhealthy for Sensitive Groups,31.283697,121.522718
+Shanghai,241534,Huangpu,Entire home/apt,2000.0,1,312,2,4.48,80.0,Moderate,31.170712,121.522079
+Shanghai,656212,Bund,Entire home/apt,945.46,3,241,89,3.61,112.0,Unhealthy for Sensitive Groups,31.210929,121.435585
+Shanghai,697617,Bund,Private room,361.78,14,91,114,3.67,108.0,Unhealthy for Sensitive Groups,31.242976,121.454903
+Shanghai,499561,Huangpu,Private room,1737.06,21,176,2,4.11,95.0,Moderate,31.25916,121.454646
+Shanghai,630801,Huangpu,Entire home/apt,1454.27,17,329,47,5.0,65.0,Moderate,31.181438,121.472205
+Shanghai,651353,Hongkou,Entire home/apt,1175.3,30,215,47,4.1,98.0,Moderate,31.166365,121.444302
+Shanghai,998953,Huangpu,Private room,1245.87,2,73,56,5.0,,,31.198474,121.484946
+Shanghai,774415,Hongkou,Entire home/apt,1328.79,30,53,33,,122.0,Unhealthy for Sensitive Groups,31.234115,121.537285
+Shanghai,415838,Changning,Entire home/apt,423.41,21,268,52,4.24,120.0,Unhealthy for Sensitive Groups,31.266694,121.505644
+Shanghai,573980,Xuhui,Private room,928.8,11,7,68,5.0,80.0,Moderate,31.261059,121.424556
+Shanghai,155936,Pudong,Hotel room,,19,313,2,4.14,175.0,Unhealthy,31.280064,121.524811
+Shanghai,256422,Bund,Entire home/apt,1674.08,2,239,1,4.22,105.0,Unhealthy for Sensitive Groups,31.222964,121.471565
+Shanghai,774400,French Concession,Private room,1954.16,4,255,87,3.73,78.0,Moderate,31.176713,121.423858
+Shanghai,743598,Hongkou,Entire home/apt,960.67,5,7,177,3.91,125.0,Unhealthy for Sensitive Groups,31.195451,121.496196
+Shanghai,998771,Changning,Private room,,11,185,2,,98.0,Moderate,31.284473,121.443104
+Shanghai,443168,French Concession,Private room,,7,27,36,3.96,106.0,Unhealthy for Sensitive Groups,31.253033,121.455636
+Shanghai,577383,Jing'an,Private room,742.28,2,70,24,3.84,118.0,Unhealthy for Sensitive Groups,31.24269,121.410464
+Shanghai,460483,French Concession,Entire home/apt,1538.13,2,361,46,4.71,145.0,Unhealthy for Sensitive Groups,31.278277,121.488865
+Shanghai,754363,Huangpu,Entire home/apt,1772.4,19,95,11,4.77,120.0,Unhealthy for Sensitive Groups,31.267027,121.415238
+Shanghai,972617,Huangpu,Private room,1284.45,4,72,0,3.97,71.0,Moderate,31.263901,121.408775
+Shanghai,511608,Huangpu,Entire home/apt,1093.85,15,326,21,4.84,114.0,Unhealthy for Sensitive Groups,31.260288,121.453099
+Shanghai,818840,Jing'an,Private room,1019.22,23,192,10,4.16,60.0,Moderate,31.226131,121.497913
+Shanghai,964343,Jing'an,Shared room,,3,289,32,3.72,137.0,Unhealthy for Sensitive Groups,31.276563,121.414662
+Shanghai,765534,Changning,Entire home/apt,1663.54,20,151,22,3.67,55.0,Moderate,31.227145,121.420408
+Shanghai,606228,Hongkou,Entire home/apt,1206.2,12,326,35,5.0,125.0,Unhealthy for Sensitive Groups,31.292237,121.539588
+Shanghai,435987,Pudong,Private room,1450.64,30,180,21,4.54,75.0,Moderate,31.251707,121.439763
+Shanghai,914016,Bund,Entire home/apt,,4,333,60,3.57,124.0,Unhealthy for Sensitive Groups,31.232355,121.481698
+Shanghai,579290,French Concession,Private room,1446.97,2,223,22,3.47,89.0,Moderate,31.177855,121.408191
+Shanghai,878519,Jing'an,Entire home/apt,729.33,25,44,6,3.59,133.0,Unhealthy for Sensitive Groups,31.283377,121.511743
+Shanghai,429536,Pudong,Private room,1296.89,29,272,138,4.23,135.0,Unhealthy for Sensitive Groups,31.202675,121.471734
+Shanghai,114982,Huangpu,Entire home/apt,1131.08,2,259,3,,150.0,Unhealthy for Sensitive Groups,31.182646,121.483219
+Shanghai,819978,Xuhui,Private room,1417.46,3,184,59,4.32,101.0,Unhealthy for Sensitive Groups,31.211718,121.525401
+Shanghai,701465,French Concession,Private room,2000.0,24,165,67,4.72,86.0,Moderate,31.274057,121.519239
+Shanghai,449542,Bund,Shared room,871.67,10,331,5,4.27,,,31.23835,121.513057
+Shanghai,895006,Bund,Entire home/apt,607.71,18,22,32,4.73,99.0,Moderate,31.204094,121.51953
+Shanghai,552282,Changning,Entire home/apt,2000.0,17,339,5,4.04,81.0,Moderate,31.259061,121.529971
+Shanghai,786246,Bund,Hotel room,1755.34,21,245,61,3.45,117.0,Unhealthy for Sensitive Groups,31.274144,121.526537
+Shanghai,484723,Jing'an,Private room,1435.31,11,92,75,4.38,110.0,Unhealthy for Sensitive Groups,31.182081,121.405413
+Shanghai,967929,Pudong,Private room,1118.94,3,133,44,4.86,,,31.288132,121.540553
+Shanghai,125633,French Concession,Shared room,499.15,4,193,29,3.63,86.0,Moderate,31.240267,121.528993
+Shanghai,432640,Xuhui,Private room,1568.08,3,93,20,4.97,85.0,Moderate,31.192403,121.431073
+Shanghai,834725,Changning,Entire home/apt,2000.0,23,292,21,4.11,44.0,Good,31.200095,121.469053
+Shanghai,652529,French Concession,Shared room,1912.19,22,230,2,4.46,127.0,Unhealthy for Sensitive Groups,31.281248,121.535618
+Shanghai,881638,Bund,Entire home/apt,1202.43,2,365,45,4.51,48.0,Good,31.238305,121.427969
+Shanghai,488899,Bund,Entire home/apt,551.25,2,7,5,5.0,137.0,Unhealthy for Sensitive Groups,31.239444,121.490113
+Shanghai,367313,Xuhui,Entire home/apt,2000.0,15,278,144,4.57,126.0,Unhealthy for Sensitive Groups,31.254858,121.457321
+Shanghai,372200,Bund,Hotel room,1433.21,1,323,0,3.79,36.0,Good,31.222341,121.446884
+Shanghai,836125,Xuhui,Entire home/apt,1971.63,5,239,69,4.28,84.0,Moderate,31.200284,121.434039
+Shanghai,794592,Jing'an,Private room,2000.0,1,60,9,3.67,67.0,Moderate,31.203034,121.418963
+Shanghai,114109,Pudong,Entire home/apt,515.24,8,239,98,4.37,101.0,Unhealthy for Sensitive Groups,31.236945,121.41961
+Shanghai,905271,Xuhui,Entire home/apt,706.88,2,178,63,4.43,188.0,Unhealthy,31.291142,121.474615
+Shanghai,857267,French Concession,Private room,1206.44,28,193,60,4.28,74.0,Moderate,31.192363,121.480809
+Shanghai,265603,French Concession,Entire home/apt,1964.36,27,342,21,4.42,139.0,Unhealthy for Sensitive Groups,31.18824,121.52623
+Shanghai,960703,Huangpu,Shared room,957.31,7,14,137,,137.0,Unhealthy for Sensitive Groups,31.202873,121.413139
+Shanghai,251154,Bund,Entire home/apt,845.88,15,243,104,4.11,94.0,Moderate,31.216076,121.528912
+Shanghai,991343,Huangpu,Entire home/apt,1542.56,4,3,1,4.74,101.0,Unhealthy for Sensitive Groups,31.275809,121.410513
+Shanghai,412564,Huangpu,Private room,1097.67,13,177,21,,129.0,Unhealthy for Sensitive Groups,31.250746,121.464824
+Shanghai,373463,Jing'an,Entire home/apt,1390.43,14,253,20,4.39,164.0,Unhealthy,31.267533,121.494285
+Shanghai,679949,Changning,Hotel room,1209.87,20,357,99,,70.0,Moderate,31.260824,121.522168
+Shanghai,108995,Xuhui,Entire home/apt,1454.07,12,135,6,3.84,65.0,Moderate,31.166504,121.482542
+Shanghai,191676,Hongkou,Entire home/apt,2000.0,3,326,67,4.98,87.0,Moderate,31.274959,121.483152
+Shanghai,603162,French Concession,Entire home/apt,414.9,28,347,37,3.98,147.0,Unhealthy for Sensitive Groups,31.25352,121.507559
+Shanghai,874133,Huangpu,Shared room,605.93,24,87,94,5.0,121.0,Unhealthy for Sensitive Groups,31.171793,121.476961
+Shanghai,532222,Xuhui,Entire home/apt,1066.27,16,1,46,4.32,165.0,Unhealthy,31.204307,121.454292
+Shanghai,380403,Hongkou,Entire home/apt,818.68,3,128,3,4.46,148.0,Unhealthy for Sensitive Groups,31.190504,121.495056
+Shanghai,397370,Huangpu,Private room,1409.06,18,151,31,4.48,119.0,Unhealthy for Sensitive Groups,31.247133,121.450225
+Shanghai,239170,Pudong,Private room,659.47,21,181,58,4.44,123.0,Unhealthy for Sensitive Groups,31.165123,121.460298
+Shanghai,749589,Huangpu,Entire home/apt,774.37,26,74,38,4.03,61.0,Moderate,31.237026,121.542555
+Shanghai,865381,Bund,Entire home/apt,818.49,14,284,26,4.31,136.0,Unhealthy for Sensitive Groups,31.197428,121.458533
+Shanghai,826885,Hongkou,Entire home/apt,1862.11,23,30,6,4.72,104.0,Unhealthy for Sensitive Groups,31.20985,121.514097
+Shanghai,913389,Bund,Entire home/apt,2000.0,12,228,46,3.84,138.0,Unhealthy for Sensitive Groups,31.267478,121.502729
+Shanghai,106086,Changning,Private room,,26,267,50,4.99,120.0,Unhealthy for Sensitive Groups,31.292579,121.465766
+Shanghai,628639,Huangpu,Entire home/apt,1223.17,1,130,1,3.92,,,31.229686,121.404914
+Shanghai,415210,French Concession,Entire home/apt,1133.78,13,356,6,4.5,119.0,Unhealthy for Sensitive Groups,31.191518,121.441939
+Shanghai,839240,Xuhui,Private room,1415.95,25,207,6,3.99,132.0,Unhealthy for Sensitive Groups,31.201258,121.534517
+Shanghai,226138,Jing'an,Shared room,1200.25,9,236,43,3.89,137.0,Unhealthy for Sensitive Groups,31.208652,121.473115
+Shanghai,298363,Jing'an,Shared room,1529.99,4,78,13,3.89,129.0,Unhealthy for Sensitive Groups,31.217456,121.435782
+Shanghai,866320,Huangpu,Private room,1401.23,5,337,44,4.1,128.0,Unhealthy for Sensitive Groups,31.208477,121.509293
+Shanghai,362803,Jing'an,Entire home/apt,1135.54,7,267,25,3.96,71.0,Moderate,31.246223,121.450629
+Shanghai,507354,Bund,Entire home/apt,1189.12,29,294,4,4.25,147.0,Unhealthy for Sensitive Groups,31.260507,121.515589
+Shanghai,808031,Pudong,Shared room,1296.54,11,361,3,3.85,141.0,Unhealthy for Sensitive Groups,31.183018,121.538616
+Shanghai,830872,Huangpu,Shared room,2000.0,2,8,0,3.84,,,31.298701,121.540318
+Shanghai,431943,French Concession,Private room,,15,261,32,4.55,125.0,Unhealthy for Sensitive Groups,31.208389,121.42191
+Shanghai,454980,Bund,Private room,1005.44,27,143,26,3.64,121.0,Unhealthy for Sensitive Groups,31.253136,121.449554
+Shanghai,632330,Bund,Entire home/apt,1659.51,12,165,15,4.03,132.0,Unhealthy for Sensitive Groups,31.297763,121.482352
+Shanghai,696358,Bund,Hotel room,909.98,24,138,22,3.67,123.0,Unhealthy for Sensitive Groups,31.291545,121.525087
+Shanghai,712133,Huangpu,Entire home/apt,665.99,21,113,21,3.92,108.0,Unhealthy for Sensitive Groups,31.236498,121.50772
+Shanghai,299988,Bund,Hotel room,716.65,5,203,16,4.45,77.0,Moderate,31.198712,121.452144
+Shanghai,295350,Jing'an,Entire home/apt,1290.72,12,268,20,3.76,60.0,Moderate,31.226277,121.42803
+Shanghai,140800,Xuhui,Entire home/apt,1476.96,13,165,49,4.1,128.0,Unhealthy for Sensitive Groups,31.229833,121.421698
+Shanghai,237181,Jing'an,Entire home/apt,827.73,18,300,44,,134.0,Unhealthy for Sensitive Groups,31.294242,121.52959
+Shanghai,577616,Huangpu,Entire home/apt,937.06,1,325,54,4.17,91.0,Moderate,31.164905,121.460496
+Shanghai,654410,Bund,Private room,1019.34,25,340,6,4.63,127.0,Unhealthy for Sensitive Groups,31.284561,121.437449
+Shanghai,344027,Hongkou,Private room,1074.59,20,179,69,4.45,108.0,Unhealthy for Sensitive Groups,31.282688,121.539795
+Shanghai,634456,Jing'an,Entire home/apt,823.08,29,162,55,4.13,116.0,Unhealthy for Sensitive Groups,31.225453,121.430335
+Shanghai,539872,Hongkou,Entire home/apt,976.97,15,77,22,3.05,85.0,Moderate,31.296418,121.444283
+Shanghai,922556,French Concession,Entire home/apt,1236.34,19,119,0,4.74,109.0,Unhealthy for Sensitive Groups,31.219464,121.429227
+Shanghai,351014,French Concession,Hotel room,2000.0,27,218,59,3.84,159.0,Unhealthy,31.164797,121.483147
+Shanghai,288709,Changning,Private room,1672.18,24,44,2,,96.0,Moderate,31.16451,121.520562
+Shanghai,940287,Hongkou,Entire home/apt,872.94,22,64,34,3.69,75.0,Moderate,31.277932,121.541432
+Shanghai,249409,Pudong,Entire home/apt,535.8,5,262,44,5.0,138.0,Unhealthy for Sensitive Groups,31.223944,121.506522
+Shanghai,175836,Jing'an,Entire home/apt,1018.93,10,272,12,3.79,114.0,Unhealthy for Sensitive Groups,31.184741,121.445333
+Shanghai,878682,Pudong,Hotel room,2000.0,25,144,173,4.27,156.0,Unhealthy,31.257521,121.494673
+Shanghai,352163,Huangpu,Entire home/apt,1576.59,8,32,25,3.91,,,31.224807,121.494922
+Shanghai,781258,Hongkou,Entire home/apt,679.48,1,331,34,4.16,127.0,Unhealthy for Sensitive Groups,31.249192,121.424374
+Shanghai,590067,French Concession,Private room,1814.9,2,75,1,4.2,73.0,Moderate,31.2567,121.4434
+Shanghai,720136,Bund,Entire home/apt,1129.87,14,300,17,4.43,84.0,Moderate,31.192264,121.429165
+Shanghai,973786,French Concession,Entire home/apt,588.28,2,16,3,5.0,146.0,Unhealthy for Sensitive Groups,31.193733,121.418228
+Shanghai,543707,Bund,Entire home/apt,1318.12,21,187,100,4.73,107.0,Unhealthy for Sensitive Groups,31.238567,121.434845
+Shanghai,531435,Bund,Private room,1976.81,5,7,36,4.28,102.0,Unhealthy for Sensitive Groups,31.296768,121.438546
+Shanghai,386306,Bund,Entire home/apt,1175.31,29,170,19,4.95,,,31.262413,121.441584
+Shanghai,359242,French Concession,Entire home/apt,1200.54,17,51,29,4.54,104.0,Unhealthy for Sensitive Groups,31.220895,121.495431
+Shanghai,584386,Bund,Entire home/apt,2000.0,20,126,66,3.82,75.0,Moderate,31.209476,121.496498
+Shanghai,789493,Xuhui,Entire home/apt,882.77,2,118,13,4.75,46.0,Good,31.293755,121.496964
+Shanghai,294316,Huangpu,Entire home/apt,1007.05,26,126,15,4.74,128.0,Unhealthy for Sensitive Groups,31.198064,121.43783
+Shanghai,312561,Jing'an,Shared room,2000.0,18,29,18,4.52,175.0,Unhealthy,31.224657,121.451774
+Shanghai,581504,Huangpu,Entire home/apt,1836.63,1,181,119,4.15,102.0,Unhealthy for Sensitive Groups,31.2137,121.479716
+Shanghai,701239,French Concession,Entire home/apt,2000.0,27,143,52,4.38,91.0,Moderate,31.286826,121.489864
+Shanghai,739940,Hongkou,Entire home/apt,1750.82,14,186,58,4.82,84.0,Moderate,31.165911,121.489069
+Shanghai,327878,Jing'an,Entire home/apt,812.12,12,197,32,3.23,125.0,Unhealthy for Sensitive Groups,31.211648,121.516396
+Shanghai,719216,Changning,Private room,860.65,10,125,12,4.12,,,31.236284,121.427183
+Shanghai,881042,Bund,Hotel room,510.07,1,340,42,4.86,85.0,Moderate,31.2466,121.415697
+Shanghai,388574,Changning,Private room,1642.45,2,51,3,3.09,121.0,Unhealthy for Sensitive Groups,31.223635,121.510756
+Shanghai,332775,Xuhui,Entire home/apt,1267.31,2,162,111,4.33,43.0,Good,31.263559,121.451658
+Shanghai,426118,Changning,Private room,1522.27,1,286,69,4.19,136.0,Unhealthy for Sensitive Groups,31.279478,121.443212
+Shanghai,772077,Xuhui,Private room,1033.72,3,171,32,3.61,110.0,Unhealthy for Sensitive Groups,31.187888,121.516338
+Shanghai,460546,French Concession,Entire home/apt,1820.22,1,295,36,4.12,,,31.178303,121.512278
+Shanghai,850361,French Concession,Entire home/apt,1631.69,1,169,51,4.43,138.0,Unhealthy for Sensitive Groups,31.212843,121.472138
+Shanghai,491628,Huangpu,Private room,1758.4,23,148,63,4.31,122.0,Unhealthy for Sensitive Groups,31.229978,121.443076
+Shanghai,547368,Xuhui,Entire home/apt,961.04,24,14,28,4.73,128.0,Unhealthy for Sensitive Groups,31.278882,121.430099
+Shanghai,424443,Pudong,Private room,2000.0,3,162,9,3.95,144.0,Unhealthy for Sensitive Groups,31.205538,121.506776
+Shanghai,564845,Jing'an,Entire home/apt,977.5,6,221,32,4.13,,,31.16798,121.422491
+Shanghai,521211,Xuhui,Entire home/apt,997.26,15,123,29,4.62,101.0,Unhealthy for Sensitive Groups,31.182769,121.474485
+Shanghai,607269,Jing'an,Private room,1618.11,4,7,13,5.0,97.0,Moderate,31.221761,121.490368
+Shanghai,173845,Hongkou,Entire home/apt,933.94,1,72,15,3.7,98.0,Moderate,31.188416,121.411046
+Shanghai,168635,Hongkou,Entire home/apt,686.5,1,176,43,4.02,97.0,Moderate,31.209307,121.511008
+Shanghai,152198,French Concession,Entire home/apt,1598.54,18,149,9,4.88,97.0,Moderate,31.237483,121.521285
+Shanghai,148395,Pudong,Entire home/apt,1171.67,23,233,38,4.63,83.0,Moderate,31.209732,121.430062
+Shanghai,398577,Jing'an,Hotel room,2000.0,1,277,107,4.3,,,31.21219,121.492005
+Shanghai,726228,Hongkou,Private room,776.93,19,169,61,,132.0,Unhealthy for Sensitive Groups,31.199876,121.53543
+Shanghai,444025,Hongkou,Entire home/apt,1150.8,17,132,8,3.99,56.0,Moderate,31.164046,121.540631
+Shanghai,274766,Xuhui,Private room,2000.0,29,238,5,4.94,77.0,Moderate,31.255119,121.473258
+Shanghai,464180,Pudong,Private room,959.77,2,153,3,4.29,80.0,Moderate,31.167511,121.441528
+Shanghai,411318,Xuhui,Entire home/apt,612.0,7,92,41,4.2,106.0,Unhealthy for Sensitive Groups,31.280367,121.490293
+Shanghai,420351,Hongkou,Hotel room,,5,344,0,3.57,108.0,Unhealthy for Sensitive Groups,31.208775,121.530978
+Shanghai,266977,Huangpu,Entire home/apt,1038.46,2,92,69,4.74,67.0,Moderate,31.224452,121.405497
+Shanghai,889238,Xuhui,Private room,2000.0,25,69,48,4.4,146.0,Unhealthy for Sensitive Groups,31.206119,121.446771
+Shanghai,696422,Changning,Private room,2000.0,28,355,17,4.2,117.0,Unhealthy for Sensitive Groups,31.223593,121.451679
+Shanghai,370045,Huangpu,Hotel room,1525.71,18,238,2,4.33,79.0,Moderate,31.235297,121.451327
+Shanghai,147771,Hongkou,Entire home/apt,965.82,10,228,0,4.16,127.0,Unhealthy for Sensitive Groups,31.213571,121.406346
+Shanghai,617942,Xuhui,Private room,2000.0,29,342,7,3.64,78.0,Moderate,31.190924,121.427033
+Shanghai,507636,Changning,Private room,,15,329,7,4.79,113.0,Unhealthy for Sensitive Groups,31.190197,121.518872
+Shanghai,862101,Jing'an,Private room,1166.07,17,216,44,4.71,,,31.282149,121.453109
+Shanghai,672328,Bund,Entire home/apt,1380.51,5,179,100,3.91,147.0,Unhealthy for Sensitive Groups,31.269981,121.538161
+Shanghai,974873,Bund,Entire home/apt,2000.0,7,85,12,3.63,99.0,Moderate,31.257544,121.420554
+Shanghai,518054,Bund,Entire home/apt,819.49,21,235,65,4.79,146.0,Unhealthy for Sensitive Groups,31.211778,121.471328
+Shanghai,660452,Jing'an,Entire home/apt,2000.0,26,176,24,5.0,113.0,Unhealthy for Sensitive Groups,31.235001,121.446108
+Shanghai,919162,Jing'an,Entire home/apt,780.52,15,252,37,4.3,112.0,Unhealthy for Sensitive Groups,31.169913,121.409102
+Shanghai,919371,Jing'an,Entire home/apt,791.11,3,189,26,4.68,149.0,Unhealthy for Sensitive Groups,31.166121,121.45148
+Shanghai,988581,Changning,Shared room,,2,157,46,3.43,108.0,Unhealthy for Sensitive Groups,31.287148,121.433835
+Shanghai,303033,Huangpu,Hotel room,,2,57,55,4.1,130.0,Unhealthy for Sensitive Groups,31.27102,121.518466
+Shanghai,353418,Xuhui,Entire home/apt,1786.55,21,171,68,4.3,120.0,Unhealthy for Sensitive Groups,31.270509,121.426366
+Shanghai,463059,Changning,Entire home/apt,1103.47,30,224,19,3.49,128.0,Unhealthy for Sensitive Groups,31.189475,121.495013
+Shanghai,401347,Xuhui,Entire home/apt,1335.44,29,220,7,3.17,66.0,Moderate,31.244303,121.465215
+Shanghai,832947,Hongkou,Private room,2000.0,1,362,34,4.93,120.0,Unhealthy for Sensitive Groups,31.269078,121.432633
+Shanghai,906211,Changning,Private room,1093.94,24,152,16,4.87,120.0,Unhealthy for Sensitive Groups,31.275066,121.457462
+Shanghai,148217,Jing'an,Private room,339.68,11,57,90,,106.0,Unhealthy for Sensitive Groups,31.233109,121.405523
+Shanghai,431604,Hongkou,Entire home/apt,1248.54,18,202,12,3.36,77.0,Moderate,31.183259,121.490365
+Shanghai,994039,Hongkou,Entire home/apt,,5,213,64,4.01,98.0,Moderate,31.191837,121.520414
+Shanghai,123943,French Concession,Hotel room,829.83,16,280,38,3.32,,,31.161097,121.516404
+Shanghai,572266,Bund,Entire home/apt,640.83,25,116,21,4.34,102.0,Unhealthy for Sensitive Groups,31.210172,121.4564
+Shanghai,815611,French Concession,Entire home/apt,1608.82,9,63,5,4.29,168.0,Unhealthy,31.175582,121.483841
+Shanghai,407005,Xuhui,Private room,1124.54,25,316,113,4.14,79.0,Moderate,31.199079,121.483268
+Shanghai,275249,Huangpu,Shared room,1905.85,8,151,119,4.35,67.0,Moderate,31.198934,121.489783
+Shanghai,738519,Jing'an,Entire home/apt,1830.57,5,182,51,3.89,163.0,Unhealthy,31.298697,121.519584
+Shanghai,140280,Pudong,Entire home/apt,1262.41,2,290,46,4.53,124.0,Unhealthy for Sensitive Groups,31.192644,121.454285
+Shanghai,442866,Bund,Private room,886.12,21,109,6,4.4,97.0,Moderate,31.24614,121.524845
+Shanghai,837110,Changning,Private room,1816.21,1,311,18,3.53,97.0,Moderate,31.293062,121.525533
+Shanghai,395967,Hongkou,Shared room,536.55,30,211,53,5.0,58.0,Moderate,31.251657,121.430635
+Shanghai,344579,Jing'an,Hotel room,602.47,27,265,24,5.0,78.0,Moderate,31.160413,121.451334
+Shanghai,846628,Bund,Hotel room,900.75,30,173,64,3.91,65.0,Moderate,31.229921,121.41354
+Shanghai,950206,Changning,Private room,1330.61,23,127,42,3.9,71.0,Moderate,31.178059,121.446994
+Shanghai,779607,French Concession,Shared room,2000.0,28,233,9,3.66,128.0,Unhealthy for Sensitive Groups,31.296255,121.480683
+Shanghai,362296,Bund,Private room,781.03,2,21,76,4.68,124.0,Unhealthy for Sensitive Groups,31.180591,121.438924
+Shanghai,151601,French Concession,Entire home/apt,1372.16,16,357,28,5.0,55.0,Moderate,31.189406,121.40646
+Shanghai,941539,Jing'an,Entire home/apt,1355.07,1,211,55,3.53,71.0,Moderate,31.231397,121.471363
+Shanghai,322970,Changning,Entire home/apt,300.0,18,347,12,4.45,135.0,Unhealthy for Sensitive Groups,31.160821,121.437116
+Shanghai,380383,Hongkou,Shared room,1113.08,3,89,40,4.96,56.0,Moderate,31.200493,121.533
+Shanghai,752017,Changning,Private room,1057.92,2,21,19,3.87,91.0,Moderate,31.2835,121.469286
+Shanghai,909171,Bund,Hotel room,1273.75,23,288,38,3.77,120.0,Unhealthy for Sensitive Groups,31.286359,121.495276
+Shanghai,776307,French Concession,Entire home/apt,1694.34,1,116,137,4.02,117.0,Unhealthy for Sensitive Groups,31.210165,121.418776
+Shanghai,892244,Bund,Entire home/apt,721.98,1,327,9,4.05,62.0,Moderate,31.195464,121.529989
+Shanghai,744777,Changning,Private room,791.69,23,315,25,4.89,112.0,Unhealthy for Sensitive Groups,31.288027,121.518045
+Shanghai,129784,Hongkou,Entire home/apt,1211.91,3,265,51,4.05,128.0,Unhealthy for Sensitive Groups,31.177269,121.49104
+Shanghai,556596,Jing'an,Entire home/apt,2000.0,14,306,2,4.22,134.0,Unhealthy for Sensitive Groups,31.296012,121.439102
+Shanghai,851036,Huangpu,Entire home/apt,649.58,15,181,130,4.45,77.0,Moderate,31.194117,121.405997
+Shanghai,751754,French Concession,Entire home/apt,1361.7,4,135,125,3.6,133.0,Unhealthy for Sensitive Groups,31.295557,121.449615
+Shanghai,691541,Jing'an,Hotel room,616.17,3,1,37,4.1,67.0,Moderate,31.273494,121.48153
+Shanghai,648042,Bund,Entire home/apt,952.33,13,14,12,3.18,89.0,Moderate,31.163344,121.526873
+Shanghai,832125,French Concession,Private room,788.21,18,245,195,3.83,67.0,Moderate,31.258049,121.491702
+Shanghai,588420,French Concession,Shared room,577.31,29,120,39,4.11,122.0,Unhealthy for Sensitive Groups,31.192481,121.421501
+Shanghai,408889,Hongkou,Hotel room,1437.09,25,151,53,3.68,124.0,Unhealthy for Sensitive Groups,31.170442,121.47898
+Shanghai,237248,Jing'an,Entire home/apt,912.17,3,58,22,3.58,101.0,Unhealthy for Sensitive Groups,31.219585,121.505369
+Shanghai,638381,Huangpu,Private room,2000.0,15,271,62,4.57,121.0,Unhealthy for Sensitive Groups,31.260944,121.427791
+Shanghai,315078,Hongkou,Shared room,,22,59,16,4.38,94.0,Moderate,31.24424,121.531979
+Shanghai,430126,Huangpu,Entire home/apt,1618.86,1,255,4,,96.0,Moderate,31.210214,121.418412
+Shanghai,719712,Bund,Entire home/apt,300.0,1,112,13,4.35,108.0,Unhealthy for Sensitive Groups,31.196483,121.441806
+Shanghai,348458,French Concession,Entire home/apt,491.28,30,213,3,5.0,83.0,Moderate,31.288413,121.492052
+Shanghai,983454,Huangpu,Entire home/apt,1873.69,10,92,23,3.64,,,31.169536,121.450513
+Shanghai,548843,Jing'an,Entire home/apt,1276.22,28,6,32,3.7,104.0,Unhealthy for Sensitive Groups,31.27446,121.446793
+Shanghai,145910,Pudong,Entire home/apt,2000.0,29,176,11,4.71,123.0,Unhealthy for Sensitive Groups,31.226116,121.504376
+Shanghai,592901,Pudong,Entire home/apt,894.94,6,244,7,4.33,93.0,Moderate,31.214664,121.405001
+Shanghai,626803,Bund,Shared room,855.74,27,344,61,4.31,100.0,Moderate,31.242381,121.492893
+Shanghai,518314,Huangpu,Shared room,1131.32,11,140,12,3.95,144.0,Unhealthy for Sensitive Groups,31.185091,121.52631
+Shanghai,628988,Xuhui,Entire home/apt,567.65,3,270,117,3.5,109.0,Unhealthy for Sensitive Groups,31.233732,121.526222
+Shanghai,211552,Pudong,Entire home/apt,571.17,2,84,21,4.22,111.0,Unhealthy for Sensitive Groups,31.276071,121.485188
+Shanghai,696368,Jing'an,Entire home/apt,2000.0,18,200,5,4.78,83.0,Moderate,31.233116,121.409214
+Shanghai,983206,Hongkou,Private room,1285.56,13,256,34,4.21,117.0,Unhealthy for Sensitive Groups,31.262966,121.48771
+Shanghai,829459,Bund,Hotel room,1213.57,18,243,4,5.0,93.0,Moderate,31.25527,121.500684
+Shanghai,256426,Changning,Private room,1241.38,2,243,43,3.75,134.0,Unhealthy for Sensitive Groups,31.270733,121.410244
+Shanghai,420660,Changning,Private room,1000.74,21,361,104,4.27,87.0,Moderate,31.287988,121.4087
+Shanghai,914746,Pudong,Hotel room,967.36,23,32,73,3.24,92.0,Moderate,31.205791,121.41491
+Shanghai,236638,Pudong,Entire home/apt,444.29,6,230,33,4.11,78.0,Moderate,31.276354,121.512627
+Shanghai,797196,French Concession,Private room,1089.75,12,204,18,5.0,47.0,Good,31.288235,121.47484
+Shanghai,703146,French Concession,Private room,2000.0,2,310,5,4.34,137.0,Unhealthy for Sensitive Groups,31.268838,121.534199
+Shanghai,460566,French Concession,Entire home/apt,2000.0,4,204,51,3.93,162.0,Unhealthy,31.261447,121.45072
+Shanghai,814620,Huangpu,Entire home/apt,1505.6,29,30,34,4.71,116.0,Unhealthy for Sensitive Groups,31.245414,121.451609
+Shanghai,740232,Huangpu,Private room,1003.93,5,87,30,4.11,,,31.197645,121.512391
+Shanghai,678532,Xuhui,Hotel room,797.41,2,306,40,4.24,113.0,Unhealthy for Sensitive Groups,31.240225,121.417747
+Shanghai,978150,Jing'an,Private room,1529.43,25,38,4,4.58,110.0,Unhealthy for Sensitive Groups,31.259318,121.516152
+Shanghai,537552,Changning,Entire home/apt,762.2,7,228,31,3.89,134.0,Unhealthy for Sensitive Groups,31.182946,121.421027
+Shanghai,979393,Hongkou,Entire home/apt,853.02,30,135,77,3.96,118.0,Unhealthy for Sensitive Groups,31.246812,121.475266
+Shanghai,360164,Hongkou,Private room,2000.0,1,297,44,4.07,96.0,Moderate,31.24793,121.507875
+Shanghai,813851,Bund,Hotel room,1022.85,17,158,4,3.92,92.0,Moderate,31.278684,121.534992
+Shanghai,246497,Changning,Private room,777.47,16,87,36,3.63,181.0,Unhealthy,31.270468,121.454905
+Shanghai,348060,Changning,Private room,990.28,3,254,2,4.21,133.0,Unhealthy for Sensitive Groups,31.290219,121.51369
+Shanghai,993698,French Concession,Private room,1098.2,21,219,37,4.1,48.0,Good,31.244362,121.535146
+Shanghai,965993,Hongkou,Hotel room,2000.0,24,171,39,4.72,72.0,Moderate,31.2806,121.418027
+Shanghai,300775,Hongkou,Private room,614.53,12,276,58,4.52,,,31.204108,121.463505
+Shanghai,284567,Xuhui,Entire home/apt,1915.66,2,190,47,4.42,104.0,Unhealthy for Sensitive Groups,31.248859,121.539461
+Shanghai,639973,Bund,Entire home/apt,776.58,30,144,3,4.03,147.0,Unhealthy for Sensitive Groups,31.224796,121.543428
+Shanghai,483417,Huangpu,Shared room,1206.49,2,19,12,4.37,121.0,Unhealthy for Sensitive Groups,31.250929,121.411037
+Shanghai,862675,Bund,Private room,2000.0,3,363,12,4.5,66.0,Moderate,31.260288,121.478782
+Shanghai,894526,Hongkou,Private room,1490.62,7,173,25,4.81,77.0,Moderate,31.238459,121.497861
+Shanghai,971378,Xuhui,Shared room,1509.23,26,257,1,,52.0,Moderate,31.254068,121.527142
+Shanghai,162641,Jing'an,Entire home/apt,2000.0,2,298,29,4.87,87.0,Moderate,31.25284,121.4712
+Shanghai,930731,Jing'an,Shared room,1779.02,23,158,4,3.89,90.0,Moderate,31.274033,121.413689
+Shanghai,221318,Hongkou,Entire home/apt,1258.71,20,174,58,4.4,121.0,Unhealthy for Sensitive Groups,31.285952,121.426627
+Shanghai,224723,Changning,Entire home/apt,749.11,2,106,36,4.18,149.0,Unhealthy for Sensitive Groups,31.258009,121.430052
+Shanghai,668420,Changning,Hotel room,2000.0,28,45,7,3.62,,,31.206834,121.441034
+Shanghai,462106,Hongkou,Shared room,661.09,17,258,38,4.64,82.0,Moderate,31.165692,121.455382
+Shanghai,320468,Huangpu,Hotel room,1681.92,1,135,0,,97.0,Moderate,31.224013,121.448809
+Shanghai,823253,Jing'an,Private room,612.98,9,126,36,3.75,99.0,Moderate,31.27378,121.531234
+Shanghai,484459,French Concession,Entire home/apt,2000.0,14,257,4,3.88,80.0,Moderate,31.26245,121.443212
+Shanghai,930195,Changning,Private room,300.74,14,78,9,3.97,71.0,Moderate,31.299792,121.419542
+Shanghai,368946,Pudong,Entire home/apt,1109.72,21,112,20,4.01,97.0,Moderate,31.208262,121.469573
+Shanghai,360923,Xuhui,Entire home/apt,944.48,24,143,13,4.6,89.0,Moderate,31.168271,121.526312
+Shanghai,294056,Xuhui,Hotel room,1730.01,1,191,47,4.72,113.0,Unhealthy for Sensitive Groups,31.238457,121.427728
+Shanghai,611327,Xuhui,Entire home/apt,1587.36,1,191,0,5.0,84.0,Moderate,31.266775,121.533487
+Shanghai,298789,French Concession,Entire home/apt,1434.34,2,139,1,,69.0,Moderate,31.201782,121.517967
+Shanghai,575891,French Concession,Entire home/apt,1600.28,25,269,3,4.1,106.0,Unhealthy for Sensitive Groups,31.230589,121.489512
+Shanghai,602620,Xuhui,Entire home/apt,1060.67,20,10,1,3.94,,,31.236078,121.510707
+Shanghai,770548,Xuhui,Entire home/apt,723.09,14,333,3,4.87,123.0,Unhealthy for Sensitive Groups,31.187554,121.525846
+Shanghai,129377,French Concession,Private room,2000.0,20,84,30,4.8,115.0,Unhealthy for Sensitive Groups,31.247238,121.471967
+Shanghai,708356,Huangpu,Entire home/apt,1138.92,1,198,147,4.41,119.0,Unhealthy for Sensitive Groups,31.19094,121.511761
+Shanghai,187697,Hongkou,Private room,2000.0,5,48,11,4.62,168.0,Unhealthy,31.263006,121.448718
+Shanghai,638725,Hongkou,Private room,2000.0,2,31,63,4.28,41.0,Good,31.185816,121.439533
+Shanghai,197347,Pudong,Shared room,1349.13,1,138,109,4.81,118.0,Unhealthy for Sensitive Groups,31.18179,121.489768
+Shanghai,697431,Xuhui,Shared room,1294.23,15,100,7,4.08,,,31.266655,121.488347
+Shanghai,284804,Bund,Entire home/apt,989.07,14,265,20,,158.0,Unhealthy,31.282752,121.505278
+Shanghai,136050,Xuhui,Entire home/apt,842.0,12,69,11,4.08,92.0,Moderate,31.205516,121.541698
+Shanghai,523512,Huangpu,Entire home/apt,907.21,19,196,13,3.51,173.0,Unhealthy,31.210622,121.452258
+Shanghai,485423,Huangpu,Entire home/apt,1088.98,20,88,94,,100.0,Moderate,31.241215,121.415569
+Shanghai,939572,Pudong,Private room,475.66,23,72,19,3.91,120.0,Unhealthy for Sensitive Groups,31.288979,121.417332
+Shanghai,147071,Jing'an,Entire home/apt,1251.64,13,151,2,4.42,82.0,Moderate,31.219701,121.428101
+Shanghai,456226,Hongkou,Hotel room,600.42,3,19,3,,29.0,Good,31.280287,121.448199
+Shanghai,754098,Jing'an,Hotel room,1523.92,1,43,69,5.0,128.0,Unhealthy for Sensitive Groups,31.194213,121.461535
+Shanghai,378487,Jing'an,Entire home/apt,1446.76,20,14,13,4.13,127.0,Unhealthy for Sensitive Groups,31.26165,121.516553
+Shanghai,559884,Huangpu,Shared room,807.84,7,297,52,4.14,87.0,Moderate,31.186806,121.410143
+Shanghai,199132,Xuhui,Entire home/apt,1061.96,3,125,18,3.66,149.0,Unhealthy for Sensitive Groups,31.299121,121.502538
+Shanghai,424107,Bund,Hotel room,1600.96,25,22,9,4.49,121.0,Unhealthy for Sensitive Groups,31.249776,121.533542
+Shanghai,836160,French Concession,Entire home/apt,1369.04,1,288,15,3.07,76.0,Moderate,31.268847,121.474719
+Shanghai,308151,Bund,Entire home/apt,1094.32,1,156,21,3.42,146.0,Unhealthy for Sensitive Groups,31.224485,121.492117
+Shanghai,306586,Bund,Entire home/apt,426.71,29,110,78,4.17,150.0,Unhealthy for Sensitive Groups,31.212777,121.489999
+Shanghai,709102,Hongkou,Shared room,638.16,12,117,41,3.52,109.0,Unhealthy for Sensitive Groups,31.238068,121.50739
+Shanghai,649410,Pudong,Entire home/apt,818.02,4,43,20,4.33,89.0,Moderate,31.215743,121.506565
+Shanghai,490087,Pudong,Entire home/apt,497.95,18,63,36,4.17,111.0,Unhealthy for Sensitive Groups,31.236436,121.411115
+Shanghai,700179,Xuhui,Private room,1413.14,20,12,5,4.69,95.0,Moderate,31.23261,121.424377
+Shanghai,148557,Bund,Entire home/apt,,15,303,36,4.8,127.0,Unhealthy for Sensitive Groups,31.20401,121.421478
+Shanghai,663622,French Concession,Hotel room,1422.27,27,214,17,,86.0,Moderate,31.202718,121.489408
+Shanghai,807351,Xuhui,Entire home/apt,,8,103,49,3.64,76.0,Moderate,31.241505,121.482763
+Shanghai,854662,French Concession,Private room,917.07,8,296,1,4.55,53.0,Moderate,31.222076,121.505714
+Shanghai,979032,Changning,Private room,,3,36,19,4.8,92.0,Moderate,31.181084,121.536995
+Shanghai,707825,Xuhui,Entire home/apt,971.69,26,87,11,3.71,117.0,Unhealthy for Sensitive Groups,31.221937,121.415294
+Shanghai,291979,Pudong,Hotel room,1604.71,12,156,122,4.18,156.0,Unhealthy,31.161195,121.528566
+Shanghai,800964,Huangpu,Entire home/apt,537.36,19,155,37,4.91,113.0,Unhealthy for Sensitive Groups,31.209743,121.469813
+Shanghai,983807,Jing'an,Shared room,989.94,30,154,66,3.63,106.0,Unhealthy for Sensitive Groups,31.30019,121.505646
+Shanghai,998235,Pudong,Entire home/apt,724.61,13,200,2,4.37,65.0,Moderate,31.268173,121.542736
+Shanghai,553769,French Concession,Entire home/apt,1877.54,23,273,29,4.96,,,31.172494,121.417169
+Shanghai,464454,Bund,Private room,638.44,15,220,50,4.18,34.0,Good,31.212299,121.430671
+Shanghai,868498,Jing'an,Private room,1154.92,1,334,35,3.67,75.0,Moderate,31.182032,121.435933
+Shanghai,821864,Changning,Private room,1062.32,2,61,7,4.43,170.0,Unhealthy,31.272211,121.468985
+Shanghai,937995,Xuhui,Entire home/apt,773.12,27,29,69,4.2,89.0,Moderate,31.237895,121.470295
+Shanghai,418534,Pudong,Private room,1155.18,22,327,66,4.07,145.0,Unhealthy for Sensitive Groups,31.290861,121.442385
+Shanghai,130402,French Concession,Shared room,,24,162,6,4.94,125.0,Unhealthy for Sensitive Groups,31.243207,121.486505
+Shanghai,226659,Jing'an,Private room,704.19,3,131,31,3.73,100.0,Moderate,31.288225,121.426644
+Shanghai,449381,Xuhui,Hotel room,1216.75,1,235,96,4.31,80.0,Moderate,31.202922,121.418449
+Shanghai,702018,Changning,Private room,566.7,28,265,92,3.65,79.0,Moderate,31.241342,121.473836
+Shanghai,872481,Hongkou,Entire home/apt,1817.12,1,138,28,3.68,116.0,Unhealthy for Sensitive Groups,31.295677,121.529111
+Shanghai,971957,Huangpu,Private room,808.84,12,212,5,3.97,75.0,Moderate,31.263656,121.466547
+Shanghai,412096,Bund,Entire home/apt,659.87,1,250,33,4.28,136.0,Unhealthy for Sensitive Groups,31.179579,121.422926
+Shanghai,147375,Changning,Entire home/apt,1840.54,1,29,36,4.32,88.0,Moderate,31.175959,121.496652
+Shanghai,831096,French Concession,Hotel room,1012.36,22,270,1,4.11,106.0,Unhealthy for Sensitive Groups,31.232654,121.521519
+Shanghai,311793,Bund,Entire home/apt,,24,40,51,3.95,112.0,Unhealthy for Sensitive Groups,31.25718,121.512862
+Shanghai,419038,Huangpu,Hotel room,934.48,19,340,24,4.96,127.0,Unhealthy for Sensitive Groups,31.170874,121.532989
+Shanghai,285621,Huangpu,Shared room,532.58,26,51,2,,153.0,Unhealthy,31.174394,121.416484
+Shanghai,286520,Bund,Private room,1904.82,2,184,22,4.12,182.0,Unhealthy,31.277334,121.479343
+Shanghai,388845,Xuhui,Private room,1574.77,26,273,19,4.25,61.0,Moderate,31.188649,121.409894
+Shanghai,227606,Pudong,Hotel room,1406.91,2,254,47,4.28,114.0,Unhealthy for Sensitive Groups,31.170344,121.415232
+Shanghai,870976,Hongkou,Entire home/apt,1013.14,2,252,41,5.0,80.0,Moderate,31.242968,121.541276
+Shanghai,695978,Hongkou,Entire home/apt,1116.3,30,165,7,4.45,111.0,Unhealthy for Sensitive Groups,31.266522,121.499055
+Shanghai,994397,Pudong,Private room,421.29,28,24,47,4.17,90.0,Moderate,31.192019,121.453006

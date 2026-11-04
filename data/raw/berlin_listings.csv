@@ -1,0 +1,381 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Berlin,446052,Prenzlauer Berg,Entire home/apt,250.0,4,140,9,4.13,28.0,Good,52.480246,13.463281
+Berlin,378592,Schöneberg,Entire home/apt,90.96,3,344,48,4.99,47.0,Good,52.484228,13.428913
+Berlin,597987,Charlottenburg,Private room,106.78,19,176,88,3.37,35.0,Good,52.5369,13.388447
+Berlin,790393,Pankow,Entire home/apt,118.56,10,51,9,4.72,38.0,Good,52.558798,13.462144
+Berlin,709975,Friedrichshain,Entire home/apt,115.01,2,166,20,4.71,,,52.453286,13.433041
+Berlin,194646,Mitte,Shared room,180.36,14,125,21,3.66,42.0,Good,52.566808,13.422673
+Berlin,401294,Friedrichshain,Entire home/apt,116.38,1,253,6,4.35,38.0,Good,52.588843,13.415727
+Berlin,697726,Mitte,Hotel room,139.98,8,250,31,4.54,47.0,Good,52.577533,13.345284
+Berlin,274241,Mitte,Entire home/apt,149.85,22,185,38,4.49,19.0,Good,52.494394,13.440304
+Berlin,694789,Kreuzberg,Shared room,107.99,26,72,19,4.23,21.0,Good,52.453242,13.46757
+Berlin,694149,Neukölln,Private room,118.61,18,146,30,4.06,51.0,Moderate,52.586625,13.435653
+Berlin,603398,Pankow,Entire home/apt,126.92,29,91,55,3.88,33.0,Good,52.471697,13.432811
+Berlin,971847,Mitte,Entire home/apt,114.56,17,155,47,3.44,46.0,Good,52.476414,13.406154
+Berlin,545824,Neukölln,Entire home/apt,122.25,15,19,2,4.51,37.0,Good,52.529976,13.39198
+Berlin,500933,Friedrichshain,Entire home/apt,232.45,1,57,36,,32.0,Good,52.526224,13.452894
+Berlin,853561,Friedrichshain,Entire home/apt,161.0,3,0,40,,48.0,Good,52.555996,13.35414
+Berlin,914376,Charlottenburg,Entire home/apt,69.79,30,101,21,4.21,,,52.520113,13.412291
+Berlin,845148,Mitte,Entire home/apt,250.0,27,11,17,4.67,41.0,Good,52.496652,13.415394
+Berlin,579273,Schöneberg,Entire home/apt,250.0,5,50,204,4.57,,,52.518538,13.41139
+Berlin,516403,Kreuzberg,Private room,59.51,9,119,10,4.14,57.0,Moderate,52.570792,13.458021
+Berlin,806282,Prenzlauer Berg,Private room,103.37,18,355,118,4.42,32.0,Good,52.524555,13.464038
+Berlin,333439,Mitte,Entire home/apt,65.88,20,280,45,4.41,55.0,Moderate,52.580037,13.405398
+Berlin,108480,Friedrichshain,Private room,175.42,15,344,148,3.7,57.0,Moderate,52.530827,13.422548
+Berlin,435382,Mitte,Private room,137.01,2,147,64,,58.0,Moderate,52.508051,13.399864
+Berlin,168051,Prenzlauer Berg,Private room,119.67,3,74,20,4.81,41.0,Good,52.55198,13.449702
+Berlin,537904,Schöneberg,Private room,192.24,6,269,87,3.89,38.0,Good,52.57439,13.40525
+Berlin,822877,Friedrichshain,Private room,59.01,25,322,53,4.23,30.0,Good,52.498862,13.461301
+Berlin,140467,Schöneberg,Entire home/apt,86.87,18,237,1,4.76,49.0,Good,52.526673,13.426682
+Berlin,470653,Schöneberg,Entire home/apt,,26,58,17,4.68,49.0,Good,52.521776,13.390744
+Berlin,308056,Pankow,Entire home/apt,250.0,15,83,48,3.15,26.0,Good,52.516072,13.426372
+Berlin,748415,Neukölln,Shared room,193.98,1,179,46,3.82,44.0,Good,52.503966,13.34789
+Berlin,610251,Mitte,Entire home/apt,215.15,11,121,4,3.89,49.0,Good,52.533676,13.413914
+Berlin,260096,Prenzlauer Berg,Entire home/apt,,1,133,258,4.15,37.0,Good,52.493877,13.443654
+Berlin,663515,Charlottenburg,Private room,125.81,18,270,2,4.7,25.0,Good,52.505912,13.384666
+Berlin,263791,Mitte,Entire home/apt,221.7,15,262,21,4.15,41.0,Good,52.471309,13.401935
+Berlin,207197,Charlottenburg,Entire home/apt,45.0,24,246,23,3.78,45.0,Good,52.545853,13.437909
+Berlin,710299,Kreuzberg,Entire home/apt,131.64,2,19,32,4.27,38.0,Good,52.586778,13.389792
+Berlin,415255,Mitte,Private room,45.0,2,130,29,4.62,50.0,Good,52.550573,13.43188
+Berlin,639649,Neukölln,Private room,250.0,1,39,14,4.3,34.0,Good,52.503763,13.416876
+Berlin,755564,Friedrichshain,Entire home/apt,140.45,10,38,8,4.09,37.0,Good,52.563796,13.372465
+Berlin,763442,Kreuzberg,Entire home/apt,,1,26,68,4.03,31.0,Good,52.565871,13.409303
+Berlin,969053,Neukölln,Entire home/apt,245.73,2,341,6,4.3,42.0,Good,52.507203,13.381997
+Berlin,263529,Prenzlauer Berg,Private room,118.48,18,199,19,5.0,47.0,Good,52.525261,13.437726
+Berlin,101929,Mitte,Entire home/apt,96.2,3,316,83,4.37,47.0,Good,52.461181,13.376582
+Berlin,466798,Pankow,Entire home/apt,113.5,12,202,43,3.99,30.0,Good,52.469812,13.357589
+Berlin,744526,Mitte,Private room,95.78,12,272,23,4.67,29.0,Good,52.534813,13.39522
+Berlin,242528,Prenzlauer Berg,Private room,92.22,8,126,10,5.0,40.0,Good,52.458896,13.441395
+Berlin,303967,Charlottenburg,Shared room,153.25,1,16,4,5.0,49.0,Good,52.575241,13.423981
+Berlin,544356,Charlottenburg,Private room,250.0,21,181,63,4.57,32.0,Good,52.55484,13.372261
+Berlin,135081,Mitte,Entire home/apt,104.12,29,214,55,4.86,51.0,Moderate,52.494762,13.428046
+Berlin,348575,Neukölln,Entire home/apt,126.51,2,124,9,2.88,62.0,Moderate,52.519244,13.375937
+Berlin,565491,Schöneberg,Entire home/apt,192.13,1,275,59,3.6,20.0,Good,52.545158,13.359035
+Berlin,570480,Kreuzberg,Private room,100.16,10,236,42,4.85,56.0,Moderate,52.470952,13.441114
+Berlin,839175,Prenzlauer Berg,Private room,71.18,2,103,107,,51.0,Moderate,52.50735,13.441409
+Berlin,187686,Neukölln,Entire home/apt,250.0,3,270,57,4.69,58.0,Moderate,52.5641,13.371866
+Berlin,937919,Friedrichshain,Private room,94.15,20,180,21,5.0,,,52.451931,13.46569
+Berlin,889162,Friedrichshain,Private room,184.67,6,33,7,4.1,31.0,Good,52.482538,13.42015
+Berlin,548020,Mitte,Private room,65.79,2,350,46,4.43,37.0,Good,52.471512,13.467196
+Berlin,730706,Prenzlauer Berg,Entire home/apt,126.57,27,221,24,4.32,35.0,Good,52.471114,13.358826
+Berlin,617395,Mitte,Entire home/apt,101.65,14,177,26,3.82,,,52.580477,13.424501
+Berlin,509288,Schöneberg,Entire home/apt,110.56,2,238,175,4.49,11.0,Good,52.56061,13.457007
+Berlin,161789,Charlottenburg,Private room,230.65,10,230,7,3.81,35.0,Good,52.501082,13.36133
+Berlin,622725,Mitte,Entire home/apt,89.35,29,116,12,3.52,35.0,Good,52.551723,13.460916
+Berlin,498731,Schöneberg,Hotel room,204.45,29,110,69,,22.0,Good,52.464612,13.412443
+Berlin,460131,Kreuzberg,Entire home/apt,212.21,15,262,1,3.74,58.0,Moderate,52.549137,13.388539
+Berlin,492893,Kreuzberg,Entire home/apt,104.29,8,314,40,4.08,51.0,Moderate,52.496342,13.417606
+Berlin,263013,Mitte,Private room,110.57,1,83,127,3.52,26.0,Good,52.485516,13.462346
+Berlin,584436,Mitte,Entire home/apt,108.07,3,270,72,3.7,23.0,Good,52.541354,13.471023
+Berlin,796794,Neukölln,Hotel room,114.46,26,66,114,4.18,24.0,Good,52.499723,13.448838
+Berlin,174576,Charlottenburg,Private room,250.0,12,212,24,3.78,45.0,Good,52.543464,13.385308
+Berlin,759965,Kreuzberg,Entire home/apt,91.45,3,318,61,4.2,34.0,Good,52.520431,13.33509
+Berlin,240883,Friedrichshain,Entire home/apt,132.35,2,48,17,3.66,44.0,Good,52.582878,13.414041
+Berlin,107581,Kreuzberg,Entire home/apt,184.76,26,354,1,4.12,60.0,Moderate,52.475342,13.469579
+Berlin,475349,Friedrichshain,Entire home/apt,123.22,18,260,30,4.2,31.0,Good,52.561526,13.459688
+Berlin,404851,Schöneberg,Entire home/apt,229.78,3,335,21,4.42,26.0,Good,52.561882,13.430469
+Berlin,176282,Schöneberg,Entire home/apt,145.44,26,123,7,3.94,21.0,Good,52.516142,13.432709
+Berlin,304441,Neukölln,Entire home/apt,162.55,18,102,69,4.68,44.0,Good,52.502822,13.436299
+Berlin,963221,Schöneberg,Private room,152.39,16,131,8,4.04,69.0,Moderate,52.472176,13.452059
+Berlin,453615,Prenzlauer Berg,Entire home/apt,,25,277,16,4.75,28.0,Good,52.535907,13.439625
+Berlin,539732,Neukölln,Entire home/apt,250.0,26,82,0,4.32,37.0,Good,52.502519,13.368677
+Berlin,965768,Friedrichshain,Private room,45.94,1,0,20,3.73,20.0,Good,52.526253,13.366568
+Berlin,623752,Charlottenburg,Entire home/apt,182.51,2,47,86,4.2,47.0,Good,52.518968,13.417778
+Berlin,299077,Schöneberg,Private room,163.14,1,299,0,4.72,38.0,Good,52.481955,13.413834
+Berlin,748310,Kreuzberg,Private room,175.67,1,295,80,4.14,49.0,Good,52.457766,13.380844
+Berlin,193603,Schöneberg,Entire home/apt,118.35,23,9,17,4.77,28.0,Good,52.46579,13.407762
+Berlin,275825,Friedrichshain,Shared room,99.48,5,74,8,4.28,49.0,Good,52.465135,13.40276
+Berlin,889546,Mitte,Entire home/apt,205.1,7,170,9,4.55,41.0,Good,52.465753,13.35855
+Berlin,999519,Mitte,Shared room,57.71,18,306,50,3.9,48.0,Good,52.533744,13.407126
+Berlin,533780,Friedrichshain,Entire home/apt,155.93,29,357,43,3.7,49.0,Good,52.483468,13.387298
+Berlin,819435,Schöneberg,Private room,45.0,25,106,33,4.69,29.0,Good,52.489165,13.359093
+Berlin,674509,Neukölln,Private room,67.0,1,131,50,5.0,33.0,Good,52.583314,13.373026
+Berlin,467525,Kreuzberg,Hotel room,114.45,18,118,29,4.03,39.0,Good,52.482067,13.352276
+Berlin,375555,Friedrichshain,Entire home/apt,109.33,25,252,9,4.29,51.0,Moderate,52.470908,13.434562
+Berlin,199473,Neukölln,Entire home/apt,250.0,1,178,27,5.0,47.0,Good,52.579112,13.446202
+Berlin,295318,Neukölln,Entire home/apt,250.0,2,174,29,5.0,,,52.585246,13.460897
+Berlin,263470,Kreuzberg,Entire home/apt,140.52,10,141,12,5.0,44.0,Good,52.525297,13.445768
+Berlin,103759,Mitte,Entire home/apt,122.41,18,83,25,3.66,,,52.56331,13.363055
+Berlin,639531,Prenzlauer Berg,Shared room,228.87,19,206,22,4.68,36.0,Good,52.563765,13.443955
+Berlin,862289,Prenzlauer Berg,Entire home/apt,201.52,21,159,8,2.79,,,52.459919,13.346307
+Berlin,557557,Prenzlauer Berg,Hotel room,98.92,2,354,85,3.98,26.0,Good,52.508883,13.370297
+Berlin,993040,Pankow,Private room,210.51,29,201,44,4.83,35.0,Good,52.494216,13.336085
+Berlin,113071,Kreuzberg,Entire home/apt,78.22,25,5,36,4.91,54.0,Moderate,52.546384,13.365061
+Berlin,127333,Prenzlauer Berg,Private room,94.33,1,154,5,4.51,48.0,Good,52.576757,13.474091
+Berlin,530709,Mitte,Entire home/apt,200.26,3,29,33,,20.0,Good,52.486507,13.387635
+Berlin,672786,Prenzlauer Berg,Shared room,130.86,3,171,53,4.56,43.0,Good,52.506929,13.432018
+Berlin,546196,Mitte,Entire home/apt,250.0,6,270,87,4.77,37.0,Good,52.472737,13.372173
+Berlin,239140,Prenzlauer Berg,Entire home/apt,250.0,1,190,17,,37.0,Good,52.56902,13.394357
+Berlin,733134,Schöneberg,Private room,129.88,4,289,21,4.88,33.0,Good,52.535781,13.361129
+Berlin,549512,Kreuzberg,Private room,77.22,3,60,44,4.55,48.0,Good,52.5443,13.387663
+Berlin,782448,Kreuzberg,Private room,226.62,1,0,8,4.41,47.0,Good,52.555315,13.466463
+Berlin,877035,Neukölln,Entire home/apt,119.21,18,229,16,3.85,46.0,Good,52.565884,13.363205
+Berlin,160393,Neukölln,Entire home/apt,153.11,15,205,5,4.19,,,52.553685,13.426464
+Berlin,314785,Charlottenburg,Entire home/apt,116.03,23,249,81,4.7,32.0,Good,52.586028,13.352064
+Berlin,106421,Friedrichshain,Entire home/apt,144.58,19,94,53,3.77,34.0,Good,52.550438,13.437444
+Berlin,426799,Pankow,Private room,250.0,14,121,103,4.06,34.0,Good,52.511377,13.372382
+Berlin,276296,Neukölln,Private room,99.76,25,247,133,3.74,23.0,Good,52.461246,13.449193
+Berlin,859220,Prenzlauer Berg,Private room,131.37,10,182,44,3.78,50.0,Good,52.553193,13.408046
+Berlin,880006,Prenzlauer Berg,Entire home/apt,127.04,10,253,49,3.76,54.0,Moderate,52.530141,13.362212
+Berlin,529399,Kreuzberg,Private room,250.0,11,263,2,5.0,43.0,Good,52.561434,13.384137
+Berlin,631666,Kreuzberg,Entire home/apt,184.53,2,74,40,4.73,40.0,Good,52.519803,13.469662
+Berlin,114698,Pankow,Entire home/apt,93.22,12,240,1,3.98,21.0,Good,52.516571,13.441164
+Berlin,957895,Prenzlauer Berg,Entire home/apt,250.0,3,198,5,3.59,,,52.487969,13.439858
+Berlin,204928,Kreuzberg,Shared room,146.22,26,361,188,4.72,40.0,Good,52.559209,13.379811
+Berlin,953662,Friedrichshain,Entire home/apt,189.14,18,357,108,,61.0,Moderate,52.484378,13.393137
+Berlin,171999,Mitte,Entire home/apt,73.08,11,195,82,4.48,41.0,Good,52.573622,13.376951
+Berlin,679788,Kreuzberg,Entire home/apt,133.87,18,43,0,4.52,39.0,Good,52.488456,13.401232
+Berlin,775440,Friedrichshain,Entire home/apt,55.22,4,102,16,5.0,33.0,Good,52.571474,13.385279
+Berlin,743339,Kreuzberg,Entire home/apt,73.25,19,271,37,3.57,28.0,Good,52.547902,13.336722
+Berlin,541410,Neukölln,Entire home/apt,86.59,16,66,74,4.32,42.0,Good,52.532938,13.413179
+Berlin,791701,Mitte,Private room,111.44,3,207,69,3.74,40.0,Good,52.536888,13.408094
+Berlin,973635,Neukölln,Shared room,133.51,15,163,1,2.92,45.0,Good,52.573737,13.34072
+Berlin,280448,Mitte,Entire home/apt,250.0,7,345,36,3.62,56.0,Moderate,52.570535,13.385722
+Berlin,741086,Charlottenburg,Entire home/apt,202.8,2,49,6,4.42,55.0,Moderate,52.486553,13.474125
+Berlin,339380,Neukölln,Entire home/apt,250.0,1,329,64,,31.0,Good,52.472976,13.357265
+Berlin,513861,Kreuzberg,Entire home/apt,244.76,13,340,89,4.18,36.0,Good,52.473028,13.383837
+Berlin,892017,Schöneberg,Shared room,169.38,30,256,43,4.63,29.0,Good,52.458223,13.471381
+Berlin,152820,Friedrichshain,Entire home/apt,250.0,1,351,29,3.25,39.0,Good,52.53368,13.377533
+Berlin,693599,Friedrichshain,Entire home/apt,250.0,30,171,6,4.75,31.0,Good,52.530637,13.47034
+Berlin,404738,Kreuzberg,Shared room,245.48,23,114,46,4.52,26.0,Good,52.451805,13.361752
+Berlin,139529,Prenzlauer Berg,Entire home/apt,228.78,2,346,43,4.78,48.0,Good,52.533327,13.350928
+Berlin,867414,Prenzlauer Berg,Entire home/apt,67.96,1,216,20,3.39,35.0,Good,52.459445,13.352773
+Berlin,813005,Schöneberg,Shared room,216.4,23,223,4,4.66,40.0,Good,52.564247,13.379017
+Berlin,759837,Charlottenburg,Shared room,89.98,8,65,76,4.5,37.0,Good,52.541741,13.473669
+Berlin,230296,Charlottenburg,Private room,152.72,9,121,96,4.32,39.0,Good,52.534072,13.469615
+Berlin,399455,Kreuzberg,Private room,112.24,17,344,11,5.0,29.0,Good,52.473613,13.414685
+Berlin,862914,Mitte,Entire home/apt,127.71,28,58,17,4.37,32.0,Good,52.485979,13.342609
+Berlin,482514,Mitte,Entire home/apt,49.45,14,275,8,4.11,56.0,Moderate,52.57789,13.450339
+Berlin,365756,Mitte,Entire home/apt,250.0,15,65,4,3.48,58.0,Moderate,52.580243,13.344261
+Berlin,471561,Pankow,Private room,250.0,23,20,72,4.86,44.0,Good,52.457602,13.430387
+Berlin,612974,Mitte,Entire home/apt,84.3,30,285,46,4.34,29.0,Good,52.471644,13.423136
+Berlin,826067,Pankow,Entire home/apt,239.65,10,82,27,3.71,28.0,Good,52.553365,13.410321
+Berlin,654528,Kreuzberg,Entire home/apt,223.7,8,35,1,4.24,46.0,Good,52.520903,13.406395
+Berlin,585014,Neukölln,Private room,,2,1,32,4.2,54.0,Moderate,52.476885,13.456702
+Berlin,490682,Mitte,Entire home/apt,109.98,4,298,90,4.73,31.0,Good,52.518732,13.457303
+Berlin,103898,Pankow,Entire home/apt,182.43,2,44,22,3.24,53.0,Moderate,52.508092,13.429174
+Berlin,208089,Charlottenburg,Entire home/apt,250.0,2,190,84,5.0,20.0,Good,52.530593,13.374761
+Berlin,374972,Charlottenburg,Private room,,1,212,47,4.37,8.0,Good,52.567859,13.38892
+Berlin,501110,Mitte,Entire home/apt,127.04,8,270,69,4.41,62.0,Moderate,52.469782,13.378352
+Berlin,403978,Charlottenburg,Hotel room,213.28,21,304,11,4.65,51.0,Moderate,52.474407,13.464591
+Berlin,544751,Kreuzberg,Private room,155.83,2,238,0,4.82,25.0,Good,52.461835,13.474019
+Berlin,357183,Kreuzberg,Entire home/apt,126.12,23,145,53,4.09,42.0,Good,52.541173,13.370136
+Berlin,706396,Mitte,Hotel room,250.0,25,15,55,3.85,50.0,Good,52.499157,13.354054
+Berlin,505858,Prenzlauer Berg,Private room,139.31,16,29,8,4.74,34.0,Good,52.484295,13.437354
+Berlin,415707,Mitte,Entire home/apt,141.98,23,19,18,3.63,41.0,Good,52.532649,13.360557
+Berlin,429784,Neukölln,Private room,76.67,7,270,36,5.0,,,52.560634,13.415929
+Berlin,313688,Schöneberg,Private room,97.09,9,158,5,3.78,24.0,Good,52.539797,13.380964
+Berlin,920821,Pankow,Private room,143.29,30,59,19,3.77,46.0,Good,52.53204,13.342384
+Berlin,825554,Friedrichshain,Entire home/apt,200.04,14,139,18,3.98,26.0,Good,52.465181,13.456842
+Berlin,752259,Charlottenburg,Private room,168.83,16,92,97,4.98,36.0,Good,52.567875,13.438821
+Berlin,704676,Neukölln,Entire home/apt,223.74,3,143,11,5.0,36.0,Good,52.454781,13.393503
+Berlin,359377,Pankow,Entire home/apt,250.0,1,154,77,4.61,52.0,Moderate,52.450326,13.425646
+Berlin,959989,Friedrichshain,Private room,98.13,1,166,112,3.51,61.0,Moderate,52.502622,13.350531
+Berlin,336878,Charlottenburg,Entire home/apt,98.8,28,184,13,4.47,,,52.504828,13.428069
+Berlin,271479,Schöneberg,Shared room,86.69,1,303,119,4.56,29.0,Good,52.548613,13.374663
+Berlin,673017,Prenzlauer Berg,Entire home/apt,,22,60,10,4.72,40.0,Good,52.541842,13.390115
+Berlin,753558,Kreuzberg,Private room,149.24,15,274,10,3.89,54.0,Moderate,52.576458,13.392595
+Berlin,342139,Pankow,Private room,,1,144,69,4.24,13.0,Good,52.527129,13.428044
+Berlin,428850,Charlottenburg,Private room,51.38,14,219,25,4.23,43.0,Good,52.52013,13.36108
+Berlin,391732,Neukölln,Shared room,201.38,7,334,2,5.0,24.0,Good,52.537409,13.367055
+Berlin,798054,Kreuzberg,Hotel room,114.51,14,226,61,3.83,29.0,Good,52.53891,13.421458
+Berlin,906746,Schöneberg,Entire home/apt,103.83,30,333,61,4.57,55.0,Moderate,52.529665,13.382936
+Berlin,175923,Kreuzberg,Private room,135.31,1,23,10,3.82,35.0,Good,52.46502,13.370281
+Berlin,416241,Mitte,Entire home/apt,152.87,23,153,1,4.28,48.0,Good,52.454112,13.335117
+Berlin,249623,Prenzlauer Berg,Entire home/apt,207.49,2,137,129,4.85,16.0,Good,52.576366,13.46251
+Berlin,451711,Pankow,Entire home/apt,246.99,29,365,38,4.38,45.0,Good,52.480526,13.418676
+Berlin,165904,Charlottenburg,Entire home/apt,91.07,17,47,11,4.22,29.0,Good,52.502195,13.423503
+Berlin,596247,Schöneberg,Entire home/apt,163.32,7,304,25,4.14,53.0,Moderate,52.549188,13.363182
+Berlin,958679,Mitte,Entire home/apt,163.7,22,207,6,3.89,25.0,Good,52.495541,13.35382
+Berlin,246251,Charlottenburg,Private room,250.0,28,201,105,4.27,33.0,Good,52.485627,13.409469
+Berlin,467171,Prenzlauer Berg,Hotel room,76.46,13,332,21,4.64,48.0,Good,52.535633,13.371642
+Berlin,441973,Mitte,Private room,148.1,11,82,5,,32.0,Good,52.548053,13.467592
+Berlin,307463,Neukölln,Entire home/apt,97.22,11,19,20,4.66,34.0,Good,52.50842,13.351445
+Berlin,183012,Friedrichshain,Entire home/apt,128.24,2,353,69,4.18,40.0,Good,52.471185,13.414333
+Berlin,458591,Pankow,Entire home/apt,74.57,6,164,43,4.38,31.0,Good,52.578219,13.364949
+Berlin,930616,Neukölln,Shared room,130.76,26,83,24,3.64,36.0,Good,52.553895,13.47386
+Berlin,639228,Schöneberg,Hotel room,95.4,3,140,1,5.0,44.0,Good,52.458687,13.452221
+Berlin,264906,Kreuzberg,Entire home/apt,239.45,1,27,6,4.47,59.0,Moderate,52.544464,13.463155
+Berlin,738441,Pankow,Shared room,116.26,1,338,9,3.9,38.0,Good,52.478336,13.393241
+Berlin,346226,Neukölln,Entire home/apt,250.0,8,177,12,,55.0,Moderate,52.461036,13.382481
+Berlin,361161,Kreuzberg,Private room,147.67,9,34,43,4.2,36.0,Good,52.544334,13.42316
+Berlin,934670,Friedrichshain,Entire home/apt,170.32,2,136,18,4.91,50.0,Good,52.502666,13.462021
+Berlin,420598,Friedrichshain,Entire home/apt,188.65,20,81,7,4.56,46.0,Good,52.571305,13.401039
+Berlin,322219,Pankow,Hotel room,102.54,2,345,48,4.15,47.0,Good,52.532379,13.365336
+Berlin,220371,Prenzlauer Berg,Entire home/apt,168.64,18,340,25,4.5,37.0,Good,52.504398,13.452451
+Berlin,773725,Mitte,Entire home/apt,218.23,8,274,2,4.99,53.0,Moderate,52.544977,13.467219
+Berlin,782141,Charlottenburg,Entire home/apt,115.61,8,210,25,4.55,40.0,Good,52.535859,13.411111
+Berlin,246486,Pankow,Entire home/apt,,7,158,31,4.7,49.0,Good,52.479289,13.450879
+Berlin,107637,Prenzlauer Berg,Entire home/apt,250.0,25,55,26,3.61,37.0,Good,52.458709,13.396311
+Berlin,599921,Friedrichshain,Shared room,112.62,2,225,77,4.62,32.0,Good,52.58424,13.421743
+Berlin,193809,Neukölln,Private room,215.75,22,176,4,4.08,41.0,Good,52.468948,13.357005
+Berlin,129141,Friedrichshain,Entire home/apt,164.79,1,260,101,4.64,38.0,Good,52.574172,13.360548
+Berlin,714491,Friedrichshain,Entire home/apt,131.68,2,94,9,3.87,49.0,Good,52.512387,13.379219
+Berlin,583645,Neukölln,Entire home/apt,130.89,10,249,65,4.76,26.0,Good,52.478526,13.344404
+Berlin,513497,Schöneberg,Entire home/apt,66.4,3,341,0,4.57,57.0,Moderate,52.545641,13.385201
+Berlin,599189,Schöneberg,Private room,167.74,8,245,43,3.84,22.0,Good,52.477848,13.4609
+Berlin,399287,Prenzlauer Berg,Entire home/apt,60.9,1,333,10,4.75,36.0,Good,52.506972,13.472606
+Berlin,480292,Friedrichshain,Shared room,54.15,5,272,18,3.94,,,52.492414,13.436743
+Berlin,396279,Pankow,Entire home/apt,53.02,16,360,28,3.91,32.0,Good,52.555921,13.338971
+Berlin,834401,Friedrichshain,Entire home/apt,212.08,2,268,14,4.64,47.0,Good,52.536263,13.469194
+Berlin,161107,Schöneberg,Shared room,189.5,26,133,41,4.44,19.0,Good,52.528524,13.410306
+Berlin,111454,Pankow,Entire home/apt,151.36,16,186,12,3.98,38.0,Good,52.512877,13.436681
+Berlin,722076,Neukölln,Private room,154.74,6,286,20,4.3,46.0,Good,52.554025,13.413308
+Berlin,875374,Kreuzberg,Entire home/apt,109.91,28,188,74,4.39,35.0,Good,52.453129,13.361535
+Berlin,539739,Kreuzberg,Entire home/apt,,14,256,12,4.57,41.0,Good,52.539695,13.4573
+Berlin,338800,Kreuzberg,Private room,189.98,26,191,42,4.51,15.0,Good,52.548947,13.367298
+Berlin,995522,Prenzlauer Berg,Entire home/apt,,20,319,42,4.81,16.0,Good,52.501853,13.379466
+Berlin,507117,Charlottenburg,Entire home/apt,150.83,5,20,14,4.64,45.0,Good,52.526476,13.348618
+Berlin,240299,Charlottenburg,Private room,172.55,1,51,59,4.16,,,52.527268,13.420013
+Berlin,167466,Pankow,Entire home/apt,52.46,24,55,44,4.87,,,52.54332,13.349919
+Berlin,597013,Pankow,Entire home/apt,,15,348,0,4.59,34.0,Good,52.530725,13.391014
+Berlin,966804,Neukölln,Private room,90.0,2,49,122,,27.0,Good,52.478307,13.406174
+Berlin,616932,Prenzlauer Berg,Private room,107.02,20,293,58,4.23,29.0,Good,52.546462,13.338257
+Berlin,595042,Mitte,Private room,250.0,1,187,2,4.18,38.0,Good,52.45611,13.388121
+Berlin,948509,Pankow,Shared room,93.57,26,263,35,4.08,58.0,Moderate,52.531892,13.368365
+Berlin,807039,Schöneberg,Private room,144.0,5,65,7,4.61,42.0,Good,52.548929,13.378136
+Berlin,616584,Mitte,Private room,194.58,6,109,15,4.01,42.0,Good,52.536569,13.439577
+Berlin,317064,Friedrichshain,Entire home/apt,59.96,3,130,13,4.48,35.0,Good,52.500576,13.473492
+Berlin,978393,Friedrichshain,Entire home/apt,250.0,24,270,5,4.64,42.0,Good,52.517368,13.411762
+Berlin,126471,Friedrichshain,Private room,77.0,15,52,10,3.63,17.0,Good,52.534064,13.45069
+Berlin,601583,Charlottenburg,Private room,226.48,4,158,50,3.92,33.0,Good,52.532603,13.432365
+Berlin,253224,Pankow,Entire home/apt,224.93,2,97,132,4.31,45.0,Good,52.554669,13.47455
+Berlin,763840,Prenzlauer Berg,Entire home/apt,161.04,28,206,28,,39.0,Good,52.481101,13.36038
+Berlin,734295,Neukölln,Entire home/apt,250.0,30,73,36,4.54,47.0,Good,52.505631,13.362479
+Berlin,634153,Schöneberg,Private room,223.87,17,271,18,4.18,25.0,Good,52.470592,13.353432
+Berlin,893933,Neukölln,Private room,235.01,29,58,43,5.0,43.0,Good,52.515454,13.458846
+Berlin,614444,Neukölln,Private room,,19,113,60,5.0,37.0,Good,52.557144,13.458178
+Berlin,424317,Prenzlauer Berg,Entire home/apt,85.05,17,19,127,3.52,25.0,Good,52.558495,13.431719
+Berlin,140292,Pankow,Entire home/apt,74.23,2,295,2,3.2,28.0,Good,52.522689,13.462532
+Berlin,992025,Friedrichshain,Entire home/apt,250.0,4,293,29,3.91,25.0,Good,52.501002,13.442852
+Berlin,666181,Charlottenburg,Hotel room,112.6,1,146,28,4.41,,,52.520094,13.393209
+Berlin,338966,Mitte,Private room,250.0,6,151,78,,52.0,Moderate,52.463799,13.390467
+Berlin,530203,Charlottenburg,Private room,115.7,1,343,29,,50.0,Good,52.579049,13.374393
+Berlin,805217,Mitte,Entire home/apt,,23,152,33,4.78,34.0,Good,52.474962,13.452971
+Berlin,193045,Prenzlauer Berg,Entire home/apt,250.0,29,117,80,5.0,26.0,Good,52.58443,13.3893
+Berlin,553389,Neukölln,Entire home/apt,172.6,15,134,18,,,,52.538376,13.38471
+Berlin,489408,Prenzlauer Berg,Entire home/apt,142.81,28,76,86,4.18,38.0,Good,52.480483,13.474941
+Berlin,138010,Neukölln,Entire home/apt,95.02,17,187,11,4.11,36.0,Good,52.455778,13.342598
+Berlin,760610,Charlottenburg,Private room,129.65,25,230,130,4.08,34.0,Good,52.460392,13.398001
+Berlin,309627,Neukölln,Entire home/apt,175.84,12,304,11,4.68,53.0,Moderate,52.55118,13.351921
+Berlin,883552,Neukölln,Hotel room,99.27,7,260,34,5.0,27.0,Good,52.550066,13.440439
+Berlin,684350,Friedrichshain,Entire home/apt,250.0,16,119,11,4.45,42.0,Good,52.491782,13.441255
+Berlin,216534,Schöneberg,Private room,,2,341,55,4.46,24.0,Good,52.547955,13.422725
+Berlin,991333,Pankow,Shared room,206.01,4,249,104,3.37,27.0,Good,52.556121,13.426645
+Berlin,694422,Charlottenburg,Entire home/apt,172.28,10,179,101,3.87,,,52.584747,13.387323
+Berlin,840277,Prenzlauer Berg,Entire home/apt,140.35,3,68,21,4.48,22.0,Good,52.526054,13.434867
+Berlin,519265,Mitte,Entire home/apt,80.53,25,318,50,4.16,47.0,Good,52.451173,13.351757
+Berlin,825231,Prenzlauer Berg,Private room,69.0,30,38,71,4.81,,,52.498617,13.421754
+Berlin,566260,Kreuzberg,Private room,206.64,4,0,14,4.42,35.0,Good,52.454095,13.346442
+Berlin,391189,Charlottenburg,Private room,182.15,3,71,26,5.0,35.0,Good,52.456118,13.387684
+Berlin,545315,Pankow,Private room,162.81,5,30,18,4.33,54.0,Moderate,52.494214,13.422276
+Berlin,856747,Neukölln,Entire home/apt,45.0,17,18,89,4.86,21.0,Good,52.508084,13.439417
+Berlin,878100,Schöneberg,Shared room,110.27,22,57,34,,,,52.554537,13.376228
+Berlin,987713,Pankow,Private room,,20,149,36,4.13,34.0,Good,52.454529,13.425134
+Berlin,796832,Friedrichshain,Entire home/apt,112.13,20,227,31,4.23,50.0,Good,52.537376,13.466432
+Berlin,162699,Neukölln,Entire home/apt,229.25,19,176,72,5.0,34.0,Good,52.459371,13.42521
+Berlin,112519,Neukölln,Private room,,2,352,11,4.93,41.0,Good,52.582115,13.384283
+Berlin,793655,Neukölln,Hotel room,45.0,7,108,36,,27.0,Good,52.506807,13.338987
+Berlin,186922,Schöneberg,Entire home/apt,163.63,19,171,78,4.75,41.0,Good,52.493891,13.376179
+Berlin,370079,Schöneberg,Entire home/apt,151.23,20,355,22,4.25,34.0,Good,52.493831,13.356462
+Berlin,404152,Friedrichshain,Private room,120.39,13,136,15,4.79,29.0,Good,52.498782,13.350605
+Berlin,896221,Mitte,Entire home/apt,153.87,16,172,56,3.72,,,52.489321,13.462664
+Berlin,558161,Prenzlauer Berg,Entire home/apt,102.22,24,239,39,4.0,28.0,Good,52.514775,13.415718
+Berlin,408286,Schöneberg,Private room,99.22,3,89,35,4.35,35.0,Good,52.54282,13.386585
+Berlin,919480,Schöneberg,Entire home/apt,250.0,1,69,0,5.0,28.0,Good,52.581699,13.425448
+Berlin,493061,Schöneberg,Private room,113.31,2,176,70,3.55,10.0,Good,52.454643,13.367447
+Berlin,839306,Prenzlauer Berg,Hotel room,250.0,25,290,10,4.16,43.0,Good,52.579986,13.449444
+Berlin,521608,Kreuzberg,Private room,250.0,19,101,81,4.4,30.0,Good,52.521423,13.457334
+Berlin,472587,Schöneberg,Private room,250.0,2,71,62,3.73,,,52.533797,13.453622
+Berlin,507630,Pankow,Entire home/apt,81.41,1,197,78,4.15,39.0,Good,52.486442,13.459284
+Berlin,124674,Friedrichshain,Entire home/apt,117.76,3,145,3,4.31,57.0,Moderate,52.589698,13.372301
+Berlin,798294,Neukölln,Entire home/apt,182.68,15,247,22,4.15,36.0,Good,52.45251,13.425622
+Berlin,915827,Neukölln,Entire home/apt,135.54,27,293,48,4.32,,,52.519605,13.379747
+Berlin,865070,Prenzlauer Berg,Entire home/apt,250.0,24,56,21,3.85,33.0,Good,52.525093,13.429877
+Berlin,952082,Schöneberg,Private room,250.0,19,272,17,3.99,35.0,Good,52.50722,13.434505
+Berlin,506471,Pankow,Entire home/apt,116.07,18,212,1,4.56,,,52.477873,13.385861
+Berlin,957245,Prenzlauer Berg,Entire home/apt,127.62,2,52,144,4.2,21.0,Good,52.550937,13.467532
+Berlin,840102,Pankow,Private room,194.92,21,29,10,3.93,38.0,Good,52.479928,13.386909
+Berlin,229617,Mitte,Entire home/apt,91.22,1,92,75,4.25,29.0,Good,52.527465,13.370414
+Berlin,946968,Neukölln,Hotel room,84.85,13,95,67,3.83,,,52.488521,13.3926
+Berlin,282321,Neukölln,Private room,158.02,28,259,7,4.03,27.0,Good,52.473616,13.443991
+Berlin,709709,Pankow,Entire home/apt,197.28,2,230,49,5.0,46.0,Good,52.506001,13.38168
+Berlin,920895,Mitte,Entire home/apt,225.55,9,63,8,2.98,33.0,Good,52.549503,13.393323
+Berlin,439839,Kreuzberg,Private room,162.77,1,54,11,3.99,53.0,Moderate,52.575798,13.453769
+Berlin,830078,Pankow,Private room,102.95,1,103,48,4.63,33.0,Good,52.547582,13.462608
+Berlin,930961,Neukölln,Entire home/apt,198.92,1,353,8,4.49,28.0,Good,52.531765,13.471689
+Berlin,137644,Friedrichshain,Shared room,250.0,3,102,11,3.99,25.0,Good,52.561866,13.416335
+Berlin,732163,Prenzlauer Berg,Entire home/apt,222.81,5,84,124,3.99,48.0,Good,52.464471,13.364763
+Berlin,898720,Schöneberg,Entire home/apt,133.06,22,63,78,4.52,32.0,Good,52.520374,13.452417
+Berlin,790063,Prenzlauer Berg,Private room,250.0,5,359,55,3.95,42.0,Good,52.585315,13.396724
+Berlin,511735,Mitte,Private room,220.15,23,207,17,4.24,53.0,Moderate,52.473085,13.380068
+Berlin,727570,Kreuzberg,Entire home/apt,54.7,22,245,102,4.34,45.0,Good,52.453193,13.3996
+Berlin,222876,Kreuzberg,Entire home/apt,64.66,17,203,40,4.03,32.0,Good,52.552234,13.355784
+Berlin,584286,Charlottenburg,Private room,134.95,10,74,147,,35.0,Good,52.578226,13.459633
+Berlin,735726,Schöneberg,Entire home/apt,210.58,1,112,227,4.21,27.0,Good,52.534493,13.33943
+Berlin,180724,Charlottenburg,Entire home/apt,250.0,19,130,59,,64.0,Moderate,52.523609,13.430568
+Berlin,115988,Schöneberg,Entire home/apt,,11,199,10,4.41,38.0,Good,52.515552,13.425874
+Berlin,918407,Neukölln,Entire home/apt,109.38,1,165,77,,25.0,Good,52.517273,13.408809
+Berlin,408064,Prenzlauer Berg,Private room,70.96,16,120,2,4.42,26.0,Good,52.46833,13.37316
+Berlin,649357,Friedrichshain,Entire home/apt,250.0,30,6,5,4.14,37.0,Good,52.527089,13.439114
+Berlin,398323,Friedrichshain,Entire home/apt,142.2,2,250,0,4.67,43.0,Good,52.518335,13.359084
+Berlin,948712,Pankow,Private room,209.58,2,213,14,3.34,35.0,Good,52.501695,13.394477
+Berlin,341128,Pankow,Hotel room,122.68,26,327,1,4.15,58.0,Moderate,52.48879,13.366202
+Berlin,296638,Charlottenburg,Entire home/apt,171.54,20,130,11,5.0,68.0,Moderate,52.483671,13.450414
+Berlin,814561,Prenzlauer Berg,Private room,205.24,10,106,28,3.93,43.0,Good,52.487266,13.431036
+Berlin,804972,Pankow,Entire home/apt,229.97,3,153,48,4.33,36.0,Good,52.472797,13.352222
+Berlin,141738,Pankow,Private room,61.2,8,172,42,3.08,44.0,Good,52.473158,13.416943
+Berlin,595399,Pankow,Private room,145.37,9,168,5,5.0,36.0,Good,52.543276,13.406379
+Berlin,589240,Charlottenburg,Entire home/apt,98.56,2,149,8,4.47,40.0,Good,52.468465,13.456006
+Berlin,474461,Mitte,Hotel room,188.77,20,212,25,3.16,25.0,Good,52.513444,13.341731
+Berlin,223609,Pankow,Entire home/apt,70.54,11,335,58,4.58,32.0,Good,52.528553,13.34391
+Berlin,687354,Pankow,Entire home/apt,201.03,14,75,3,4.37,53.0,Moderate,52.474688,13.411098
+Berlin,870758,Charlottenburg,Private room,250.0,20,123,22,5.0,47.0,Good,52.557924,13.461298
+Berlin,706966,Neukölln,Entire home/apt,107.16,29,215,19,4.54,,,52.472236,13.474959
+Berlin,807329,Pankow,Entire home/apt,141.21,26,263,17,4.18,42.0,Good,52.552483,13.382872
+Berlin,970641,Friedrichshain,Hotel room,167.6,3,235,0,,53.0,Moderate,52.524571,13.395738
+Berlin,694216,Kreuzberg,Entire home/apt,172.65,2,329,11,3.93,39.0,Good,52.565593,13.338669
+Berlin,100870,Mitte,Private room,125.4,3,44,44,4.9,15.0,Good,52.461293,13.358994
+Berlin,227658,Charlottenburg,Entire home/apt,167.89,14,167,35,3.61,26.0,Good,52.485138,13.441645
+Berlin,475817,Friedrichshain,Entire home/apt,211.03,10,76,66,,50.0,Good,52.522934,13.41593
+Berlin,282551,Prenzlauer Berg,Entire home/apt,200.18,5,61,13,4.21,44.0,Good,52.526994,13.429951
+Berlin,268836,Prenzlauer Berg,Private room,89.95,1,266,66,4.21,43.0,Good,52.519775,13.339415
+Berlin,878275,Prenzlauer Berg,Entire home/apt,204.74,3,29,19,4.06,52.0,Moderate,52.537425,13.471883
+Berlin,599009,Neukölln,Shared room,,13,314,9,3.57,33.0,Good,52.455071,13.415633
+Berlin,748948,Pankow,Private room,250.0,2,297,104,4.08,38.0,Good,52.501718,13.350608
+Berlin,537628,Kreuzberg,Entire home/apt,108.67,1,113,10,4.17,45.0,Good,52.541263,13.45825
+Berlin,834373,Schöneberg,Entire home/apt,78.04,17,217,73,3.71,50.0,Good,52.512384,13.34537
+Berlin,212749,Prenzlauer Berg,Entire home/apt,161.83,14,304,5,3.68,37.0,Good,52.462604,13.409801
+Berlin,140044,Friedrichshain,Private room,70.92,3,107,25,,54.0,Moderate,52.479051,13.442701
+Berlin,819426,Neukölln,Private room,157.77,2,156,81,3.62,42.0,Good,52.478605,13.423288
+Berlin,461851,Mitte,Entire home/apt,153.65,1,258,0,4.49,35.0,Good,52.586192,13.474127
+Berlin,607769,Mitte,Entire home/apt,250.0,3,69,1,4.18,30.0,Good,52.465247,13.459181
+Berlin,922868,Pankow,Shared room,250.0,18,159,18,4.78,31.0,Good,52.486066,13.380786
+Berlin,615910,Mitte,Entire home/apt,149.25,27,323,26,3.51,42.0,Good,52.5877,13.379868
+Berlin,846117,Friedrichshain,Private room,,3,110,94,4.68,39.0,Good,52.487249,13.381442
+Berlin,205140,Mitte,Entire home/apt,157.75,2,222,69,4.26,32.0,Good,52.576598,13.353772
+Berlin,218987,Kreuzberg,Private room,96.51,25,122,2,3.91,21.0,Good,52.453485,13.466073
+Berlin,721211,Prenzlauer Berg,Private room,157.91,3,324,30,4.35,7.0,Good,52.517371,13.383627
+Berlin,936506,Schöneberg,Private room,168.02,2,303,18,4.87,,,52.561793,13.423359
+Berlin,790238,Charlottenburg,Private room,133.99,12,6,62,3.99,,,52.53873,13.419482
+Berlin,390362,Schöneberg,Entire home/apt,125.32,13,204,54,4.61,64.0,Moderate,52.517966,13.363312
+Berlin,540510,Charlottenburg,Private room,197.41,1,253,164,4.05,44.0,Good,52.463031,13.466396
+Berlin,367342,Kreuzberg,Shared room,250.0,27,216,46,3.04,34.0,Good,52.483929,13.371888
+Berlin,467057,Pankow,Private room,187.56,7,155,20,4.02,38.0,Good,52.567487,13.376347
+Berlin,581702,Kreuzberg,Entire home/apt,,11,336,59,4.37,46.0,Good,52.577092,13.350022
+Berlin,879281,Pankow,Entire home/apt,213.89,11,220,37,4.78,50.0,Good,52.538231,13.386569
+Berlin,583096,Mitte,Entire home/apt,127.68,2,183,31,4.75,24.0,Good,52.476271,13.341009
+Berlin,496018,Friedrichshain,Private room,161.89,27,335,2,4.48,42.0,Good,52.519431,13.403057
+Berlin,869694,Charlottenburg,Shared room,246.48,2,343,45,4.13,45.0,Good,52.552045,13.448309
+Berlin,514380,Kreuzberg,Entire home/apt,169.46,1,129,41,4.27,38.0,Good,52.550223,13.376709
+Berlin,818385,Neukölln,Entire home/apt,185.81,2,192,121,4.39,38.0,Good,52.53062,13.449194
+Berlin,613372,Schöneberg,Entire home/apt,184.43,9,362,102,3.7,44.0,Good,52.528306,13.47209
+Berlin,909597,Pankow,Private room,128.43,8,59,63,4.07,,,52.484857,13.422771
+Berlin,579275,Friedrichshain,Entire home/apt,233.08,4,184,2,4.31,26.0,Good,52.555489,13.346321
+Berlin,444303,Pankow,Entire home/apt,250.0,1,138,17,4.6,24.0,Good,52.489838,13.335175
+Berlin,679188,Prenzlauer Berg,Private room,177.4,26,216,57,4.62,38.0,Good,52.53311,13.389716
+Berlin,359687,Pankow,Entire home/apt,250.0,2,159,142,4.41,39.0,Good,52.520701,13.405474
+Berlin,137342,Prenzlauer Berg,Entire home/apt,220.28,1,354,3,4.38,25.0,Good,52.570542,13.387244
+Berlin,832010,Mitte,Entire home/apt,103.82,2,328,5,4.32,35.0,Good,52.492146,13.347145
+Berlin,722654,Friedrichshain,Entire home/apt,209.77,12,89,30,4.42,40.0,Good,52.491393,13.466026
+Berlin,876028,Mitte,Entire home/apt,216.01,6,364,80,4.92,49.0,Good,52.505875,13.377457

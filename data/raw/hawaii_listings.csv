@@ -1,0 +1,481 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Hawaii,155138,Princeville,Entire home/apt,409.96,18,101,25,3.72,13.0,Good,21.363786,-157.822663
+Hawaii,473304,Hilo,Private room,358.56,15,89,75,3.94,14.0,Good,21.321358,-157.802295
+Hawaii,850398,Hilo,Entire home/apt,680.0,1,327,0,3.79,15.0,Good,21.242227,-157.911081
+Hawaii,880739,Hilo,Private room,675.52,22,104,14,3.48,18.0,Good,21.238315,-157.851758
+Hawaii,676067,North Shore,Entire home/apt,449.43,26,212,97,4.43,9.0,Good,21.284796,-157.870932
+Hawaii,175975,Kona,Entire home/apt,275.84,18,249,13,3.93,17.0,Good,21.3481,-157.84734
+Hawaii,388960,Lahaina,Entire home/apt,680.0,9,259,162,4.7,16.0,Good,21.32581,-157.855854
+Hawaii,514865,Waikiki,Entire home/apt,680.0,1,278,26,3.8,19.0,Good,21.26567,-157.843743
+Hawaii,365431,Waikiki,Private room,680.0,4,103,28,3.85,16.0,Good,21.362637,-157.801287
+Hawaii,250267,Waikiki,Private room,314.77,1,146,8,4.33,11.0,Good,21.326245,-157.792586
+Hawaii,893622,North Shore,Entire home/apt,276.75,1,98,66,4.88,21.0,Good,21.249485,-157.800733
+Hawaii,871049,North Shore,Entire home/apt,645.28,10,335,10,3.76,15.0,Good,21.373939,-157.814561
+Hawaii,406713,Kihei,Entire home/apt,415.74,27,173,22,5.0,9.0,Good,21.315849,-157.884098
+Hawaii,173276,Lahaina,Entire home/apt,538.42,8,2,14,4.71,16.0,Good,21.366419,-157.857353
+Hawaii,799747,Princeville,Entire home/apt,680.0,29,39,38,3.94,17.0,Good,21.342966,-157.83019
+Hawaii,658650,Kihei,Entire home/apt,209.69,1,62,5,,20.0,Good,21.361477,-157.924957
+Hawaii,429582,Lahaina,Entire home/apt,591.31,13,319,6,3.86,19.0,Good,21.300099,-157.790663
+Hawaii,952795,North Shore,Private room,606.78,3,123,1,5.0,,,21.2482,-157.83259
+Hawaii,235638,Kihei,Shared room,680.0,8,43,70,4.37,21.0,Good,21.37299,-157.899706
+Hawaii,785614,Waikiki,Hotel room,,16,148,0,,8.0,Good,21.237344,-157.904851
+Hawaii,481239,Kailua,Entire home/apt,350.29,27,173,49,,9.0,Good,21.237885,-157.837881
+Hawaii,738387,Kona,Entire home/apt,541.05,2,94,21,4.18,10.0,Good,21.368231,-157.836777
+Hawaii,659654,Waikiki,Entire home/apt,680.0,6,149,130,,12.0,Good,21.264311,-157.925696
+Hawaii,914854,Kailua,Shared room,365.59,2,57,36,3.84,12.0,Good,21.292793,-157.829155
+Hawaii,914742,Kona,Entire home/apt,475.01,12,148,3,,13.0,Good,21.243553,-157.838354
+Hawaii,277466,Kihei,Entire home/apt,587.69,17,140,69,4.3,19.0,Good,21.348928,-157.81294
+Hawaii,996918,Hilo,Entire home/apt,339.26,6,210,2,4.09,17.0,Good,21.277169,-157.827561
+Hawaii,294092,Waikiki,Entire home/apt,238.77,14,151,42,3.56,15.0,Good,21.358799,-157.840076
+Hawaii,398753,Lahaina,Entire home/apt,292.8,24,121,86,3.8,19.0,Good,21.245123,-157.853479
+Hawaii,994274,Lahaina,Private room,680.0,27,37,23,4.36,25.0,Good,21.305022,-157.84488
+Hawaii,676922,Kihei,Entire home/apt,650.27,19,92,6,4.54,9.0,Good,21.260782,-157.880105
+Hawaii,634408,Kona,Entire home/apt,347.4,29,14,64,4.0,14.0,Good,21.321637,-157.897263
+Hawaii,195692,Kailua,Entire home/apt,449.59,12,265,90,4.39,15.0,Good,21.357996,-157.834038
+Hawaii,748068,Kihei,Private room,417.99,2,360,22,4.49,12.0,Good,21.248631,-157.871324
+Hawaii,990987,North Shore,Private room,559.26,6,17,98,4.85,27.0,Good,21.328058,-157.836588
+Hawaii,667270,Kailua,Private room,680.0,24,160,128,4.71,19.0,Good,21.365719,-157.835604
+Hawaii,129127,Hilo,Private room,680.0,22,103,132,3.9,11.0,Good,21.30776,-157.919661
+Hawaii,130261,Kona,Private room,244.7,2,159,51,4.86,21.0,Good,21.24974,-157.856494
+Hawaii,764911,Princeville,Entire home/apt,283.2,2,51,26,4.26,22.0,Good,21.319518,-157.820435
+Hawaii,174790,Kihei,Shared room,190.55,9,167,131,4.24,13.0,Good,21.366939,-157.802217
+Hawaii,223345,Hilo,Private room,568.33,3,296,57,3.51,21.0,Good,21.355652,-157.802503
+Hawaii,947980,Kona,Entire home/apt,,4,277,15,4.68,14.0,Good,21.335787,-157.835646
+Hawaii,517277,Kona,Shared room,680.0,18,19,25,4.42,19.0,Good,21.351861,-157.866638
+Hawaii,502884,Princeville,Entire home/apt,680.0,2,363,98,4.15,15.0,Good,21.337241,-157.793152
+Hawaii,697814,Hilo,Entire home/apt,,27,144,33,4.11,15.0,Good,21.276859,-157.83808
+Hawaii,190976,Kihei,Shared room,389.0,2,73,14,4.48,18.0,Good,21.359713,-157.834749
+Hawaii,626693,Kihei,Entire home/apt,412.33,22,21,8,5.0,13.0,Good,21.279743,-157.902221
+Hawaii,923468,Princeville,Entire home/apt,217.36,21,337,11,,20.0,Good,21.284585,-157.836353
+Hawaii,740187,Hilo,Private room,279.62,9,70,6,4.19,15.0,Good,21.348582,-157.816623
+Hawaii,906622,Lahaina,Shared room,262.01,11,341,4,3.7,20.0,Good,21.249808,-157.817522
+Hawaii,697991,Kailua,Entire home/apt,680.0,27,319,7,4.73,15.0,Good,21.353748,-157.820436
+Hawaii,536040,Princeville,Private room,,13,316,23,4.67,4.0,Good,21.314605,-157.789442
+Hawaii,569993,Kona,Private room,232.17,16,7,9,4.53,26.0,Good,21.317715,-157.909921
+Hawaii,510117,Princeville,Private room,472.36,17,33,80,4.71,6.0,Good,21.326007,-157.925283
+Hawaii,717270,Hilo,Entire home/apt,384.11,22,321,19,4.77,9.0,Good,21.247884,-157.876721
+Hawaii,330607,Kona,Private room,275.19,20,49,86,4.51,16.0,Good,21.298489,-157.840466
+Hawaii,584077,Waikiki,Entire home/apt,633.0,3,282,429,4.27,21.0,Good,21.267206,-157.808528
+Hawaii,382423,Kona,Entire home/apt,417.92,3,3,4,3.73,11.0,Good,21.273624,-157.871246
+Hawaii,484526,Waikiki,Private room,679.34,3,23,48,4.39,22.0,Good,21.289123,-157.817604
+Hawaii,685614,Kihei,Entire home/apt,680.0,21,346,7,4.83,11.0,Good,21.240018,-157.789771
+Hawaii,394719,Lahaina,Entire home/apt,464.46,13,39,66,4.68,11.0,Good,21.244695,-157.798925
+Hawaii,442106,Kihei,Private room,680.0,14,207,87,4.51,17.0,Good,21.305041,-157.909068
+Hawaii,829813,Kona,Private room,645.28,18,149,142,3.58,,,21.274647,-157.811944
+Hawaii,517293,Kailua,Entire home/apt,680.0,22,290,23,4.77,16.0,Good,21.360627,-157.861231
+Hawaii,168929,Kailua,Entire home/apt,555.5,1,154,5,4.18,13.0,Good,21.365053,-157.911437
+Hawaii,219779,Kona,Entire home/apt,377.06,1,163,126,2.92,13.0,Good,21.332238,-157.79488
+Hawaii,757054,Kona,Entire home/apt,471.27,21,312,43,,15.0,Good,21.306898,-157.901122
+Hawaii,500986,Waikiki,Entire home/apt,454.28,8,240,27,4.33,21.0,Good,21.241186,-157.829917
+Hawaii,420356,Lahaina,Entire home/apt,406.73,25,124,25,4.52,10.0,Good,21.292693,-157.891371
+Hawaii,272244,Kona,Entire home/apt,541.11,8,145,58,3.77,20.0,Good,21.238009,-157.874303
+Hawaii,878979,Princeville,Entire home/apt,280.79,30,325,9,5.0,18.0,Good,21.330292,-157.909138
+Hawaii,985139,Kona,Entire home/apt,359.27,5,219,0,5.0,26.0,Good,21.244388,-157.816164
+Hawaii,690162,Kailua,Private room,361.93,21,306,26,4.6,12.0,Good,21.293292,-157.914334
+Hawaii,255520,Hilo,Entire home/apt,680.0,8,70,77,4.83,23.0,Good,21.346947,-157.858861
+Hawaii,395406,North Shore,Entire home/apt,612.69,3,100,24,4.61,12.0,Good,21.371287,-157.825485
+Hawaii,930032,Princeville,Entire home/apt,311.54,22,57,27,3.67,19.0,Good,21.282757,-157.872705
+Hawaii,351325,Kona,Shared room,297.12,15,331,22,2.94,24.0,Good,21.250087,-157.797433
+Hawaii,933334,Lahaina,Entire home/apt,680.0,16,281,67,4.88,16.0,Good,21.302253,-157.813011
+Hawaii,226284,Princeville,Hotel room,453.67,22,107,90,4.64,10.0,Good,21.358325,-157.903494
+Hawaii,479160,Kona,Private room,680.0,16,339,15,4.29,23.0,Good,21.244782,-157.811205
+Hawaii,634175,Waikiki,Private room,274.85,29,221,88,4.47,13.0,Good,21.275932,-157.910361
+Hawaii,481935,Hilo,Entire home/apt,425.19,3,230,37,5.0,13.0,Good,21.317443,-157.910876
+Hawaii,985655,Lahaina,Hotel room,292.04,20,167,1,3.04,22.0,Good,21.283754,-157.80375
+Hawaii,867479,Princeville,Hotel room,388.01,2,288,2,4.63,14.0,Good,21.320514,-157.83044
+Hawaii,528754,Kona,Entire home/apt,424.88,5,134,16,4.35,19.0,Good,21.319425,-157.912867
+Hawaii,865639,Kona,Entire home/apt,286.18,12,360,142,4.36,14.0,Good,21.258657,-157.788518
+Hawaii,314955,Lahaina,Entire home/apt,659.85,27,97,19,5.0,12.0,Good,21.260111,-157.803508
+Hawaii,945686,North Shore,Entire home/apt,557.07,24,146,3,3.81,12.0,Good,21.375566,-157.858447
+Hawaii,821092,Kona,Hotel room,608.47,22,268,14,4.59,21.0,Good,21.274447,-157.797653
+Hawaii,267944,Princeville,Private room,300.77,18,223,37,5.0,12.0,Good,21.308407,-157.883548
+Hawaii,161874,Kona,Entire home/apt,452.65,20,278,17,4.71,8.0,Good,21.261957,-157.84284
+Hawaii,173921,Kailua,Entire home/apt,352.52,2,308,36,5.0,14.0,Good,21.336726,-157.802262
+Hawaii,461399,Princeville,Private room,,1,200,74,4.13,13.0,Good,21.323,-157.874842
+Hawaii,266316,Princeville,Entire home/apt,680.0,3,22,27,4.58,18.0,Good,21.32818,-157.889644
+Hawaii,253553,Hilo,Hotel room,458.11,29,243,4,4.29,16.0,Good,21.305727,-157.799388
+Hawaii,169968,Princeville,Entire home/apt,186.87,22,7,18,4.04,7.0,Good,21.328642,-157.895585
+Hawaii,849622,Princeville,Shared room,446.78,25,105,189,5.0,16.0,Good,21.331697,-157.871013
+Hawaii,969966,Hilo,Hotel room,627.46,29,166,44,4.77,17.0,Good,21.267295,-157.789232
+Hawaii,718560,North Shore,Entire home/apt,,7,251,74,,13.0,Good,21.242023,-157.918501
+Hawaii,684124,Kona,Entire home/apt,429.85,8,235,18,3.88,19.0,Good,21.31893,-157.83978
+Hawaii,837620,Princeville,Private room,210.91,19,213,8,,8.0,Good,21.321185,-157.842116
+Hawaii,377892,North Shore,Private room,680.0,2,35,127,4.82,15.0,Good,21.288899,-157.854725
+Hawaii,470424,Kona,Private room,680.0,27,149,9,4.49,14.0,Good,21.34526,-157.814668
+Hawaii,380975,Kona,Entire home/apt,680.0,22,229,32,4.71,19.0,Good,21.330431,-157.809061
+Hawaii,801041,North Shore,Entire home/apt,208.57,17,124,59,5.0,14.0,Good,21.281348,-157.913711
+Hawaii,337273,Kihei,Entire home/apt,680.0,1,348,43,4.03,12.0,Good,21.267401,-157.892006
+Hawaii,180890,Kihei,Hotel room,561.04,23,106,15,3.26,21.0,Good,21.338846,-157.821098
+Hawaii,375659,Hilo,Entire home/apt,217.02,20,299,37,5.0,11.0,Good,21.240262,-157.844559
+Hawaii,351109,Lahaina,Private room,346.15,3,67,25,4.72,19.0,Good,21.264648,-157.872397
+Hawaii,557939,Kona,Private room,410.85,17,248,2,4.97,22.0,Good,21.332677,-157.882337
+Hawaii,116337,Hilo,Entire home/apt,516.31,18,80,19,4.93,,,21.349752,-157.868169
+Hawaii,149400,Princeville,Private room,406.56,8,262,32,4.64,15.0,Good,21.272648,-157.909448
+Hawaii,856379,North Shore,Entire home/apt,680.0,30,96,3,4.03,10.0,Good,21.275891,-157.917777
+Hawaii,693415,North Shore,Hotel room,343.19,11,36,38,3.08,23.0,Good,21.357124,-157.898621
+Hawaii,900739,Princeville,Private room,207.16,1,201,18,4.02,4.0,Good,21.321802,-157.814727
+Hawaii,457406,Hilo,Private room,503.33,29,194,11,3.5,,,21.340748,-157.793861
+Hawaii,859071,Kailua,Private room,537.65,16,155,17,4.09,12.0,Good,21.354499,-157.908222
+Hawaii,432358,Princeville,Entire home/apt,680.0,2,208,20,4.49,12.0,Good,21.360108,-157.893295
+Hawaii,268057,Kailua,Entire home/apt,401.44,28,231,102,4.63,13.0,Good,21.324919,-157.879795
+Hawaii,241236,North Shore,Hotel room,379.88,26,204,2,,14.0,Good,21.260937,-157.925157
+Hawaii,761456,Kailua,Private room,668.85,1,169,23,4.58,21.0,Good,21.376689,-157.834547
+Hawaii,539024,Kona,Entire home/apt,196.11,1,353,19,3.01,17.0,Good,21.346793,-157.910411
+Hawaii,214391,Kailua,Private room,398.99,23,20,5,4.21,22.0,Good,21.243418,-157.836268
+Hawaii,995692,Kihei,Private room,405.44,26,282,15,3.92,21.0,Good,21.304339,-157.814811
+Hawaii,801240,Hilo,Private room,680.0,13,351,7,4.64,27.0,Good,21.303728,-157.843831
+Hawaii,643274,Lahaina,Entire home/apt,341.25,24,256,57,3.99,17.0,Good,21.28142,-157.880033
+Hawaii,682146,Kailua,Entire home/apt,449.89,14,267,16,3.44,16.0,Good,21.361004,-157.898537
+Hawaii,550130,Princeville,Private room,343.08,3,138,2,4.01,18.0,Good,21.334077,-157.862918
+Hawaii,289026,Princeville,Entire home/apt,557.74,19,94,1,4.49,14.0,Good,21.286782,-157.840814
+Hawaii,802799,Princeville,Entire home/apt,531.68,23,235,18,4.63,20.0,Good,21.242637,-157.832728
+Hawaii,747399,Hilo,Entire home/apt,680.0,5,45,83,4.37,21.0,Good,21.270673,-157.862999
+Hawaii,132327,Kona,Private room,461.38,17,358,18,4.51,15.0,Good,21.358583,-157.790406
+Hawaii,898921,Kona,Entire home/apt,386.36,3,71,26,4.66,2.0,Good,21.260026,-157.860059
+Hawaii,872160,Kona,Private room,376.85,24,317,25,4.61,23.0,Good,21.364329,-157.812093
+Hawaii,173022,North Shore,Entire home/apt,140.0,7,59,30,4.29,19.0,Good,21.342597,-157.807319
+Hawaii,928077,Lahaina,Private room,680.0,16,224,102,3.97,20.0,Good,21.335034,-157.902566
+Hawaii,107690,Lahaina,Entire home/apt,314.34,14,347,24,3.62,21.0,Good,21.303032,-157.847807
+Hawaii,121264,North Shore,Private room,192.45,10,282,1,3.77,14.0,Good,21.366103,-157.896768
+Hawaii,219202,Waikiki,Entire home/apt,451.78,3,137,31,3.12,16.0,Good,21.248754,-157.830183
+Hawaii,538696,Princeville,Entire home/apt,680.0,18,103,12,4.51,19.0,Good,21.303898,-157.903818
+Hawaii,847721,Hilo,Entire home/apt,464.66,16,173,0,5.0,,,21.370689,-157.84418
+Hawaii,772032,Waikiki,Shared room,516.54,28,257,51,,13.0,Good,21.299911,-157.803861
+Hawaii,581330,Lahaina,Entire home/apt,486.49,12,141,19,4.87,17.0,Good,21.374563,-157.912078
+Hawaii,191400,Lahaina,Shared room,411.55,5,299,8,3.72,,,21.32382,-157.832323
+Hawaii,409713,Kona,Private room,465.18,2,140,32,4.04,10.0,Good,21.299075,-157.903197
+Hawaii,297872,Hilo,Entire home/apt,247.69,30,134,12,4.05,17.0,Good,21.242018,-157.880904
+Hawaii,237166,Hilo,Entire home/apt,635.91,30,300,11,4.95,14.0,Good,21.291724,-157.850151
+Hawaii,774758,Kailua,Entire home/apt,538.99,15,345,27,4.73,15.0,Good,21.313446,-157.872182
+Hawaii,318650,Kailua,Entire home/apt,604.09,7,215,49,4.71,11.0,Good,21.332372,-157.880937
+Hawaii,444798,Kailua,Private room,680.0,13,36,120,4.15,18.0,Good,21.243916,-157.886946
+Hawaii,847121,Kihei,Entire home/apt,,20,106,48,4.89,21.0,Good,21.370144,-157.856981
+Hawaii,285137,Kihei,Private room,404.56,22,18,15,3.99,7.0,Good,21.323852,-157.798576
+Hawaii,413091,Kailua,Private room,226.59,14,156,8,3.96,13.0,Good,21.245061,-157.90141
+Hawaii,444974,Waikiki,Entire home/apt,633.34,2,53,0,5.0,16.0,Good,21.314276,-157.925447
+Hawaii,949016,Waikiki,Entire home/apt,198.04,30,314,69,3.78,12.0,Good,21.323654,-157.878428
+Hawaii,793030,Waikiki,Entire home/apt,368.3,1,264,97,4.89,16.0,Good,21.3498,-157.829016
+Hawaii,475029,Kihei,Private room,302.07,1,116,57,4.53,12.0,Good,21.259519,-157.882981
+Hawaii,452480,North Shore,Entire home/apt,369.68,1,102,13,4.45,22.0,Good,21.353103,-157.886816
+Hawaii,908695,Kailua,Entire home/apt,384.76,15,135,9,4.56,11.0,Good,21.355803,-157.873347
+Hawaii,248746,Lahaina,Hotel room,631.88,16,170,33,4.69,18.0,Good,21.346631,-157.828429
+Hawaii,976461,North Shore,Private room,308.19,1,342,13,3.51,18.0,Good,21.24203,-157.836703
+Hawaii,446745,North Shore,Entire home/apt,266.67,22,287,6,4.19,18.0,Good,21.243531,-157.889769
+Hawaii,127501,Princeville,Entire home/apt,680.0,25,175,13,2.91,8.0,Good,21.283386,-157.85425
+Hawaii,408803,Princeville,Entire home/apt,680.0,2,232,6,3.86,20.0,Good,21.331843,-157.865485
+Hawaii,663621,Kihei,Private room,260.98,3,320,24,4.41,18.0,Good,21.342627,-157.806704
+Hawaii,852866,Lahaina,Entire home/apt,,10,228,73,,12.0,Good,21.327503,-157.869656
+Hawaii,758037,Kona,Shared room,507.65,17,122,12,4.12,9.0,Good,21.369442,-157.890736
+Hawaii,862757,Waikiki,Entire home/apt,,16,317,33,4.5,14.0,Good,21.263558,-157.889929
+Hawaii,566657,Lahaina,Hotel room,491.79,10,110,90,,18.0,Good,21.311511,-157.868445
+Hawaii,767089,Kona,Shared room,498.5,1,284,11,5.0,13.0,Good,21.316565,-157.925095
+Hawaii,907389,Lahaina,Entire home/apt,680.0,4,59,68,4.11,17.0,Good,21.361473,-157.854947
+Hawaii,471478,North Shore,Entire home/apt,,15,278,57,4.09,19.0,Good,21.288094,-157.835222
+Hawaii,735871,Kihei,Entire home/apt,669.26,27,68,30,4.11,22.0,Good,21.270243,-157.892293
+Hawaii,496550,North Shore,Private room,441.65,1,282,3,,,,21.245074,-157.822849
+Hawaii,767478,Lahaina,Entire home/apt,389.13,25,306,48,4.63,29.0,Good,21.362094,-157.842457
+Hawaii,154782,Hilo,Entire home/apt,680.0,20,68,25,4.62,16.0,Good,21.340232,-157.925635
+Hawaii,847095,North Shore,Private room,291.67,13,188,79,3.92,19.0,Good,21.374446,-157.789113
+Hawaii,817333,Hilo,Entire home/apt,635.6,26,242,14,5.0,7.0,Good,21.343332,-157.805115
+Hawaii,641416,Waikiki,Entire home/apt,323.0,18,286,6,4.31,13.0,Good,21.308171,-157.803655
+Hawaii,370429,North Shore,Shared room,680.0,17,360,10,3.75,17.0,Good,21.311864,-157.820441
+Hawaii,847551,Hilo,Entire home/apt,680.0,17,250,12,3.89,11.0,Good,21.362792,-157.872946
+Hawaii,288271,Kona,Private room,287.87,15,79,52,4.08,16.0,Good,21.340993,-157.873556
+Hawaii,957052,Hilo,Entire home/apt,647.29,14,44,41,3.88,20.0,Good,21.372924,-157.864698
+Hawaii,204994,Princeville,Shared room,140.0,29,220,102,3.88,8.0,Good,21.271116,-157.925225
+Hawaii,986654,Waikiki,Private room,515.29,27,221,3,,17.0,Good,21.249606,-157.894662
+Hawaii,251426,Kailua,Private room,441.02,24,96,54,,20.0,Good,21.31484,-157.907892
+Hawaii,510837,Princeville,Private room,278.56,9,346,9,4.04,15.0,Good,21.270151,-157.890696
+Hawaii,951562,Lahaina,Private room,497.68,20,217,173,4.26,18.0,Good,21.341871,-157.808855
+Hawaii,865660,Hilo,Entire home/apt,660.51,15,286,157,3.99,18.0,Good,21.352574,-157.811043
+Hawaii,609674,Hilo,Entire home/apt,680.0,1,137,2,,7.0,Good,21.24637,-157.79097
+Hawaii,972745,Lahaina,Private room,652.47,22,156,50,4.23,22.0,Good,21.374267,-157.854142
+Hawaii,255354,Waikiki,Entire home/apt,680.0,2,251,11,4.58,13.0,Good,21.30219,-157.84947
+Hawaii,453553,Waikiki,Shared room,343.15,4,71,48,3.82,,,21.252217,-157.858656
+Hawaii,998501,Kailua,Entire home/apt,641.36,24,187,11,5.0,13.0,Good,21.357231,-157.794555
+Hawaii,403363,Kailua,Entire home/apt,672.31,2,152,91,4.66,27.0,Good,21.241728,-157.867607
+Hawaii,189662,Lahaina,Entire home/apt,379.79,3,22,3,4.1,11.0,Good,21.308291,-157.799594
+Hawaii,560515,Lahaina,Entire home/apt,641.84,15,1,87,4.21,19.0,Good,21.31564,-157.908311
+Hawaii,255566,Hilo,Entire home/apt,294.14,2,215,46,3.23,27.0,Good,21.251894,-157.846551
+Hawaii,660784,Princeville,Entire home/apt,377.24,4,28,113,4.27,13.0,Good,21.315628,-157.888665
+Hawaii,140849,Waikiki,Entire home/apt,,8,291,60,4.66,6.0,Good,21.324607,-157.833285
+Hawaii,797353,Kailua,Entire home/apt,292.28,24,172,4,3.96,15.0,Good,21.30879,-157.891117
+Hawaii,666783,Kona,Hotel room,624.6,11,319,30,4.51,20.0,Good,21.323222,-157.890984
+Hawaii,951740,Waikiki,Entire home/apt,396.37,2,238,13,4.43,21.0,Good,21.253817,-157.848388
+Hawaii,515128,Hilo,Entire home/apt,,2,109,25,4.91,14.0,Good,21.316542,-157.802154
+Hawaii,707256,Princeville,Entire home/apt,260.22,1,219,80,4.27,13.0,Good,21.342848,-157.862739
+Hawaii,133718,North Shore,Entire home/apt,425.66,30,72,62,5.0,10.0,Good,21.325964,-157.855888
+Hawaii,299324,Lahaina,Entire home/apt,676.06,24,363,1,4.27,,,21.347381,-157.90225
+Hawaii,282512,Lahaina,Entire home/apt,473.06,14,86,70,4.34,13.0,Good,21.349321,-157.877329
+Hawaii,478685,North Shore,Private room,285.35,5,198,40,4.8,18.0,Good,21.247068,-157.843507
+Hawaii,343988,Kihei,Entire home/apt,680.0,9,235,9,3.75,17.0,Good,21.286302,-157.863316
+Hawaii,146604,Hilo,Entire home/apt,680.0,10,102,75,4.76,,,21.347693,-157.802729
+Hawaii,431020,Kailua,Private room,173.2,2,25,58,4.26,20.0,Good,21.364649,-157.89017
+Hawaii,235641,Kona,Entire home/apt,349.67,1,305,16,4.28,12.0,Good,21.307436,-157.796137
+Hawaii,723668,Hilo,Shared room,576.12,1,344,10,4.49,20.0,Good,21.3219,-157.86507
+Hawaii,901661,Lahaina,Entire home/apt,469.49,1,300,5,4.29,10.0,Good,21.322934,-157.878111
+Hawaii,634172,Waikiki,Hotel room,313.89,30,34,132,4.21,15.0,Good,21.30638,-157.883354
+Hawaii,913801,Waikiki,Entire home/apt,340.32,23,267,40,4.49,18.0,Good,21.314465,-157.891799
+Hawaii,258111,Kihei,Entire home/apt,356.42,19,322,18,4.36,7.0,Good,21.303212,-157.803132
+Hawaii,611874,Kona,Hotel room,530.19,15,352,19,3.29,16.0,Good,21.368199,-157.811952
+Hawaii,903710,Kihei,Private room,233.05,30,6,46,3.86,15.0,Good,21.265026,-157.802429
+Hawaii,538196,Princeville,Entire home/apt,551.34,20,53,92,4.39,13.0,Good,21.339615,-157.793676
+Hawaii,594937,Kailua,Private room,267.76,1,128,137,4.6,16.0,Good,21.353554,-157.918023
+Hawaii,632869,Kailua,Shared room,680.0,11,259,13,,14.0,Good,21.239572,-157.851384
+Hawaii,474688,Kona,Private room,680.0,15,227,38,4.39,12.0,Good,21.355275,-157.795549
+Hawaii,406252,Kona,Shared room,303.94,1,217,2,5.0,18.0,Good,21.333708,-157.916527
+Hawaii,649131,Kona,Private room,578.7,18,121,46,3.88,14.0,Good,21.30661,-157.851727
+Hawaii,793056,Hilo,Private room,640.68,3,206,1,4.31,20.0,Good,21.265551,-157.803922
+Hawaii,379286,Waikiki,Entire home/apt,,1,206,11,3.51,26.0,Good,21.268143,-157.808625
+Hawaii,953392,Hilo,Private room,216.86,6,29,22,4.07,19.0,Good,21.374296,-157.921587
+Hawaii,265894,Princeville,Entire home/apt,603.07,2,156,1,3.8,17.0,Good,21.251673,-157.899814
+Hawaii,768073,Princeville,Hotel room,363.92,2,335,11,3.65,15.0,Good,21.293673,-157.903739
+Hawaii,413026,Kona,Entire home/apt,428.22,16,335,18,4.6,15.0,Good,21.271102,-157.81017
+Hawaii,426376,North Shore,Entire home/apt,577.92,24,250,153,,9.0,Good,21.304712,-157.840871
+Hawaii,168858,Lahaina,Entire home/apt,580.36,7,95,1,5.0,20.0,Good,21.329002,-157.883437
+Hawaii,515539,Kailua,Private room,,14,284,8,4.2,13.0,Good,21.283633,-157.869137
+Hawaii,343530,Lahaina,Private room,161.12,18,137,47,4.21,11.0,Good,21.267166,-157.882792
+Hawaii,952453,Kihei,Entire home/apt,643.89,6,350,63,4.41,20.0,Good,21.308053,-157.818272
+Hawaii,886868,Lahaina,Entire home/apt,352.88,6,16,8,4.72,14.0,Good,21.256624,-157.795736
+Hawaii,964582,Kailua,Private room,419.41,4,291,133,4.55,24.0,Good,21.342275,-157.876942
+Hawaii,977979,Waikiki,Private room,329.68,13,242,27,4.05,21.0,Good,21.347393,-157.913968
+Hawaii,389963,Lahaina,Entire home/apt,169.0,2,265,23,3.77,16.0,Good,21.289939,-157.840111
+Hawaii,563051,North Shore,Entire home/apt,680.0,13,238,165,4.13,19.0,Good,21.350639,-157.923197
+Hawaii,337950,Kihei,Private room,277.15,2,154,81,4.49,,,21.352597,-157.887182
+Hawaii,807511,Kona,Entire home/apt,233.49,2,356,7,4.81,6.0,Good,21.285031,-157.811201
+Hawaii,298340,North Shore,Entire home/apt,361.79,3,346,14,4.4,22.0,Good,21.299874,-157.903686
+Hawaii,208608,Kona,Entire home/apt,167.69,2,83,50,4.77,18.0,Good,21.242879,-157.823849
+Hawaii,340881,Hilo,Private room,337.89,17,6,66,4.77,14.0,Good,21.319898,-157.880485
+Hawaii,988298,Kailua,Entire home/apt,244.29,7,242,43,4.07,21.0,Good,21.274477,-157.84394
+Hawaii,476651,Kailua,Private room,399.28,17,251,18,3.63,8.0,Good,21.285929,-157.909967
+Hawaii,267722,Hilo,Entire home/apt,224.93,6,351,48,,22.0,Good,21.280636,-157.910065
+Hawaii,601572,Kihei,Shared room,424.86,25,42,41,4.07,20.0,Good,21.288946,-157.864625
+Hawaii,479046,Kailua,Entire home/apt,218.06,14,199,0,4.44,8.0,Good,21.281545,-157.824557
+Hawaii,633901,Kona,Entire home/apt,202.26,26,211,16,4.37,17.0,Good,21.330498,-157.889121
+Hawaii,508002,Kona,Entire home/apt,357.69,27,193,13,4.38,15.0,Good,21.283762,-157.86925
+Hawaii,558568,Lahaina,Private room,164.16,26,132,30,4.54,,,21.339716,-157.844137
+Hawaii,695146,Waikiki,Entire home/apt,165.94,5,135,36,4.33,10.0,Good,21.332749,-157.826401
+Hawaii,368082,Hilo,Entire home/apt,680.0,4,146,85,4.88,16.0,Good,21.289208,-157.844552
+Hawaii,745963,Lahaina,Private room,491.96,29,197,17,4.53,14.0,Good,21.271532,-157.891536
+Hawaii,997241,Kailua,Hotel room,293.96,25,330,40,4.08,22.0,Good,21.327056,-157.814341
+Hawaii,332285,Princeville,Entire home/apt,452.66,22,274,68,3.96,16.0,Good,21.248198,-157.901952
+Hawaii,791224,North Shore,Shared room,387.52,17,225,23,4.4,11.0,Good,21.360951,-157.899831
+Hawaii,787013,Kihei,Private room,680.0,1,222,28,4.02,21.0,Good,21.321435,-157.827065
+Hawaii,313853,North Shore,Hotel room,680.0,21,242,5,3.98,22.0,Good,21.366302,-157.906763
+Hawaii,271928,North Shore,Private room,414.14,3,344,13,4.16,9.0,Good,21.261552,-157.826405
+Hawaii,575901,Kona,Entire home/apt,631.47,1,56,43,4.11,12.0,Good,21.259229,-157.849687
+Hawaii,745786,North Shore,Private room,321.63,23,43,47,5.0,2.0,Good,21.258643,-157.854481
+Hawaii,580968,Kailua,Hotel room,163.12,3,6,10,4.06,9.0,Good,21.273516,-157.868202
+Hawaii,545588,Kona,Shared room,489.57,21,200,21,3.95,8.0,Good,21.307408,-157.899402
+Hawaii,534257,Kailua,Entire home/apt,680.0,1,281,34,4.38,30.0,Good,21.245695,-157.901464
+Hawaii,429991,Princeville,Entire home/apt,586.28,9,114,6,3.65,17.0,Good,21.324689,-157.926388
+Hawaii,641422,Kailua,Entire home/apt,375.12,21,271,3,4.0,12.0,Good,21.267791,-157.892753
+Hawaii,822607,North Shore,Private room,439.82,3,205,34,4.18,17.0,Good,21.256205,-157.809882
+Hawaii,369655,Kihei,Entire home/apt,407.02,28,9,19,4.34,13.0,Good,21.284445,-157.896406
+Hawaii,625925,Lahaina,Entire home/apt,599.74,13,148,16,4.92,26.0,Good,21.350073,-157.847591
+Hawaii,234089,North Shore,Shared room,244.73,11,93,13,4.41,17.0,Good,21.375694,-157.897758
+Hawaii,847231,Kihei,Private room,417.04,3,212,32,4.44,10.0,Good,21.284279,-157.818927
+Hawaii,200056,Princeville,Entire home/apt,278.95,26,335,30,4.06,15.0,Good,21.247287,-157.902392
+Hawaii,562265,Kihei,Entire home/apt,624.76,3,302,83,4.56,25.0,Good,21.348612,-157.839445
+Hawaii,699821,Kailua,Private room,170.8,2,184,38,4.62,6.0,Good,21.275653,-157.831418
+Hawaii,680528,Kailua,Private room,170.21,19,170,23,4.02,14.0,Good,21.267452,-157.896876
+Hawaii,667306,Hilo,Entire home/apt,591.0,20,360,15,4.54,21.0,Good,21.356301,-157.794664
+Hawaii,434282,Kihei,Entire home/apt,420.81,14,4,19,3.23,29.0,Good,21.301261,-157.911698
+Hawaii,834640,Waikiki,Hotel room,,24,350,20,4.08,23.0,Good,21.248025,-157.860842
+Hawaii,700537,North Shore,Entire home/apt,603.13,23,290,22,4.16,23.0,Good,21.370493,-157.83371
+Hawaii,418809,Kona,Entire home/apt,408.76,26,97,9,4.17,16.0,Good,21.321272,-157.858553
+Hawaii,545794,Kailua,Entire home/apt,263.45,22,9,13,4.77,,,21.316487,-157.836669
+Hawaii,150346,Kona,Private room,200.59,2,166,29,4.69,14.0,Good,21.332004,-157.918694
+Hawaii,881335,North Shore,Private room,585.15,12,324,11,4.37,21.0,Good,21.339346,-157.857563
+Hawaii,497184,North Shore,Private room,680.0,3,219,15,3.72,16.0,Good,21.265492,-157.911517
+Hawaii,650643,Kailua,Hotel room,248.5,18,185,63,4.43,15.0,Good,21.269943,-157.812107
+Hawaii,917981,Lahaina,Hotel room,,25,79,58,5.0,14.0,Good,21.3457,-157.809485
+Hawaii,487605,Kailua,Entire home/apt,286.74,15,164,11,4.86,25.0,Good,21.339495,-157.915655
+Hawaii,434849,Princeville,Shared room,680.0,1,77,49,4.58,15.0,Good,21.260321,-157.802326
+Hawaii,476903,Kihei,Shared room,395.75,21,306,86,4.51,13.0,Good,21.330886,-157.853985
+Hawaii,636406,Hilo,Entire home/apt,391.21,7,125,27,3.99,23.0,Good,21.371231,-157.880502
+Hawaii,619847,Kona,Entire home/apt,468.61,1,169,86,3.96,16.0,Good,21.344035,-157.860646
+Hawaii,601872,Princeville,Entire home/apt,,9,64,23,,11.0,Good,21.239418,-157.87934
+Hawaii,929783,Kona,Entire home/apt,194.1,25,159,31,4.71,20.0,Good,21.369151,-157.820354
+Hawaii,335917,Kihei,Entire home/apt,222.93,2,165,51,4.83,18.0,Good,21.26757,-157.927621
+Hawaii,175437,Kona,Entire home/apt,297.13,9,268,38,4.83,24.0,Good,21.274656,-157.833229
+Hawaii,859373,Lahaina,Private room,271.52,18,121,0,4.58,19.0,Good,21.344077,-157.832737
+Hawaii,666073,Kona,Entire home/apt,519.71,24,5,98,4.38,11.0,Good,21.345987,-157.869904
+Hawaii,509635,Kihei,Private room,249.12,19,50,6,4.14,21.0,Good,21.33613,-157.821019
+Hawaii,185594,Waikiki,Entire home/apt,496.58,20,34,3,5.0,20.0,Good,21.311849,-157.837894
+Hawaii,797198,Kona,Entire home/apt,387.1,4,59,85,3.31,17.0,Good,21.307805,-157.901643
+Hawaii,350958,Lahaina,Private room,287.25,2,348,19,3.28,22.0,Good,21.344099,-157.85574
+Hawaii,258271,Kona,Private room,437.67,20,164,39,3.77,20.0,Good,21.376172,-157.869062
+Hawaii,711701,Lahaina,Entire home/apt,306.37,12,59,46,,14.0,Good,21.362168,-157.912457
+Hawaii,900629,Kailua,Entire home/apt,317.52,22,61,35,3.52,19.0,Good,21.33042,-157.911115
+Hawaii,674342,Lahaina,Entire home/apt,298.39,27,65,8,5.0,7.0,Good,21.281904,-157.885325
+Hawaii,453163,Hilo,Entire home/apt,275.43,26,165,9,,14.0,Good,21.315653,-157.819933
+Hawaii,523547,Kona,Private room,501.02,3,221,14,4.28,,,21.353461,-157.841145
+Hawaii,904687,North Shore,Hotel room,381.44,3,164,41,4.97,5.0,Good,21.265162,-157.894547
+Hawaii,785116,Kailua,Entire home/apt,233.91,24,292,37,3.55,16.0,Good,21.276514,-157.81848
+Hawaii,120703,Kona,Entire home/apt,675.3,1,1,19,5.0,10.0,Good,21.348076,-157.862986
+Hawaii,511481,Kona,Entire home/apt,511.26,10,244,7,5.0,11.0,Good,21.319917,-157.890267
+Hawaii,479289,Lahaina,Entire home/apt,349.95,18,148,103,4.45,18.0,Good,21.361727,-157.85159
+Hawaii,953954,Lahaina,Private room,680.0,2,277,21,4.64,14.0,Good,21.287315,-157.870973
+Hawaii,245506,Hilo,Private room,356.49,22,295,0,4.69,,,21.372737,-157.822177
+Hawaii,437616,Kona,Entire home/apt,231.27,3,281,3,4.22,,,21.319677,-157.793787
+Hawaii,271882,Kona,Private room,523.04,14,363,35,4.85,18.0,Good,21.285632,-157.877864
+Hawaii,820623,Kailua,Entire home/apt,325.22,3,94,55,5.0,15.0,Good,21.372181,-157.829311
+Hawaii,690322,Kihei,Hotel room,237.93,2,229,6,4.21,16.0,Good,21.278691,-157.834666
+Hawaii,466967,Kailua,Entire home/apt,173.73,29,2,9,3.82,15.0,Good,21.361133,-157.788464
+Hawaii,996081,Waikiki,Entire home/apt,216.25,21,77,48,4.36,14.0,Good,21.353997,-157.869408
+Hawaii,627758,Waikiki,Entire home/apt,447.97,2,180,82,3.74,14.0,Good,21.280649,-157.804182
+Hawaii,606606,Kona,Entire home/apt,394.35,2,362,3,4.51,19.0,Good,21.280304,-157.830999
+Hawaii,889409,North Shore,Entire home/apt,457.57,5,185,52,4.28,13.0,Good,21.325038,-157.831414
+Hawaii,889898,North Shore,Entire home/apt,680.0,29,5,43,4.6,19.0,Good,21.29351,-157.835288
+Hawaii,584545,Kona,Entire home/apt,680.0,4,309,33,4.07,,,21.34737,-157.917067
+Hawaii,148114,Princeville,Private room,680.0,11,47,51,5.0,25.0,Good,21.330025,-157.794915
+Hawaii,125886,Lahaina,Entire home/apt,680.0,14,228,7,4.28,17.0,Good,21.321778,-157.897577
+Hawaii,199458,Waikiki,Entire home/apt,296.87,10,169,1,4.13,14.0,Good,21.281356,-157.847245
+Hawaii,814705,Kailua,Private room,659.54,22,54,79,5.0,12.0,Good,21.363419,-157.894937
+Hawaii,992422,Kihei,Private room,201.58,23,280,24,3.8,11.0,Good,21.330913,-157.824259
+Hawaii,958237,Kihei,Entire home/apt,363.58,25,21,48,4.69,2.0,Good,21.324805,-157.813412
+Hawaii,736648,North Shore,Entire home/apt,252.7,11,165,41,4.93,14.0,Good,21.342117,-157.890343
+Hawaii,296463,Princeville,Private room,426.4,9,296,33,4.62,10.0,Good,21.371047,-157.863768
+Hawaii,997020,Kailua,Entire home/apt,680.0,2,10,45,3.96,17.0,Good,21.355247,-157.877428
+Hawaii,339889,North Shore,Entire home/apt,,24,294,0,4.04,18.0,Good,21.308134,-157.8604
+Hawaii,157360,Kailua,Entire home/apt,176.01,1,163,16,5.0,17.0,Good,21.34822,-157.846783
+Hawaii,448840,North Shore,Entire home/apt,192.14,14,149,28,4.83,19.0,Good,21.28136,-157.857344
+Hawaii,543473,Hilo,Entire home/apt,301.94,25,202,30,4.25,10.0,Good,21.262537,-157.801876
+Hawaii,151167,Kihei,Private room,,7,220,15,3.7,14.0,Good,21.298279,-157.809277
+Hawaii,406678,Lahaina,Private room,,4,128,38,4.06,15.0,Good,21.331002,-157.885108
+Hawaii,150106,North Shore,Entire home/apt,151.02,2,104,44,3.93,17.0,Good,21.347663,-157.909361
+Hawaii,449610,Princeville,Entire home/apt,582.96,3,60,46,3.9,19.0,Good,21.327193,-157.911894
+Hawaii,791298,Kona,Entire home/apt,149.84,6,195,20,3.66,16.0,Good,21.336662,-157.828316
+Hawaii,546848,Hilo,Entire home/apt,476.94,9,61,19,5.0,,,21.257467,-157.898485
+Hawaii,937571,Princeville,Private room,437.76,5,252,10,4.8,16.0,Good,21.265935,-157.893889
+Hawaii,202143,Waikiki,Entire home/apt,320.4,17,364,21,4.45,20.0,Good,21.326566,-157.908681
+Hawaii,406893,Kailua,Private room,,26,315,34,4.2,22.0,Good,21.250673,-157.900953
+Hawaii,352116,Lahaina,Entire home/apt,680.0,2,59,0,5.0,15.0,Good,21.25128,-157.800161
+Hawaii,621822,North Shore,Shared room,406.25,27,232,37,3.82,13.0,Good,21.366318,-157.892069
+Hawaii,461716,Kihei,Entire home/apt,645.77,24,190,36,3.6,13.0,Good,21.284833,-157.797785
+Hawaii,697836,Kona,Private room,571.51,30,250,102,4.46,22.0,Good,21.333303,-157.891629
+Hawaii,173360,Hilo,Entire home/apt,497.52,7,320,1,5.0,15.0,Good,21.286024,-157.88864
+Hawaii,128416,North Shore,Private room,247.37,1,262,29,4.66,17.0,Good,21.374062,-157.871101
+Hawaii,376030,Kailua,Private room,251.77,3,23,38,,13.0,Good,21.362749,-157.830529
+Hawaii,461048,Hilo,Private room,475.59,30,109,20,4.0,17.0,Good,21.37373,-157.86418
+Hawaii,187073,Hilo,Private room,680.0,24,74,10,3.89,15.0,Good,21.360748,-157.910815
+Hawaii,521861,Kihei,Private room,474.01,17,15,4,4.23,20.0,Good,21.273905,-157.855038
+Hawaii,277616,Kihei,Entire home/apt,258.69,26,201,57,5.0,15.0,Good,21.331258,-157.839407
+Hawaii,920319,Lahaina,Shared room,213.41,24,77,24,4.07,19.0,Good,21.286963,-157.856896
+Hawaii,419281,Kihei,Entire home/apt,673.37,14,140,3,4.0,20.0,Good,21.358521,-157.798865
+Hawaii,557199,Kona,Entire home/apt,426.61,25,266,63,4.59,14.0,Good,21.260775,-157.921835
+Hawaii,779222,North Shore,Private room,317.73,11,347,8,4.35,15.0,Good,21.322654,-157.858036
+Hawaii,647173,Hilo,Entire home/apt,288.49,26,319,111,3.84,17.0,Good,21.324868,-157.797986
+Hawaii,603842,Kailua,Private room,667.69,1,234,19,4.24,23.0,Good,21.29905,-157.906436
+Hawaii,947550,Lahaina,Private room,680.0,10,332,24,4.7,20.0,Good,21.332596,-157.81226
+Hawaii,765936,Lahaina,Entire home/apt,335.49,11,236,49,4.62,21.0,Good,21.279069,-157.810054
+Hawaii,163301,Kihei,Entire home/apt,167.12,3,88,61,4.32,22.0,Good,21.274041,-157.809088
+Hawaii,167469,Kihei,Private room,140.0,3,225,9,5.0,18.0,Good,21.319235,-157.926011
+Hawaii,377541,Lahaina,Private room,541.88,10,253,34,4.21,16.0,Good,21.359707,-157.845903
+Hawaii,770230,Lahaina,Entire home/apt,154.59,7,136,156,3.25,12.0,Good,21.367973,-157.892199
+Hawaii,576717,Waikiki,Entire home/apt,186.14,16,94,32,4.23,14.0,Good,21.289867,-157.864693
+Hawaii,719785,Hilo,Entire home/apt,680.0,2,1,12,4.41,16.0,Good,21.242709,-157.836216
+Hawaii,160308,Kailua,Hotel room,311.19,15,140,30,3.62,9.0,Good,21.362153,-157.850312
+Hawaii,142085,North Shore,Entire home/apt,680.0,3,190,7,4.25,16.0,Good,21.356841,-157.824313
+Hawaii,619420,Princeville,Entire home/apt,562.35,29,203,11,3.34,13.0,Good,21.364161,-157.803587
+Hawaii,807048,Kihei,Private room,680.0,18,14,51,3.6,11.0,Good,21.331405,-157.795271
+Hawaii,336271,Kailua,Entire home/apt,198.55,17,218,27,4.89,17.0,Good,21.246036,-157.855465
+Hawaii,879827,Kona,Private room,657.64,12,193,16,3.32,12.0,Good,21.293178,-157.855491
+Hawaii,558378,Lahaina,Shared room,235.06,4,351,136,3.15,,,21.341993,-157.870065
+Hawaii,934283,Hilo,Private room,680.0,29,309,54,4.57,25.0,Good,21.31,-157.878978
+Hawaii,858967,Lahaina,Private room,427.14,15,257,8,4.55,19.0,Good,21.305011,-157.87778
+Hawaii,905939,Kihei,Private room,445.7,1,295,22,3.74,9.0,Good,21.256742,-157.850293
+Hawaii,242629,Lahaina,Entire home/apt,672.79,18,235,81,3.99,15.0,Good,21.269076,-157.899228
+Hawaii,657032,Kailua,Hotel room,530.12,14,292,48,4.84,14.0,Good,21.275751,-157.897527
+Hawaii,119607,Hilo,Private room,210.55,7,319,46,4.18,14.0,Good,21.31097,-157.829563
+Hawaii,627315,North Shore,Entire home/apt,375.33,24,338,9,4.53,13.0,Good,21.315876,-157.884665
+Hawaii,669734,Kailua,Private room,379.91,5,84,20,4.08,5.0,Good,21.27111,-157.847338
+Hawaii,372916,Kihei,Private room,356.98,2,267,35,4.11,14.0,Good,21.317966,-157.833708
+Hawaii,160557,North Shore,Private room,285.58,24,150,0,4.39,16.0,Good,21.352408,-157.844547
+Hawaii,976949,Lahaina,Entire home/apt,455.17,1,245,37,4.36,19.0,Good,21.257114,-157.839083
+Hawaii,646206,Princeville,Entire home/apt,331.87,17,89,2,3.75,11.0,Good,21.299396,-157.791558
+Hawaii,591877,Princeville,Entire home/apt,680.0,4,128,1,4.36,12.0,Good,21.308641,-157.818024
+Hawaii,496580,Princeville,Entire home/apt,680.0,18,207,195,4.12,16.0,Good,21.360278,-157.875406
+Hawaii,877094,Lahaina,Entire home/apt,252.5,29,14,9,4.58,15.0,Good,21.34302,-157.795966
+Hawaii,424096,Princeville,Private room,473.15,17,278,22,4.93,16.0,Good,21.328067,-157.819069
+Hawaii,585930,Lahaina,Hotel room,680.0,1,254,98,5.0,,,21.35737,-157.810428
+Hawaii,474965,Kihei,Shared room,555.79,18,27,33,4.09,11.0,Good,21.37155,-157.896762
+Hawaii,462195,Kailua,Private room,680.0,11,232,91,4.06,6.0,Good,21.370336,-157.884075
+Hawaii,812776,Princeville,Entire home/apt,233.23,12,33,15,3.95,17.0,Good,21.324986,-157.819266
+Hawaii,710480,Kona,Entire home/apt,680.0,1,136,78,4.32,14.0,Good,21.327994,-157.920239
+Hawaii,207851,Kailua,Private room,440.97,9,262,25,,23.0,Good,21.252234,-157.839193
+Hawaii,486781,Lahaina,Entire home/apt,313.28,2,271,54,4.1,15.0,Good,21.256314,-157.848109
+Hawaii,716501,Lahaina,Private room,646.57,1,289,18,4.38,15.0,Good,21.263815,-157.866634
+Hawaii,280751,Kailua,Hotel room,437.53,1,253,43,4.66,25.0,Good,21.280951,-157.832555
+Hawaii,954189,Kailua,Entire home/apt,298.97,1,260,47,5.0,14.0,Good,21.280956,-157.892684
+Hawaii,929712,Lahaina,Entire home/apt,278.0,1,139,4,4.3,20.0,Good,21.362479,-157.793028
+Hawaii,119714,North Shore,Entire home/apt,614.6,24,65,25,5.0,18.0,Good,21.370699,-157.82553
+Hawaii,635049,North Shore,Entire home/apt,680.0,26,228,121,4.37,19.0,Good,21.315237,-157.867259
+Hawaii,371208,Lahaina,Hotel room,487.25,12,137,15,,20.0,Good,21.265715,-157.853779
+Hawaii,733784,Waikiki,Entire home/apt,530.85,15,276,3,3.64,10.0,Good,21.26771,-157.854466
+Hawaii,297430,Lahaina,Entire home/apt,159.52,21,359,2,3.93,15.0,Good,21.261082,-157.792608
+Hawaii,733897,Kona,Entire home/apt,247.19,7,140,30,4.46,23.0,Good,21.243756,-157.838528
+Hawaii,298093,North Shore,Private room,,10,239,10,3.73,13.0,Good,21.300313,-157.883443
+Hawaii,822717,Kihei,Private room,312.36,4,298,8,4.25,24.0,Good,21.274275,-157.852784
+Hawaii,354182,Hilo,Entire home/apt,331.98,13,40,79,4.26,10.0,Good,21.29745,-157.792274
+Hawaii,413831,Hilo,Private room,476.36,30,336,21,4.77,13.0,Good,21.259221,-157.923304
+Hawaii,488016,Princeville,Entire home/apt,680.0,3,142,38,4.58,17.0,Good,21.358003,-157.875646
+Hawaii,846498,Lahaina,Hotel room,246.57,22,124,42,3.69,4.0,Good,21.349707,-157.921988
+Hawaii,820177,Princeville,Private room,460.66,22,178,15,3.74,20.0,Good,21.25972,-157.847345
+Hawaii,897563,Lahaina,Entire home/apt,445.85,22,305,75,4.35,,,21.253844,-157.836029
+Hawaii,702536,North Shore,Private room,,12,243,34,5.0,13.0,Good,21.357057,-157.886815
+Hawaii,843646,Princeville,Entire home/apt,161.9,3,200,62,4.36,17.0,Good,21.312745,-157.882321
+Hawaii,477112,Waikiki,Shared room,253.62,12,283,6,4.25,16.0,Good,21.277821,-157.790136
+Hawaii,145989,Kailua,Entire home/apt,223.64,2,349,8,4.16,,,21.247052,-157.789771
+Hawaii,389947,Kona,Private room,571.38,9,282,8,4.21,15.0,Good,21.26951,-157.86993
+Hawaii,585842,North Shore,Private room,302.2,16,38,97,4.45,15.0,Good,21.339942,-157.898162
+Hawaii,213716,Hilo,Entire home/apt,318.7,14,0,14,4.93,,,21.255626,-157.79197
+Hawaii,404256,Hilo,Entire home/apt,580.8,27,66,35,5.0,,,21.247632,-157.920685
+Hawaii,523455,Lahaina,Entire home/apt,248.29,22,342,23,3.79,26.0,Good,21.260312,-157.798458
+Hawaii,280808,North Shore,Entire home/apt,565.32,6,281,139,3.61,8.0,Good,21.261867,-157.815815
+Hawaii,564227,Kihei,Private room,245.48,25,158,204,4.84,15.0,Good,21.337244,-157.92115
+Hawaii,797591,Kona,Entire home/apt,398.14,17,327,135,5.0,21.0,Good,21.312731,-157.898563
+Hawaii,492110,Lahaina,Entire home/apt,238.95,28,237,39,4.84,16.0,Good,21.249276,-157.849116
+Hawaii,876391,Kona,Entire home/apt,614.69,1,60,3,4.43,16.0,Good,21.350205,-157.848284
+Hawaii,789539,Waikiki,Private room,374.52,15,240,19,3.84,18.0,Good,21.26595,-157.911306
+Hawaii,113974,Hilo,Shared room,574.04,19,316,37,4.14,9.0,Good,21.256308,-157.798588
+Hawaii,269428,Kailua,Private room,554.19,16,218,1,4.84,,,21.246319,-157.824687
+Hawaii,239493,North Shore,Private room,634.43,5,289,108,4.21,13.0,Good,21.282712,-157.816493
+Hawaii,129593,North Shore,Private room,540.5,16,249,60,3.69,27.0,Good,21.248015,-157.84758
+Hawaii,847771,Kihei,Entire home/apt,680.0,28,19,8,4.55,15.0,Good,21.240348,-157.906017
+Hawaii,835116,Princeville,Entire home/apt,140.0,19,39,52,4.44,18.0,Good,21.295961,-157.831168
+Hawaii,467733,Princeville,Entire home/apt,,3,274,31,4.47,9.0,Good,21.273052,-157.861055
+Hawaii,580822,Princeville,Entire home/apt,680.0,1,126,0,5.0,12.0,Good,21.247662,-157.84913
+Hawaii,479181,Waikiki,Entire home/apt,322.42,20,293,7,4.1,17.0,Good,21.336037,-157.840037
+Hawaii,169883,Kihei,Private room,583.53,8,193,31,4.4,15.0,Good,21.332496,-157.873993
+Hawaii,216045,Waikiki,Shared room,639.61,10,56,98,3.32,12.0,Good,21.262954,-157.819239
+Hawaii,182152,Kona,Entire home/apt,680.0,14,203,45,,20.0,Good,21.371753,-157.844546
+Hawaii,542770,Princeville,Shared room,260.61,1,3,165,3.51,18.0,Good,21.318845,-157.817474
+Hawaii,465180,Kona,Shared room,574.57,2,23,1,4.77,13.0,Good,21.253605,-157.912247
+Hawaii,962344,Hilo,Private room,165.23,8,139,5,4.43,16.0,Good,21.355515,-157.911347
+Hawaii,311703,Waikiki,Entire home/apt,680.0,12,85,33,3.89,34.0,Good,21.274122,-157.87684
+Hawaii,400147,Waikiki,Entire home/apt,453.83,1,256,11,3.78,17.0,Good,21.258592,-157.860464
+Hawaii,395258,Kailua,Entire home/apt,361.91,13,51,16,,15.0,Good,21.360267,-157.843116
+Hawaii,802747,Kihei,Entire home/apt,380.85,19,188,7,3.98,26.0,Good,21.326739,-157.853487
+Hawaii,392520,Hilo,Entire home/apt,228.39,12,144,1,4.88,22.0,Good,21.261683,-157.908685
+Hawaii,610359,Kihei,Shared room,352.53,1,104,36,3.65,17.0,Good,21.334439,-157.899972
+Hawaii,716837,Lahaina,Private room,668.61,1,30,1,4.53,8.0,Good,21.336584,-157.865254
+Hawaii,731224,Kailua,Private room,546.62,1,107,5,4.38,17.0,Good,21.372637,-157.897605
+Hawaii,195648,Kona,Private room,417.51,29,290,3,4.12,,,21.345043,-157.910182
+Hawaii,594338,Hilo,Private room,371.98,22,285,8,5.0,18.0,Good,21.338264,-157.894995
+Hawaii,664650,North Shore,Entire home/apt,438.85,15,227,20,4.63,17.0,Good,21.253635,-157.887459
+Hawaii,831698,Kona,Entire home/apt,680.0,25,191,17,5.0,14.0,Good,21.250403,-157.911725
+Hawaii,845040,North Shore,Private room,374.17,21,320,30,4.48,15.0,Good,21.337297,-157.893675
+Hawaii,289653,Kihei,Entire home/apt,275.23,2,123,6,4.02,16.0,Good,21.315184,-157.807123
+Hawaii,706007,Kailua,Entire home/apt,680.0,1,172,8,4.57,10.0,Good,21.304111,-157.816781
+Hawaii,721047,North Shore,Entire home/apt,205.35,11,99,49,3.61,14.0,Good,21.32135,-157.792804
+Hawaii,396590,Hilo,Private room,274.2,1,303,33,4.39,19.0,Good,21.372322,-157.878896
+Hawaii,898051,North Shore,Entire home/apt,224.26,17,287,13,3.81,3.0,Good,21.295479,-157.796355
+Hawaii,712340,North Shore,Entire home/apt,181.78,1,296,133,,9.0,Good,21.264312,-157.905052
+Hawaii,585065,Kailua,Private room,497.91,1,243,54,4.99,12.0,Good,21.268338,-157.795843
+Hawaii,594160,Kihei,Entire home/apt,378.48,1,112,3,5.0,12.0,Good,21.357849,-157.896792
+Hawaii,863842,Waikiki,Private room,175.6,26,117,81,4.04,15.0,Good,21.328067,-157.819062
+Hawaii,513608,Lahaina,Entire home/apt,551.52,11,23,48,5.0,11.0,Good,21.341903,-157.809681
+Hawaii,448192,Princeville,Entire home/apt,566.68,1,85,52,4.59,23.0,Good,21.256977,-157.877841
+Hawaii,231166,Waikiki,Entire home/apt,372.78,13,94,13,3.83,13.0,Good,21.309647,-157.860862

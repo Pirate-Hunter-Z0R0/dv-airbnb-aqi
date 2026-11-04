@@ -1,0 +1,321 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Buenos Aires,209535,Palermo,Entire home/apt,20110.53,3,275,31,,33.0,Good,-34.650338,-58.342189
+Buenos Aires,262862,Belgrano,Entire home/apt,20114.83,27,193,18,3.62,48.0,Good,-34.580151,-58.449921
+Buenos Aires,542332,Flores,Entire home/apt,25969.37,1,67,42,4.01,43.0,Good,-34.602453,-58.330708
+Buenos Aires,148412,Caballito,Entire home/apt,12824.34,3,315,14,5.0,32.0,Good,-34.66845,-58.333846
+Buenos Aires,115487,Almagro,Private room,23345.54,28,234,8,4.69,66.0,Moderate,-34.658035,-58.365612
+Buenos Aires,801295,Flores,Private room,45000.0,3,12,19,4.73,59.0,Moderate,-34.575075,-58.315732
+Buenos Aires,913711,Belgrano,Private room,45000.0,1,260,20,4.41,75.0,Moderate,-34.580667,-58.430353
+Buenos Aires,293148,Recoleta,Entire home/apt,29793.35,14,105,24,5.0,44.0,Good,-34.550819,-58.328201
+Buenos Aires,621644,Villa Crespo,Entire home/apt,45000.0,14,217,9,4.61,69.0,Moderate,-34.588743,-58.34969
+Buenos Aires,506962,Recoleta,Entire home/apt,45000.0,2,297,48,3.76,65.0,Moderate,-34.559597,-58.435026
+Buenos Aires,442110,Almagro,Hotel room,45000.0,24,56,116,4.13,65.0,Moderate,-34.632227,-58.432501
+Buenos Aires,847118,Villa Crespo,Entire home/apt,38077.55,30,363,61,4.85,75.0,Moderate,-34.673026,-58.31472
+Buenos Aires,748271,Palermo,Entire home/apt,15699.53,25,267,5,4.51,76.0,Moderate,-34.641131,-58.402925
+Buenos Aires,498497,San Telmo,Entire home/apt,24120.86,7,252,33,4.48,49.0,Good,-34.59706,-58.332787
+Buenos Aires,519912,San Telmo,Hotel room,27527.63,2,180,14,3.93,56.0,Moderate,-34.615994,-58.35603
+Buenos Aires,593395,Belgrano,Private room,32571.15,1,83,3,3.29,52.0,Moderate,-34.623695,-58.332468
+Buenos Aires,997254,Flores,Private room,28231.71,9,159,37,,62.0,Moderate,-34.575629,-58.381632
+Buenos Aires,839141,Belgrano,Entire home/apt,43631.84,3,280,3,4.24,81.0,Moderate,-34.609059,-58.341117
+Buenos Aires,342348,Villa Crespo,Entire home/apt,30926.33,12,75,98,5.0,50.0,Good,-34.543375,-58.357252
+Buenos Aires,123137,Almagro,Entire home/apt,16879.96,9,348,80,5.0,78.0,Moderate,-34.535382,-58.436256
+Buenos Aires,437555,Almagro,Entire home/apt,30301.46,28,34,131,5.0,73.0,Moderate,-34.632147,-58.337562
+Buenos Aires,469329,Flores,Entire home/apt,18655.65,26,238,47,5.0,37.0,Good,-34.607298,-58.410104
+Buenos Aires,577227,Caballito,Hotel room,44314.34,15,185,60,4.57,47.0,Good,-34.542686,-58.404094
+Buenos Aires,997831,San Telmo,Entire home/apt,,13,5,16,5.0,59.0,Moderate,-34.632711,-58.414632
+Buenos Aires,634799,Caballito,Entire home/apt,29588.49,6,114,17,3.26,82.0,Moderate,-34.605617,-58.445639
+Buenos Aires,153763,San Telmo,Entire home/apt,28464.49,14,139,6,4.39,58.0,Moderate,-34.605418,-58.380249
+Buenos Aires,315474,Villa Crespo,Entire home/apt,24168.53,1,297,1,4.59,83.0,Moderate,-34.543347,-58.318628
+Buenos Aires,768367,Caballito,Entire home/apt,33202.47,3,185,1,5.0,71.0,Moderate,-34.535312,-58.370226
+Buenos Aires,547185,Flores,Entire home/apt,26740.58,28,275,86,4.17,44.0,Good,-34.536822,-58.375372
+Buenos Aires,645919,Almagro,Entire home/apt,,2,248,7,5.0,60.0,Moderate,-34.635272,-58.417688
+Buenos Aires,457280,Caballito,Private room,24622.86,16,160,64,3.64,50.0,Good,-34.672875,-58.445861
+Buenos Aires,446935,Almagro,Private room,22194.68,17,89,64,4.79,41.0,Good,-34.571549,-58.40832
+Buenos Aires,336544,Recoleta,Entire home/apt,39067.57,30,8,19,4.38,125.0,Unhealthy for Sensitive Groups,-34.589107,-58.341977
+Buenos Aires,972721,Recoleta,Private room,24926.26,24,44,39,4.7,85.0,Moderate,-34.635473,-58.340436
+Buenos Aires,958812,Caballito,Entire home/apt,30913.75,1,165,40,4.56,63.0,Moderate,-34.652806,-58.425802
+Buenos Aires,861794,Recoleta,Entire home/apt,25667.31,22,46,56,3.75,10.0,Good,-34.584712,-58.368078
+Buenos Aires,704642,Recoleta,Private room,33635.28,2,31,20,4.22,67.0,Moderate,-34.651755,-58.367235
+Buenos Aires,364117,Flores,Private room,25353.68,1,100,17,5.0,64.0,Moderate,-34.665431,-58.432691
+Buenos Aires,277581,Belgrano,Entire home/apt,11710.98,1,102,38,4.83,36.0,Good,-34.584914,-58.366671
+Buenos Aires,428973,Almagro,Entire home/apt,16751.32,1,188,6,4.48,78.0,Moderate,-34.547971,-58.332699
+Buenos Aires,430628,Palermo,Shared room,33680.42,27,77,47,3.82,44.0,Good,-34.631294,-58.390371
+Buenos Aires,935748,Almagro,Entire home/apt,28429.48,20,230,110,4.45,93.0,Moderate,-34.547816,-58.342566
+Buenos Aires,765095,Villa Crespo,Private room,15018.24,20,267,21,4.39,65.0,Moderate,-34.655783,-58.348851
+Buenos Aires,203346,Belgrano,Entire home/apt,9106.31,5,179,10,4.52,48.0,Good,-34.561419,-58.334921
+Buenos Aires,550932,Almagro,Entire home/apt,19296.89,7,240,42,5.0,93.0,Moderate,-34.612714,-58.426529
+Buenos Aires,938047,San Telmo,Entire home/apt,25586.89,3,189,115,4.19,74.0,Moderate,-34.67206,-58.43877
+Buenos Aires,160436,Palermo,Entire home/apt,45000.0,2,316,150,4.14,81.0,Moderate,-34.61932,-58.439724
+Buenos Aires,754086,Villa Crespo,Private room,45000.0,14,190,99,4.22,87.0,Moderate,-34.603808,-58.436016
+Buenos Aires,229618,Caballito,Shared room,26469.51,20,165,20,4.83,56.0,Moderate,-34.543598,-58.447346
+Buenos Aires,952392,Palermo,Private room,45000.0,30,211,44,4.49,94.0,Moderate,-34.538686,-58.38241
+Buenos Aires,759300,Almagro,Entire home/apt,31163.79,2,208,16,3.85,19.0,Good,-34.558987,-58.340479
+Buenos Aires,447095,Almagro,Private room,34002.7,3,85,39,4.36,35.0,Good,-34.664052,-58.436454
+Buenos Aires,841722,Recoleta,Hotel room,21237.12,11,122,6,3.03,84.0,Moderate,-34.635774,-58.395248
+Buenos Aires,796741,Villa Crespo,Private room,8000.0,26,321,44,4.28,76.0,Moderate,-34.54449,-58.361137
+Buenos Aires,458472,San Telmo,Entire home/apt,25860.03,2,264,49,4.59,50.0,Good,-34.552185,-58.320067
+Buenos Aires,300792,Belgrano,Entire home/apt,,3,85,5,4.8,64.0,Moderate,-34.597538,-58.347647
+Buenos Aires,131001,Palermo,Entire home/apt,25071.56,11,210,80,3.64,,,-34.570035,-58.397452
+Buenos Aires,841079,San Telmo,Entire home/apt,26186.06,2,212,28,5.0,50.0,Good,-34.549224,-58.335182
+Buenos Aires,269911,Almagro,Private room,45000.0,20,194,96,5.0,70.0,Moderate,-34.629114,-58.385295
+Buenos Aires,479850,Palermo,Entire home/apt,29497.04,2,346,46,4.08,44.0,Good,-34.625762,-58.332271
+Buenos Aires,610544,Flores,Entire home/apt,11183.7,3,322,6,4.93,77.0,Moderate,-34.601047,-58.370269
+Buenos Aires,348204,Almagro,Shared room,22852.75,2,51,40,5.0,42.0,Good,-34.673517,-58.342641
+Buenos Aires,694098,Palermo,Entire home/apt,8000.0,8,17,51,5.0,37.0,Good,-34.626794,-58.437396
+Buenos Aires,732975,Palermo,Entire home/apt,9229.66,1,25,3,3.67,31.0,Good,-34.658555,-58.336076
+Buenos Aires,216657,Flores,Entire home/apt,18264.16,26,207,8,3.92,85.0,Moderate,-34.641152,-58.372455
+Buenos Aires,439095,Villa Crespo,Hotel room,45000.0,5,109,80,3.82,66.0,Moderate,-34.577594,-58.451399
+Buenos Aires,253291,Almagro,Entire home/apt,,2,166,13,3.31,56.0,Moderate,-34.610494,-58.376045
+Buenos Aires,724487,Almagro,Entire home/apt,42306.11,8,23,9,4.05,84.0,Moderate,-34.639157,-58.371207
+Buenos Aires,882947,Villa Crespo,Private room,16064.31,23,73,78,4.12,44.0,Good,-34.558051,-58.346807
+Buenos Aires,758322,Caballito,Entire home/apt,18901.59,1,233,64,4.72,74.0,Moderate,-34.599729,-58.392881
+Buenos Aires,438037,Flores,Entire home/apt,27186.61,27,227,79,3.91,64.0,Moderate,-34.672772,-58.432484
+Buenos Aires,199443,Recoleta,Hotel room,35597.11,2,129,48,4.13,70.0,Moderate,-34.552801,-58.325911
+Buenos Aires,300370,Flores,Hotel room,45000.0,24,37,0,4.38,44.0,Good,-34.625702,-58.339539
+Buenos Aires,102347,Belgrano,Private room,36106.81,18,199,7,4.09,98.0,Moderate,-34.544067,-58.388192
+Buenos Aires,613797,Almagro,Private room,45000.0,2,58,60,,101.0,Unhealthy for Sensitive Groups,-34.58736,-58.350554
+Buenos Aires,453130,Villa Crespo,Private room,,22,196,134,5.0,71.0,Moderate,-34.660891,-58.339191
+Buenos Aires,399873,Flores,Hotel room,,19,26,48,4.92,90.0,Moderate,-34.56825,-58.312183
+Buenos Aires,553371,San Telmo,Private room,45000.0,1,294,2,3.78,28.0,Good,-34.647606,-58.325557
+Buenos Aires,450667,Villa Crespo,Entire home/apt,28558.26,7,61,19,4.28,65.0,Moderate,-34.5435,-58.354443
+Buenos Aires,653558,Belgrano,Private room,44351.1,10,222,66,4.53,58.0,Moderate,-34.543416,-58.411525
+Buenos Aires,404022,Palermo,Private room,,13,205,51,3.81,,,-34.581901,-58.377255
+Buenos Aires,166446,Flores,Entire home/apt,45000.0,25,179,33,3.47,48.0,Good,-34.597548,-58.344412
+Buenos Aires,389981,Flores,Entire home/apt,30566.28,19,116,80,3.32,,,-34.597927,-58.360944
+Buenos Aires,419206,San Telmo,Shared room,8000.0,28,56,16,4.49,67.0,Moderate,-34.564847,-58.333869
+Buenos Aires,363965,Belgrano,Private room,28566.4,22,2,58,5.0,99.0,Moderate,-34.551972,-58.432607
+Buenos Aires,994626,Recoleta,Hotel room,45000.0,3,337,3,3.74,76.0,Moderate,-34.614051,-58.403884
+Buenos Aires,711412,Recoleta,Shared room,38032.19,18,148,23,,30.0,Good,-34.610062,-58.411515
+Buenos Aires,430500,San Telmo,Hotel room,13669.81,27,302,87,3.64,79.0,Moderate,-34.536473,-58.361694
+Buenos Aires,808493,Almagro,Shared room,27326.01,22,279,26,4.48,110.0,Unhealthy for Sensitive Groups,-34.54861,-58.411691
+Buenos Aires,925077,Palermo,Entire home/apt,,3,292,10,4.72,77.0,Moderate,-34.546633,-58.333859
+Buenos Aires,488842,San Telmo,Hotel room,26862.57,2,324,15,4.33,91.0,Moderate,-34.573227,-58.389593
+Buenos Aires,269587,Villa Crespo,Private room,8406.19,1,61,25,4.54,109.0,Unhealthy for Sensitive Groups,-34.661591,-58.343267
+Buenos Aires,176687,Belgrano,Entire home/apt,14911.36,4,81,4,3.57,75.0,Moderate,-34.64963,-58.427393
+Buenos Aires,398613,Recoleta,Entire home/apt,,1,16,61,3.17,43.0,Good,-34.581566,-58.334167
+Buenos Aires,123016,San Telmo,Hotel room,,3,182,49,3.25,80.0,Moderate,-34.624053,-58.428438
+Buenos Aires,556984,Belgrano,Entire home/apt,15795.8,17,335,129,5.0,67.0,Moderate,-34.554111,-58.430181
+Buenos Aires,398061,Villa Crespo,Entire home/apt,34567.59,12,279,19,4.46,40.0,Good,-34.642731,-58.437548
+Buenos Aires,438127,Villa Crespo,Entire home/apt,45000.0,15,195,189,4.72,84.0,Moderate,-34.652711,-58.421194
+Buenos Aires,246709,Caballito,Entire home/apt,45000.0,22,196,11,4.18,51.0,Moderate,-34.604298,-58.368215
+Buenos Aires,319470,Palermo,Hotel room,35164.78,1,274,111,3.54,87.0,Moderate,-34.669714,-58.431987
+Buenos Aires,805759,Flores,Entire home/apt,45000.0,13,150,1,3.55,46.0,Good,-34.618211,-58.391717
+Buenos Aires,705047,Flores,Private room,45000.0,24,59,81,4.36,95.0,Moderate,-34.641734,-58.363654
+Buenos Aires,763269,Belgrano,Entire home/apt,,21,194,42,4.66,68.0,Moderate,-34.55999,-58.313853
+Buenos Aires,133664,Flores,Entire home/apt,,3,265,27,5.0,92.0,Moderate,-34.609446,-58.429595
+Buenos Aires,560748,Recoleta,Entire home/apt,17007.94,8,265,28,4.86,62.0,Moderate,-34.545699,-58.428898
+Buenos Aires,260759,San Telmo,Entire home/apt,41297.58,14,80,173,4.51,,,-34.576408,-58.365751
+Buenos Aires,762969,Almagro,Entire home/apt,28223.55,26,254,52,4.83,43.0,Good,-34.58835,-58.424801
+Buenos Aires,732396,Almagro,Entire home/apt,44275.04,10,320,78,4.09,65.0,Moderate,-34.553589,-58.445185
+Buenos Aires,724426,Caballito,Entire home/apt,26934.16,1,219,66,4.82,59.0,Moderate,-34.623263,-58.398938
+Buenos Aires,762595,Almagro,Shared room,22860.43,1,183,4,5.0,87.0,Moderate,-34.542509,-58.371691
+Buenos Aires,888098,Caballito,Entire home/apt,26480.68,18,3,42,4.26,80.0,Moderate,-34.551865,-58.329632
+Buenos Aires,363542,Almagro,Entire home/apt,11076.64,26,195,22,4.25,47.0,Good,-34.59665,-58.41548
+Buenos Aires,986553,Recoleta,Entire home/apt,16248.24,21,113,6,4.68,59.0,Moderate,-34.640764,-58.391128
+Buenos Aires,422785,Caballito,Private room,25878.51,17,253,24,4.6,57.0,Moderate,-34.658914,-58.387642
+Buenos Aires,628019,Recoleta,Hotel room,43489.27,15,71,7,3.04,58.0,Moderate,-34.657944,-58.420657
+Buenos Aires,859201,Belgrano,Entire home/apt,19334.05,20,337,95,4.71,81.0,Moderate,-34.536625,-58.419126
+Buenos Aires,352684,San Telmo,Shared room,21431.2,3,3,13,4.55,24.0,Good,-34.601958,-58.358541
+Buenos Aires,390213,Palermo,Entire home/apt,29403.19,18,36,96,4.2,,,-34.554209,-58.36623
+Buenos Aires,843214,Almagro,Private room,40769.19,18,98,33,4.34,71.0,Moderate,-34.561378,-58.438869
+Buenos Aires,654869,Recoleta,Hotel room,19737.09,21,292,95,3.37,72.0,Moderate,-34.629379,-58.428441
+Buenos Aires,561539,Recoleta,Private room,33702.07,23,283,112,3.79,65.0,Moderate,-34.624558,-58.347926
+Buenos Aires,219151,Almagro,Private room,,3,13,23,4.79,71.0,Moderate,-34.533928,-58.347102
+Buenos Aires,899804,Caballito,Entire home/apt,45000.0,1,111,99,4.49,48.0,Good,-34.668302,-58.38214
+Buenos Aires,613047,Almagro,Private room,28635.07,22,219,90,,88.0,Moderate,-34.603303,-58.311958
+Buenos Aires,195005,Palermo,Entire home/apt,25216.09,18,193,22,4.18,24.0,Good,-34.642447,-58.322475
+Buenos Aires,118191,San Telmo,Entire home/apt,45000.0,15,84,9,4.6,98.0,Moderate,-34.558885,-58.361139
+Buenos Aires,466896,Palermo,Hotel room,18161.06,16,66,26,4.64,74.0,Moderate,-34.636357,-58.323642
+Buenos Aires,696434,Flores,Entire home/apt,35239.38,2,109,10,,51.0,Moderate,-34.604906,-58.312699
+Buenos Aires,994953,Villa Crespo,Private room,17875.52,22,268,38,5.0,48.0,Good,-34.612031,-58.449657
+Buenos Aires,471649,Caballito,Shared room,33968.48,2,324,43,4.1,45.0,Good,-34.600963,-58.423797
+Buenos Aires,539747,Palermo,Private room,24385.27,27,84,29,4.9,89.0,Moderate,-34.557042,-58.411061
+Buenos Aires,233166,Almagro,Private room,22758.85,23,56,54,4.39,84.0,Moderate,-34.589312,-58.363108
+Buenos Aires,717882,San Telmo,Private room,,29,165,5,4.17,72.0,Moderate,-34.667801,-58.425609
+Buenos Aires,652513,San Telmo,Entire home/apt,12297.03,4,64,39,4.67,,,-34.576728,-58.382914
+Buenos Aires,770736,Villa Crespo,Entire home/apt,20735.55,1,307,12,3.96,45.0,Good,-34.563217,-58.363326
+Buenos Aires,866673,Recoleta,Entire home/apt,27775.08,24,80,10,4.08,111.0,Unhealthy for Sensitive Groups,-34.600566,-58.416188
+Buenos Aires,208042,Caballito,Private room,16544.7,2,297,39,4.19,74.0,Moderate,-34.553012,-58.328933
+Buenos Aires,827827,Villa Crespo,Hotel room,26396.46,10,43,43,3.92,53.0,Moderate,-34.546142,-58.395708
+Buenos Aires,917452,Almagro,Entire home/apt,11092.11,2,320,5,4.04,45.0,Good,-34.5935,-58.408587
+Buenos Aires,809692,San Telmo,Entire home/apt,28686.52,20,81,38,5.0,86.0,Moderate,-34.660015,-58.426139
+Buenos Aires,228200,Flores,Entire home/apt,45000.0,19,109,26,4.0,65.0,Moderate,-34.633521,-58.327025
+Buenos Aires,753992,Palermo,Entire home/apt,45000.0,1,58,74,4.01,78.0,Moderate,-34.618492,-58.367774
+Buenos Aires,807421,Palermo,Hotel room,32571.37,1,73,64,5.0,70.0,Moderate,-34.60943,-58.345942
+Buenos Aires,972769,Almagro,Entire home/apt,45000.0,3,335,49,4.36,70.0,Moderate,-34.6413,-58.346872
+Buenos Aires,823972,Villa Crespo,Entire home/apt,26049.31,2,188,5,4.29,73.0,Moderate,-34.64771,-58.433952
+Buenos Aires,934220,Villa Crespo,Hotel room,14123.98,3,232,43,4.46,126.0,Unhealthy for Sensitive Groups,-34.598438,-58.365564
+Buenos Aires,561465,Flores,Entire home/apt,42317.42,11,34,3,4.67,105.0,Unhealthy for Sensitive Groups,-34.586469,-58.326332
+Buenos Aires,102565,Caballito,Entire home/apt,28996.07,21,298,9,5.0,29.0,Good,-34.624632,-58.418953
+Buenos Aires,450566,Recoleta,Entire home/apt,,22,17,17,4.68,,,-34.627033,-58.430547
+Buenos Aires,833379,Caballito,Private room,28368.96,1,25,27,,66.0,Moderate,-34.55493,-58.384054
+Buenos Aires,910800,Caballito,Entire home/apt,17736.84,12,172,93,3.99,46.0,Good,-34.580358,-58.427694
+Buenos Aires,106369,Palermo,Entire home/apt,14169.96,2,179,1,4.66,65.0,Moderate,-34.623206,-58.338665
+Buenos Aires,681244,Palermo,Entire home/apt,36080.46,6,259,208,3.88,46.0,Good,-34.561183,-58.331666
+Buenos Aires,331980,Villa Crespo,Entire home/apt,12450.7,6,92,18,3.85,73.0,Moderate,-34.637595,-58.336181
+Buenos Aires,879886,San Telmo,Entire home/apt,22844.22,8,5,70,3.92,,,-34.670181,-58.334094
+Buenos Aires,990073,Flores,Private room,25476.42,23,175,53,3.87,87.0,Moderate,-34.573937,-58.442861
+Buenos Aires,568958,Caballito,Entire home/apt,18059.58,26,32,11,4.38,14.0,Good,-34.629931,-58.344001
+Buenos Aires,652249,Flores,Private room,32516.55,17,66,188,4.47,73.0,Moderate,-34.62276,-58.353245
+Buenos Aires,461755,Villa Crespo,Entire home/apt,41986.23,19,192,6,4.21,48.0,Good,-34.644836,-58.371428
+Buenos Aires,710132,Villa Crespo,Private room,22983.3,2,57,54,4.39,65.0,Moderate,-34.630137,-58.311885
+Buenos Aires,406049,San Telmo,Entire home/apt,27172.94,3,309,31,4.29,19.0,Good,-34.548174,-58.42136
+Buenos Aires,256295,Belgrano,Private room,15107.4,28,138,24,3.91,95.0,Moderate,-34.563788,-58.43588
+Buenos Aires,808795,Flores,Private room,40549.69,4,192,177,4.55,61.0,Moderate,-34.581022,-58.327821
+Buenos Aires,932088,Almagro,Private room,37882.35,5,164,15,4.3,56.0,Moderate,-34.637614,-58.391361
+Buenos Aires,772196,Villa Crespo,Entire home/apt,25622.45,1,78,99,4.98,48.0,Good,-34.625755,-58.441997
+Buenos Aires,223929,Palermo,Entire home/apt,9853.51,5,218,159,4.12,41.0,Good,-34.597485,-58.345576
+Buenos Aires,238116,Palermo,Private room,30896.0,20,170,96,4.94,57.0,Moderate,-34.567716,-58.412477
+Buenos Aires,249026,Flores,Shared room,22076.46,17,266,36,3.85,72.0,Moderate,-34.537784,-58.36051
+Buenos Aires,805332,San Telmo,Entire home/apt,36496.76,22,212,127,3.84,99.0,Moderate,-34.564549,-58.399811
+Buenos Aires,728994,Villa Crespo,Entire home/apt,45000.0,1,352,1,4.5,48.0,Good,-34.59967,-58.38016
+Buenos Aires,802232,Almagro,Entire home/apt,45000.0,29,167,5,4.68,99.0,Moderate,-34.671817,-58.401628
+Buenos Aires,879482,Palermo,Entire home/apt,10475.23,29,44,11,5.0,71.0,Moderate,-34.600529,-58.373823
+Buenos Aires,115927,Caballito,Entire home/apt,45000.0,3,88,51,,77.0,Moderate,-34.56439,-58.332039
+Buenos Aires,685202,Palermo,Entire home/apt,16233.77,1,197,115,,71.0,Moderate,-34.607689,-58.40838
+Buenos Aires,251529,Almagro,Entire home/apt,45000.0,1,6,63,4.11,72.0,Moderate,-34.549088,-58.328745
+Buenos Aires,497037,San Telmo,Entire home/apt,38068.97,27,25,44,4.24,84.0,Moderate,-34.653294,-58.374613
+Buenos Aires,163948,Villa Crespo,Private room,24533.62,18,169,38,3.61,53.0,Moderate,-34.614239,-58.380833
+Buenos Aires,942092,Caballito,Entire home/apt,15465.05,9,224,53,4.1,,,-34.543027,-58.443475
+Buenos Aires,788968,Villa Crespo,Entire home/apt,45000.0,21,276,16,,,,-34.653378,-58.376062
+Buenos Aires,915300,Almagro,Private room,24159.93,22,288,32,4.19,55.0,Moderate,-34.594889,-58.353808
+Buenos Aires,918287,Caballito,Entire home/apt,36579.45,25,170,1,,86.0,Moderate,-34.5844,-58.363008
+Buenos Aires,180949,Flores,Private room,45000.0,2,13,21,3.59,57.0,Moderate,-34.588574,-58.326453
+Buenos Aires,762983,Belgrano,Private room,33571.02,1,86,17,4.53,42.0,Good,-34.574164,-58.431714
+Buenos Aires,397623,Palermo,Entire home/apt,21500.26,2,81,2,4.0,78.0,Moderate,-34.626666,-58.3504
+Buenos Aires,277128,Villa Crespo,Entire home/apt,22912.25,15,203,10,4.84,28.0,Good,-34.649086,-58.436555
+Buenos Aires,106835,Villa Crespo,Private room,29369.85,11,123,8,4.61,65.0,Moderate,-34.569508,-58.325251
+Buenos Aires,711255,Almagro,Entire home/apt,34979.93,10,191,6,4.84,55.0,Moderate,-34.606922,-58.331723
+Buenos Aires,287399,Almagro,Entire home/apt,45000.0,23,0,27,3.99,69.0,Moderate,-34.61567,-58.444451
+Buenos Aires,426055,Recoleta,Entire home/apt,13695.54,5,302,165,4.07,70.0,Moderate,-34.666516,-58.333623
+Buenos Aires,219097,Almagro,Private room,21439.84,25,226,15,3.95,85.0,Moderate,-34.611315,-58.32408
+Buenos Aires,666852,Caballito,Private room,15176.23,18,107,62,4.18,73.0,Moderate,-34.664845,-58.425426
+Buenos Aires,721429,Caballito,Private room,34653.04,17,317,4,4.72,35.0,Good,-34.611253,-58.421305
+Buenos Aires,764534,Belgrano,Entire home/apt,33360.83,2,95,55,3.95,66.0,Moderate,-34.536871,-58.322214
+Buenos Aires,979988,Villa Crespo,Private room,20549.71,12,118,45,4.34,55.0,Moderate,-34.554001,-58.31547
+Buenos Aires,195573,Caballito,Private room,20914.7,17,38,52,4.61,87.0,Moderate,-34.630071,-58.428288
+Buenos Aires,283390,Caballito,Entire home/apt,39422.18,29,57,46,3.12,23.0,Good,-34.67103,-58.412687
+Buenos Aires,732365,Villa Crespo,Entire home/apt,29356.57,23,103,2,4.25,41.0,Good,-34.669879,-58.380753
+Buenos Aires,580076,Almagro,Private room,37941.36,12,310,138,5.0,61.0,Moderate,-34.604676,-58.363511
+Buenos Aires,734714,Palermo,Private room,15852.55,1,66,3,3.77,91.0,Moderate,-34.537285,-58.386967
+Buenos Aires,679019,Palermo,Private room,28758.17,23,241,18,5.0,74.0,Moderate,-34.634162,-58.423572
+Buenos Aires,799606,Palermo,Entire home/apt,16252.04,19,164,67,4.26,69.0,Moderate,-34.637508,-58.387737
+Buenos Aires,331590,Flores,Entire home/apt,45000.0,2,281,30,4.77,78.0,Moderate,-34.549775,-58.406216
+Buenos Aires,309369,Villa Crespo,Private room,30599.21,3,207,55,3.88,78.0,Moderate,-34.641879,-58.369788
+Buenos Aires,469021,Almagro,Private room,44848.04,9,126,16,4.25,57.0,Moderate,-34.625783,-58.315462
+Buenos Aires,235084,Flores,Entire home/apt,45000.0,2,342,19,4.7,73.0,Moderate,-34.619177,-58.405358
+Buenos Aires,837635,Caballito,Entire home/apt,17868.61,18,62,4,4.3,42.0,Good,-34.598318,-58.348918
+Buenos Aires,207245,Recoleta,Entire home/apt,26367.75,3,193,97,3.57,93.0,Moderate,-34.602094,-58.362014
+Buenos Aires,757111,Recoleta,Private room,28035.97,29,134,23,4.49,76.0,Moderate,-34.557827,-58.385257
+Buenos Aires,162328,Caballito,Entire home/apt,10509.98,10,59,36,5.0,80.0,Moderate,-34.593232,-58.444442
+Buenos Aires,771901,San Telmo,Entire home/apt,19957.89,17,81,8,4.12,75.0,Moderate,-34.577863,-58.393149
+Buenos Aires,826835,Almagro,Entire home/apt,25222.04,3,122,19,5.0,,,-34.58917,-58.416508
+Buenos Aires,836526,San Telmo,Private room,26130.43,1,284,9,4.23,65.0,Moderate,-34.667377,-58.333904
+Buenos Aires,617644,Belgrano,Entire home/apt,40331.21,2,63,95,3.7,62.0,Moderate,-34.539414,-58.336639
+Buenos Aires,563611,Flores,Entire home/apt,28403.3,24,140,5,4.47,74.0,Moderate,-34.640442,-58.322637
+Buenos Aires,985141,San Telmo,Hotel room,,26,88,9,4.44,69.0,Moderate,-34.658662,-58.387873
+Buenos Aires,884379,Recoleta,Private room,42827.24,1,151,52,3.93,63.0,Moderate,-34.565172,-58.34419
+Buenos Aires,849875,Flores,Entire home/apt,17504.24,18,30,77,4.72,35.0,Good,-34.5609,-58.323006
+Buenos Aires,839605,Almagro,Entire home/apt,43085.62,28,34,1,4.37,65.0,Moderate,-34.554563,-58.447546
+Buenos Aires,397599,San Telmo,Entire home/apt,15590.57,22,156,22,4.44,63.0,Moderate,-34.627821,-58.348876
+Buenos Aires,518306,Caballito,Private room,28796.74,3,360,33,3.96,60.0,Moderate,-34.544719,-58.405545
+Buenos Aires,922301,Belgrano,Private room,45000.0,3,152,0,3.55,,,-34.626762,-58.402722
+Buenos Aires,557291,Villa Crespo,Entire home/apt,14444.09,10,198,14,4.46,81.0,Moderate,-34.584135,-58.365551
+Buenos Aires,617836,Almagro,Entire home/apt,25649.23,13,189,23,4.68,59.0,Moderate,-34.594817,-58.425406
+Buenos Aires,655242,Belgrano,Entire home/apt,20769.79,8,309,27,4.77,63.0,Moderate,-34.547952,-58.330107
+Buenos Aires,482840,Flores,Entire home/apt,12691.27,3,152,25,3.11,65.0,Moderate,-34.564575,-58.361678
+Buenos Aires,949947,San Telmo,Private room,40275.58,24,252,22,3.53,63.0,Moderate,-34.646657,-58.358784
+Buenos Aires,349338,Villa Crespo,Entire home/apt,17737.59,29,258,100,,,,-34.542388,-58.35571
+Buenos Aires,750149,Almagro,Entire home/apt,24101.87,23,364,10,4.33,37.0,Good,-34.576598,-58.353549
+Buenos Aires,876758,Palermo,Private room,15075.15,18,132,83,4.61,90.0,Moderate,-34.640386,-58.351062
+Buenos Aires,400077,Almagro,Private room,15169.22,15,91,3,5.0,53.0,Moderate,-34.551995,-58.339271
+Buenos Aires,124847,Villa Crespo,Private room,24565.51,2,355,0,3.95,56.0,Moderate,-34.571842,-58.441393
+Buenos Aires,575789,Belgrano,Entire home/apt,45000.0,7,39,24,,75.0,Moderate,-34.653011,-58.362494
+Buenos Aires,268659,Villa Crespo,Entire home/apt,28125.75,17,116,82,4.77,52.0,Moderate,-34.538602,-58.366152
+Buenos Aires,834384,Belgrano,Entire home/apt,29635.62,24,361,34,4.73,77.0,Moderate,-34.656025,-58.432946
+Buenos Aires,304922,Recoleta,Entire home/apt,26172.64,6,232,7,3.72,96.0,Moderate,-34.669887,-58.386862
+Buenos Aires,916197,Belgrano,Hotel room,30972.9,21,28,6,4.38,56.0,Moderate,-34.571744,-58.42875
+Buenos Aires,451529,Flores,Shared room,24484.3,29,224,0,3.3,56.0,Moderate,-34.636733,-58.359721
+Buenos Aires,549369,Villa Crespo,Private room,26593.36,1,138,6,4.01,38.0,Good,-34.534925,-58.364818
+Buenos Aires,285072,Flores,Private room,38999.91,13,127,9,4.44,66.0,Moderate,-34.645291,-58.366446
+Buenos Aires,192550,Flores,Private room,19638.81,22,68,11,3.71,33.0,Good,-34.616538,-58.446648
+Buenos Aires,926154,Almagro,Hotel room,,28,13,63,3.91,94.0,Moderate,-34.593241,-58.418375
+Buenos Aires,727246,Palermo,Entire home/apt,23425.27,26,267,0,4.47,50.0,Good,-34.59439,-58.35491
+Buenos Aires,539024,Palermo,Entire home/apt,41605.2,1,68,51,3.34,87.0,Moderate,-34.533948,-58.351254
+Buenos Aires,549711,Flores,Entire home/apt,10472.66,25,220,130,3.93,41.0,Good,-34.542752,-58.335905
+Buenos Aires,364645,Palermo,Entire home/apt,26447.93,5,51,2,4.48,84.0,Moderate,-34.548517,-58.364453
+Buenos Aires,259185,Belgrano,Entire home/apt,,10,277,17,4.33,109.0,Unhealthy for Sensitive Groups,-34.59055,-58.405132
+Buenos Aires,740232,Flores,Entire home/apt,,29,303,56,3.34,66.0,Moderate,-34.598986,-58.349392
+Buenos Aires,100128,Almagro,Private room,44296.45,27,300,22,4.13,89.0,Moderate,-34.555235,-58.378817
+Buenos Aires,683049,Flores,Entire home/apt,45000.0,16,238,1,4.4,91.0,Moderate,-34.630611,-58.377574
+Buenos Aires,677993,San Telmo,Private room,25952.83,10,146,54,4.47,63.0,Moderate,-34.634951,-58.445093
+Buenos Aires,466076,Caballito,Private room,,6,64,117,3.64,72.0,Moderate,-34.610261,-58.339887
+Buenos Aires,350301,Almagro,Entire home/apt,15197.64,30,289,11,4.46,67.0,Moderate,-34.587459,-58.366671
+Buenos Aires,679808,San Telmo,Entire home/apt,32624.42,1,351,15,3.72,,,-34.631343,-58.3261
+Buenos Aires,614457,Almagro,Entire home/apt,45000.0,2,330,40,4.18,53.0,Moderate,-34.631783,-58.414768
+Buenos Aires,733768,Recoleta,Shared room,14133.44,2,346,5,,,,-34.622448,-58.385718
+Buenos Aires,846017,Almagro,Private room,18249.36,23,288,27,3.61,96.0,Moderate,-34.585326,-58.398135
+Buenos Aires,892287,San Telmo,Shared room,16687.65,4,290,16,4.77,118.0,Unhealthy for Sensitive Groups,-34.558359,-58.316902
+Buenos Aires,522554,Recoleta,Entire home/apt,20581.4,29,132,18,4.21,71.0,Moderate,-34.566966,-58.381976
+Buenos Aires,626317,San Telmo,Shared room,25039.6,1,134,51,4.18,79.0,Moderate,-34.650503,-58.359699
+Buenos Aires,307092,Flores,Entire home/apt,45000.0,11,345,68,3.94,72.0,Moderate,-34.554972,-58.426984
+Buenos Aires,836929,Recoleta,Entire home/apt,39055.43,7,271,124,4.21,120.0,Unhealthy for Sensitive Groups,-34.573354,-58.343384
+Buenos Aires,554138,San Telmo,Private room,39060.59,2,318,18,4.92,77.0,Moderate,-34.555944,-58.3669
+Buenos Aires,437242,Villa Crespo,Private room,22968.96,11,19,59,4.77,47.0,Good,-34.635344,-58.397494
+Buenos Aires,160919,Belgrano,Private room,36452.3,1,35,97,3.15,53.0,Moderate,-34.625613,-58.43605
+Buenos Aires,469079,Villa Crespo,Hotel room,33162.54,27,359,3,3.6,48.0,Good,-34.553903,-58.340282
+Buenos Aires,371652,Belgrano,Entire home/apt,25378.7,10,236,9,3.91,69.0,Moderate,-34.549892,-58.343568
+Buenos Aires,772005,Villa Crespo,Entire home/apt,45000.0,26,348,146,3.57,84.0,Moderate,-34.617566,-58.336502
+Buenos Aires,880076,Caballito,Entire home/apt,30777.04,2,316,49,4.59,74.0,Moderate,-34.605143,-58.437846
+Buenos Aires,788186,Villa Crespo,Hotel room,26270.12,15,259,39,3.9,79.0,Moderate,-34.543329,-58.345816
+Buenos Aires,525715,Almagro,Entire home/apt,38054.05,5,137,19,3.32,40.0,Good,-34.537982,-58.331603
+Buenos Aires,432253,Caballito,Private room,25364.04,3,106,19,4.94,73.0,Moderate,-34.593374,-58.409033
+Buenos Aires,871532,Belgrano,Entire home/apt,31760.09,5,347,10,5.0,93.0,Moderate,-34.578829,-58.402116
+Buenos Aires,578176,Caballito,Private room,,2,325,33,4.83,53.0,Moderate,-34.53461,-58.318145
+Buenos Aires,165614,Caballito,Entire home/apt,24212.39,30,74,9,4.17,37.0,Good,-34.567594,-58.450162
+Buenos Aires,646190,Belgrano,Hotel room,17833.78,6,132,19,3.94,11.0,Good,-34.550708,-58.383284
+Buenos Aires,219341,Palermo,Private room,13653.06,12,107,197,3.99,90.0,Moderate,-34.66646,-58.323896
+Buenos Aires,147732,Almagro,Entire home/apt,8195.86,23,115,3,4.24,67.0,Moderate,-34.655099,-58.361283
+Buenos Aires,328447,Palermo,Private room,45000.0,9,333,41,4.34,27.0,Good,-34.602415,-58.32328
+Buenos Aires,722920,Almagro,Entire home/apt,18401.05,17,279,13,3.62,68.0,Moderate,-34.545288,-58.346867
+Buenos Aires,379341,Palermo,Private room,30160.96,20,240,17,4.06,82.0,Moderate,-34.560861,-58.32794
+Buenos Aires,961582,Flores,Entire home/apt,33887.76,1,307,22,4.05,75.0,Moderate,-34.601922,-58.414266
+Buenos Aires,370911,Belgrano,Entire home/apt,40253.64,9,179,69,4.35,90.0,Moderate,-34.586563,-58.387868
+Buenos Aires,911603,Flores,Entire home/apt,24288.34,13,292,63,4.48,63.0,Moderate,-34.614056,-58.320091
+Buenos Aires,288253,Almagro,Shared room,38833.88,2,195,6,,81.0,Moderate,-34.651331,-58.445979
+Buenos Aires,453095,Recoleta,Entire home/apt,,23,21,18,4.09,85.0,Moderate,-34.632097,-58.432424
+Buenos Aires,954530,Caballito,Private room,45000.0,1,310,38,3.61,52.0,Moderate,-34.604146,-58.396368
+Buenos Aires,275131,Belgrano,Hotel room,42916.23,17,130,35,4.14,61.0,Moderate,-34.612559,-58.450934
+Buenos Aires,713686,Belgrano,Hotel room,45000.0,26,144,30,4.44,83.0,Moderate,-34.628464,-58.395804
+Buenos Aires,483454,Recoleta,Entire home/apt,26854.12,26,227,45,3.49,34.0,Good,-34.663767,-58.380547
+Buenos Aires,740874,Almagro,Entire home/apt,19941.12,28,266,80,3.81,85.0,Moderate,-34.53596,-58.33202
+Buenos Aires,652163,Belgrano,Entire home/apt,18948.15,16,79,59,3.43,48.0,Good,-34.670606,-58.418797
+Buenos Aires,810299,San Telmo,Entire home/apt,45000.0,4,354,6,4.41,38.0,Good,-34.572135,-58.400014
+Buenos Aires,748409,Caballito,Entire home/apt,24938.66,1,280,72,4.45,69.0,Moderate,-34.582401,-58.337926
+Buenos Aires,193393,Villa Crespo,Hotel room,21046.45,3,288,60,4.09,81.0,Moderate,-34.640034,-58.36747
+Buenos Aires,122641,Recoleta,Entire home/apt,,1,124,39,4.57,61.0,Moderate,-34.633647,-58.378754
+Buenos Aires,850506,Recoleta,Private room,17172.14,1,290,65,3.61,50.0,Good,-34.562937,-58.353874
+Buenos Aires,984218,Almagro,Entire home/apt,22377.49,2,351,12,3.78,78.0,Moderate,-34.624581,-58.32257
+Buenos Aires,454034,Belgrano,Entire home/apt,34900.42,17,128,30,4.17,86.0,Moderate,-34.550637,-58.405303
+Buenos Aires,283232,Villa Crespo,Shared room,45000.0,10,14,25,5.0,61.0,Moderate,-34.546476,-58.409243
+Buenos Aires,696029,San Telmo,Entire home/apt,24444.52,4,182,35,,79.0,Moderate,-34.644581,-58.413324
+Buenos Aires,780828,Villa Crespo,Private room,40806.21,15,189,3,4.24,41.0,Good,-34.570634,-58.338547
+Buenos Aires,703671,Belgrano,Entire home/apt,23713.2,25,342,137,4.12,89.0,Moderate,-34.622665,-58.326977
+Buenos Aires,351629,Belgrano,Entire home/apt,25178.5,3,132,17,4.71,73.0,Moderate,-34.589667,-58.352393
+Buenos Aires,690027,Belgrano,Entire home/apt,45000.0,3,218,181,,60.0,Moderate,-34.622131,-58.358931
+Buenos Aires,800273,Palermo,Private room,45000.0,3,60,0,3.93,17.0,Good,-34.657951,-58.321816
+Buenos Aires,634998,Belgrano,Hotel room,31295.41,26,2,38,5.0,61.0,Moderate,-34.601148,-58.44865
+Buenos Aires,687567,Flores,Shared room,40313.73,20,68,23,4.84,,,-34.636342,-58.330461
+Buenos Aires,549893,San Telmo,Entire home/apt,45000.0,16,199,94,,,,-34.637452,-58.40541
+Buenos Aires,829416,Flores,Entire home/apt,32455.77,24,246,26,4.08,69.0,Moderate,-34.605704,-58.328226
+Buenos Aires,535736,Palermo,Private room,45000.0,20,341,50,4.28,79.0,Moderate,-34.597688,-58.415323
+Buenos Aires,673889,San Telmo,Entire home/apt,21973.64,22,183,1,4.64,78.0,Moderate,-34.544058,-58.31185
+Buenos Aires,999480,Almagro,Hotel room,12411.0,30,311,125,4.35,41.0,Good,-34.631145,-58.378734
+Buenos Aires,176552,Villa Crespo,Entire home/apt,18641.86,1,180,77,3.94,69.0,Moderate,-34.626314,-58.339638
+Buenos Aires,146490,San Telmo,Entire home/apt,25639.9,10,53,37,4.83,82.0,Moderate,-34.600956,-58.333259
+Buenos Aires,797642,Almagro,Shared room,34573.86,25,344,38,4.0,58.0,Moderate,-34.647201,-58.341222
+Buenos Aires,683070,San Telmo,Entire home/apt,20670.03,6,31,70,5.0,36.0,Good,-34.619903,-58.315959
+Buenos Aires,516431,Belgrano,Private room,22947.13,2,139,3,4.63,61.0,Moderate,-34.635544,-58.394481
+Buenos Aires,416898,Palermo,Entire home/apt,36938.92,3,232,56,4.21,96.0,Moderate,-34.554547,-58.393875
+Buenos Aires,151338,Recoleta,Shared room,14912.39,24,13,116,4.0,64.0,Moderate,-34.641204,-58.385699
+Buenos Aires,860448,Recoleta,Entire home/apt,19166.13,2,203,8,4.45,76.0,Moderate,-34.580374,-58.366161

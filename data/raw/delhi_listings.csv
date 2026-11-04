@@ -1,0 +1,451 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Delhi,549073,Connaught Place,Hotel room,,17,102,7,4.99,180.0,Unhealthy,28.610536,77.176779
+Delhi,963458,South Extension,Entire home/apt,7113.2,24,362,11,3.06,94.0,Moderate,28.548093,77.247889
+Delhi,785039,South Extension,Private room,14000.0,3,1,1,4.24,160.0,Unhealthy,28.652708,77.222032
+Delhi,579466,Vasant Kunj,Entire home/apt,6522.56,24,125,34,4.35,,,28.616209,77.220305
+Delhi,243404,Vasant Kunj,Private room,10829.17,15,277,4,4.39,145.0,Unhealthy for Sensitive Groups,28.674899,77.162433
+Delhi,940696,Saket,Entire home/apt,6494.78,4,158,19,4.07,99.0,Moderate,28.67442,77.149306
+Delhi,839399,Karol Bagh,Entire home/apt,12594.36,17,20,65,4.35,174.0,Unhealthy,28.66791,77.147743
+Delhi,104281,Greater Kailash,Entire home/apt,14000.0,4,217,19,4.82,141.0,Unhealthy for Sensitive Groups,28.619219,77.173922
+Delhi,380248,Vasant Kunj,Private room,6535.69,3,180,25,4.78,181.0,Unhealthy,28.608366,77.143387
+Delhi,691993,Greater Kailash,Entire home/apt,3906.37,2,215,29,4.1,126.0,Unhealthy for Sensitive Groups,28.640488,77.239843
+Delhi,895903,Greater Kailash,Entire home/apt,5544.34,3,166,20,4.58,185.0,Unhealthy,28.683848,77.184715
+Delhi,870819,Hauz Khas,Entire home/apt,6597.73,1,48,9,,228.0,Very Unhealthy,28.560005,77.183107
+Delhi,621097,Vasant Kunj,Entire home/apt,4443.35,7,211,2,4.44,183.0,Unhealthy,28.611844,77.173727
+Delhi,181038,Greater Kailash,Entire home/apt,9430.03,2,123,25,4.6,127.0,Unhealthy for Sensitive Groups,28.656617,77.227411
+Delhi,668848,Connaught Place,Shared room,8910.76,21,301,47,3.13,103.0,Unhealthy for Sensitive Groups,28.649927,77.213868
+Delhi,102021,Dwarka,Private room,8589.96,18,229,29,4.46,,,28.606081,77.14525
+Delhi,520056,Connaught Place,Entire home/apt,5277.96,30,13,1,3.71,154.0,Unhealthy,28.641456,77.210399
+Delhi,239240,Saket,Entire home/apt,6698.74,14,156,18,4.05,162.0,Unhealthy,28.662952,77.272957
+Delhi,368414,Connaught Place,Entire home/apt,14000.0,23,1,37,3.98,173.0,Unhealthy,28.621198,77.213829
+Delhi,926782,Dwarka,Private room,9231.35,11,247,33,4.81,133.0,Unhealthy for Sensitive Groups,28.605129,77.254134
+Delhi,267219,Karol Bagh,Entire home/apt,,1,62,256,4.2,205.0,Very Unhealthy,28.545493,77.269948
+Delhi,323191,Connaught Place,Private room,12713.7,1,81,12,4.47,182.0,Unhealthy,28.626504,77.27009
+Delhi,898341,Dwarka,Entire home/apt,6190.54,25,150,24,4.63,233.0,Very Unhealthy,28.556262,77.268373
+Delhi,557767,Connaught Place,Hotel room,7338.78,7,240,103,4.71,163.0,Unhealthy,28.660994,77.171842
+Delhi,184737,Greater Kailash,Private room,5801.96,20,359,2,4.77,107.0,Unhealthy for Sensitive Groups,28.569104,77.268692
+Delhi,682591,South Extension,Entire home/apt,5884.02,16,90,22,5.0,,,28.644591,77.18985
+Delhi,113452,Saket,Private room,3859.6,21,169,100,3.2,209.0,Very Unhealthy,28.575409,77.265081
+Delhi,179076,Connaught Place,Entire home/apt,,2,44,34,4.64,97.0,Moderate,28.65927,77.197253
+Delhi,488683,Karol Bagh,Shared room,9709.78,23,36,0,4.22,159.0,Unhealthy,28.561399,77.251444
+Delhi,459829,Greater Kailash,Entire home/apt,6527.77,1,99,1,4.27,112.0,Unhealthy for Sensitive Groups,28.62934,77.234259
+Delhi,506404,South Extension,Private room,14000.0,3,201,24,,154.0,Unhealthy,28.667451,77.246556
+Delhi,102821,Saket,Entire home/apt,,1,138,95,3.98,99.0,Moderate,28.674554,77.26882
+Delhi,587790,Connaught Place,Private room,14000.0,4,204,27,5.0,135.0,Unhealthy for Sensitive Groups,28.547412,77.20968
+Delhi,984017,Saket,Entire home/apt,3317.6,2,182,32,4.35,203.0,Very Unhealthy,28.681099,77.27409
+Delhi,469849,Connaught Place,Private room,9487.11,29,118,2,4.46,171.0,Unhealthy,28.597987,77.20096
+Delhi,544864,Dwarka,Private room,7891.2,18,83,100,3.72,93.0,Moderate,28.626633,77.163093
+Delhi,530117,South Extension,Private room,14000.0,14,56,25,3.59,205.0,Very Unhealthy,28.591845,77.141956
+Delhi,978699,South Extension,Entire home/apt,5261.4,2,40,26,3.71,103.0,Unhealthy for Sensitive Groups,28.54639,77.275888
+Delhi,280882,Vasant Kunj,Entire home/apt,,1,291,7,,137.0,Unhealthy for Sensitive Groups,28.625838,77.174767
+Delhi,989408,Dwarka,Entire home/apt,2950.9,7,221,11,4.25,165.0,Unhealthy,28.586704,77.250987
+Delhi,162697,Karol Bagh,Entire home/apt,4343.71,1,339,19,4.07,202.0,Very Unhealthy,28.667296,77.172378
+Delhi,359414,Vasant Kunj,Private room,9558.66,1,298,85,3.74,185.0,Unhealthy,28.649542,77.139941
+Delhi,781345,Vasant Kunj,Hotel room,14000.0,22,153,6,3.7,175.0,Unhealthy,28.628789,77.239056
+Delhi,971952,Vasant Kunj,Entire home/apt,10066.04,13,93,22,4.53,168.0,Unhealthy,28.672325,77.236269
+Delhi,914429,South Extension,Entire home/apt,14000.0,3,353,3,3.88,195.0,Unhealthy,28.67861,77.234459
+Delhi,550760,South Extension,Entire home/apt,3445.7,11,269,83,,49.0,Good,28.583438,77.249934
+Delhi,298266,Dwarka,Shared room,2678.62,7,246,23,4.4,136.0,Unhealthy for Sensitive Groups,28.67902,77.262341
+Delhi,126228,South Extension,Entire home/apt,6041.33,1,243,67,3.7,189.0,Unhealthy,28.55796,77.141144
+Delhi,620821,Connaught Place,Entire home/apt,14000.0,6,250,56,3.8,205.0,Very Unhealthy,28.659968,77.243045
+Delhi,630800,South Extension,Entire home/apt,14000.0,5,52,125,3.89,209.0,Very Unhealthy,28.666918,77.139413
+Delhi,397948,Connaught Place,Private room,9872.66,29,180,28,4.67,200.0,Unhealthy,28.646038,77.249554
+Delhi,324802,Connaught Place,Private room,4994.32,20,97,11,4.45,231.0,Very Unhealthy,28.670987,77.240341
+Delhi,178424,Vasant Kunj,Entire home/apt,5891.68,23,311,6,4.65,146.0,Unhealthy for Sensitive Groups,28.613508,77.139683
+Delhi,568006,Dwarka,Shared room,14000.0,2,242,9,5.0,192.0,Unhealthy,28.667214,77.173915
+Delhi,989861,Greater Kailash,Private room,4210.0,30,56,40,3.41,198.0,Unhealthy,28.622333,77.19747
+Delhi,391026,South Extension,Entire home/apt,7988.38,1,185,32,3.91,157.0,Unhealthy,28.557744,77.159615
+Delhi,664846,Saket,Entire home/apt,10086.93,17,33,3,3.94,133.0,Unhealthy for Sensitive Groups,28.642551,77.143977
+Delhi,367435,Saket,Entire home/apt,10034.33,9,64,27,3.62,101.0,Unhealthy for Sensitive Groups,28.586928,77.251609
+Delhi,925270,Saket,Entire home/apt,14000.0,3,124,36,4.77,,,28.579696,77.153374
+Delhi,666910,Saket,Private room,9698.55,3,306,41,4.84,148.0,Unhealthy for Sensitive Groups,28.572897,77.147945
+Delhi,266426,Vasant Kunj,Entire home/apt,7457.66,17,60,10,4.38,168.0,Unhealthy,28.639668,77.228939
+Delhi,978592,Karol Bagh,Entire home/apt,14000.0,1,360,5,3.79,202.0,Very Unhealthy,28.64751,77.268089
+Delhi,713177,Saket,Entire home/apt,4373.79,18,109,54,4.52,160.0,Unhealthy,28.605969,77.179928
+Delhi,656660,Greater Kailash,Shared room,,26,337,77,3.54,140.0,Unhealthy for Sensitive Groups,28.602765,77.170264
+Delhi,340695,Greater Kailash,Private room,10862.83,1,293,131,4.97,216.0,Very Unhealthy,28.566704,77.147306
+Delhi,487929,Hauz Khas,Entire home/apt,12390.46,17,140,31,4.62,74.0,Moderate,28.593199,77.241757
+Delhi,403141,Saket,Entire home/apt,10774.67,30,17,57,3.84,170.0,Unhealthy,28.603321,77.206725
+Delhi,148035,Greater Kailash,Private room,14000.0,2,247,31,,144.0,Unhealthy for Sensitive Groups,28.555646,77.139416
+Delhi,228223,Saket,Hotel room,3113.65,8,221,5,4.29,166.0,Unhealthy,28.623943,77.143114
+Delhi,940590,Connaught Place,Private room,5553.21,2,229,45,3.8,149.0,Unhealthy for Sensitive Groups,28.59047,77.228516
+Delhi,523553,Connaught Place,Shared room,6006.8,14,61,19,4.3,293.0,Very Unhealthy,28.590889,77.148441
+Delhi,925906,Greater Kailash,Entire home/apt,6813.57,12,239,16,3.77,186.0,Unhealthy,28.677639,77.257136
+Delhi,214911,Greater Kailash,Private room,3505.68,20,91,248,3.92,171.0,Unhealthy,28.56758,77.207795
+Delhi,691777,Hauz Khas,Private room,3033.98,13,220,81,3.41,170.0,Unhealthy,28.623673,77.15873
+Delhi,459578,Karol Bagh,Private room,11377.95,13,285,7,4.74,207.0,Very Unhealthy,28.633276,77.239828
+Delhi,685490,Connaught Place,Private room,5963.94,3,145,91,2.96,176.0,Unhealthy,28.592097,77.233406
+Delhi,850507,Dwarka,Hotel room,6021.89,29,233,22,4.31,193.0,Unhealthy,28.593343,77.165485
+Delhi,459992,Vasant Kunj,Private room,3231.89,8,266,67,4.55,136.0,Unhealthy for Sensitive Groups,28.57554,77.167178
+Delhi,554971,South Extension,Entire home/apt,9614.86,3,286,28,4.62,196.0,Unhealthy,28.674101,77.200765
+Delhi,166522,Karol Bagh,Entire home/apt,12399.57,1,163,97,3.91,173.0,Unhealthy,28.606433,77.193436
+Delhi,374697,Connaught Place,Entire home/apt,9569.63,9,197,2,3.7,149.0,Unhealthy for Sensitive Groups,28.58043,77.253958
+Delhi,884523,Hauz Khas,Hotel room,8085.55,3,242,32,4.5,209.0,Very Unhealthy,28.624444,77.163063
+Delhi,604203,Hauz Khas,Private room,7569.93,13,321,63,4.16,143.0,Unhealthy for Sensitive Groups,28.67101,77.230964
+Delhi,561260,Karol Bagh,Entire home/apt,6133.69,23,318,13,4.95,211.0,Very Unhealthy,28.638913,77.263664
+Delhi,543116,Karol Bagh,Private room,14000.0,23,225,40,4.07,308.0,Hazardous,28.663206,77.185571
+Delhi,449892,Hauz Khas,Shared room,4329.32,1,176,72,3.94,162.0,Unhealthy,28.558511,77.277872
+Delhi,412632,Saket,Entire home/apt,7914.64,3,267,83,3.6,108.0,Unhealthy for Sensitive Groups,28.563605,77.140831
+Delhi,574432,Greater Kailash,Entire home/apt,2245.63,17,156,3,3.33,217.0,Very Unhealthy,28.666528,77.20041
+Delhi,974215,Greater Kailash,Entire home/apt,3793.51,8,72,51,3.91,151.0,Unhealthy,28.603877,77.217288
+Delhi,345134,Saket,Entire home/apt,6531.76,21,107,80,4.59,204.0,Very Unhealthy,28.622371,77.20062
+Delhi,887057,Greater Kailash,Entire home/apt,6973.41,3,93,43,4.22,280.0,Very Unhealthy,28.599587,77.14918
+Delhi,754521,South Extension,Private room,4834.76,14,155,48,4.41,,,28.546356,77.166315
+Delhi,402224,Vasant Kunj,Entire home/apt,10721.02,7,284,5,4.42,177.0,Unhealthy,28.557189,77.15469
+Delhi,391078,Greater Kailash,Entire home/apt,9591.27,22,292,49,3.89,127.0,Unhealthy for Sensitive Groups,28.560647,77.233013
+Delhi,732083,South Extension,Entire home/apt,14000.0,26,260,14,4.04,166.0,Unhealthy,28.654639,77.231487
+Delhi,366866,Dwarka,Private room,,1,78,38,4.24,14.0,Good,28.6108,77.215061
+Delhi,177254,South Extension,Entire home/apt,4690.26,17,224,15,,232.0,Very Unhealthy,28.592203,77.271628
+Delhi,437764,Saket,Entire home/apt,14000.0,30,79,31,4.23,163.0,Unhealthy,28.633696,77.142206
+Delhi,620057,Connaught Place,Entire home/apt,4966.39,13,193,39,4.93,191.0,Unhealthy,28.546945,77.225486
+Delhi,972676,Greater Kailash,Private room,6142.67,1,269,36,3.46,219.0,Very Unhealthy,28.638467,77.171485
+Delhi,424170,Hauz Khas,Shared room,14000.0,2,148,29,4.84,166.0,Unhealthy,28.646625,77.213698
+Delhi,778106,Connaught Place,Private room,6191.61,9,91,72,4.45,227.0,Very Unhealthy,28.592215,77.22284
+Delhi,151545,South Extension,Entire home/apt,2461.78,14,13,32,3.38,85.0,Moderate,28.665941,77.252188
+Delhi,656143,Vasant Kunj,Hotel room,5066.13,3,97,25,4.11,182.0,Unhealthy,28.595435,77.183224
+Delhi,962188,Hauz Khas,Private room,5857.85,1,185,31,4.68,196.0,Unhealthy,28.594002,77.190353
+Delhi,864042,Dwarka,Entire home/apt,8686.27,17,86,15,4.55,92.0,Moderate,28.651298,77.269525
+Delhi,324389,Hauz Khas,Entire home/apt,14000.0,3,279,28,4.22,130.0,Unhealthy for Sensitive Groups,28.561924,77.202454
+Delhi,336721,Vasant Kunj,Entire home/apt,7096.74,26,95,143,4.75,161.0,Unhealthy,28.654429,77.231327
+Delhi,902585,Greater Kailash,Private room,5821.43,13,233,62,4.66,155.0,Unhealthy,28.663711,77.254022
+Delhi,809357,Saket,Private room,10588.15,10,146,40,4.51,122.0,Unhealthy for Sensitive Groups,28.544428,77.27189
+Delhi,230731,Saket,Entire home/apt,,16,363,1,3.68,170.0,Unhealthy,28.559117,77.240053
+Delhi,434336,Saket,Entire home/apt,6470.49,30,219,0,3.61,292.0,Very Unhealthy,28.563797,77.187324
+Delhi,387354,Dwarka,Entire home/apt,7858.63,28,239,9,,,,28.619444,77.235118
+Delhi,408775,Hauz Khas,Entire home/apt,5638.8,1,90,1,4.32,118.0,Unhealthy for Sensitive Groups,28.552871,77.140815
+Delhi,500095,Saket,Entire home/apt,5147.66,26,70,36,,151.0,Unhealthy,28.627333,77.158839
+Delhi,432420,South Extension,Entire home/apt,,2,114,26,4.74,232.0,Very Unhealthy,28.681635,77.260828
+Delhi,585075,Dwarka,Shared room,5002.91,2,338,57,3.99,246.0,Very Unhealthy,28.64838,77.221625
+Delhi,378035,Vasant Kunj,Private room,6761.41,22,103,11,4.12,224.0,Very Unhealthy,28.638395,77.162746
+Delhi,495694,Dwarka,Entire home/apt,14000.0,3,364,12,4.5,160.0,Unhealthy,28.607816,77.209154
+Delhi,577713,Saket,Entire home/apt,10440.41,5,32,188,4.56,122.0,Unhealthy for Sensitive Groups,28.588549,77.266628
+Delhi,839884,Saket,Entire home/apt,8984.09,21,344,0,4.61,182.0,Unhealthy,28.560019,77.182992
+Delhi,624186,Vasant Kunj,Entire home/apt,9355.3,2,342,1,4.7,216.0,Very Unhealthy,28.595208,77.261391
+Delhi,148533,Karol Bagh,Entire home/apt,2732.39,5,96,1,4.76,196.0,Unhealthy,28.566414,77.224442
+Delhi,327306,Karol Bagh,Private room,14000.0,1,331,20,4.93,189.0,Unhealthy,28.673714,77.168209
+Delhi,407991,Vasant Kunj,Private room,14000.0,14,299,6,4.77,138.0,Unhealthy for Sensitive Groups,28.620314,77.271566
+Delhi,999028,Greater Kailash,Private room,3821.99,11,331,12,4.36,143.0,Unhealthy for Sensitive Groups,28.619149,77.218039
+Delhi,517193,Vasant Kunj,Private room,6109.62,1,331,18,4.53,184.0,Unhealthy,28.65368,77.233726
+Delhi,397513,Greater Kailash,Entire home/apt,2784.1,18,88,23,5.0,210.0,Very Unhealthy,28.649013,77.210039
+Delhi,177132,Dwarka,Entire home/apt,3050.14,1,106,26,3.65,121.0,Unhealthy for Sensitive Groups,28.583577,77.266664
+Delhi,632382,Connaught Place,Entire home/apt,11520.4,15,325,12,4.56,158.0,Unhealthy,28.665784,77.242802
+Delhi,718785,Vasant Kunj,Entire home/apt,4910.78,1,344,56,4.06,176.0,Unhealthy,28.653017,77.195344
+Delhi,389701,Hauz Khas,Private room,6422.56,1,12,6,4.34,135.0,Unhealthy for Sensitive Groups,28.654005,77.235084
+Delhi,242336,Vasant Kunj,Entire home/apt,3752.21,2,298,0,4.48,123.0,Unhealthy for Sensitive Groups,28.565148,77.240415
+Delhi,243024,Dwarka,Private room,7806.43,8,204,24,,156.0,Unhealthy,28.674421,77.215252
+Delhi,274771,Dwarka,Entire home/apt,5507.27,5,136,30,,78.0,Moderate,28.596007,77.189145
+Delhi,670292,Vasant Kunj,Shared room,,1,44,25,4.11,128.0,Unhealthy for Sensitive Groups,28.629879,77.182597
+Delhi,536723,Dwarka,Private room,9892.43,15,338,77,4.61,174.0,Unhealthy,28.59339,77.243135
+Delhi,712021,Greater Kailash,Entire home/apt,10484.57,23,338,50,3.78,237.0,Very Unhealthy,28.658597,77.157335
+Delhi,460463,Hauz Khas,Private room,5214.73,9,46,0,3.85,255.0,Very Unhealthy,28.614209,77.231221
+Delhi,648517,Vasant Kunj,Entire home/apt,7192.73,2,346,18,4.47,179.0,Unhealthy,28.612629,77.218075
+Delhi,769169,Connaught Place,Shared room,8855.77,3,176,30,4.52,187.0,Unhealthy,28.615491,77.265011
+Delhi,272251,Karol Bagh,Shared room,14000.0,2,175,44,3.71,177.0,Unhealthy,28.649231,77.151026
+Delhi,784708,Vasant Kunj,Shared room,3614.01,3,136,68,3.23,173.0,Unhealthy,28.620492,77.263231
+Delhi,486256,Connaught Place,Entire home/apt,8575.57,21,314,174,4.67,147.0,Unhealthy for Sensitive Groups,28.572636,77.266859
+Delhi,192305,Karol Bagh,Private room,13995.6,19,150,1,3.74,,,28.602132,77.277592
+Delhi,706182,Vasant Kunj,Entire home/apt,7517.37,27,157,31,4.39,128.0,Unhealthy for Sensitive Groups,28.601851,77.191877
+Delhi,613340,Vasant Kunj,Entire home/apt,10582.7,1,151,100,4.66,161.0,Unhealthy,28.556897,77.176358
+Delhi,361839,Saket,Private room,2692.22,10,287,60,3.79,149.0,Unhealthy for Sensitive Groups,28.645421,77.144737
+Delhi,946884,Vasant Kunj,Private room,11539.93,9,78,2,,148.0,Unhealthy for Sensitive Groups,28.571267,77.205108
+Delhi,928643,Karol Bagh,Private room,4672.65,1,216,9,3.45,220.0,Very Unhealthy,28.575985,77.170291
+Delhi,314039,South Extension,Private room,,20,9,17,4.24,37.0,Good,28.638224,77.147639
+Delhi,281986,Karol Bagh,Private room,5688.98,21,147,6,4.54,179.0,Unhealthy,28.617202,77.176913
+Delhi,817320,Saket,Entire home/apt,,22,95,9,4.36,211.0,Very Unhealthy,28.62017,77.218842
+Delhi,720044,Hauz Khas,Private room,4156.14,17,69,12,4.85,75.0,Moderate,28.564512,77.276613
+Delhi,689012,Karol Bagh,Entire home/apt,6709.51,26,248,55,4.09,74.0,Moderate,28.584828,77.17489
+Delhi,426045,Dwarka,Private room,12982.99,26,261,5,3.89,212.0,Very Unhealthy,28.546637,77.278336
+Delhi,808249,South Extension,Entire home/apt,4530.38,1,300,3,3.59,205.0,Very Unhealthy,28.63432,77.253496
+Delhi,630640,Connaught Place,Hotel room,,30,126,0,,203.0,Very Unhealthy,28.622236,77.226838
+Delhi,793951,Connaught Place,Entire home/apt,9371.54,9,229,44,4.66,173.0,Unhealthy,28.641383,77.234009
+Delhi,190229,Hauz Khas,Entire home/apt,10015.58,18,327,3,3.37,116.0,Unhealthy for Sensitive Groups,28.632941,77.257472
+Delhi,266826,Connaught Place,Private room,9165.05,5,156,17,4.42,191.0,Unhealthy,28.573553,77.244546
+Delhi,747565,Dwarka,Private room,9510.52,16,8,40,3.89,179.0,Unhealthy,28.578551,77.149476
+Delhi,781962,Greater Kailash,Private room,7691.8,21,229,26,3.95,148.0,Unhealthy for Sensitive Groups,28.662895,77.224772
+Delhi,853291,Greater Kailash,Entire home/apt,6277.18,2,225,0,4.86,176.0,Unhealthy,28.586648,77.269073
+Delhi,485638,South Extension,Entire home/apt,5783.97,18,266,85,4.16,193.0,Unhealthy,28.546775,77.231961
+Delhi,611920,Vasant Kunj,Entire home/apt,8878.42,1,95,78,4.08,204.0,Very Unhealthy,28.589169,77.146588
+Delhi,116214,Hauz Khas,Entire home/apt,2402.75,16,337,75,3.93,167.0,Unhealthy,28.656372,77.217742
+Delhi,982565,Saket,Entire home/apt,8398.88,17,293,134,3.66,184.0,Unhealthy,28.573191,77.257085
+Delhi,207584,South Extension,Entire home/apt,12266.28,29,279,2,4.44,126.0,Unhealthy for Sensitive Groups,28.619835,77.236192
+Delhi,955923,Karol Bagh,Private room,,2,57,40,4.37,,,28.677961,77.228644
+Delhi,158163,Dwarka,Entire home/apt,2447.4,15,256,7,3.97,128.0,Unhealthy for Sensitive Groups,28.599912,77.140434
+Delhi,218791,Karol Bagh,Entire home/apt,5415.97,2,102,52,4.66,103.0,Unhealthy for Sensitive Groups,28.674834,77.276
+Delhi,443089,Karol Bagh,Entire home/apt,12997.12,1,92,10,4.41,188.0,Unhealthy,28.683243,77.251061
+Delhi,436273,Connaught Place,Private room,8540.13,16,107,8,4.45,184.0,Unhealthy,28.678239,77.148176
+Delhi,286995,Saket,Entire home/apt,11685.53,24,288,59,3.97,171.0,Unhealthy,28.596916,77.142558
+Delhi,877104,South Extension,Entire home/apt,6713.51,11,8,2,4.92,210.0,Very Unhealthy,28.653141,77.203158
+Delhi,291544,Vasant Kunj,Entire home/apt,13466.49,2,259,31,4.0,172.0,Unhealthy,28.600614,77.215969
+Delhi,298809,Hauz Khas,Shared room,10274.41,5,147,15,4.51,147.0,Unhealthy for Sensitive Groups,28.633116,77.234711
+Delhi,274398,Saket,Shared room,10024.73,25,247,28,4.33,272.0,Very Unhealthy,28.613056,77.259437
+Delhi,801824,Dwarka,Hotel room,5424.67,18,154,7,4.98,212.0,Very Unhealthy,28.635414,77.255772
+Delhi,191261,Connaught Place,Entire home/apt,5636.1,2,104,5,3.85,149.0,Unhealthy for Sensitive Groups,28.652562,77.242499
+Delhi,522322,Dwarka,Entire home/apt,5230.01,15,234,33,4.53,184.0,Unhealthy,28.550359,77.239747
+Delhi,653591,Greater Kailash,Private room,14000.0,26,187,4,,145.0,Unhealthy for Sensitive Groups,28.611152,77.247165
+Delhi,976191,Greater Kailash,Entire home/apt,3853.11,15,90,178,3.89,217.0,Very Unhealthy,28.561892,77.23843
+Delhi,266802,Vasant Kunj,Entire home/apt,5811.18,17,234,45,,183.0,Unhealthy,28.678569,77.196517
+Delhi,429201,Saket,Private room,5731.11,10,113,8,4.01,242.0,Very Unhealthy,28.603718,77.185674
+Delhi,188715,Saket,Private room,9675.28,17,74,13,4.68,144.0,Unhealthy for Sensitive Groups,28.615489,77.176393
+Delhi,552155,Vasant Kunj,Entire home/apt,8342.68,5,180,20,4.51,163.0,Unhealthy,28.605882,77.224453
+Delhi,669893,Dwarka,Entire home/apt,6381.32,2,260,8,3.88,134.0,Unhealthy for Sensitive Groups,28.652255,77.233051
+Delhi,320210,Dwarka,Entire home/apt,11261.8,2,128,19,4.53,194.0,Unhealthy,28.615494,77.208591
+Delhi,856536,South Extension,Private room,10669.16,23,330,0,4.4,141.0,Unhealthy for Sensitive Groups,28.651354,77.231549
+Delhi,781137,South Extension,Entire home/apt,8615.23,4,341,45,4.49,198.0,Unhealthy,28.641549,77.186614
+Delhi,363990,Hauz Khas,Private room,14000.0,21,58,0,,118.0,Unhealthy for Sensitive Groups,28.603011,77.159914
+Delhi,954568,Dwarka,Entire home/apt,13860.97,28,239,47,4.52,56.0,Moderate,28.641446,77.159657
+Delhi,521308,Saket,Entire home/apt,5053.8,17,126,19,3.81,123.0,Unhealthy for Sensitive Groups,28.643159,77.197016
+Delhi,771708,Saket,Entire home/apt,5856.31,14,359,9,4.65,140.0,Unhealthy for Sensitive Groups,28.638956,77.186415
+Delhi,875138,Saket,Entire home/apt,7843.64,6,355,24,4.6,194.0,Unhealthy,28.587947,77.239355
+Delhi,553133,Greater Kailash,Private room,9549.38,15,273,115,4.29,96.0,Moderate,28.680481,77.149134
+Delhi,896081,Greater Kailash,Entire home/apt,5515.72,2,324,129,4.37,228.0,Very Unhealthy,28.642257,77.194696
+Delhi,357682,Connaught Place,Entire home/apt,1901.69,5,246,50,4.66,136.0,Unhealthy for Sensitive Groups,28.669064,77.198559
+Delhi,290384,Dwarka,Entire home/apt,9455.39,2,171,26,3.74,140.0,Unhealthy for Sensitive Groups,28.544738,77.185996
+Delhi,769622,Saket,Entire home/apt,14000.0,10,326,33,5.0,136.0,Unhealthy for Sensitive Groups,28.582847,77.150354
+Delhi,951549,Saket,Entire home/apt,8741.98,15,23,113,4.27,90.0,Moderate,28.667346,77.253293
+Delhi,895305,South Extension,Entire home/apt,5644.41,29,98,6,4.46,242.0,Very Unhealthy,28.550574,77.165306
+Delhi,192801,Vasant Kunj,Shared room,7138.59,17,244,39,4.84,,,28.634314,77.215285
+Delhi,920703,Saket,Private room,9459.03,1,65,19,4.24,143.0,Unhealthy for Sensitive Groups,28.570296,77.251667
+Delhi,135087,Connaught Place,Entire home/apt,5442.44,28,98,92,4.52,156.0,Unhealthy,28.607341,77.175767
+Delhi,805659,Saket,Entire home/apt,6753.96,10,51,1,4.26,247.0,Very Unhealthy,28.606688,77.196832
+Delhi,369935,Hauz Khas,Private room,9786.41,2,199,9,4.28,162.0,Unhealthy,28.60953,77.271382
+Delhi,694745,Hauz Khas,Private room,,2,28,6,4.17,,,28.557105,77.232006
+Delhi,291995,South Extension,Private room,8278.59,13,320,6,4.11,150.0,Unhealthy for Sensitive Groups,28.638673,77.17702
+Delhi,462134,Connaught Place,Private room,5312.83,25,45,2,4.67,129.0,Unhealthy for Sensitive Groups,28.574318,77.190011
+Delhi,794280,Hauz Khas,Entire home/apt,7772.58,8,123,66,4.72,208.0,Very Unhealthy,28.550024,77.224006
+Delhi,785970,Connaught Place,Entire home/apt,14000.0,28,256,5,,114.0,Unhealthy for Sensitive Groups,28.681617,77.268733
+Delhi,852389,Karol Bagh,Entire home/apt,4756.02,30,192,7,4.07,171.0,Unhealthy,28.610791,77.208247
+Delhi,978684,Karol Bagh,Entire home/apt,5445.77,10,316,150,3.89,149.0,Unhealthy for Sensitive Groups,28.639118,77.264692
+Delhi,134084,Connaught Place,Private room,5565.52,27,299,22,3.67,202.0,Very Unhealthy,28.635718,77.194827
+Delhi,249174,South Extension,Private room,9975.87,3,288,36,3.16,151.0,Unhealthy,28.680464,77.193048
+Delhi,901180,Karol Bagh,Entire home/apt,6638.03,29,189,0,3.64,134.0,Unhealthy for Sensitive Groups,28.590961,77.240694
+Delhi,128507,South Extension,Private room,9074.21,17,261,5,4.31,137.0,Unhealthy for Sensitive Groups,28.592154,77.26592
+Delhi,831319,Vasant Kunj,Entire home/apt,7241.18,2,227,26,4.03,100.0,Moderate,28.551335,77.21014
+Delhi,516115,South Extension,Hotel room,7484.82,4,260,17,4.22,166.0,Unhealthy,28.641858,77.245682
+Delhi,659001,Connaught Place,Private room,14000.0,1,53,100,3.58,218.0,Very Unhealthy,28.677179,77.26113
+Delhi,292601,Greater Kailash,Entire home/apt,14000.0,19,43,50,4.76,110.0,Unhealthy for Sensitive Groups,28.649135,77.185224
+Delhi,702542,Karol Bagh,Entire home/apt,5549.05,17,40,16,3.5,,,28.597863,77.252861
+Delhi,712686,Karol Bagh,Entire home/apt,6593.36,1,101,22,4.1,101.0,Unhealthy for Sensitive Groups,28.646624,77.170673
+Delhi,420124,Connaught Place,Entire home/apt,7153.36,3,176,45,4.24,70.0,Moderate,28.591643,77.16567
+Delhi,885971,South Extension,Private room,5388.45,17,229,16,4.14,,,28.669315,77.264749
+Delhi,849089,Dwarka,Shared room,9093.31,1,350,19,4.87,225.0,Very Unhealthy,28.594068,77.171135
+Delhi,412082,Saket,Private room,13395.09,28,350,33,4.18,,,28.57993,77.220857
+Delhi,833484,Saket,Shared room,7312.15,1,122,19,3.76,227.0,Very Unhealthy,28.598762,77.163851
+Delhi,473407,Hauz Khas,Private room,5764.98,1,37,10,,146.0,Unhealthy for Sensitive Groups,28.677721,77.204954
+Delhi,925043,Karol Bagh,Hotel room,4406.46,3,305,108,,207.0,Very Unhealthy,28.561195,77.201907
+Delhi,499486,Greater Kailash,Shared room,4217.66,12,202,73,4.55,230.0,Very Unhealthy,28.566429,77.27798
+Delhi,687421,Connaught Place,Shared room,10809.95,3,337,38,4.33,175.0,Unhealthy,28.606623,77.235923
+Delhi,738209,Dwarka,Entire home/apt,9285.19,4,16,35,3.89,194.0,Unhealthy,28.628824,77.155786
+Delhi,103376,Connaught Place,Hotel room,6117.67,2,83,102,4.14,263.0,Very Unhealthy,28.64785,77.165882
+Delhi,675175,Karol Bagh,Entire home/apt,6677.9,23,168,51,3.89,168.0,Unhealthy,28.620271,77.224622
+Delhi,616515,Dwarka,Private room,12860.35,27,23,9,,117.0,Unhealthy for Sensitive Groups,28.614357,77.22714
+Delhi,528488,Karol Bagh,Entire home/apt,2899.57,12,217,16,,150.0,Unhealthy for Sensitive Groups,28.671027,77.159178
+Delhi,893315,Dwarka,Private room,3388.9,5,198,35,4.01,128.0,Unhealthy for Sensitive Groups,28.584495,77.207757
+Delhi,468368,Dwarka,Entire home/apt,,1,156,11,4.61,141.0,Unhealthy for Sensitive Groups,28.632444,77.222409
+Delhi,515723,Greater Kailash,Entire home/apt,6172.2,30,160,168,3.87,235.0,Very Unhealthy,28.63492,77.149771
+Delhi,500344,Karol Bagh,Entire home/apt,9640.91,2,332,15,4.25,250.0,Very Unhealthy,28.591637,77.194793
+Delhi,818460,Vasant Kunj,Shared room,5010.84,1,285,100,4.44,164.0,Unhealthy,28.546765,77.267631
+Delhi,419841,Connaught Place,Entire home/apt,6185.23,6,285,285,4.09,139.0,Unhealthy for Sensitive Groups,28.547267,77.192314
+Delhi,377697,Hauz Khas,Private room,13583.94,29,307,21,3.91,98.0,Moderate,28.593145,77.171783
+Delhi,879093,Greater Kailash,Entire home/apt,4973.57,19,176,8,4.55,173.0,Unhealthy,28.671309,77.152046
+Delhi,872929,Connaught Place,Entire home/apt,7317.87,22,39,12,4.46,127.0,Unhealthy for Sensitive Groups,28.548945,77.207139
+Delhi,199422,Hauz Khas,Entire home/apt,6776.32,13,31,3,4.16,153.0,Unhealthy,28.545189,77.170238
+Delhi,755558,Connaught Place,Private room,,21,67,9,3.61,195.0,Unhealthy,28.594884,77.173419
+Delhi,274072,Saket,Private room,6288.1,8,88,40,4.33,125.0,Unhealthy for Sensitive Groups,28.572877,77.218857
+Delhi,861966,Dwarka,Entire home/apt,14000.0,7,361,14,4.12,165.0,Unhealthy,28.613852,77.243393
+Delhi,505123,Hauz Khas,Hotel room,14000.0,13,12,137,4.48,74.0,Moderate,28.668368,77.253534
+Delhi,206269,Saket,Private room,4849.5,26,53,25,4.5,153.0,Unhealthy,28.632083,77.236811
+Delhi,142956,Karol Bagh,Entire home/apt,14000.0,5,335,19,4.31,192.0,Unhealthy,28.606308,77.249629
+Delhi,992086,Connaught Place,Entire home/apt,10723.96,5,290,13,3.85,185.0,Unhealthy,28.606152,77.248655
+Delhi,330432,Dwarka,Private room,9069.67,18,149,21,3.94,152.0,Unhealthy,28.622298,77.199058
+Delhi,835521,Connaught Place,Entire home/apt,5078.1,8,4,59,4.27,201.0,Very Unhealthy,28.680626,77.278878
+Delhi,475977,Dwarka,Private room,4736.25,30,337,42,4.31,66.0,Moderate,28.565367,77.151265
+Delhi,854205,South Extension,Private room,2845.83,7,292,12,3.82,184.0,Unhealthy,28.549916,77.176111
+Delhi,803364,Karol Bagh,Entire home/apt,5931.06,26,57,10,4.01,205.0,Very Unhealthy,28.670049,77.27623
+Delhi,809463,South Extension,Hotel room,8780.29,6,253,18,4.31,157.0,Unhealthy,28.576111,77.225643
+Delhi,504141,South Extension,Private room,14000.0,16,304,21,,132.0,Unhealthy for Sensitive Groups,28.659546,77.26109
+Delhi,982072,Hauz Khas,Private room,7429.89,2,154,9,4.5,134.0,Unhealthy for Sensitive Groups,28.622727,77.196087
+Delhi,512823,South Extension,Private room,3185.16,22,75,6,4.35,153.0,Unhealthy,28.636373,77.220419
+Delhi,971471,Vasant Kunj,Entire home/apt,2321.1,25,176,39,3.8,187.0,Unhealthy,28.623235,77.18451
+Delhi,704689,Hauz Khas,Entire home/apt,9335.55,30,155,12,4.52,219.0,Very Unhealthy,28.626976,77.206773
+Delhi,263025,South Extension,Private room,14000.0,2,87,22,4.37,211.0,Very Unhealthy,28.653655,77.203412
+Delhi,743190,Saket,Private room,13146.69,15,363,27,4.59,188.0,Unhealthy,28.63212,77.201038
+Delhi,262844,Saket,Entire home/apt,8323.14,12,181,21,3.76,78.0,Moderate,28.632242,77.220107
+Delhi,197989,Hauz Khas,Entire home/apt,6979.58,1,42,8,3.8,95.0,Moderate,28.569267,77.225771
+Delhi,284919,Connaught Place,Entire home/apt,9340.22,1,258,66,3.88,227.0,Very Unhealthy,28.593479,77.249477
+Delhi,963058,Hauz Khas,Entire home/apt,7872.5,28,226,146,5.0,177.0,Unhealthy,28.554152,77.247266
+Delhi,943995,Saket,Entire home/apt,5292.98,30,220,26,4.5,164.0,Unhealthy,28.60214,77.180953
+Delhi,831479,Vasant Kunj,Entire home/apt,3943.45,19,328,84,5.0,199.0,Unhealthy,28.671797,77.176233
+Delhi,991288,South Extension,Private room,4894.1,21,228,15,,140.0,Unhealthy for Sensitive Groups,28.601149,77.224098
+Delhi,757715,Greater Kailash,Hotel room,8352.65,1,61,15,3.79,157.0,Unhealthy,28.647689,77.255665
+Delhi,877590,Hauz Khas,Private room,12466.13,17,91,15,3.78,137.0,Unhealthy for Sensitive Groups,28.553971,77.222432
+Delhi,652726,Connaught Place,Entire home/apt,4319.26,16,134,64,4.48,138.0,Unhealthy for Sensitive Groups,28.682472,77.217321
+Delhi,832305,Connaught Place,Private room,3214.95,2,72,38,4.64,173.0,Unhealthy,28.653443,77.277134
+Delhi,418555,South Extension,Private room,8870.96,17,329,24,4.08,135.0,Unhealthy for Sensitive Groups,28.663751,77.244476
+Delhi,231054,South Extension,Shared room,4603.14,1,113,1,4.11,179.0,Unhealthy,28.662387,77.230029
+Delhi,648200,Greater Kailash,Private room,14000.0,15,130,10,4.86,96.0,Moderate,28.592701,77.260034
+Delhi,401709,Connaught Place,Entire home/apt,5473.11,2,44,11,4.19,163.0,Unhealthy,28.663781,77.236765
+Delhi,418569,Saket,Private room,5363.56,3,141,3,4.35,256.0,Very Unhealthy,28.56707,77.177048
+Delhi,576521,Vasant Kunj,Entire home/apt,3848.83,1,198,80,3.65,184.0,Unhealthy,28.679401,77.223098
+Delhi,382332,Vasant Kunj,Private room,5094.6,30,316,9,5.0,166.0,Unhealthy,28.586499,77.199461
+Delhi,388591,Karol Bagh,Entire home/apt,4822.41,1,24,11,4.74,171.0,Unhealthy,28.585854,77.235619
+Delhi,130148,Greater Kailash,Private room,10213.36,1,39,6,3.8,161.0,Unhealthy,28.613728,77.240467
+Delhi,750657,Greater Kailash,Entire home/apt,7800.93,7,344,83,5.0,182.0,Unhealthy,28.581731,77.151938
+Delhi,106495,Karol Bagh,Entire home/apt,10908.83,17,237,29,3.8,122.0,Unhealthy for Sensitive Groups,28.566581,77.227992
+Delhi,992619,Saket,Entire home/apt,7818.33,10,319,211,4.09,215.0,Very Unhealthy,28.600074,77.206277
+Delhi,960822,Vasant Kunj,Entire home/apt,4668.02,1,51,48,5.0,93.0,Moderate,28.593346,77.188396
+Delhi,283665,South Extension,Entire home/apt,8009.59,3,335,17,4.44,223.0,Very Unhealthy,28.673746,77.232422
+Delhi,853505,Vasant Kunj,Private room,13284.43,1,205,20,5.0,184.0,Unhealthy,28.608785,77.205533
+Delhi,795443,Vasant Kunj,Private room,6747.43,1,111,2,3.97,227.0,Very Unhealthy,28.634407,77.160362
+Delhi,357424,Karol Bagh,Entire home/apt,10027.2,24,134,78,5.0,215.0,Very Unhealthy,28.597172,77.176201
+Delhi,996453,Dwarka,Shared room,9151.46,7,2,40,,174.0,Unhealthy,28.56398,77.27772
+Delhi,831236,South Extension,Shared room,10214.6,1,86,45,4.63,227.0,Very Unhealthy,28.586685,77.147784
+Delhi,677403,Vasant Kunj,Private room,8672.04,1,353,10,4.61,182.0,Unhealthy,28.636598,77.158469
+Delhi,145937,Vasant Kunj,Entire home/apt,6868.0,16,238,35,4.38,78.0,Moderate,28.643323,77.218327
+Delhi,262466,Karol Bagh,Entire home/apt,7976.71,28,269,71,4.2,168.0,Unhealthy,28.660174,77.252477
+Delhi,595865,Hauz Khas,Entire home/apt,9232.51,18,0,12,4.86,149.0,Unhealthy for Sensitive Groups,28.623635,77.198723
+Delhi,441989,Vasant Kunj,Entire home/apt,11053.14,30,156,0,3.73,172.0,Unhealthy,28.595911,77.260375
+Delhi,818499,Karol Bagh,Private room,10458.02,30,99,26,,,,28.60751,77.272592
+Delhi,358525,Dwarka,Private room,9921.8,27,39,18,5.0,117.0,Unhealthy for Sensitive Groups,28.60096,77.176444
+Delhi,532300,Dwarka,Entire home/apt,14000.0,26,295,15,4.48,152.0,Unhealthy,28.663093,77.219371
+Delhi,945530,Greater Kailash,Private room,14000.0,22,171,40,4.24,134.0,Unhealthy for Sensitive Groups,28.683361,77.163344
+Delhi,676532,South Extension,Private room,9442.17,2,204,12,4.29,206.0,Very Unhealthy,28.611723,77.188498
+Delhi,525705,Dwarka,Private room,11574.16,2,304,40,3.69,126.0,Unhealthy for Sensitive Groups,28.586628,77.145317
+Delhi,588114,Saket,Shared room,6813.75,8,176,19,,112.0,Unhealthy for Sensitive Groups,28.547962,77.248694
+Delhi,505303,Connaught Place,Private room,14000.0,28,75,13,5.0,117.0,Unhealthy for Sensitive Groups,28.620965,77.159357
+Delhi,666640,Saket,Entire home/apt,12116.58,1,166,51,4.05,222.0,Very Unhealthy,28.586363,77.248089
+Delhi,976772,Greater Kailash,Entire home/apt,10646.86,4,179,142,4.32,87.0,Moderate,28.607886,77.140462
+Delhi,204302,Dwarka,Hotel room,3764.12,13,166,2,4.4,178.0,Unhealthy,28.587603,77.239404
+Delhi,916574,South Extension,Entire home/apt,5223.17,16,4,35,3.88,91.0,Moderate,28.657951,77.277186
+Delhi,314777,Dwarka,Private room,,2,106,14,4.72,173.0,Unhealthy,28.633619,77.164061
+Delhi,622791,South Extension,Entire home/apt,4115.82,1,135,23,3.84,,,28.634804,77.191293
+Delhi,731361,Greater Kailash,Entire home/apt,6930.53,1,154,4,4.83,67.0,Moderate,28.547721,77.232512
+Delhi,938863,Karol Bagh,Shared room,5568.69,1,166,86,4.18,156.0,Unhealthy,28.544902,77.231731
+Delhi,178075,Dwarka,Entire home/apt,14000.0,27,322,1,5.0,117.0,Unhealthy for Sensitive Groups,28.553618,77.202637
+Delhi,611729,Saket,Entire home/apt,6862.55,30,318,35,3.5,92.0,Moderate,28.628755,77.243411
+Delhi,591415,South Extension,Entire home/apt,5754.29,12,232,78,4.01,248.0,Very Unhealthy,28.642691,77.244654
+Delhi,106204,Dwarka,Private room,7455.11,10,292,4,4.74,155.0,Unhealthy,28.548675,77.184439
+Delhi,434874,Greater Kailash,Entire home/apt,3432.1,25,234,29,5.0,,,28.600957,77.207997
+Delhi,632981,Dwarka,Private room,10367.45,2,3,69,4.23,130.0,Unhealthy for Sensitive Groups,28.642296,77.218661
+Delhi,638327,Vasant Kunj,Private room,6483.03,12,161,114,5.0,185.0,Unhealthy,28.546304,77.278099
+Delhi,866430,Dwarka,Private room,6911.25,10,270,2,3.67,188.0,Unhealthy,28.679952,77.169656
+Delhi,232559,Dwarka,Entire home/apt,7009.33,6,256,3,4.52,202.0,Very Unhealthy,28.647413,77.22425
+Delhi,151316,Dwarka,Entire home/apt,9288.94,26,191,38,4.6,140.0,Unhealthy for Sensitive Groups,28.635785,77.155918
+Delhi,521666,Connaught Place,Entire home/apt,3411.37,17,225,24,3.67,175.0,Unhealthy,28.647399,77.172552
+Delhi,330692,South Extension,Private room,6972.54,16,58,68,4.47,251.0,Very Unhealthy,28.649347,77.198315
+Delhi,410500,Vasant Kunj,Private room,14000.0,2,201,21,3.13,192.0,Unhealthy,28.63862,77.208046
+Delhi,742935,South Extension,Entire home/apt,5655.88,18,15,28,3.85,82.0,Moderate,28.623708,77.258998
+Delhi,418454,Vasant Kunj,Private room,4181.93,17,228,1,4.86,161.0,Unhealthy,28.637885,77.201242
+Delhi,341014,Dwarka,Entire home/apt,14000.0,2,302,8,3.92,,,28.559215,77.187265
+Delhi,581880,Saket,Entire home/apt,4998.71,2,314,119,4.63,138.0,Unhealthy for Sensitive Groups,28.619725,77.21096
+Delhi,734451,Connaught Place,Private room,2276.7,1,134,59,4.12,140.0,Unhealthy for Sensitive Groups,28.677578,77.249306
+Delhi,363566,Karol Bagh,Entire home/apt,8329.94,17,262,29,3.54,163.0,Unhealthy,28.571337,77.266433
+Delhi,352759,Greater Kailash,Hotel room,4960.61,1,225,21,4.43,204.0,Very Unhealthy,28.614878,77.242145
+Delhi,442064,Dwarka,Private room,8345.28,18,297,165,3.98,130.0,Unhealthy for Sensitive Groups,28.573747,77.198803
+Delhi,327095,Saket,Entire home/apt,4977.13,14,284,5,4.08,118.0,Unhealthy for Sensitive Groups,28.548656,77.167121
+Delhi,980165,South Extension,Entire home/apt,5760.97,24,221,44,,158.0,Unhealthy,28.580359,77.251363
+Delhi,101050,Connaught Place,Entire home/apt,12958.23,2,100,56,5.0,219.0,Very Unhealthy,28.59448,77.276313
+Delhi,928824,Greater Kailash,Shared room,4445.83,6,7,57,3.95,123.0,Unhealthy for Sensitive Groups,28.674199,77.210913
+Delhi,992210,Vasant Kunj,Private room,11158.88,6,10,180,4.6,227.0,Very Unhealthy,28.628955,77.20951
+Delhi,330960,South Extension,Entire home/apt,5948.58,14,281,12,4.06,201.0,Very Unhealthy,28.612635,77.262145
+Delhi,409694,South Extension,Entire home/apt,7534.82,24,147,11,3.56,128.0,Unhealthy for Sensitive Groups,28.609936,77.15807
+Delhi,643369,Hauz Khas,Entire home/apt,8744.01,4,73,30,3.22,166.0,Unhealthy,28.555764,77.205651
+Delhi,127189,South Extension,Private room,8272.49,3,291,133,3.85,167.0,Unhealthy,28.639674,77.18159
+Delhi,326856,Saket,Private room,8963.13,25,59,71,4.54,111.0,Unhealthy for Sensitive Groups,28.618973,77.14619
+Delhi,105500,South Extension,Entire home/apt,14000.0,2,136,86,4.22,173.0,Unhealthy,28.573544,77.196359
+Delhi,585885,Connaught Place,Entire home/apt,8715.62,29,205,29,,,,28.639846,77.190598
+Delhi,434934,Vasant Kunj,Entire home/apt,4036.85,13,47,74,5.0,173.0,Unhealthy,28.665617,77.241302
+Delhi,719208,Karol Bagh,Hotel room,4730.37,29,56,34,3.94,120.0,Unhealthy for Sensitive Groups,28.683722,77.193798
+Delhi,768975,Hauz Khas,Private room,6270.65,30,183,36,,258.0,Very Unhealthy,28.649547,77.200324
+Delhi,879235,Connaught Place,Private room,10430.4,21,99,82,4.91,188.0,Unhealthy,28.564684,77.176176
+Delhi,373440,Hauz Khas,Entire home/apt,5227.0,4,163,44,4.66,126.0,Unhealthy for Sensitive Groups,28.57302,77.204997
+Delhi,461297,Connaught Place,Entire home/apt,6819.52,18,307,20,4.69,142.0,Unhealthy for Sensitive Groups,28.64562,77.143489
+Delhi,816229,Karol Bagh,Hotel room,12930.48,29,356,220,3.78,217.0,Very Unhealthy,28.617349,77.149625
+Delhi,449500,Hauz Khas,Entire home/apt,9728.38,11,207,65,5.0,174.0,Unhealthy,28.580287,77.182264
+Delhi,693138,Hauz Khas,Entire home/apt,8111.07,15,191,36,4.96,120.0,Unhealthy for Sensitive Groups,28.649206,77.229516
+Delhi,905237,Vasant Kunj,Hotel room,6686.71,7,138,12,5.0,194.0,Unhealthy,28.564799,77.161094
+Delhi,546286,Hauz Khas,Entire home/apt,12586.03,1,344,15,5.0,182.0,Unhealthy,28.568904,77.22068
+Delhi,973580,Vasant Kunj,Private room,10801.29,29,200,10,4.17,127.0,Unhealthy for Sensitive Groups,28.547784,77.204575
+Delhi,454292,Connaught Place,Entire home/apt,6934.14,1,57,13,,156.0,Unhealthy,28.663536,77.248117
+Delhi,379011,Karol Bagh,Entire home/apt,7695.89,1,150,246,4.49,151.0,Unhealthy,28.681114,77.276353
+Delhi,676456,South Extension,Hotel room,14000.0,13,130,68,4.08,173.0,Unhealthy,28.628374,77.174156
+Delhi,650469,Connaught Place,Entire home/apt,7084.18,23,120,70,3.96,112.0,Unhealthy for Sensitive Groups,28.583587,77.271992
+Delhi,541375,Saket,Private room,5383.28,17,108,22,3.76,130.0,Unhealthy for Sensitive Groups,28.618143,77.197854
+Delhi,468066,Connaught Place,Private room,14000.0,3,248,61,4.33,240.0,Very Unhealthy,28.678053,77.260933
+Delhi,301146,Karol Bagh,Entire home/apt,7150.05,28,50,18,5.0,171.0,Unhealthy,28.635786,77.256268
+Delhi,414078,Vasant Kunj,Private room,4061.28,2,76,19,3.8,77.0,Moderate,28.640351,77.148929
+Delhi,578667,Vasant Kunj,Entire home/apt,6470.81,26,239,2,5.0,195.0,Unhealthy,28.616822,77.158358
+Delhi,776943,South Extension,Private room,14000.0,4,351,6,4.53,166.0,Unhealthy,28.665357,77.210802
+Delhi,690546,Karol Bagh,Entire home/apt,,9,143,139,3.99,174.0,Unhealthy,28.602401,77.257313
+Delhi,936221,Karol Bagh,Entire home/apt,4027.82,5,350,60,4.12,,,28.583591,77.143894
+Delhi,795114,Vasant Kunj,Entire home/apt,14000.0,29,352,7,3.96,120.0,Unhealthy for Sensitive Groups,28.64756,77.1916
+Delhi,410587,Connaught Place,Shared room,3409.09,27,289,66,3.72,122.0,Unhealthy for Sensitive Groups,28.613969,77.231186
+Delhi,937797,Connaught Place,Entire home/apt,3413.92,6,127,21,4.76,219.0,Very Unhealthy,28.615251,77.219072
+Delhi,278680,Karol Bagh,Entire home/apt,4210.85,3,156,4,3.98,224.0,Very Unhealthy,28.545831,77.151372
+Delhi,723679,Greater Kailash,Private room,6578.43,2,26,15,4.7,135.0,Unhealthy for Sensitive Groups,28.608047,77.154667
+Delhi,595778,South Extension,Entire home/apt,14000.0,2,262,19,4.77,134.0,Unhealthy for Sensitive Groups,28.641413,77.23041
+Delhi,663847,Karol Bagh,Private room,13398.77,8,17,13,3.68,190.0,Unhealthy,28.552672,77.238965
+Delhi,556262,Hauz Khas,Private room,6902.03,3,82,8,4.4,141.0,Unhealthy for Sensitive Groups,28.560037,77.165823
+Delhi,377798,Dwarka,Private room,14000.0,15,94,51,4.06,101.0,Unhealthy for Sensitive Groups,28.60192,77.216375
+Delhi,937549,Connaught Place,Entire home/apt,13306.77,2,353,9,3.74,202.0,Very Unhealthy,28.647091,77.209685
+Delhi,522016,South Extension,Entire home/apt,,1,257,15,4.17,180.0,Unhealthy,28.557532,77.226741
+Delhi,669623,Dwarka,Private room,14000.0,14,12,143,4.55,154.0,Unhealthy,28.556424,77.192524
+Delhi,438560,Greater Kailash,Private room,5903.0,18,320,40,4.43,129.0,Unhealthy for Sensitive Groups,28.602577,77.16884
+Delhi,328539,Hauz Khas,Entire home/apt,,12,69,69,4.43,154.0,Unhealthy,28.592731,77.251436
+Delhi,233247,Connaught Place,Entire home/apt,14000.0,2,94,38,3.82,115.0,Unhealthy for Sensitive Groups,28.652447,77.145914
+Delhi,841250,Dwarka,Entire home/apt,8660.5,25,99,116,3.96,186.0,Unhealthy,28.628822,77.145762
+Delhi,958637,Hauz Khas,Private room,9614.14,30,134,9,3.97,178.0,Unhealthy,28.56636,77.216392
+Delhi,625894,Dwarka,Entire home/apt,10287.41,20,54,28,4.32,116.0,Unhealthy for Sensitive Groups,28.657133,77.200172
+Delhi,605030,South Extension,Private room,8816.91,19,155,59,4.04,195.0,Unhealthy,28.637234,77.220495
+Delhi,673170,South Extension,Shared room,2661.59,13,114,11,3.76,176.0,Unhealthy,28.56476,77.203427
+Delhi,409113,Dwarka,Entire home/apt,14000.0,1,365,211,3.37,132.0,Unhealthy for Sensitive Groups,28.611178,77.176961
+Delhi,774654,Saket,Entire home/apt,,3,91,15,3.75,202.0,Very Unhealthy,28.618788,77.250664
+Delhi,760803,Dwarka,Entire home/apt,14000.0,3,7,81,4.3,98.0,Moderate,28.618875,77.160166
+Delhi,575262,Saket,Shared room,8996.38,28,203,34,,124.0,Unhealthy for Sensitive Groups,28.681451,77.218998
+Delhi,470744,Vasant Kunj,Entire home/apt,8426.41,2,68,6,3.76,257.0,Very Unhealthy,28.560861,77.26048
+Delhi,681813,Dwarka,Entire home/apt,3774.21,5,237,13,4.24,134.0,Unhealthy for Sensitive Groups,28.658124,77.17293
+Delhi,882763,Saket,Private room,6021.95,6,278,43,4.11,161.0,Unhealthy,28.562808,77.173761
+Delhi,514565,Vasant Kunj,Entire home/apt,6524.93,2,211,10,4.59,128.0,Unhealthy for Sensitive Groups,28.597475,77.272379
+Delhi,410003,Connaught Place,Entire home/apt,10514.5,8,106,87,3.99,245.0,Very Unhealthy,28.641608,77.262039
+Delhi,816789,Karol Bagh,Hotel room,,2,352,0,5.0,153.0,Unhealthy,28.553385,77.220237
+Delhi,775647,Karol Bagh,Entire home/apt,11600.69,2,292,70,4.24,185.0,Unhealthy,28.579537,77.19668
+Delhi,959871,Vasant Kunj,Hotel room,3989.69,1,157,11,5.0,,,28.571397,77.237275
+Delhi,416185,Saket,Entire home/apt,7073.19,14,32,6,3.68,104.0,Unhealthy for Sensitive Groups,28.593074,77.257425
+Delhi,704322,Karol Bagh,Private room,7278.18,23,220,19,4.65,,,28.584711,77.228186
+Delhi,757595,Saket,Entire home/apt,8799.48,10,201,44,,109.0,Unhealthy for Sensitive Groups,28.622814,77.270825
+Delhi,100921,Greater Kailash,Entire home/apt,6922.31,25,65,8,4.33,28.0,Good,28.574329,77.184262
+Delhi,300804,Dwarka,Entire home/apt,9266.15,3,63,39,3.99,250.0,Very Unhealthy,28.603119,77.199882
+Delhi,112132,Greater Kailash,Shared room,2319.37,17,189,45,4.42,140.0,Unhealthy for Sensitive Groups,28.590201,77.262233
+Delhi,549660,Greater Kailash,Entire home/apt,5518.43,28,239,6,5.0,244.0,Very Unhealthy,28.683078,77.26544
+Delhi,351384,Hauz Khas,Shared room,6476.87,14,186,18,3.92,133.0,Unhealthy for Sensitive Groups,28.586205,77.22712
+Delhi,301045,Connaught Place,Entire home/apt,6716.01,2,47,105,4.48,,,28.610306,77.161508
+Delhi,390940,Dwarka,Entire home/apt,4916.18,23,146,16,4.89,122.0,Unhealthy for Sensitive Groups,28.570931,77.169986
+Delhi,420660,Karol Bagh,Private room,4358.61,29,11,0,4.07,180.0,Unhealthy,28.630242,77.249539
+Delhi,827770,Hauz Khas,Entire home/apt,5441.44,4,242,209,5.0,249.0,Very Unhealthy,28.645469,77.222656
+Delhi,373393,Greater Kailash,Entire home/apt,4182.79,2,179,26,4.31,98.0,Moderate,28.652059,77.25768
+Delhi,143657,Greater Kailash,Entire home/apt,14000.0,15,227,19,4.84,102.0,Unhealthy for Sensitive Groups,28.586274,77.261667
+Delhi,795329,Vasant Kunj,Shared room,7222.66,23,37,136,4.61,172.0,Unhealthy,28.630971,77.253498
+Delhi,921831,South Extension,Entire home/apt,6249.59,1,102,55,3.49,142.0,Unhealthy for Sensitive Groups,28.582719,77.193419
+Delhi,392108,Hauz Khas,Hotel room,,12,254,16,4.91,232.0,Very Unhealthy,28.62322,77.180341
+Delhi,299280,Karol Bagh,Entire home/apt,9958.52,16,211,26,4.3,134.0,Unhealthy for Sensitive Groups,28.63419,77.180656
+Delhi,394201,Hauz Khas,Hotel room,2319.05,26,278,54,,189.0,Unhealthy,28.683568,77.22908
+Delhi,170901,Hauz Khas,Private room,14000.0,28,113,80,3.59,110.0,Unhealthy for Sensitive Groups,28.609575,77.259702
+Delhi,339927,Saket,Entire home/apt,3405.33,8,72,90,4.08,173.0,Unhealthy,28.591106,77.243865
+Delhi,819406,Hauz Khas,Private room,8227.54,17,247,1,4.66,214.0,Very Unhealthy,28.564651,77.15425
+Delhi,554169,Connaught Place,Entire home/apt,5941.46,24,326,15,4.01,147.0,Unhealthy for Sensitive Groups,28.561883,77.161553
+Delhi,294243,Hauz Khas,Entire home/apt,10194.64,8,258,61,,,,28.54867,77.151843
+Delhi,214852,Hauz Khas,Entire home/apt,6487.16,2,13,86,4.61,245.0,Very Unhealthy,28.643075,77.167431
+Delhi,583658,Hauz Khas,Hotel room,7896.85,3,138,84,4.63,202.0,Very Unhealthy,28.680748,77.177783
+Delhi,941107,South Extension,Entire home/apt,8772.98,23,179,5,3.89,131.0,Unhealthy for Sensitive Groups,28.56832,77.172276
+Delhi,807461,Greater Kailash,Entire home/apt,7910.49,18,187,0,4.38,137.0,Unhealthy for Sensitive Groups,28.559131,77.152505
+Delhi,607328,Vasant Kunj,Shared room,14000.0,15,280,7,3.83,123.0,Unhealthy for Sensitive Groups,28.628262,77.20143
+Delhi,766427,Connaught Place,Entire home/apt,8268.21,11,288,9,,90.0,Moderate,28.627284,77.240649
+Delhi,574131,Connaught Place,Entire home/apt,8979.45,10,85,4,3.9,187.0,Unhealthy,28.658285,77.16515
+Delhi,684940,Vasant Kunj,Private room,,1,283,5,4.75,189.0,Unhealthy,28.551488,77.142237
+Delhi,707744,Saket,Private room,4200.94,17,298,4,4.28,189.0,Unhealthy,28.563991,77.148369
+Delhi,403915,Dwarka,Entire home/apt,5250.29,10,133,11,4.89,154.0,Unhealthy,28.56466,77.25448
+Delhi,247712,Dwarka,Entire home/apt,7237.54,3,182,31,4.39,168.0,Unhealthy,28.66097,77.172273
+Delhi,170550,Connaught Place,Entire home/apt,7981.18,15,68,81,3.88,65.0,Moderate,28.667948,77.229864
+Delhi,784171,Hauz Khas,Private room,2764.82,1,259,8,4.12,,,28.552921,77.153423
+Delhi,288592,Vasant Kunj,Entire home/apt,2409.81,6,94,50,4.52,130.0,Unhealthy for Sensitive Groups,28.604461,77.156942
+Delhi,181800,Greater Kailash,Entire home/apt,7208.71,1,260,97,3.5,207.0,Very Unhealthy,28.646014,77.233524
+Delhi,346664,Greater Kailash,Entire home/apt,7006.35,20,178,74,4.89,190.0,Unhealthy,28.551929,77.150268

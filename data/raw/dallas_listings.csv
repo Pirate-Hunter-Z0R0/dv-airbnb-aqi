@@ -1,0 +1,341 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Dallas,241120,Lower Greenville,Entire home/apt,285.29,22,334,18,4.49,78.0,Moderate,32.742041,-96.755848
+Dallas,142387,Deep Ellum,Private room,420.0,1,302,92,3.8,55.0,Moderate,32.829121,-96.834494
+Dallas,253970,Knox-Henderson,Entire home/apt,212.01,30,53,171,,42.0,Good,32.73836,-96.765351
+Dallas,575471,Deep Ellum,Entire home/apt,196.26,1,291,23,4.82,70.0,Moderate,32.837347,-96.803852
+Dallas,962907,Oak Lawn,Entire home/apt,332.88,2,156,110,4.26,68.0,Moderate,32.724116,-96.802343
+Dallas,169886,Deep Ellum,Entire home/apt,,14,204,143,4.04,55.0,Moderate,32.775506,-96.799999
+Dallas,328944,Uptown,Entire home/apt,,28,284,37,,74.0,Moderate,32.747678,-96.746667
+Dallas,776336,Downtown,Shared room,374.93,21,315,6,,45.0,Good,32.798212,-96.840123
+Dallas,318644,Preston Hollow,Entire home/apt,117.74,24,18,14,4.63,,,32.823275,-96.851966
+Dallas,147310,Preston Hollow,Entire home/apt,259.4,8,59,11,3.43,81.0,Moderate,32.845514,-96.762649
+Dallas,645866,Preston Hollow,Private room,420.0,24,136,34,,39.0,Good,32.828128,-96.840509
+Dallas,349610,Bishop Arts,Entire home/apt,224.8,28,169,120,3.9,57.0,Moderate,32.808248,-96.735278
+Dallas,554015,Uptown,Private room,116.41,14,65,88,5.0,,,32.787679,-96.766767
+Dallas,742116,Downtown,Entire home/apt,379.32,15,265,32,4.88,59.0,Moderate,32.752174,-96.850318
+Dallas,103536,Bishop Arts,Entire home/apt,80.0,18,296,12,5.0,57.0,Moderate,32.746491,-96.80049
+Dallas,174939,Preston Hollow,Private room,301.57,11,82,40,3.8,46.0,Good,32.750033,-96.850625
+Dallas,715269,Lower Greenville,Entire home/apt,197.98,24,25,40,4.05,50.0,Good,32.824502,-96.839332
+Dallas,277210,Downtown,Private room,223.05,25,342,46,4.27,37.0,Good,32.747527,-96.741743
+Dallas,558263,Knox-Henderson,Entire home/apt,282.87,1,240,4,3.81,39.0,Good,32.779307,-96.778167
+Dallas,478279,Bishop Arts,Entire home/apt,330.33,18,153,32,3.95,47.0,Good,32.807585,-96.747906
+Dallas,427233,Oak Lawn,Private room,302.31,12,52,2,4.41,49.0,Good,32.743784,-96.842024
+Dallas,742843,Knox-Henderson,Private room,384.77,26,304,77,4.31,,,32.805934,-96.835741
+Dallas,654837,Lower Greenville,Entire home/apt,211.6,1,140,42,4.11,54.0,Moderate,32.818369,-96.75002
+Dallas,963395,Uptown,Entire home/apt,296.95,6,356,28,3.12,51.0,Moderate,32.844148,-96.757606
+Dallas,255697,Lower Greenville,Entire home/apt,232.15,12,218,0,3.84,77.0,Moderate,32.800245,-96.787775
+Dallas,285146,Preston Hollow,Shared room,195.04,2,169,52,3.91,15.0,Good,32.842204,-96.729371
+Dallas,256900,Deep Ellum,Private room,263.58,23,321,2,4.05,70.0,Moderate,32.790872,-96.759503
+Dallas,698954,Lower Greenville,Shared room,192.65,13,171,48,3.75,46.0,Good,32.840228,-96.837302
+Dallas,556318,Uptown,Private room,420.0,29,62,13,3.62,45.0,Good,32.717974,-96.838838
+Dallas,595095,Preston Hollow,Entire home/apt,211.16,3,338,79,,45.0,Good,32.80248,-96.791284
+Dallas,699605,Preston Hollow,Private room,295.86,3,340,27,3.76,57.0,Moderate,32.726379,-96.851247
+Dallas,216501,Deep Ellum,Private room,218.2,24,133,63,3.5,44.0,Good,32.710922,-96.76807
+Dallas,484934,Downtown,Entire home/apt,406.74,2,150,27,3.77,67.0,Moderate,32.779068,-96.775259
+Dallas,104326,Oak Lawn,Hotel room,105.25,29,346,32,4.44,29.0,Good,32.730747,-96.858535
+Dallas,449185,Oak Lawn,Entire home/apt,248.39,2,140,34,4.81,79.0,Moderate,32.83903,-96.820226
+Dallas,943521,Lower Greenville,Entire home/apt,365.27,1,330,2,4.38,67.0,Moderate,32.725827,-96.84751
+Dallas,832532,Knox-Henderson,Entire home/apt,238.28,2,143,58,4.54,59.0,Moderate,32.714835,-96.828634
+Dallas,167374,Lower Greenville,Entire home/apt,185.69,4,155,44,,47.0,Good,32.821181,-96.79147
+Dallas,507222,Downtown,Entire home/apt,420.0,14,121,3,4.79,32.0,Good,32.771919,-96.783241
+Dallas,339137,Lower Greenville,Entire home/apt,232.73,5,125,86,4.53,60.0,Moderate,32.736372,-96.807849
+Dallas,972630,Deep Ellum,Entire home/apt,166.29,10,184,10,,46.0,Good,32.815223,-96.832767
+Dallas,275064,Oak Lawn,Entire home/apt,420.0,18,287,28,4.4,50.0,Good,32.814107,-96.781402
+Dallas,598811,Knox-Henderson,Entire home/apt,346.95,2,362,22,4.27,44.0,Good,32.738721,-96.801969
+Dallas,333291,Oak Lawn,Entire home/apt,420.0,9,201,217,4.13,62.0,Moderate,32.716108,-96.785139
+Dallas,587044,Lower Greenville,Hotel room,275.91,24,262,5,4.3,66.0,Moderate,32.747716,-96.859599
+Dallas,235704,Preston Hollow,Entire home/apt,197.89,16,60,80,4.3,47.0,Good,32.818982,-96.828258
+Dallas,244138,Uptown,Private room,182.37,19,126,62,4.02,56.0,Moderate,32.732678,-96.799211
+Dallas,766961,Bishop Arts,Entire home/apt,396.71,10,249,3,3.44,41.0,Good,32.742581,-96.77548
+Dallas,135343,Downtown,Private room,109.03,1,230,31,5.0,42.0,Good,32.837139,-96.790751
+Dallas,702574,Uptown,Private room,420.0,17,147,15,3.83,,,32.817533,-96.813352
+Dallas,348212,Uptown,Private room,420.0,4,177,78,4.98,58.0,Moderate,32.791451,-96.73855
+Dallas,210640,Lower Greenville,Private room,257.45,1,175,2,3.8,49.0,Good,32.781389,-96.772069
+Dallas,836807,Oak Lawn,Entire home/apt,,25,338,237,3.92,37.0,Good,32.768615,-96.854621
+Dallas,199963,Downtown,Shared room,,2,180,11,4.25,64.0,Moderate,32.780831,-96.813529
+Dallas,718382,Uptown,Entire home/apt,420.0,1,163,19,4.07,60.0,Moderate,32.721353,-96.831757
+Dallas,999198,Oak Lawn,Entire home/apt,88.54,3,327,134,4.12,56.0,Moderate,32.837808,-96.821616
+Dallas,966792,Bishop Arts,Private room,204.3,3,320,25,3.96,55.0,Moderate,32.725829,-96.783469
+Dallas,435584,Deep Ellum,Entire home/apt,420.0,19,277,48,4.68,54.0,Moderate,32.782169,-96.814827
+Dallas,528225,Deep Ellum,Shared room,92.59,12,186,3,4.75,46.0,Good,32.812578,-96.789669
+Dallas,433927,Deep Ellum,Private room,123.18,3,238,33,5.0,47.0,Good,32.709378,-96.808359
+Dallas,116943,Knox-Henderson,Entire home/apt,420.0,16,0,13,4.65,48.0,Good,32.754463,-96.812873
+Dallas,433693,Uptown,Private room,225.95,24,232,94,3.62,53.0,Moderate,32.750959,-96.843309
+Dallas,337977,Deep Ellum,Entire home/apt,149.99,12,210,5,4.94,80.0,Moderate,32.729104,-96.741181
+Dallas,867712,Uptown,Entire home/apt,405.44,29,85,28,4.57,89.0,Moderate,32.793548,-96.837351
+Dallas,527751,Downtown,Private room,233.17,27,343,87,,57.0,Moderate,32.765735,-96.727253
+Dallas,722827,Uptown,Entire home/apt,315.59,1,147,44,4.47,42.0,Good,32.79801,-96.837716
+Dallas,970745,Uptown,Entire home/apt,98.68,3,109,38,4.53,30.0,Good,32.752738,-96.827244
+Dallas,492941,Uptown,Entire home/apt,194.57,1,49,1,4.2,45.0,Good,32.752687,-96.77628
+Dallas,751039,Oak Lawn,Entire home/apt,145.63,30,345,31,3.62,65.0,Moderate,32.78956,-96.855107
+Dallas,215593,Uptown,Entire home/apt,220.29,1,109,10,3.7,59.0,Moderate,32.73331,-96.79116
+Dallas,854914,Preston Hollow,Private room,139.67,12,22,64,3.72,55.0,Moderate,32.830397,-96.845583
+Dallas,957585,Preston Hollow,Shared room,282.4,2,180,29,3.4,48.0,Good,32.814823,-96.733238
+Dallas,780124,Deep Ellum,Private room,147.24,2,168,34,4.59,44.0,Good,32.75533,-96.79506
+Dallas,247150,Preston Hollow,Entire home/apt,175.07,13,158,1,4.48,44.0,Good,32.744292,-96.808685
+Dallas,425251,Uptown,Private room,343.82,23,205,310,4.81,41.0,Good,32.720986,-96.743722
+Dallas,183297,Lower Greenville,Hotel room,420.0,8,316,8,4.24,66.0,Moderate,32.80726,-96.823781
+Dallas,180634,Lower Greenville,Private room,227.08,11,106,4,5.0,45.0,Good,32.72903,-96.799766
+Dallas,727491,Knox-Henderson,Entire home/apt,420.0,12,286,11,4.64,55.0,Moderate,32.738495,-96.790256
+Dallas,208743,Lower Greenville,Private room,116.61,23,277,12,4.15,39.0,Good,32.800457,-96.845477
+Dallas,802812,Lower Greenville,Entire home/apt,274.46,29,160,22,3.75,39.0,Good,32.74945,-96.744377
+Dallas,599247,Bishop Arts,Shared room,347.52,30,363,19,4.7,50.0,Good,32.727195,-96.851459
+Dallas,397549,Bishop Arts,Entire home/apt,234.19,7,307,30,4.01,49.0,Good,32.777582,-96.810657
+Dallas,448876,Downtown,Shared room,257.97,20,93,31,4.01,67.0,Moderate,32.808649,-96.752203
+Dallas,184412,Knox-Henderson,Entire home/apt,420.0,20,253,2,3.72,56.0,Moderate,32.713506,-96.731981
+Dallas,370399,Oak Lawn,Entire home/apt,420.0,20,4,53,4.17,43.0,Good,32.723058,-96.73433
+Dallas,311685,Lower Greenville,Entire home/apt,210.8,16,288,5,3.93,69.0,Moderate,32.829137,-96.728695
+Dallas,689656,Lower Greenville,Private room,205.07,1,302,11,3.44,65.0,Moderate,32.829396,-96.783925
+Dallas,806051,Deep Ellum,Entire home/apt,,29,191,29,4.95,40.0,Good,32.716862,-96.756651
+Dallas,327974,Knox-Henderson,Private room,396.69,2,214,108,3.78,83.0,Moderate,32.762153,-96.853784
+Dallas,369345,Deep Ellum,Entire home/apt,420.0,30,281,140,4.7,63.0,Moderate,32.781314,-96.776023
+Dallas,876524,Preston Hollow,Entire home/apt,93.02,9,119,18,3.82,54.0,Moderate,32.744582,-96.822689
+Dallas,981954,Uptown,Private room,344.77,12,142,20,4.8,52.0,Moderate,32.839112,-96.817421
+Dallas,705699,Preston Hollow,Hotel room,297.81,1,293,43,4.38,50.0,Good,32.752207,-96.747166
+Dallas,543382,Knox-Henderson,Entire home/apt,321.94,28,245,24,4.45,73.0,Moderate,32.820586,-96.75054
+Dallas,726751,Uptown,Hotel room,420.0,9,102,10,4.17,43.0,Good,32.72136,-96.758896
+Dallas,315552,Uptown,Entire home/apt,,18,179,0,,51.0,Moderate,32.791894,-96.773092
+Dallas,718209,Lower Greenville,Entire home/apt,297.98,7,46,2,4.84,32.0,Good,32.799525,-96.737552
+Dallas,986025,Oak Lawn,Entire home/apt,362.29,8,139,82,4.15,42.0,Good,32.845371,-96.855022
+Dallas,804069,Uptown,Entire home/apt,90.09,1,211,6,4.31,68.0,Moderate,32.731487,-96.828174
+Dallas,818302,Lower Greenville,Private room,154.66,2,298,85,4.82,47.0,Good,32.75837,-96.814305
+Dallas,418657,Deep Ellum,Entire home/apt,420.0,18,312,28,4.08,52.0,Moderate,32.725469,-96.773598
+Dallas,756468,Preston Hollow,Entire home/apt,420.0,26,103,19,4.87,54.0,Moderate,32.710748,-96.766206
+Dallas,251230,Bishop Arts,Entire home/apt,313.4,19,199,103,,54.0,Moderate,32.75665,-96.793643
+Dallas,370317,Downtown,Private room,192.54,1,343,80,3.95,,,32.729603,-96.856725
+Dallas,806740,Knox-Henderson,Hotel room,215.67,19,32,19,5.0,55.0,Moderate,32.709363,-96.826425
+Dallas,666512,Knox-Henderson,Private room,201.2,19,338,115,,48.0,Good,32.803207,-96.781308
+Dallas,588518,Downtown,Private room,420.0,1,37,7,4.95,71.0,Moderate,32.753883,-96.746769
+Dallas,387584,Uptown,Shared room,404.69,1,358,10,3.44,55.0,Moderate,32.70863,-96.733196
+Dallas,668189,Downtown,Shared room,219.44,1,153,41,3.85,66.0,Moderate,32.762131,-96.857049
+Dallas,607581,Knox-Henderson,Entire home/apt,185.21,1,155,19,4.19,49.0,Good,32.708149,-96.789217
+Dallas,994359,Downtown,Entire home/apt,310.1,27,43,4,2.9,56.0,Moderate,32.819898,-96.829817
+Dallas,247276,Oak Lawn,Private room,152.09,16,183,97,4.44,37.0,Good,32.826627,-96.796978
+Dallas,461510,Uptown,Entire home/apt,420.0,12,214,8,4.13,44.0,Good,32.725977,-96.828202
+Dallas,916457,Downtown,Private room,137.55,29,104,25,4.03,23.0,Good,32.76405,-96.835506
+Dallas,755883,Lower Greenville,Entire home/apt,279.29,22,277,5,4.56,,,32.762651,-96.806935
+Dallas,535053,Preston Hollow,Private room,375.64,27,309,47,4.87,45.0,Good,32.808662,-96.74736
+Dallas,982041,Preston Hollow,Entire home/apt,358.38,2,147,15,4.86,36.0,Good,32.834687,-96.792166
+Dallas,740214,Preston Hollow,Private room,178.24,22,320,72,4.27,39.0,Good,32.803223,-96.840215
+Dallas,388709,Bishop Arts,Private room,232.43,28,62,19,,26.0,Good,32.733245,-96.79968
+Dallas,833365,Lower Greenville,Entire home/apt,,8,332,43,2.99,63.0,Moderate,32.762776,-96.823628
+Dallas,856523,Preston Hollow,Entire home/apt,218.82,17,258,85,4.86,,,32.714881,-96.739594
+Dallas,149608,Oak Lawn,Entire home/apt,180.82,10,315,13,5.0,62.0,Moderate,32.769809,-96.799696
+Dallas,760450,Lower Greenville,Private room,170.79,2,347,31,3.98,37.0,Good,32.792807,-96.817913
+Dallas,108689,Downtown,Entire home/apt,284.36,29,67,40,4.44,53.0,Moderate,32.826923,-96.803509
+Dallas,578390,Lower Greenville,Entire home/apt,,1,61,47,,62.0,Moderate,32.794241,-96.809429
+Dallas,874827,Bishop Arts,Entire home/apt,111.69,16,39,83,3.28,33.0,Good,32.779646,-96.785191
+Dallas,889573,Uptown,Hotel room,328.31,1,193,4,4.45,41.0,Good,32.782445,-96.790289
+Dallas,984367,Deep Ellum,Hotel room,87.25,7,27,29,4.69,64.0,Moderate,32.736144,-96.731341
+Dallas,168700,Downtown,Private room,140.33,12,295,1,4.59,39.0,Good,32.731428,-96.755287
+Dallas,589357,Knox-Henderson,Entire home/apt,214.91,2,186,105,3.88,53.0,Moderate,32.839242,-96.818408
+Dallas,564371,Preston Hollow,Entire home/apt,420.0,27,251,10,4.06,41.0,Good,32.839062,-96.865177
+Dallas,408455,Preston Hollow,Hotel room,277.82,27,106,16,3.86,78.0,Moderate,32.827427,-96.812084
+Dallas,714253,Uptown,Hotel room,163.17,1,234,91,4.33,40.0,Good,32.746335,-96.827918
+Dallas,488663,Knox-Henderson,Shared room,245.62,9,166,44,3.9,53.0,Moderate,32.837632,-96.814998
+Dallas,498023,Oak Lawn,Private room,420.0,2,112,126,3.79,40.0,Good,32.835177,-96.84802
+Dallas,898131,Uptown,Private room,343.16,10,193,49,3.47,79.0,Moderate,32.825332,-96.733248
+Dallas,662544,Preston Hollow,Shared room,200.04,14,148,19,5.0,35.0,Good,32.750075,-96.766755
+Dallas,275793,Lower Greenville,Private room,146.83,1,252,13,3.62,79.0,Moderate,32.806651,-96.737307
+Dallas,806811,Oak Lawn,Entire home/apt,,23,290,26,3.77,51.0,Moderate,32.746285,-96.757182
+Dallas,932201,Preston Hollow,Entire home/apt,214.34,4,79,69,4.67,51.0,Moderate,32.829386,-96.828402
+Dallas,643845,Preston Hollow,Entire home/apt,231.93,1,142,3,3.9,38.0,Good,32.792051,-96.747115
+Dallas,587726,Oak Lawn,Entire home/apt,238.83,3,242,18,4.25,84.0,Moderate,32.745069,-96.822631
+Dallas,953332,Deep Ellum,Private room,167.81,4,217,22,4.22,,,32.763568,-96.789467
+Dallas,206437,Bishop Arts,Entire home/apt,276.82,3,246,0,3.85,67.0,Moderate,32.834788,-96.76542
+Dallas,642164,Downtown,Private room,109.54,11,114,52,4.11,58.0,Moderate,32.783124,-96.843561
+Dallas,283078,Bishop Arts,Entire home/apt,420.0,1,146,23,4.64,24.0,Good,32.811506,-96.75217
+Dallas,123879,Deep Ellum,Shared room,139.18,6,326,89,3.69,55.0,Moderate,32.836921,-96.766987
+Dallas,654520,Preston Hollow,Entire home/apt,420.0,30,69,5,3.61,68.0,Moderate,32.763802,-96.811643
+Dallas,679768,Preston Hollow,Private room,223.37,23,162,35,3.96,35.0,Good,32.739102,-96.831408
+Dallas,242488,Downtown,Entire home/apt,235.36,23,355,12,3.42,62.0,Moderate,32.792985,-96.817922
+Dallas,203174,Uptown,Entire home/apt,226.37,24,8,53,3.59,56.0,Moderate,32.812144,-96.843165
+Dallas,201955,Lower Greenville,Entire home/apt,154.95,9,89,63,4.31,45.0,Good,32.803186,-96.819052
+Dallas,170702,Downtown,Private room,312.46,21,125,54,4.83,49.0,Good,32.724993,-96.809443
+Dallas,171446,Uptown,Shared room,,4,277,79,,59.0,Moderate,32.814672,-96.852951
+Dallas,443622,Preston Hollow,Private room,256.87,30,51,39,3.67,46.0,Good,32.737808,-96.797545
+Dallas,553740,Oak Lawn,Hotel room,80.0,1,238,54,4.49,57.0,Moderate,32.829821,-96.856281
+Dallas,834444,Knox-Henderson,Entire home/apt,,26,164,113,3.51,,,32.797622,-96.865379
+Dallas,267713,Knox-Henderson,Entire home/apt,334.65,11,216,6,4.49,45.0,Good,32.733995,-96.788882
+Dallas,877879,Deep Ellum,Entire home/apt,,23,234,55,5.0,37.0,Good,32.761978,-96.827086
+Dallas,856649,Oak Lawn,Entire home/apt,189.88,2,64,74,4.36,46.0,Good,32.753397,-96.829066
+Dallas,190586,Knox-Henderson,Private room,137.12,2,205,20,4.4,,,32.707336,-96.76761
+Dallas,388318,Lower Greenville,Private room,202.67,18,133,28,4.26,62.0,Moderate,32.822425,-96.862274
+Dallas,340481,Uptown,Entire home/apt,101.61,8,154,79,4.66,55.0,Moderate,32.777971,-96.858615
+Dallas,234967,Deep Ellum,Hotel room,420.0,26,210,38,4.7,26.0,Good,32.717875,-96.735656
+Dallas,412183,Oak Lawn,Entire home/apt,195.15,22,8,17,3.89,35.0,Good,32.709085,-96.811549
+Dallas,605156,Deep Ellum,Entire home/apt,229.97,29,275,116,4.07,55.0,Moderate,32.716743,-96.832302
+Dallas,946912,Preston Hollow,Shared room,153.01,1,288,47,4.74,61.0,Moderate,32.793388,-96.840587
+Dallas,778354,Downtown,Shared room,101.58,2,145,3,4.65,48.0,Good,32.802393,-96.841574
+Dallas,888033,Downtown,Entire home/apt,,6,1,38,4.71,52.0,Moderate,32.717561,-96.834151
+Dallas,935130,Preston Hollow,Shared room,154.68,18,150,43,3.47,69.0,Moderate,32.746723,-96.752932
+Dallas,341368,Oak Lawn,Shared room,243.66,2,126,61,4.22,50.0,Good,32.779684,-96.763372
+Dallas,204276,Downtown,Shared room,,2,200,10,4.62,67.0,Moderate,32.734184,-96.762708
+Dallas,567723,Uptown,Entire home/apt,420.0,10,125,60,5.0,47.0,Good,32.747558,-96.846674
+Dallas,475170,Oak Lawn,Entire home/apt,335.6,15,123,31,4.97,,,32.835523,-96.734573
+Dallas,443733,Oak Lawn,Entire home/apt,275.05,6,330,20,,38.0,Good,32.724109,-96.732098
+Dallas,806512,Knox-Henderson,Private room,420.0,14,229,17,5.0,57.0,Moderate,32.792278,-96.736234
+Dallas,826881,Oak Lawn,Entire home/apt,195.84,24,95,56,4.52,62.0,Moderate,32.844883,-96.851933
+Dallas,388844,Oak Lawn,Entire home/apt,275.85,1,121,60,4.72,30.0,Good,32.842665,-96.729344
+Dallas,549964,Oak Lawn,Entire home/apt,198.03,5,290,21,3.51,65.0,Moderate,32.753733,-96.759785
+Dallas,629020,Oak Lawn,Shared room,236.64,15,322,31,3.91,54.0,Moderate,32.797949,-96.759518
+Dallas,187371,Uptown,Shared room,367.88,29,267,110,4.53,67.0,Moderate,32.793159,-96.815476
+Dallas,449405,Oak Lawn,Hotel room,420.0,3,99,78,4.95,84.0,Moderate,32.747655,-96.835162
+Dallas,472924,Oak Lawn,Private room,420.0,19,257,10,3.52,57.0,Moderate,32.765651,-96.812789
+Dallas,487220,Deep Ellum,Entire home/apt,301.43,28,183,9,4.76,83.0,Moderate,32.831292,-96.742672
+Dallas,913801,Knox-Henderson,Entire home/apt,420.0,9,94,12,3.73,49.0,Good,32.710716,-96.813622
+Dallas,488704,Oak Lawn,Private room,420.0,16,325,25,4.51,58.0,Moderate,32.8048,-96.812611
+Dallas,528918,Bishop Arts,Entire home/apt,420.0,25,291,11,4.21,32.0,Good,32.779381,-96.776115
+Dallas,992073,Uptown,Entire home/apt,220.26,4,120,93,4.84,44.0,Good,32.746064,-96.728625
+Dallas,988684,Lower Greenville,Entire home/apt,420.0,28,49,96,4.25,45.0,Good,32.785329,-96.790892
+Dallas,981085,Uptown,Entire home/apt,,1,84,81,3.92,48.0,Good,32.769893,-96.830009
+Dallas,176808,Uptown,Entire home/apt,261.32,7,61,28,4.39,12.0,Good,32.712564,-96.733272
+Dallas,149902,Deep Ellum,Entire home/apt,173.7,27,325,54,4.2,41.0,Good,32.739764,-96.769162
+Dallas,304868,Preston Hollow,Entire home/apt,139.65,27,32,29,4.55,,,32.799269,-96.756525
+Dallas,787594,Knox-Henderson,Entire home/apt,420.0,26,207,92,3.98,39.0,Good,32.707229,-96.819305
+Dallas,293104,Uptown,Entire home/apt,218.95,16,281,24,3.12,34.0,Good,32.822476,-96.825709
+Dallas,858549,Bishop Arts,Entire home/apt,286.02,3,94,10,4.02,41.0,Good,32.733592,-96.771987
+Dallas,164574,Oak Lawn,Entire home/apt,304.33,18,22,34,3.77,79.0,Moderate,32.810632,-96.793087
+Dallas,322068,Bishop Arts,Entire home/apt,,19,41,7,3.58,40.0,Good,32.721744,-96.764969
+Dallas,487632,Knox-Henderson,Entire home/apt,146.16,8,101,51,3.72,55.0,Moderate,32.751676,-96.852094
+Dallas,707786,Downtown,Shared room,187.69,16,140,49,3.93,43.0,Good,32.77083,-96.745912
+Dallas,508206,Preston Hollow,Entire home/apt,280.73,16,5,128,3.26,36.0,Good,32.807654,-96.83529
+Dallas,159100,Deep Ellum,Entire home/apt,161.47,15,71,112,,39.0,Good,32.844781,-96.753325
+Dallas,777589,Knox-Henderson,Private room,195.63,5,56,11,4.55,58.0,Moderate,32.840602,-96.856163
+Dallas,436250,Oak Lawn,Private room,420.0,19,88,0,3.88,55.0,Moderate,32.724104,-96.793184
+Dallas,406100,Oak Lawn,Entire home/apt,367.27,7,143,2,4.08,57.0,Moderate,32.728813,-96.762819
+Dallas,543063,Uptown,Entire home/apt,288.53,3,2,4,3.66,60.0,Moderate,32.747868,-96.773268
+Dallas,416412,Bishop Arts,Entire home/apt,296.54,17,224,25,3.92,29.0,Good,32.730193,-96.783912
+Dallas,142478,Preston Hollow,Entire home/apt,279.28,1,63,53,3.32,51.0,Moderate,32.761999,-96.770774
+Dallas,788532,Uptown,Entire home/apt,258.98,11,148,29,,66.0,Moderate,32.740806,-96.852304
+Dallas,188575,Preston Hollow,Entire home/apt,133.15,3,76,74,4.3,57.0,Moderate,32.807476,-96.858133
+Dallas,858086,Uptown,Private room,141.95,22,196,21,4.06,57.0,Moderate,32.822381,-96.764943
+Dallas,132108,Knox-Henderson,Entire home/apt,420.0,11,82,13,4.39,64.0,Moderate,32.833599,-96.795971
+Dallas,155779,Knox-Henderson,Private room,122.62,18,153,33,4.83,32.0,Good,32.788019,-96.835967
+Dallas,130036,Oak Lawn,Shared room,,23,328,3,,48.0,Good,32.760712,-96.769305
+Dallas,436669,Knox-Henderson,Entire home/apt,95.93,9,280,6,4.37,87.0,Moderate,32.813599,-96.757022
+Dallas,301576,Oak Lawn,Entire home/apt,310.38,22,320,32,4.28,,,32.799755,-96.865091
+Dallas,691894,Bishop Arts,Entire home/apt,80.0,4,200,12,4.73,47.0,Good,32.827026,-96.830346
+Dallas,151984,Bishop Arts,Entire home/apt,374.56,1,148,3,4.06,49.0,Good,32.778119,-96.769817
+Dallas,410454,Bishop Arts,Entire home/apt,228.79,23,18,93,4.16,49.0,Good,32.776011,-96.831548
+Dallas,789745,Deep Ellum,Shared room,,2,364,0,4.11,30.0,Good,32.79339,-96.727271
+Dallas,771003,Uptown,Entire home/apt,147.34,18,229,42,4.01,40.0,Good,32.795452,-96.738644
+Dallas,683972,Knox-Henderson,Entire home/apt,143.51,27,310,42,4.37,65.0,Moderate,32.762057,-96.807207
+Dallas,131945,Oak Lawn,Private room,,19,199,59,3.6,50.0,Good,32.730471,-96.801425
+Dallas,915722,Preston Hollow,Entire home/apt,153.43,15,47,17,4.33,42.0,Good,32.735477,-96.863961
+Dallas,909653,Downtown,Entire home/apt,245.48,14,237,31,,48.0,Good,32.837623,-96.760919
+Dallas,806194,Knox-Henderson,Private room,202.47,4,100,20,4.28,64.0,Moderate,32.825553,-96.860123
+Dallas,503072,Deep Ellum,Private room,,12,16,64,4.56,66.0,Moderate,32.719361,-96.837425
+Dallas,423707,Uptown,Private room,116.65,1,56,149,4.69,64.0,Moderate,32.817734,-96.806011
+Dallas,452513,Knox-Henderson,Entire home/apt,267.77,22,102,28,4.42,39.0,Good,32.776166,-96.79444
+Dallas,180289,Oak Lawn,Private room,363.11,1,312,50,4.39,67.0,Moderate,32.836958,-96.846835
+Dallas,834058,Downtown,Entire home/apt,192.89,11,131,58,3.21,32.0,Good,32.733172,-96.799049
+Dallas,891591,Bishop Arts,Entire home/apt,244.02,1,106,85,,26.0,Good,32.748815,-96.864615
+Dallas,274331,Downtown,Entire home/apt,130.92,1,2,19,3.26,61.0,Moderate,32.788968,-96.812172
+Dallas,131140,Preston Hollow,Private room,169.87,2,180,4,4.62,48.0,Good,32.842842,-96.831842
+Dallas,175269,Uptown,Hotel room,420.0,19,0,3,5.0,44.0,Good,32.71066,-96.752041
+Dallas,329412,Bishop Arts,Entire home/apt,228.97,1,222,112,,24.0,Good,32.714517,-96.728184
+Dallas,458068,Lower Greenville,Private room,261.17,1,143,101,3.92,62.0,Moderate,32.806062,-96.746923
+Dallas,319154,Preston Hollow,Entire home/apt,234.38,1,260,3,4.28,57.0,Moderate,32.754486,-96.850589
+Dallas,262430,Deep Ellum,Entire home/apt,379.45,10,263,35,3.91,52.0,Moderate,32.774074,-96.775873
+Dallas,313850,Downtown,Entire home/apt,355.28,3,322,69,4.03,67.0,Moderate,32.726274,-96.81074
+Dallas,598144,Bishop Arts,Private room,250.45,22,213,141,4.05,,,32.747718,-96.779496
+Dallas,183411,Bishop Arts,Entire home/apt,,11,105,86,4.4,50.0,Good,32.831971,-96.859302
+Dallas,754850,Deep Ellum,Private room,,30,14,29,4.57,68.0,Moderate,32.713792,-96.734025
+Dallas,700272,Bishop Arts,Entire home/apt,113.09,23,226,7,3.9,80.0,Moderate,32.741326,-96.784377
+Dallas,130292,Deep Ellum,Hotel room,,6,285,45,4.73,62.0,Moderate,32.762052,-96.843398
+Dallas,422604,Preston Hollow,Private room,160.73,22,25,139,3.56,39.0,Good,32.828941,-96.759058
+Dallas,107091,Uptown,Entire home/apt,209.13,17,215,27,4.81,22.0,Good,32.744429,-96.752481
+Dallas,290608,Uptown,Private room,340.35,11,330,90,4.14,48.0,Good,32.841256,-96.797973
+Dallas,456348,Lower Greenville,Entire home/apt,406.61,1,152,1,5.0,47.0,Good,32.815804,-96.763054
+Dallas,667059,Preston Hollow,Private room,201.75,2,159,22,4.25,38.0,Good,32.812184,-96.813678
+Dallas,683531,Preston Hollow,Entire home/apt,420.0,30,311,4,4.35,54.0,Moderate,32.795743,-96.732762
+Dallas,707326,Deep Ellum,Private room,420.0,6,80,64,3.76,29.0,Good,32.736848,-96.841664
+Dallas,186366,Bishop Arts,Entire home/apt,256.72,3,288,5,4.61,68.0,Moderate,32.758355,-96.800541
+Dallas,755998,Bishop Arts,Entire home/apt,298.5,20,276,168,4.47,50.0,Good,32.707581,-96.808576
+Dallas,344083,Deep Ellum,Entire home/apt,420.0,1,4,43,4.11,40.0,Good,32.778509,-96.735101
+Dallas,961422,Knox-Henderson,Hotel room,189.48,11,98,24,5.0,33.0,Good,32.777327,-96.850716
+Dallas,507932,Bishop Arts,Entire home/apt,261.13,2,182,40,4.14,30.0,Good,32.776182,-96.850806
+Dallas,422729,Uptown,Hotel room,420.0,19,220,31,4.59,,,32.792726,-96.856504
+Dallas,262237,Knox-Henderson,Entire home/apt,374.55,2,301,8,4.22,42.0,Good,32.742748,-96.72741
+Dallas,538638,Preston Hollow,Entire home/apt,183.03,5,284,52,4.32,,,32.841669,-96.853427
+Dallas,752878,Oak Lawn,Private room,420.0,14,332,15,4.15,68.0,Moderate,32.709378,-96.742774
+Dallas,376633,Downtown,Entire home/apt,98.41,20,293,2,3.81,49.0,Good,32.73152,-96.848147
+Dallas,842169,Oak Lawn,Shared room,217.78,17,15,6,4.12,66.0,Moderate,32.81833,-96.848611
+Dallas,449277,Lower Greenville,Entire home/apt,420.0,16,143,2,4.44,56.0,Moderate,32.721724,-96.834591
+Dallas,327793,Deep Ellum,Entire home/apt,80.0,10,95,38,4.48,43.0,Good,32.747722,-96.827884
+Dallas,329144,Oak Lawn,Entire home/apt,230.9,7,178,65,4.17,51.0,Moderate,32.770752,-96.8184
+Dallas,201046,Bishop Arts,Entire home/apt,172.36,3,222,57,3.56,64.0,Moderate,32.709415,-96.774085
+Dallas,167972,Preston Hollow,Private room,179.27,14,147,8,2.99,35.0,Good,32.808743,-96.774654
+Dallas,723343,Downtown,Private room,178.82,2,286,177,2.98,55.0,Moderate,32.786402,-96.747697
+Dallas,856454,Lower Greenville,Private room,420.0,3,243,22,3.95,47.0,Good,32.841169,-96.805626
+Dallas,144923,Downtown,Entire home/apt,102.07,27,242,72,5.0,42.0,Good,32.792537,-96.86664
+Dallas,446196,Knox-Henderson,Entire home/apt,149.91,16,313,51,,56.0,Moderate,32.753572,-96.820808
+Dallas,470843,Oak Lawn,Private room,317.79,1,233,39,4.65,45.0,Good,32.835693,-96.799173
+Dallas,232888,Preston Hollow,Entire home/apt,312.71,4,280,17,4.82,52.0,Moderate,32.762128,-96.809688
+Dallas,371364,Uptown,Private room,420.0,1,282,31,4.47,,,32.786885,-96.761995
+Dallas,882697,Preston Hollow,Entire home/apt,183.97,17,158,91,3.94,72.0,Moderate,32.824996,-96.83003
+Dallas,952328,Deep Ellum,Private room,197.18,23,78,65,4.23,51.0,Moderate,32.843667,-96.796709
+Dallas,481917,Preston Hollow,Private room,226.75,20,215,51,4.01,78.0,Moderate,32.772619,-96.839365
+Dallas,442220,Preston Hollow,Entire home/apt,357.58,26,87,5,4.15,52.0,Moderate,32.733127,-96.816492
+Dallas,936262,Deep Ellum,Private room,143.9,17,321,5,4.23,52.0,Moderate,32.787236,-96.7566
+Dallas,163527,Bishop Arts,Entire home/apt,,1,129,10,4.46,31.0,Good,32.811531,-96.801099
+Dallas,513148,Uptown,Entire home/apt,242.82,3,320,93,4.69,57.0,Moderate,32.762482,-96.823339
+Dallas,168442,Downtown,Entire home/apt,300.63,1,205,52,4.99,53.0,Moderate,32.795091,-96.76029
+Dallas,848426,Lower Greenville,Entire home/apt,305.68,29,63,27,,57.0,Moderate,32.740444,-96.853063
+Dallas,910359,Oak Lawn,Private room,298.95,16,178,12,4.23,37.0,Good,32.711349,-96.83132
+Dallas,654114,Oak Lawn,Entire home/apt,291.21,22,278,26,4.91,66.0,Moderate,32.82565,-96.822146
+Dallas,237683,Deep Ellum,Entire home/apt,219.37,28,63,84,4.2,,,32.844126,-96.842446
+Dallas,406814,Bishop Arts,Entire home/apt,391.15,14,213,11,4.38,56.0,Moderate,32.758515,-96.849435
+Dallas,621229,Uptown,Private room,134.4,26,266,101,4.63,56.0,Moderate,32.749311,-96.785875
+Dallas,454322,Lower Greenville,Entire home/apt,277.47,8,240,15,4.39,47.0,Good,32.742486,-96.742815
+Dallas,726903,Bishop Arts,Entire home/apt,420.0,22,277,68,3.78,64.0,Moderate,32.797333,-96.755455
+Dallas,989169,Uptown,Hotel room,219.07,28,331,1,4.42,56.0,Moderate,32.791478,-96.767685
+Dallas,495187,Preston Hollow,Entire home/apt,420.0,3,111,12,4.08,,,32.832138,-96.861314
+Dallas,430064,Deep Ellum,Entire home/apt,220.28,19,22,14,4.33,64.0,Moderate,32.710968,-96.801758
+Dallas,566275,Uptown,Entire home/apt,420.0,1,272,13,5.0,67.0,Moderate,32.838208,-96.848706
+Dallas,274783,Deep Ellum,Private room,335.22,23,253,2,3.99,43.0,Good,32.789424,-96.782204
+Dallas,444519,Deep Ellum,Shared room,111.1,23,0,7,4.48,56.0,Moderate,32.80864,-96.743299
+Dallas,796837,Lower Greenville,Hotel room,225.05,14,171,207,4.31,41.0,Good,32.719414,-96.744984
+Dallas,384398,Bishop Arts,Hotel room,420.0,1,353,23,3.92,,,32.73018,-96.752774
+Dallas,854732,Deep Ellum,Entire home/apt,139.16,20,334,7,3.33,80.0,Moderate,32.825118,-96.825672
+Dallas,581010,Bishop Arts,Private room,160.83,22,137,44,3.64,,,32.749924,-96.764315
+Dallas,356419,Bishop Arts,Private room,124.79,18,136,2,4.35,47.0,Good,32.767922,-96.797302
+Dallas,506956,Lower Greenville,Entire home/apt,263.48,10,263,3,4.35,37.0,Good,32.759013,-96.739039
+Dallas,277835,Bishop Arts,Hotel room,327.93,3,183,21,3.98,26.0,Good,32.752104,-96.768621
+Dallas,132432,Downtown,Shared room,244.74,29,269,10,4.05,64.0,Moderate,32.727996,-96.846926
+Dallas,177251,Uptown,Private room,207.89,10,287,0,4.25,48.0,Good,32.74743,-96.831201
+Dallas,354245,Downtown,Entire home/apt,135.18,1,145,20,3.21,58.0,Moderate,32.716641,-96.793168
+Dallas,995014,Deep Ellum,Private room,210.28,1,311,12,4.02,,,32.76942,-96.865883
+Dallas,909517,Knox-Henderson,Hotel room,80.0,1,13,26,4.7,85.0,Moderate,32.798901,-96.803593
+Dallas,589242,Oak Lawn,Entire home/apt,151.73,1,280,8,4.09,47.0,Good,32.774165,-96.862086
+Dallas,281391,Preston Hollow,Entire home/apt,267.01,16,30,6,4.38,47.0,Good,32.758156,-96.845159
+Dallas,971240,Lower Greenville,Entire home/apt,233.36,11,209,32,3.7,,,32.734362,-96.781124
+Dallas,249578,Deep Ellum,Entire home/apt,347.57,1,106,47,3.94,50.0,Good,32.796931,-96.787338
+Dallas,180154,Oak Lawn,Private room,114.35,18,236,37,3.8,45.0,Good,32.845672,-96.760993
+Dallas,377991,Preston Hollow,Private room,419.12,5,174,74,4.23,60.0,Moderate,32.822347,-96.766303
+Dallas,933652,Deep Ellum,Entire home/apt,257.5,10,95,82,3.98,29.0,Good,32.791478,-96.770715
+Dallas,469252,Downtown,Entire home/apt,334.6,16,343,14,3.01,55.0,Moderate,32.81426,-96.737201
+Dallas,824441,Oak Lawn,Entire home/apt,172.39,5,173,16,5.0,55.0,Moderate,32.774748,-96.839129
+Dallas,430706,Uptown,Shared room,420.0,6,228,88,4.72,39.0,Good,32.728662,-96.784148
+Dallas,904596,Lower Greenville,Private room,420.0,8,48,27,4.8,50.0,Good,32.846664,-96.763059
+Dallas,259589,Knox-Henderson,Shared room,177.27,3,80,14,3.98,56.0,Moderate,32.746957,-96.842775
+Dallas,889709,Bishop Arts,Shared room,261.24,16,270,17,3.53,34.0,Good,32.744714,-96.76287
+Dallas,223685,Oak Lawn,Private room,291.49,2,12,3,4.53,59.0,Moderate,32.766446,-96.752092
+Dallas,496166,Oak Lawn,Entire home/apt,216.69,3,297,45,4.05,33.0,Good,32.70979,-96.774878
+Dallas,786416,Bishop Arts,Entire home/apt,319.17,9,67,9,4.12,29.0,Good,32.772914,-96.797708
+Dallas,592680,Downtown,Private room,160.27,11,56,35,4.7,58.0,Moderate,32.745066,-96.826539
+Dallas,509402,Deep Ellum,Entire home/apt,420.0,25,171,63,4.83,59.0,Moderate,32.791593,-96.766021
+Dallas,527636,Bishop Arts,Entire home/apt,146.29,1,41,47,3.99,39.0,Good,32.727268,-96.738054
+Dallas,771225,Downtown,Entire home/apt,,23,302,51,3.39,42.0,Good,32.82948,-96.791522
+Dallas,903079,Oak Lawn,Entire home/apt,161.56,3,205,0,4.02,47.0,Good,32.770134,-96.86193
+Dallas,504194,Oak Lawn,Entire home/apt,277.83,27,304,6,4.41,50.0,Good,32.775155,-96.798915
+Dallas,397276,Oak Lawn,Entire home/apt,133.24,13,71,47,4.85,53.0,Moderate,32.715542,-96.753199
+Dallas,163962,Downtown,Entire home/apt,191.55,1,281,26,4.31,42.0,Good,32.780103,-96.864993
+Dallas,424428,Lower Greenville,Private room,266.95,14,319,7,3.44,90.0,Moderate,32.721419,-96.80232
+Dallas,512492,Deep Ellum,Private room,246.0,11,323,28,4.41,53.0,Moderate,32.724335,-96.811669
+Dallas,160184,Bishop Arts,Hotel room,148.29,14,291,42,3.77,62.0,Moderate,32.717675,-96.807816
+Dallas,398671,Oak Lawn,Private room,,11,85,15,4.31,,,32.835982,-96.840608
+Dallas,224430,Bishop Arts,Shared room,117.64,27,21,7,3.57,43.0,Good,32.81283,-96.73168
+Dallas,890326,Preston Hollow,Private room,273.1,14,161,7,3.63,43.0,Good,32.835218,-96.832103
+Dallas,311370,Bishop Arts,Shared room,173.9,12,267,112,4.18,44.0,Good,32.783702,-96.863552

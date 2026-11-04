@@ -1,0 +1,441 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Mumbai,792215,Juhu,Entire home/apt,14301.28,3,296,0,5.0,117.0,Unhealthy for Sensitive Groups,19.133491,72.936928
+Mumbai,931069,Lower Parel,Private room,,3,208,25,4.57,56.0,Moderate,19.143956,72.881634
+Mumbai,982460,Worli,Entire home/apt,6105.8,6,339,20,4.32,90.0,Moderate,19.142117,72.920259
+Mumbai,184047,Juhu,Private room,14360.98,30,216,32,3.8,99.0,Moderate,19.049536,72.901504
+Mumbai,485470,Juhu,Entire home/apt,14283.57,14,157,68,,131.0,Unhealthy for Sensitive Groups,19.064612,72.839076
+Mumbai,163043,Colaba,Entire home/apt,11443.91,23,141,57,4.87,94.0,Moderate,19.145423,72.816213
+Mumbai,271467,Juhu,Shared room,6103.41,19,329,31,4.0,160.0,Unhealthy,19.144378,72.915607
+Mumbai,171632,Andheri West,Entire home/apt,12195.87,11,293,19,4.46,80.0,Moderate,19.087573,72.909914
+Mumbai,813461,Juhu,Entire home/apt,18000.0,25,196,16,4.31,110.0,Unhealthy for Sensitive Groups,19.131404,72.845031
+Mumbai,977442,Bandra West,Private room,4173.83,12,231,29,3.45,98.0,Moderate,19.025455,72.825818
+Mumbai,148125,Bandra West,Entire home/apt,17453.81,2,259,19,4.25,76.0,Moderate,19.121394,72.9308
+Mumbai,498970,Andheri West,Entire home/apt,11113.26,1,339,108,4.32,73.0,Moderate,19.04242,72.910058
+Mumbai,187046,Andheri West,Entire home/apt,15126.48,12,340,24,4.73,85.0,Moderate,19.021108,72.851178
+Mumbai,692633,Bandra West,Private room,12686.3,18,239,1,4.55,121.0,Unhealthy for Sensitive Groups,19.053662,72.945439
+Mumbai,617029,Powai,Entire home/apt,10153.98,16,242,9,4.8,101.0,Unhealthy for Sensitive Groups,19.062961,72.87232
+Mumbai,379503,Powai,Entire home/apt,12398.52,16,330,12,,121.0,Unhealthy for Sensitive Groups,19.139232,72.814633
+Mumbai,412854,Juhu,Private room,8502.58,14,303,28,4.86,92.0,Moderate,19.073281,72.929975
+Mumbai,385591,Juhu,Entire home/apt,6840.64,13,157,46,5.0,91.0,Moderate,19.110156,72.93851
+Mumbai,399635,Juhu,Shared room,11421.44,25,94,47,4.61,66.0,Moderate,19.083244,72.921703
+Mumbai,248766,Dadar,Private room,8350.49,10,206,2,,65.0,Moderate,19.097286,72.850245
+Mumbai,307669,Colaba,Entire home/apt,7150.98,27,145,48,4.28,122.0,Unhealthy for Sensitive Groups,19.032966,72.93068
+Mumbai,629469,Worli,Hotel room,17569.9,16,155,16,3.74,114.0,Unhealthy for Sensitive Groups,19.099207,72.841079
+Mumbai,677291,Colaba,Shared room,,25,360,33,3.68,113.0,Unhealthy for Sensitive Groups,19.039147,72.826626
+Mumbai,489991,Lower Parel,Shared room,9860.23,28,362,27,4.97,88.0,Moderate,19.11017,72.821658
+Mumbai,343608,Juhu,Entire home/apt,17222.16,14,237,48,4.29,59.0,Moderate,19.051928,72.943922
+Mumbai,945410,Lower Parel,Private room,12273.96,30,93,19,4.41,,,19.124195,72.84369
+Mumbai,788060,Lower Parel,Shared room,7323.54,9,176,60,4.05,83.0,Moderate,19.075625,72.931437
+Mumbai,286347,Colaba,Private room,13340.76,1,139,20,4.37,66.0,Moderate,19.011484,72.817275
+Mumbai,542089,Dadar,Entire home/apt,,8,281,52,4.46,45.0,Good,19.069842,72.832373
+Mumbai,199759,Powai,Private room,5685.27,9,169,22,4.64,70.0,Moderate,19.092623,72.826556
+Mumbai,406171,Lower Parel,Entire home/apt,18000.0,26,253,131,5.0,74.0,Moderate,19.102886,72.839911
+Mumbai,730214,Juhu,Private room,18000.0,2,125,41,4.45,95.0,Moderate,19.008014,72.855707
+Mumbai,119995,Andheri West,Private room,10032.47,30,263,13,4.29,141.0,Unhealthy for Sensitive Groups,19.041958,72.932893
+Mumbai,462371,Lower Parel,Shared room,9606.33,26,332,12,4.16,112.0,Unhealthy for Sensitive Groups,19.008304,72.904315
+Mumbai,628370,Juhu,Entire home/apt,13536.9,3,102,67,3.94,,,19.105435,72.852766
+Mumbai,491157,Juhu,Private room,13038.38,30,13,27,3.91,43.0,Good,19.03621,72.868122
+Mumbai,407480,Dadar,Entire home/apt,9125.63,16,223,4,5.0,,,19.063454,72.918182
+Mumbai,346998,Powai,Entire home/apt,16624.82,2,115,5,3.33,,,19.116713,72.865324
+Mumbai,321896,Lower Parel,Entire home/apt,18000.0,25,54,49,4.38,133.0,Unhealthy for Sensitive Groups,19.094745,72.852705
+Mumbai,877424,Bandra West,Entire home/apt,,2,160,5,4.63,,,19.091973,72.893021
+Mumbai,345570,Colaba,Entire home/apt,14834.17,17,78,22,4.19,68.0,Moderate,19.095298,72.835569
+Mumbai,896125,Powai,Entire home/apt,7992.33,7,362,3,4.15,97.0,Moderate,19.123326,72.819246
+Mumbai,731659,Powai,Entire home/apt,4813.02,1,148,92,4.47,84.0,Moderate,19.107643,72.832449
+Mumbai,195388,Lower Parel,Entire home/apt,12262.51,18,48,95,3.57,58.0,Moderate,19.016135,72.872835
+Mumbai,736247,Lower Parel,Entire home/apt,12968.57,1,289,59,4.56,134.0,Unhealthy for Sensitive Groups,19.03772,72.821641
+Mumbai,248704,Andheri West,Private room,8299.19,24,265,14,4.9,87.0,Moderate,19.095644,72.929379
+Mumbai,268051,Bandra West,Entire home/apt,10326.45,11,125,65,4.75,90.0,Moderate,19.078515,72.846001
+Mumbai,188809,Bandra West,Entire home/apt,16457.9,2,111,37,4.07,95.0,Moderate,19.035462,72.843264
+Mumbai,915919,Lower Parel,Entire home/apt,5059.46,22,2,93,4.91,116.0,Unhealthy for Sensitive Groups,19.011765,72.903726
+Mumbai,806678,Juhu,Private room,14478.53,30,336,58,4.12,81.0,Moderate,19.042974,72.908184
+Mumbai,269696,Bandra West,Entire home/apt,10937.32,17,19,59,4.44,84.0,Moderate,19.140398,72.850635
+Mumbai,547177,Worli,Private room,18000.0,11,87,17,5.0,79.0,Moderate,19.068865,72.822399
+Mumbai,930046,Dadar,Entire home/apt,,24,286,75,3.89,90.0,Moderate,19.083841,72.864112
+Mumbai,614471,Dadar,Private room,10904.42,10,364,29,3.69,129.0,Unhealthy for Sensitive Groups,19.04772,72.878306
+Mumbai,584422,Colaba,Entire home/apt,4074.3,3,298,45,4.64,78.0,Moderate,19.096145,72.918642
+Mumbai,313577,Dadar,Private room,,3,141,6,3.93,114.0,Unhealthy for Sensitive Groups,19.10667,72.859475
+Mumbai,428667,Lower Parel,Private room,13030.6,8,180,22,3.8,105.0,Unhealthy for Sensitive Groups,19.093563,72.883934
+Mumbai,595306,Andheri West,Hotel room,8665.32,3,101,55,4.2,72.0,Moderate,19.046141,72.809464
+Mumbai,494323,Worli,Entire home/apt,6331.98,11,85,0,,106.0,Unhealthy for Sensitive Groups,19.140661,72.938938
+Mumbai,441306,Lower Parel,Entire home/apt,6902.94,3,195,19,4.48,115.0,Unhealthy for Sensitive Groups,19.11301,72.817671
+Mumbai,143549,Lower Parel,Entire home/apt,5945.63,1,288,0,4.44,116.0,Unhealthy for Sensitive Groups,19.070807,72.845038
+Mumbai,564921,Worli,Entire home/apt,10765.63,28,139,7,4.36,85.0,Moderate,19.06881,72.867389
+Mumbai,482799,Lower Parel,Entire home/apt,11645.11,3,121,38,,70.0,Moderate,19.101127,72.831228
+Mumbai,871989,Lower Parel,Shared room,14067.8,10,134,24,3.95,66.0,Moderate,19.05445,72.810352
+Mumbai,230778,Colaba,Entire home/apt,11869.76,7,81,18,3.97,116.0,Unhealthy for Sensitive Groups,19.080176,72.898143
+Mumbai,845530,Lower Parel,Private room,4809.17,27,194,33,2.75,168.0,Unhealthy,19.008888,72.896498
+Mumbai,852555,Colaba,Private room,5078.84,22,254,3,4.76,86.0,Moderate,19.120664,72.884204
+Mumbai,118788,Dadar,Entire home/apt,18000.0,21,79,5,4.03,72.0,Moderate,19.108738,72.865466
+Mumbai,806830,Colaba,Private room,9463.02,24,90,60,,104.0,Unhealthy for Sensitive Groups,19.105918,72.914286
+Mumbai,917725,Juhu,Entire home/apt,8938.28,1,184,8,4.32,101.0,Unhealthy for Sensitive Groups,19.104653,72.897112
+Mumbai,621748,Andheri West,Entire home/apt,10730.11,3,137,71,4.65,,,19.109461,72.918936
+Mumbai,504111,Powai,Entire home/apt,14209.4,25,129,40,4.06,100.0,Moderate,19.096125,72.811713
+Mumbai,399340,Dadar,Entire home/apt,15971.7,21,91,4,3.61,46.0,Good,19.082406,72.939961
+Mumbai,172410,Juhu,Hotel room,11553.45,4,107,0,5.0,81.0,Moderate,19.099232,72.89196
+Mumbai,886406,Dadar,Private room,8591.24,25,322,26,3.97,43.0,Good,19.028602,72.880126
+Mumbai,777735,Worli,Private room,14583.74,23,3,93,3.92,106.0,Unhealthy for Sensitive Groups,19.120138,72.916581
+Mumbai,851155,Colaba,Entire home/apt,10013.54,12,170,76,3.63,,,19.121632,72.831959
+Mumbai,121598,Colaba,Private room,,13,337,20,3.9,107.0,Unhealthy for Sensitive Groups,19.061227,72.945639
+Mumbai,447214,Powai,Entire home/apt,2943.21,20,256,1,,108.0,Unhealthy for Sensitive Groups,19.027811,72.818726
+Mumbai,103677,Lower Parel,Entire home/apt,11299.16,6,269,52,4.59,99.0,Moderate,19.106707,72.893119
+Mumbai,379193,Lower Parel,Private room,9610.44,1,347,7,4.6,93.0,Moderate,19.120728,72.935553
+Mumbai,798207,Lower Parel,Private room,16279.55,26,201,9,4.21,97.0,Moderate,19.130282,72.897101
+Mumbai,662707,Lower Parel,Entire home/apt,7911.29,5,247,43,4.88,82.0,Moderate,19.063564,72.887844
+Mumbai,201070,Colaba,Entire home/apt,8629.41,2,218,0,4.48,117.0,Unhealthy for Sensitive Groups,19.097702,72.937899
+Mumbai,616760,Juhu,Private room,7839.5,5,140,39,4.04,,,19.121197,72.935945
+Mumbai,807229,Lower Parel,Hotel room,18000.0,2,267,7,4.35,35.0,Good,19.128167,72.941005
+Mumbai,622362,Juhu,Private room,6615.09,3,219,5,4.38,105.0,Unhealthy for Sensitive Groups,19.133851,72.860541
+Mumbai,358796,Juhu,Entire home/apt,7596.7,10,159,59,3.75,,,19.024378,72.915493
+Mumbai,803053,Juhu,Hotel room,7823.45,29,169,13,5.0,132.0,Unhealthy for Sensitive Groups,19.028488,72.932725
+Mumbai,205585,Powai,Private room,2870.42,12,188,45,4.28,96.0,Moderate,19.055572,72.841811
+Mumbai,222349,Worli,Private room,11753.19,16,249,1,5.0,68.0,Moderate,19.056818,72.809531
+Mumbai,532521,Dadar,Private room,,6,80,51,4.84,87.0,Moderate,19.062231,72.945429
+Mumbai,233498,Bandra West,Shared room,9955.5,22,39,23,4.51,119.0,Unhealthy for Sensitive Groups,19.088484,72.858746
+Mumbai,264071,Dadar,Private room,18000.0,21,28,3,4.31,94.0,Moderate,19.093018,72.911014
+Mumbai,143378,Colaba,Entire home/apt,16085.83,1,30,7,3.52,,,19.099242,72.917184
+Mumbai,192863,Colaba,Shared room,10573.8,9,337,72,4.22,112.0,Unhealthy for Sensitive Groups,19.136703,72.92816
+Mumbai,980175,Lower Parel,Entire home/apt,,25,262,66,4.05,84.0,Moderate,19.007739,72.89593
+Mumbai,218323,Andheri West,Entire home/apt,9681.33,3,123,9,4.28,59.0,Moderate,19.061163,72.87715
+Mumbai,472396,Bandra West,Private room,4148.25,15,327,42,4.32,100.0,Moderate,19.083048,72.826874
+Mumbai,360687,Powai,Entire home/apt,13707.61,1,165,26,4.63,100.0,Moderate,19.07544,72.83303
+Mumbai,791131,Dadar,Private room,6041.39,2,91,6,3.92,75.0,Moderate,19.066328,72.865796
+Mumbai,140497,Worli,Entire home/apt,18000.0,18,188,26,4.12,69.0,Moderate,19.063885,72.911955
+Mumbai,615009,Andheri West,Entire home/apt,18000.0,26,189,4,4.32,19.0,Good,19.085805,72.93394
+Mumbai,600717,Dadar,Shared room,7177.94,7,181,6,4.36,88.0,Moderate,19.047939,72.854022
+Mumbai,937528,Juhu,Entire home/apt,14187.85,15,25,52,3.78,101.0,Unhealthy for Sensitive Groups,19.052753,72.904986
+Mumbai,855471,Andheri West,Entire home/apt,18000.0,13,197,10,4.01,,,19.124972,72.903045
+Mumbai,533288,Powai,Entire home/apt,18000.0,3,328,173,4.31,85.0,Moderate,19.088913,72.81394
+Mumbai,169683,Bandra West,Shared room,17792.27,29,245,69,,108.0,Unhealthy for Sensitive Groups,19.054101,72.825943
+Mumbai,714971,Juhu,Entire home/apt,12614.39,3,230,1,4.56,144.0,Unhealthy for Sensitive Groups,19.051711,72.943613
+Mumbai,743726,Juhu,Private room,,8,72,7,5.0,98.0,Moderate,19.11505,72.910092
+Mumbai,475729,Colaba,Hotel room,5715.53,15,121,53,4.18,79.0,Moderate,19.069348,72.808284
+Mumbai,271636,Andheri West,Private room,10282.71,18,314,16,3.93,37.0,Good,19.140733,72.910347
+Mumbai,950762,Dadar,Entire home/apt,4682.23,5,1,6,3.82,82.0,Moderate,19.138073,72.943877
+Mumbai,962724,Lower Parel,Entire home/apt,4576.56,20,358,25,3.59,49.0,Good,19.074312,72.825437
+Mumbai,308255,Dadar,Entire home/apt,14001.2,12,192,6,4.11,31.0,Good,19.109844,72.84612
+Mumbai,808345,Andheri West,Shared room,11581.72,1,92,11,3.18,96.0,Moderate,19.01627,72.883785
+Mumbai,226135,Lower Parel,Private room,5602.63,30,214,26,3.62,73.0,Moderate,19.01728,72.819484
+Mumbai,799856,Juhu,Entire home/apt,18000.0,2,348,54,4.0,66.0,Moderate,19.108844,72.812393
+Mumbai,322420,Colaba,Entire home/apt,10323.01,29,147,30,4.57,96.0,Moderate,19.123235,72.90554
+Mumbai,776991,Powai,Entire home/apt,17010.73,19,22,21,4.21,67.0,Moderate,19.138775,72.855211
+Mumbai,938113,Andheri West,Entire home/apt,4605.61,5,164,132,5.0,104.0,Unhealthy for Sensitive Groups,19.031516,72.89902
+Mumbai,205934,Juhu,Private room,6079.89,25,250,38,4.3,120.0,Unhealthy for Sensitive Groups,19.137583,72.941344
+Mumbai,940033,Bandra West,Private room,16429.75,3,352,7,4.12,37.0,Good,19.10259,72.944369
+Mumbai,672021,Juhu,Entire home/apt,8279.39,5,255,7,4.4,124.0,Unhealthy for Sensitive Groups,19.127312,72.900345
+Mumbai,713870,Colaba,Private room,,1,190,37,4.09,63.0,Moderate,19.066995,72.904788
+Mumbai,336500,Bandra West,Private room,16028.74,1,304,29,3.99,109.0,Unhealthy for Sensitive Groups,19.034823,72.890794
+Mumbai,518665,Andheri West,Entire home/apt,6029.44,20,263,16,5.0,83.0,Moderate,19.06875,72.814223
+Mumbai,325071,Worli,Private room,4622.99,28,176,7,4.13,122.0,Unhealthy for Sensitive Groups,19.143848,72.807821
+Mumbai,384146,Juhu,Private room,5945.16,3,147,34,3.67,,,19.026414,72.869404
+Mumbai,392362,Juhu,Entire home/apt,18000.0,4,326,26,4.96,97.0,Moderate,19.133555,72.881774
+Mumbai,448849,Andheri West,Private room,11985.8,16,340,39,3.73,86.0,Moderate,19.09112,72.910223
+Mumbai,785341,Dadar,Entire home/apt,6593.52,28,25,27,4.4,86.0,Moderate,19.118024,72.840635
+Mumbai,340871,Lower Parel,Shared room,7311.37,24,307,56,3.83,90.0,Moderate,19.062486,72.826894
+Mumbai,601242,Andheri West,Private room,7197.31,11,310,39,4.85,108.0,Unhealthy for Sensitive Groups,19.036601,72.850178
+Mumbai,241024,Lower Parel,Entire home/apt,12970.69,2,159,21,5.0,63.0,Moderate,19.093125,72.826812
+Mumbai,723774,Dadar,Entire home/apt,9992.33,25,206,35,3.84,100.0,Moderate,19.117505,72.913131
+Mumbai,347600,Andheri West,Entire home/apt,7656.22,26,157,15,4.17,151.0,Unhealthy,19.069096,72.873621
+Mumbai,788046,Andheri West,Entire home/apt,17275.55,17,320,153,4.22,92.0,Moderate,19.139484,72.933013
+Mumbai,911064,Worli,Private room,14193.98,19,242,2,4.11,141.0,Unhealthy for Sensitive Groups,19.077451,72.882167
+Mumbai,795110,Lower Parel,Entire home/apt,3005.41,1,360,20,4.11,50.0,Good,19.025538,72.82594
+Mumbai,703588,Lower Parel,Entire home/apt,7369.92,3,2,63,4.74,121.0,Unhealthy for Sensitive Groups,19.046059,72.859515
+Mumbai,606020,Powai,Entire home/apt,18000.0,11,113,49,4.21,78.0,Moderate,19.121294,72.824051
+Mumbai,767516,Worli,Private room,8311.19,15,116,4,3.73,126.0,Unhealthy for Sensitive Groups,19.023998,72.893364
+Mumbai,497585,Colaba,Private room,18000.0,3,107,24,3.8,48.0,Good,19.143735,72.914017
+Mumbai,249187,Colaba,Hotel room,12655.78,12,297,41,4.46,124.0,Unhealthy for Sensitive Groups,19.114937,72.940278
+Mumbai,200012,Worli,Entire home/apt,16626.68,26,338,33,4.75,63.0,Moderate,19.134838,72.946198
+Mumbai,280315,Juhu,Private room,18000.0,28,166,9,3.64,,,19.013117,72.83784
+Mumbai,100345,Juhu,Entire home/apt,17740.93,1,279,61,4.92,92.0,Moderate,19.130803,72.946052
+Mumbai,878705,Andheri West,Entire home/apt,9550.6,3,80,11,3.8,124.0,Unhealthy for Sensitive Groups,19.006788,72.859397
+Mumbai,180019,Colaba,Entire home/apt,3397.24,8,146,65,4.56,105.0,Unhealthy for Sensitive Groups,19.101683,72.88526
+Mumbai,714071,Andheri West,Entire home/apt,14213.25,4,356,6,5.0,129.0,Unhealthy for Sensitive Groups,19.039541,72.837589
+Mumbai,231901,Powai,Entire home/apt,,30,39,85,3.78,95.0,Moderate,19.103319,72.846777
+Mumbai,833039,Colaba,Entire home/apt,8176.34,3,281,45,4.17,83.0,Moderate,19.079569,72.935249
+Mumbai,368216,Lower Parel,Entire home/apt,11928.59,19,301,2,5.0,122.0,Unhealthy for Sensitive Groups,19.022366,72.811497
+Mumbai,711816,Andheri West,Entire home/apt,4180.3,2,264,2,4.94,90.0,Moderate,19.062735,72.836427
+Mumbai,539115,Powai,Hotel room,12270.68,15,69,40,4.33,,,19.124386,72.943115
+Mumbai,472116,Colaba,Entire home/apt,8796.44,10,73,30,4.12,76.0,Moderate,19.043607,72.900583
+Mumbai,827762,Worli,Private room,,10,116,10,4.6,83.0,Moderate,19.038018,72.831795
+Mumbai,368261,Andheri West,Private room,6668.88,1,235,4,4.32,117.0,Unhealthy for Sensitive Groups,19.05259,72.869919
+Mumbai,215600,Andheri West,Entire home/apt,8743.38,1,46,65,4.63,,,19.107293,72.810698
+Mumbai,597334,Bandra West,Entire home/apt,,18,10,14,3.66,120.0,Unhealthy for Sensitive Groups,19.116065,72.871648
+Mumbai,422672,Worli,Private room,9151.05,23,243,39,4.37,102.0,Unhealthy for Sensitive Groups,19.026525,72.939656
+Mumbai,908646,Colaba,Entire home/apt,16164.68,5,39,8,4.76,120.0,Unhealthy for Sensitive Groups,19.054372,72.888602
+Mumbai,562518,Andheri West,Entire home/apt,17007.71,22,133,42,3.85,104.0,Unhealthy for Sensitive Groups,19.08226,72.837284
+Mumbai,736396,Worli,Entire home/apt,17371.41,20,81,41,3.73,116.0,Unhealthy for Sensitive Groups,19.010417,72.902547
+Mumbai,726783,Colaba,Entire home/apt,5787.76,1,321,15,3.56,136.0,Unhealthy for Sensitive Groups,19.035572,72.94401
+Mumbai,572549,Powai,Private room,13037.9,27,81,133,3.93,95.0,Moderate,19.094212,72.909976
+Mumbai,292357,Juhu,Entire home/apt,7866.66,27,236,37,4.1,74.0,Moderate,19.135786,72.84367
+Mumbai,105050,Lower Parel,Entire home/apt,18000.0,10,62,118,4.29,86.0,Moderate,19.053403,72.811811
+Mumbai,848237,Powai,Private room,16562.33,17,81,15,4.67,106.0,Unhealthy for Sensitive Groups,19.02337,72.839674
+Mumbai,630533,Dadar,Private room,18000.0,7,254,17,4.56,78.0,Moderate,19.024409,72.901316
+Mumbai,683319,Juhu,Entire home/apt,15498.63,7,334,26,4.55,75.0,Moderate,19.059981,72.852922
+Mumbai,659584,Bandra West,Entire home/apt,18000.0,8,311,25,3.99,,,19.027033,72.922597
+Mumbai,393634,Colaba,Shared room,6629.07,24,171,28,3.8,84.0,Moderate,19.067829,72.918604
+Mumbai,999589,Andheri West,Private room,,18,25,47,4.44,59.0,Moderate,19.12852,72.895232
+Mumbai,667055,Colaba,Private room,12401.68,13,116,51,,,,19.103527,72.897206
+Mumbai,536026,Colaba,Entire home/apt,6768.38,12,116,36,,95.0,Moderate,19.114769,72.939557
+Mumbai,615045,Juhu,Private room,18000.0,21,9,27,,93.0,Moderate,19.055836,72.841698
+Mumbai,568947,Juhu,Private room,17511.94,16,300,10,4.35,111.0,Unhealthy for Sensitive Groups,19.075718,72.808524
+Mumbai,446762,Worli,Entire home/apt,4005.35,21,157,36,,138.0,Unhealthy for Sensitive Groups,19.017777,72.850136
+Mumbai,337819,Dadar,Entire home/apt,,21,102,3,3.98,106.0,Unhealthy for Sensitive Groups,19.136329,72.848007
+Mumbai,922564,Worli,Entire home/apt,10995.57,19,32,9,4.3,102.0,Unhealthy for Sensitive Groups,19.088356,72.919028
+Mumbai,532335,Andheri West,Private room,11270.65,9,316,10,4.33,53.0,Moderate,19.13978,72.88702
+Mumbai,975959,Colaba,Entire home/apt,15455.74,26,42,88,4.62,98.0,Moderate,19.093234,72.81088
+Mumbai,620507,Lower Parel,Hotel room,7773.41,10,266,44,5.0,82.0,Moderate,19.017526,72.866894
+Mumbai,243325,Worli,Private room,7521.06,1,180,2,3.6,103.0,Unhealthy for Sensitive Groups,19.058144,72.844865
+Mumbai,407517,Colaba,Entire home/apt,17549.91,9,1,1,,100.0,Moderate,19.125125,72.937269
+Mumbai,259743,Lower Parel,Entire home/apt,6931.96,20,141,27,4.42,40.0,Good,19.069219,72.931757
+Mumbai,582872,Juhu,Shared room,10713.66,7,91,37,4.42,70.0,Moderate,19.122386,72.943522
+Mumbai,666761,Powai,Private room,7979.1,15,322,22,4.41,96.0,Moderate,19.136971,72.845655
+Mumbai,484223,Dadar,Entire home/apt,18000.0,17,350,14,4.69,94.0,Moderate,19.136974,72.937276
+Mumbai,607878,Powai,Entire home/apt,18000.0,25,251,21,4.36,73.0,Moderate,19.028529,72.859703
+Mumbai,877583,Colaba,Entire home/apt,12582.09,7,315,124,4.41,101.0,Unhealthy for Sensitive Groups,19.009917,72.918225
+Mumbai,480768,Dadar,Entire home/apt,7901.09,20,5,79,4.23,114.0,Unhealthy for Sensitive Groups,19.080533,72.823163
+Mumbai,753539,Bandra West,Entire home/apt,12880.57,1,115,51,4.02,,,19.140972,72.895619
+Mumbai,376646,Worli,Hotel room,4658.63,19,206,33,3.12,60.0,Moderate,19.095746,72.860227
+Mumbai,373322,Worli,Private room,14515.81,3,239,1,4.76,120.0,Unhealthy for Sensitive Groups,19.049403,72.887894
+Mumbai,640570,Dadar,Entire home/apt,18000.0,7,45,1,4.52,72.0,Moderate,19.132273,72.864713
+Mumbai,491000,Worli,Private room,12529.06,19,10,33,,78.0,Moderate,19.092264,72.820012
+Mumbai,944088,Worli,Entire home/apt,18000.0,2,21,10,4.52,103.0,Unhealthy for Sensitive Groups,19.049698,72.884985
+Mumbai,948043,Dadar,Hotel room,17683.96,1,140,3,3.66,107.0,Unhealthy for Sensitive Groups,19.130547,72.879021
+Mumbai,912363,Lower Parel,Shared room,4215.5,23,265,22,4.38,157.0,Unhealthy,19.061583,72.84298
+Mumbai,753763,Juhu,Entire home/apt,15455.44,18,333,48,4.1,99.0,Moderate,19.127548,72.818619
+Mumbai,149171,Juhu,Entire home/apt,18000.0,21,293,26,4.12,85.0,Moderate,19.02333,72.8475
+Mumbai,215234,Powai,Entire home/apt,11247.91,3,287,23,4.18,,,19.13468,72.943705
+Mumbai,124659,Worli,Private room,12629.25,2,16,64,4.64,96.0,Moderate,19.042241,72.869411
+Mumbai,131219,Worli,Entire home/apt,17355.64,17,228,21,3.75,89.0,Moderate,19.131587,72.839567
+Mumbai,492846,Powai,Shared room,7144.07,28,127,41,3.91,94.0,Moderate,19.049359,72.87517
+Mumbai,267821,Dadar,Private room,18000.0,6,305,85,3.93,145.0,Unhealthy for Sensitive Groups,19.129008,72.889876
+Mumbai,725999,Lower Parel,Private room,16995.35,1,233,95,3.53,83.0,Moderate,19.008331,72.882416
+Mumbai,539266,Lower Parel,Entire home/apt,10106.05,28,246,58,4.85,105.0,Unhealthy for Sensitive Groups,19.07143,72.852936
+Mumbai,138107,Andheri West,Entire home/apt,,1,129,51,4.38,78.0,Moderate,19.05939,72.816664
+Mumbai,784296,Juhu,Entire home/apt,18000.0,2,339,2,3.71,97.0,Moderate,19.127454,72.840404
+Mumbai,346530,Powai,Shared room,18000.0,28,269,178,4.53,136.0,Unhealthy for Sensitive Groups,19.138003,72.879788
+Mumbai,254525,Lower Parel,Entire home/apt,9141.75,8,127,6,3.52,75.0,Moderate,19.015079,72.857093
+Mumbai,465649,Colaba,Entire home/apt,18000.0,4,205,7,4.32,111.0,Unhealthy for Sensitive Groups,19.088083,72.869837
+Mumbai,636262,Colaba,Entire home/apt,9031.98,1,341,90,4.17,105.0,Unhealthy for Sensitive Groups,19.040646,72.888519
+Mumbai,579460,Colaba,Entire home/apt,16742.33,18,358,57,4.29,,,19.035614,72.844088
+Mumbai,156002,Juhu,Entire home/apt,18000.0,15,198,140,4.36,136.0,Unhealthy for Sensitive Groups,19.061028,72.845566
+Mumbai,309808,Worli,Entire home/apt,18000.0,1,296,7,4.25,110.0,Unhealthy for Sensitive Groups,19.121118,72.897649
+Mumbai,806460,Colaba,Entire home/apt,18000.0,20,64,43,3.7,40.0,Good,19.088986,72.878272
+Mumbai,301882,Juhu,Private room,8419.58,7,145,35,4.23,107.0,Unhealthy for Sensitive Groups,19.105881,72.928975
+Mumbai,706129,Colaba,Entire home/apt,8833.5,6,338,52,4.1,55.0,Moderate,19.048766,72.812418
+Mumbai,395582,Powai,Entire home/apt,14968.59,3,155,11,3.83,27.0,Good,19.025657,72.931839
+Mumbai,168057,Andheri West,Entire home/apt,17613.43,18,335,3,4.29,98.0,Moderate,19.033283,72.890479
+Mumbai,679080,Andheri West,Entire home/apt,18000.0,13,201,43,,116.0,Unhealthy for Sensitive Groups,19.028178,72.941169
+Mumbai,593127,Colaba,Shared room,11347.06,19,51,10,4.04,74.0,Moderate,19.039355,72.937785
+Mumbai,226995,Worli,Entire home/apt,5023.18,10,218,38,4.12,119.0,Unhealthy for Sensitive Groups,19.038826,72.899682
+Mumbai,122112,Juhu,Private room,12998.93,3,234,3,4.0,79.0,Moderate,19.01844,72.813699
+Mumbai,343236,Colaba,Entire home/apt,6303.15,19,266,25,5.0,134.0,Unhealthy for Sensitive Groups,19.086133,72.812873
+Mumbai,559585,Dadar,Private room,,6,49,6,4.13,,,19.02087,72.833782
+Mumbai,398210,Juhu,Entire home/apt,14975.16,3,25,52,4.04,,,19.095792,72.903604
+Mumbai,559934,Juhu,Entire home/apt,17766.77,1,243,77,,63.0,Moderate,19.013813,72.858049
+Mumbai,400170,Dadar,Shared room,,1,237,99,4.26,84.0,Moderate,19.092002,72.897195
+Mumbai,405611,Lower Parel,Shared room,13014.77,3,269,30,4.31,78.0,Moderate,19.093967,72.868968
+Mumbai,405560,Bandra West,Entire home/apt,7467.69,21,301,9,4.74,127.0,Unhealthy for Sensitive Groups,19.066667,72.863706
+Mumbai,544827,Colaba,Shared room,18000.0,14,186,88,3.72,93.0,Moderate,19.112858,72.882141
+Mumbai,621695,Colaba,Hotel room,8277.52,2,347,20,4.24,96.0,Moderate,19.079296,72.940538
+Mumbai,807864,Colaba,Entire home/apt,7271.94,2,10,46,4.49,74.0,Moderate,19.015871,72.828097
+Mumbai,561123,Juhu,Private room,13293.84,14,289,33,4.29,66.0,Moderate,19.041219,72.936876
+Mumbai,827879,Lower Parel,Entire home/apt,8678.86,27,238,3,4.07,59.0,Moderate,19.097034,72.927378
+Mumbai,826214,Worli,Shared room,4890.82,1,206,29,4.77,102.0,Unhealthy for Sensitive Groups,19.086694,72.93739
+Mumbai,322984,Lower Parel,Entire home/apt,10337.24,28,244,60,4.51,31.0,Good,19.09206,72.922947
+Mumbai,242397,Worli,Entire home/apt,6657.65,5,201,10,4.48,88.0,Moderate,19.123322,72.922121
+Mumbai,151285,Juhu,Private room,11281.18,5,183,12,3.5,92.0,Moderate,19.032787,72.872147
+Mumbai,666140,Dadar,Entire home/apt,14004.86,11,44,19,4.58,96.0,Moderate,19.085991,72.860685
+Mumbai,836358,Bandra West,Hotel room,14299.59,23,289,200,3.66,99.0,Moderate,19.064341,72.9441
+Mumbai,897187,Juhu,Hotel room,4100.0,1,21,8,5.0,,,19.012012,72.891415
+Mumbai,494532,Colaba,Entire home/apt,4946.83,2,85,60,4.27,85.0,Moderate,19.08916,72.826811
+Mumbai,583780,Colaba,Private room,,9,82,108,4.51,105.0,Unhealthy for Sensitive Groups,19.109922,72.904065
+Mumbai,304219,Juhu,Entire home/apt,18000.0,2,57,211,4.44,86.0,Moderate,19.010502,72.831693
+Mumbai,610923,Dadar,Private room,8679.64,17,140,16,3.94,80.0,Moderate,19.090708,72.900428
+Mumbai,658377,Powai,Private room,5496.24,6,209,0,3.93,139.0,Unhealthy for Sensitive Groups,19.019047,72.929463
+Mumbai,909218,Colaba,Private room,18000.0,23,205,24,4.28,73.0,Moderate,19.049445,72.854583
+Mumbai,968678,Worli,Private room,5822.02,2,254,10,4.57,1.0,Good,19.118328,72.859891
+Mumbai,121348,Lower Parel,Entire home/apt,14688.21,15,85,15,4.36,63.0,Moderate,19.037185,72.946734
+Mumbai,333903,Andheri West,Entire home/apt,,3,323,43,4.49,110.0,Unhealthy for Sensitive Groups,19.007453,72.914022
+Mumbai,229672,Colaba,Private room,,11,245,36,4.82,101.0,Unhealthy for Sensitive Groups,19.017988,72.821961
+Mumbai,899515,Colaba,Shared room,18000.0,8,146,83,3.67,130.0,Unhealthy for Sensitive Groups,19.054828,72.846686
+Mumbai,490130,Andheri West,Entire home/apt,15995.68,26,283,17,3.96,138.0,Unhealthy for Sensitive Groups,19.099087,72.866814
+Mumbai,744361,Juhu,Entire home/apt,15386.35,26,26,9,3.83,104.0,Unhealthy for Sensitive Groups,19.13164,72.939271
+Mumbai,504112,Bandra West,Entire home/apt,10494.82,29,125,4,3.77,138.0,Unhealthy for Sensitive Groups,19.138066,72.901989
+Mumbai,649824,Juhu,Entire home/apt,10015.22,15,3,36,4.72,67.0,Moderate,19.036711,72.884201
+Mumbai,903402,Powai,Entire home/apt,,7,132,22,5.0,98.0,Moderate,19.105527,72.862496
+Mumbai,434275,Colaba,Entire home/apt,15282.45,24,105,177,3.94,133.0,Unhealthy for Sensitive Groups,19.03607,72.861196
+Mumbai,686404,Powai,Entire home/apt,,14,125,19,3.16,73.0,Moderate,19.145558,72.913642
+Mumbai,305015,Lower Parel,Entire home/apt,15184.58,6,313,82,4.3,98.0,Moderate,19.127082,72.899688
+Mumbai,981574,Worli,Entire home/apt,15499.52,3,204,68,3.97,75.0,Moderate,19.026314,72.858988
+Mumbai,738573,Worli,Entire home/apt,10066.33,14,37,101,3.79,87.0,Moderate,19.084255,72.847766
+Mumbai,380747,Juhu,Entire home/apt,7779.24,28,87,110,4.82,84.0,Moderate,19.118595,72.924826
+Mumbai,458022,Lower Parel,Private room,4776.27,6,209,19,4.03,112.0,Unhealthy for Sensitive Groups,19.051993,72.823532
+Mumbai,347092,Lower Parel,Private room,3130.07,12,139,1,4.39,88.0,Moderate,19.107079,72.874718
+Mumbai,483356,Andheri West,Private room,5658.47,24,287,45,4.32,116.0,Unhealthy for Sensitive Groups,19.140555,72.871164
+Mumbai,962359,Andheri West,Entire home/apt,6419.7,11,320,35,4.69,102.0,Unhealthy for Sensitive Groups,19.082611,72.809988
+Mumbai,735943,Andheri West,Entire home/apt,3862.08,3,203,7,3.9,126.0,Unhealthy for Sensitive Groups,19.125726,72.846918
+Mumbai,228656,Dadar,Private room,14650.77,3,25,57,3.99,90.0,Moderate,19.11151,72.882544
+Mumbai,474642,Andheri West,Entire home/apt,12505.21,3,326,11,3.91,89.0,Moderate,19.09311,72.900958
+Mumbai,328510,Lower Parel,Private room,8418.1,16,99,45,4.54,,,19.132155,72.876597
+Mumbai,673339,Juhu,Shared room,9927.92,1,335,18,4.21,85.0,Moderate,19.088742,72.903029
+Mumbai,956703,Dadar,Entire home/apt,8575.17,15,2,67,3.91,72.0,Moderate,19.022378,72.821842
+Mumbai,837454,Juhu,Entire home/apt,9187.81,7,206,25,4.26,91.0,Moderate,19.127419,72.890702
+Mumbai,892365,Worli,Entire home/apt,9578.53,29,332,149,4.42,59.0,Moderate,19.031972,72.892859
+Mumbai,750742,Andheri West,Entire home/apt,,27,233,162,4.33,12.0,Good,19.027926,72.869371
+Mumbai,635616,Dadar,Private room,5605.44,22,4,3,3.98,70.0,Moderate,19.100251,72.916418
+Mumbai,156221,Lower Parel,Entire home/apt,,1,34,41,3.46,134.0,Unhealthy for Sensitive Groups,19.036178,72.909801
+Mumbai,365166,Andheri West,Hotel room,9405.37,30,263,16,4.47,65.0,Moderate,19.07484,72.864628
+Mumbai,540089,Andheri West,Entire home/apt,11597.99,2,234,2,3.99,90.0,Moderate,19.068903,72.931899
+Mumbai,246609,Andheri West,Shared room,10615.71,16,335,102,4.1,109.0,Unhealthy for Sensitive Groups,19.061704,72.922911
+Mumbai,206501,Juhu,Shared room,11995.48,26,88,89,4.14,124.0,Unhealthy for Sensitive Groups,19.03827,72.92968
+Mumbai,956285,Colaba,Entire home/apt,5833.46,10,363,49,3.67,90.0,Moderate,19.046308,72.861225
+Mumbai,833441,Bandra West,Entire home/apt,18000.0,19,66,71,3.54,108.0,Unhealthy for Sensitive Groups,19.016236,72.84425
+Mumbai,970527,Andheri West,Private room,11995.85,15,30,13,4.09,95.0,Moderate,19.035583,72.833675
+Mumbai,613993,Dadar,Entire home/apt,8165.08,3,62,16,4.57,112.0,Unhealthy for Sensitive Groups,19.014353,72.879612
+Mumbai,441631,Juhu,Entire home/apt,3924.04,1,290,33,4.1,71.0,Moderate,19.023878,72.934816
+Mumbai,485705,Powai,Entire home/apt,15275.57,2,350,15,,142.0,Unhealthy for Sensitive Groups,19.040304,72.847955
+Mumbai,594746,Worli,Private room,18000.0,25,31,28,4.22,87.0,Moderate,19.110617,72.821112
+Mumbai,492791,Lower Parel,Private room,17401.35,25,223,53,4.21,64.0,Moderate,19.069784,72.888531
+Mumbai,923661,Lower Parel,Private room,16084.42,29,248,1,4.17,100.0,Moderate,19.080005,72.841249
+Mumbai,304024,Juhu,Hotel room,8766.7,22,248,28,4.04,97.0,Moderate,19.02326,72.921129
+Mumbai,126466,Bandra West,Private room,18000.0,21,90,9,3.54,75.0,Moderate,19.03316,72.908308
+Mumbai,231371,Colaba,Shared room,18000.0,2,24,33,3.62,75.0,Moderate,19.012923,72.906529
+Mumbai,188330,Andheri West,Entire home/apt,5585.26,23,239,1,3.67,,,19.007456,72.855875
+Mumbai,781498,Dadar,Entire home/apt,18000.0,1,11,1,5.0,98.0,Moderate,19.115466,72.821076
+Mumbai,345813,Colaba,Private room,18000.0,5,100,37,5.0,128.0,Unhealthy for Sensitive Groups,19.066652,72.915345
+Mumbai,403023,Worli,Private room,5710.95,26,246,43,4.49,70.0,Moderate,19.14121,72.903025
+Mumbai,717285,Andheri West,Entire home/apt,9383.24,27,347,16,4.15,73.0,Moderate,19.102671,72.865267
+Mumbai,498713,Worli,Hotel room,5940.21,18,215,11,3.68,136.0,Unhealthy for Sensitive Groups,19.047436,72.87861
+Mumbai,322691,Bandra West,Private room,18000.0,1,215,19,4.86,,,19.124303,72.808112
+Mumbai,654599,Powai,Private room,10982.98,1,162,18,3.85,75.0,Moderate,19.028499,72.880582
+Mumbai,704794,Powai,Entire home/apt,10679.44,1,46,11,3.99,83.0,Moderate,19.088708,72.840271
+Mumbai,213853,Dadar,Private room,15897.52,5,6,34,3.52,140.0,Unhealthy for Sensitive Groups,19.0117,72.852125
+Mumbai,999443,Bandra West,Private room,,28,116,53,3.98,116.0,Unhealthy for Sensitive Groups,19.009933,72.937096
+Mumbai,177272,Juhu,Private room,17149.21,2,242,132,4.49,81.0,Moderate,19.018312,72.91921
+Mumbai,842635,Juhu,Hotel room,10687.46,4,325,114,4.6,95.0,Moderate,19.070243,72.912156
+Mumbai,750591,Powai,Entire home/apt,17695.54,15,288,59,4.41,82.0,Moderate,19.062901,72.939404
+Mumbai,983828,Bandra West,Entire home/apt,7111.27,3,214,195,4.17,59.0,Moderate,19.046995,72.84571
+Mumbai,949646,Andheri West,Entire home/apt,18000.0,8,255,28,4.8,36.0,Good,19.136136,72.870511
+Mumbai,555905,Andheri West,Entire home/apt,8132.79,25,84,16,3.83,76.0,Moderate,19.071683,72.826624
+Mumbai,278302,Juhu,Entire home/apt,4550.39,24,126,70,4.08,39.0,Good,19.044019,72.864052
+Mumbai,637866,Juhu,Entire home/apt,9994.62,2,227,4,3.73,76.0,Moderate,19.085073,72.857275
+Mumbai,835399,Bandra West,Hotel room,10493.94,3,177,33,3.58,96.0,Moderate,19.119044,72.932942
+Mumbai,530245,Colaba,Private room,12616.56,15,260,76,4.1,70.0,Moderate,19.138819,72.918705
+Mumbai,983514,Juhu,Shared room,6073.06,16,283,7,4.13,74.0,Moderate,19.025464,72.843812
+Mumbai,337144,Andheri West,Private room,13788.93,27,320,59,4.32,108.0,Unhealthy for Sensitive Groups,19.054345,72.921119
+Mumbai,790714,Dadar,Private room,12709.25,29,142,69,4.32,67.0,Moderate,19.141124,72.926292
+Mumbai,115212,Powai,Entire home/apt,12418.22,2,358,25,3.98,72.0,Moderate,19.059747,72.819034
+Mumbai,418438,Worli,Entire home/apt,14302.82,22,276,44,4.28,101.0,Unhealthy for Sensitive Groups,19.100688,72.909248
+Mumbai,478467,Lower Parel,Private room,6491.91,4,146,3,4.67,120.0,Unhealthy for Sensitive Groups,19.007503,72.925013
+Mumbai,239980,Powai,Hotel room,18000.0,27,171,17,4.13,86.0,Moderate,19.093183,72.928889
+Mumbai,513772,Dadar,Hotel room,18000.0,14,129,17,3.8,108.0,Unhealthy for Sensitive Groups,19.025865,72.907019
+Mumbai,911710,Dadar,Private room,14268.86,28,309,12,4.05,112.0,Unhealthy for Sensitive Groups,19.046241,72.836556
+Mumbai,173953,Worli,Entire home/apt,13372.08,20,68,16,4.5,72.0,Moderate,19.010699,72.819942
+Mumbai,769669,Juhu,Shared room,11193.22,20,128,54,3.46,101.0,Unhealthy for Sensitive Groups,19.133585,72.914534
+Mumbai,718427,Andheri West,Shared room,18000.0,1,159,24,4.74,85.0,Moderate,19.111556,72.877924
+Mumbai,631501,Lower Parel,Private room,16375.15,5,280,70,3.79,119.0,Unhealthy for Sensitive Groups,19.038355,72.879025
+Mumbai,982958,Juhu,Private room,15003.46,10,296,31,4.66,78.0,Moderate,19.116501,72.921109
+Mumbai,354724,Juhu,Private room,7903.2,1,146,26,5.0,79.0,Moderate,19.107172,72.839048
+Mumbai,989121,Worli,Private room,11489.55,18,361,2,4.26,,,19.013243,72.859162
+Mumbai,885860,Colaba,Entire home/apt,9526.61,10,192,11,4.24,73.0,Moderate,19.118284,72.875916
+Mumbai,181065,Powai,Entire home/apt,7623.94,10,65,2,4.33,94.0,Moderate,19.025359,72.810063
+Mumbai,789974,Bandra West,Hotel room,8635.68,25,157,25,4.91,85.0,Moderate,19.0786,72.884289
+Mumbai,585650,Worli,Entire home/apt,7946.6,3,39,21,,86.0,Moderate,19.110247,72.875763
+Mumbai,657092,Dadar,Shared room,7086.95,19,106,213,3.58,153.0,Unhealthy,19.074868,72.876328
+Mumbai,150613,Powai,Entire home/apt,9358.51,1,324,12,4.77,93.0,Moderate,19.051686,72.836773
+Mumbai,620612,Colaba,Entire home/apt,9759.37,3,79,22,3.8,78.0,Moderate,19.140156,72.917907
+Mumbai,330160,Worli,Private room,15992.78,21,153,54,5.0,65.0,Moderate,19.093942,72.846337
+Mumbai,444899,Andheri West,Private room,10226.79,1,30,43,3.83,92.0,Moderate,19.139493,72.855035
+Mumbai,773025,Colaba,Entire home/apt,7361.4,10,299,2,5.0,43.0,Good,19.114841,72.931629
+Mumbai,149905,Powai,Private room,8938.56,10,69,12,3.53,99.0,Moderate,19.132657,72.916648
+Mumbai,612923,Andheri West,Hotel room,14864.17,22,362,63,5.0,123.0,Unhealthy for Sensitive Groups,19.076382,72.847799
+Mumbai,786564,Andheri West,Private room,8838.36,29,207,55,4.69,73.0,Moderate,19.059885,72.937302
+Mumbai,656120,Bandra West,Private room,11508.05,20,316,5,4.09,129.0,Unhealthy for Sensitive Groups,19.138529,72.945441
+Mumbai,343871,Powai,Private room,3648.75,16,237,65,3.92,87.0,Moderate,19.066645,72.837288
+Mumbai,582458,Andheri West,Entire home/apt,4434.92,1,356,49,3.91,99.0,Moderate,19.135678,72.860631
+Mumbai,130572,Andheri West,Entire home/apt,6933.99,21,264,12,4.56,38.0,Good,19.084561,72.810301
+Mumbai,875075,Andheri West,Entire home/apt,8786.27,17,26,6,4.77,135.0,Unhealthy for Sensitive Groups,19.127432,72.815073
+Mumbai,968155,Andheri West,Hotel room,18000.0,3,286,21,4.37,142.0,Unhealthy for Sensitive Groups,19.080245,72.889807
+Mumbai,403955,Andheri West,Entire home/apt,12784.04,14,315,17,4.51,82.0,Moderate,19.119682,72.938335
+Mumbai,628910,Lower Parel,Private room,9656.3,14,252,49,3.99,87.0,Moderate,19.024282,72.890618
+Mumbai,444102,Worli,Entire home/apt,18000.0,25,126,4,3.69,91.0,Moderate,19.033775,72.894269
+Mumbai,610455,Worli,Hotel room,11790.33,26,216,8,3.76,69.0,Moderate,19.093757,72.812656
+Mumbai,975725,Bandra West,Entire home/apt,14742.15,1,195,100,,108.0,Unhealthy for Sensitive Groups,19.081909,72.881739
+Mumbai,842933,Lower Parel,Entire home/apt,17042.26,2,39,16,5.0,96.0,Moderate,19.080782,72.87928
+Mumbai,698577,Powai,Hotel room,,2,266,20,5.0,103.0,Unhealthy for Sensitive Groups,19.070143,72.873729
+Mumbai,444927,Powai,Entire home/apt,18000.0,2,224,163,4.35,88.0,Moderate,19.119402,72.844622
+Mumbai,627432,Lower Parel,Entire home/apt,18000.0,15,47,41,4.59,,,19.056114,72.831666
+Mumbai,199957,Lower Parel,Private room,7321.24,22,333,26,4.67,129.0,Unhealthy for Sensitive Groups,19.049954,72.807804
+Mumbai,725987,Dadar,Entire home/apt,5928.13,1,338,104,4.63,78.0,Moderate,19.044175,72.919572
+Mumbai,252847,Worli,Private room,8109.69,1,127,51,4.27,,,19.113439,72.8948
+Mumbai,113332,Juhu,Shared room,6830.94,27,252,11,4.42,116.0,Unhealthy for Sensitive Groups,19.128067,72.842589
+Mumbai,622334,Powai,Hotel room,,21,80,9,4.57,101.0,Unhealthy for Sensitive Groups,19.068516,72.866857
+Mumbai,546614,Lower Parel,Entire home/apt,13497.08,4,355,8,4.0,120.0,Unhealthy for Sensitive Groups,19.080018,72.822927
+Mumbai,649439,Dadar,Entire home/apt,6622.55,1,59,1,4.82,88.0,Moderate,19.080483,72.907989
+Mumbai,129493,Bandra West,Private room,,16,192,23,4.37,69.0,Moderate,19.088512,72.861309
+Mumbai,335724,Powai,Private room,9564.89,1,148,36,3.68,94.0,Moderate,19.132232,72.936695
+Mumbai,829396,Bandra West,Private room,11247.2,2,181,38,3.75,90.0,Moderate,19.129485,72.867753
+Mumbai,877770,Bandra West,Entire home/apt,11602.29,22,80,0,,148.0,Unhealthy for Sensitive Groups,19.062343,72.904027
+Mumbai,847129,Powai,Entire home/apt,16588.9,18,210,6,4.52,54.0,Moderate,19.044544,72.896606
+Mumbai,138480,Andheri West,Entire home/apt,10545.88,2,55,1,4.43,83.0,Moderate,19.142903,72.932536
+Mumbai,585342,Dadar,Shared room,9946.94,1,298,48,,71.0,Moderate,19.029917,72.910921
+Mumbai,964510,Worli,Private room,,3,56,8,4.45,92.0,Moderate,19.033914,72.89389
+Mumbai,167983,Dadar,Entire home/apt,11315.23,29,325,117,5.0,107.0,Unhealthy for Sensitive Groups,19.069919,72.890694
+Mumbai,975125,Bandra West,Shared room,5950.42,5,205,86,4.3,109.0,Unhealthy for Sensitive Groups,19.007531,72.922663
+Mumbai,141862,Juhu,Hotel room,10170.46,1,298,48,4.05,103.0,Unhealthy for Sensitive Groups,19.144149,72.842643
+Mumbai,153779,Powai,Private room,,29,72,236,3.91,62.0,Moderate,19.04161,72.921528
+Mumbai,167899,Powai,Entire home/apt,12964.61,8,186,50,3.83,108.0,Unhealthy for Sensitive Groups,19.104322,72.93329
+Mumbai,772496,Juhu,Entire home/apt,13750.4,18,321,44,4.7,80.0,Moderate,19.008937,72.815852
+Mumbai,612772,Powai,Hotel room,6156.77,10,309,139,3.63,,,19.114321,72.864849
+Mumbai,623122,Juhu,Private room,14992.39,27,173,40,4.87,156.0,Unhealthy,19.087698,72.866873
+Mumbai,672432,Colaba,Entire home/apt,5261.09,1,113,18,4.34,118.0,Unhealthy for Sensitive Groups,19.019846,72.855529
+Mumbai,386219,Juhu,Entire home/apt,10554.08,1,286,21,4.45,105.0,Unhealthy for Sensitive Groups,19.118436,72.868367
+Mumbai,271492,Bandra West,Entire home/apt,8063.83,30,15,2,,143.0,Unhealthy for Sensitive Groups,19.095664,72.887822
+Mumbai,797181,Dadar,Private room,10772.64,20,358,10,4.23,60.0,Moderate,19.083353,72.83971
+Mumbai,156667,Worli,Entire home/apt,12193.51,7,225,5,4.35,56.0,Moderate,19.131283,72.863157
+Mumbai,818518,Powai,Hotel room,10438.03,13,357,115,3.92,88.0,Moderate,19.10635,72.829365
+Mumbai,440945,Powai,Entire home/apt,18000.0,3,252,47,4.03,112.0,Unhealthy for Sensitive Groups,19.062966,72.895566
+Mumbai,707469,Worli,Private room,18000.0,3,77,40,4.15,148.0,Unhealthy for Sensitive Groups,19.023087,72.845017
+Mumbai,431194,Lower Parel,Private room,16290.93,2,358,9,4.77,75.0,Moderate,19.029257,72.897562
+Mumbai,289541,Dadar,Entire home/apt,13501.15,14,362,8,4.84,71.0,Moderate,19.119729,72.851718
+Mumbai,251624,Juhu,Entire home/apt,8036.28,4,288,45,4.09,58.0,Moderate,19.134128,72.911447
+Mumbai,718874,Bandra West,Entire home/apt,13050.49,28,6,10,4.38,85.0,Moderate,19.06988,72.884092
+Mumbai,986345,Powai,Shared room,6109.39,12,70,75,4.59,113.0,Unhealthy for Sensitive Groups,19.006819,72.842528
+Mumbai,658264,Worli,Private room,15891.63,2,65,61,3.96,138.0,Unhealthy for Sensitive Groups,19.077489,72.841261
+Mumbai,927819,Lower Parel,Private room,13782.93,10,20,141,3.77,96.0,Moderate,19.020214,72.867822
+Mumbai,765966,Powai,Entire home/apt,8710.97,3,354,7,4.53,129.0,Unhealthy for Sensitive Groups,19.025244,72.905939
+Mumbai,617823,Worli,Private room,11532.58,3,36,3,2.84,90.0,Moderate,19.119138,72.851299
+Mumbai,911717,Juhu,Private room,18000.0,15,157,16,4.28,65.0,Moderate,19.030352,72.86014
+Mumbai,955733,Lower Parel,Entire home/apt,9576.91,21,240,52,5.0,66.0,Moderate,19.089174,72.884287
+Mumbai,849861,Colaba,Hotel room,14379.15,28,18,27,5.0,,,19.119728,72.833687
+Mumbai,774778,Powai,Entire home/apt,9192.82,2,182,6,4.8,,,19.016623,72.885098
+Mumbai,143681,Colaba,Entire home/apt,11520.71,26,205,57,4.23,70.0,Moderate,19.034944,72.934827
+Mumbai,394775,Powai,Entire home/apt,3333.54,28,360,27,4.24,49.0,Good,19.063583,72.891363
+Mumbai,421399,Worli,Entire home/apt,18000.0,1,324,20,4.52,74.0,Moderate,19.05952,72.838545
+Mumbai,211248,Colaba,Entire home/apt,15213.07,11,140,152,3.71,104.0,Unhealthy for Sensitive Groups,19.068889,72.888699
+Mumbai,734093,Worli,Entire home/apt,5253.95,26,226,7,4.8,99.0,Moderate,19.064369,72.832512
+Mumbai,855648,Colaba,Private room,18000.0,29,92,56,,148.0,Unhealthy for Sensitive Groups,19.105357,72.813417
+Mumbai,720191,Powai,Entire home/apt,11359.24,14,234,11,,98.0,Moderate,19.130238,72.848211
+Mumbai,717205,Bandra West,Private room,5033.25,25,66,56,3.53,123.0,Unhealthy for Sensitive Groups,19.118866,72.834617
+Mumbai,421120,Colaba,Entire home/apt,13521.31,8,350,9,4.17,45.0,Good,19.080043,72.903072
+Mumbai,556994,Dadar,Entire home/apt,,7,117,40,4.37,101.0,Unhealthy for Sensitive Groups,19.068365,72.891765
+Mumbai,210882,Andheri West,Entire home/apt,9958.09,11,44,36,4.03,122.0,Unhealthy for Sensitive Groups,19.031017,72.909967
+Mumbai,601227,Worli,Entire home/apt,6327.81,8,221,104,4.71,148.0,Unhealthy for Sensitive Groups,19.106568,72.908286
+Mumbai,482597,Dadar,Entire home/apt,13526.41,16,174,42,4.61,49.0,Good,19.019281,72.832284
+Mumbai,647747,Colaba,Hotel room,11097.23,1,338,76,4.84,130.0,Unhealthy for Sensitive Groups,19.046159,72.899574
+Mumbai,617333,Bandra West,Shared room,12479.65,8,138,0,4.73,181.0,Unhealthy,19.015692,72.821191
+Mumbai,253538,Juhu,Entire home/apt,14567.18,1,125,106,4.44,84.0,Moderate,19.0505,72.88404
+Mumbai,147563,Andheri West,Private room,18000.0,25,48,84,4.33,110.0,Unhealthy for Sensitive Groups,19.078897,72.870886
+Mumbai,261553,Dadar,Entire home/apt,10373.62,5,203,171,4.48,76.0,Moderate,19.137693,72.884215
+Mumbai,575154,Powai,Private room,11889.98,18,110,63,4.44,107.0,Unhealthy for Sensitive Groups,19.102492,72.810259
+Mumbai,786628,Powai,Entire home/apt,5206.34,2,124,3,3.85,133.0,Unhealthy for Sensitive Groups,19.055286,72.937564
+Mumbai,361872,Worli,Entire home/apt,11676.02,2,34,40,4.02,89.0,Moderate,19.107663,72.929204
+Mumbai,116000,Worli,Private room,14927.92,2,97,10,4.09,64.0,Moderate,19.077097,72.9147
+Mumbai,738993,Bandra West,Private room,,23,113,68,4.83,80.0,Moderate,19.052965,72.8525
+Mumbai,218959,Lower Parel,Entire home/apt,14391.46,21,276,2,4.87,48.0,Good,19.137895,72.885796
+Mumbai,831175,Lower Parel,Entire home/apt,8325.62,3,190,10,4.63,104.0,Unhealthy for Sensitive Groups,19.03729,72.851479
+Mumbai,872165,Worli,Private room,4481.91,27,18,16,4.45,62.0,Moderate,19.046477,72.871557
+Mumbai,663111,Colaba,Private room,11927.77,11,204,51,4.47,102.0,Unhealthy for Sensitive Groups,19.12154,72.897278
+Mumbai,507670,Lower Parel,Hotel room,18000.0,1,204,16,,85.0,Moderate,19.08388,72.843977
+Mumbai,759981,Powai,Entire home/apt,6847.62,29,6,44,2.97,108.0,Unhealthy for Sensitive Groups,19.017116,72.890328
+Mumbai,799242,Bandra West,Entire home/apt,12232.11,12,340,5,4.13,67.0,Moderate,19.123883,72.910455

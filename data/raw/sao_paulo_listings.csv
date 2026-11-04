@@ -1,0 +1,391 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Sao Paulo,849750,Jardins,Shared room,216.9,21,183,2,4.07,67.0,Moderate,-23.532785,-46.596739
+Sao Paulo,458158,Vila Madalena,Private room,217.74,1,270,120,4.66,100.0,Moderate,-23.599083,-46.683698
+Sao Paulo,601598,Jardins,Private room,282.58,29,209,29,4.65,90.0,Moderate,-23.564189,-46.581832
+Sao Paulo,789063,Itaim Bibi,Entire home/apt,800.0,6,344,11,,103.0,Unhealthy for Sensitive Groups,-23.523598,-46.615698
+Sao Paulo,140222,Bela Vista,Entire home/apt,179.3,2,75,0,4.61,,,-23.524181,-46.657019
+Sao Paulo,594681,Consolação,Private room,297.35,2,176,3,3.98,107.0,Unhealthy for Sensitive Groups,-23.49154,-46.670812
+Sao Paulo,827180,Bela Vista,Entire home/apt,,26,226,2,,100.0,Moderate,-23.499779,-46.633921
+Sao Paulo,537718,Bela Vista,Entire home/apt,541.31,3,65,30,3.75,92.0,Moderate,-23.580397,-46.599704
+Sao Paulo,127047,Liberdade,Hotel room,530.28,3,113,4,4.56,96.0,Moderate,-23.535666,-46.631207
+Sao Paulo,461638,Bela Vista,Shared room,548.07,6,67,131,3.98,112.0,Unhealthy for Sensitive Groups,-23.572243,-46.656524
+Sao Paulo,156219,Pinheiros,Hotel room,494.5,27,76,131,4.52,96.0,Moderate,-23.601095,-46.677571
+Sao Paulo,623492,Liberdade,Private room,800.0,18,119,85,3.27,59.0,Moderate,-23.560855,-46.57423
+Sao Paulo,180878,Moema,Private room,,8,233,60,4.47,91.0,Moderate,-23.546078,-46.638516
+Sao Paulo,638738,Liberdade,Entire home/apt,548.05,3,287,4,3.51,79.0,Moderate,-23.517432,-46.671238
+Sao Paulo,739070,Moema,Shared room,359.96,1,176,43,4.48,91.0,Moderate,-23.510703,-46.59763
+Sao Paulo,783556,Liberdade,Entire home/apt,787.3,3,333,103,5.0,74.0,Moderate,-23.508212,-46.695396
+Sao Paulo,946631,Pinheiros,Private room,,21,77,8,,53.0,Moderate,-23.514071,-46.605415
+Sao Paulo,250103,Jardins,Entire home/apt,465.63,27,353,109,4.66,117.0,Unhealthy for Sensitive Groups,-23.579454,-46.68284
+Sao Paulo,443198,Pinheiros,Private room,800.0,1,347,28,4.07,88.0,Moderate,-23.481706,-46.655173
+Sao Paulo,186860,Moema,Entire home/apt,419.29,3,295,23,4.54,83.0,Moderate,-23.497781,-46.62802
+Sao Paulo,814240,Vila Madalena,Private room,800.0,10,280,111,3.86,78.0,Moderate,-23.536993,-46.658687
+Sao Paulo,748472,Jardins,Private room,259.16,7,279,72,4.44,111.0,Unhealthy for Sensitive Groups,-23.569383,-46.613933
+Sao Paulo,201271,Consolação,Entire home/apt,762.35,7,174,57,,87.0,Moderate,-23.521239,-46.689818
+Sao Paulo,972332,Jardins,Entire home/apt,509.04,16,232,68,3.84,62.0,Moderate,-23.513787,-46.67642
+Sao Paulo,407575,Vila Madalena,Private room,522.19,21,233,21,4.54,66.0,Moderate,-23.568595,-46.664772
+Sao Paulo,204843,Moema,Entire home/apt,545.13,14,349,72,3.67,114.0,Unhealthy for Sensitive Groups,-23.519721,-46.644196
+Sao Paulo,949273,Jardins,Entire home/apt,765.69,28,248,45,4.08,65.0,Moderate,-23.497425,-46.604911
+Sao Paulo,481436,Moema,Entire home/apt,768.98,11,85,78,4.48,116.0,Unhealthy for Sensitive Groups,-23.598032,-46.575307
+Sao Paulo,644462,Bela Vista,Entire home/apt,,5,153,48,4.05,,,-23.611,-46.648747
+Sao Paulo,261952,Jardins,Entire home/apt,380.39,5,114,83,3.98,73.0,Moderate,-23.499125,-46.658129
+Sao Paulo,687724,Itaim Bibi,Hotel room,295.03,27,82,18,3.66,62.0,Moderate,-23.541768,-46.655588
+Sao Paulo,274030,Liberdade,Entire home/apt,278.16,1,131,28,4.13,86.0,Moderate,-23.527137,-46.619987
+Sao Paulo,737329,Pinheiros,Entire home/apt,451.48,29,336,62,5.0,129.0,Unhealthy for Sensitive Groups,-23.558471,-46.675141
+Sao Paulo,567839,Jardins,Entire home/apt,800.0,18,146,237,4.68,92.0,Moderate,-23.495303,-46.630125
+Sao Paulo,116242,Consolação,Entire home/apt,536.16,24,315,36,4.55,91.0,Moderate,-23.489695,-46.697792
+Sao Paulo,445787,Liberdade,Hotel room,529.96,16,259,11,3.86,42.0,Good,-23.554144,-46.661134
+Sao Paulo,680237,Pinheiros,Entire home/apt,,14,47,9,3.8,,,-23.498376,-46.617572
+Sao Paulo,628441,Jardins,Shared room,343.12,14,291,97,3.95,101.0,Unhealthy for Sensitive Groups,-23.613046,-46.65973
+Sao Paulo,576108,Bela Vista,Entire home/apt,446.39,20,173,55,4.11,79.0,Moderate,-23.619757,-46.579706
+Sao Paulo,325659,Liberdade,Entire home/apt,487.84,23,161,83,5.0,84.0,Moderate,-23.534664,-46.593421
+Sao Paulo,981328,Bela Vista,Private room,209.59,9,40,36,3.71,144.0,Unhealthy for Sensitive Groups,-23.499981,-46.594208
+Sao Paulo,134245,Liberdade,Private room,336.24,18,193,39,,76.0,Moderate,-23.50827,-46.623882
+Sao Paulo,973898,Liberdade,Hotel room,308.9,29,99,11,4.33,103.0,Unhealthy for Sensitive Groups,-23.600309,-46.6119
+Sao Paulo,297300,Vila Madalena,Private room,236.26,10,9,5,4.5,73.0,Moderate,-23.588169,-46.655188
+Sao Paulo,628468,Vila Madalena,Private room,396.4,13,119,2,4.88,46.0,Good,-23.591632,-46.627891
+Sao Paulo,452068,Jardins,Entire home/apt,602.39,26,89,4,4.85,93.0,Moderate,-23.498044,-46.678009
+Sao Paulo,945686,Moema,Entire home/apt,241.65,16,213,66,3.99,101.0,Unhealthy for Sensitive Groups,-23.494662,-46.646265
+Sao Paulo,205672,Liberdade,Private room,422.82,18,85,65,3.99,139.0,Unhealthy for Sensitive Groups,-23.615937,-46.573441
+Sao Paulo,765901,Jardins,Private room,800.0,10,168,61,5.0,97.0,Moderate,-23.59115,-46.6762
+Sao Paulo,733041,Vila Madalena,Private room,306.53,4,155,124,4.44,51.0,Moderate,-23.552452,-46.615087
+Sao Paulo,435672,Jardins,Private room,280.22,1,139,50,4.54,81.0,Moderate,-23.552771,-46.613078
+Sao Paulo,497475,Itaim Bibi,Shared room,505.34,2,326,20,3.91,82.0,Moderate,-23.613872,-46.681136
+Sao Paulo,986259,Liberdade,Private room,380.41,3,361,70,4.18,64.0,Moderate,-23.582141,-46.592546
+Sao Paulo,339456,Vila Madalena,Private room,329.78,27,48,6,3.88,94.0,Moderate,-23.484109,-46.629424
+Sao Paulo,880580,Vila Madalena,Entire home/apt,800.0,2,38,29,3.73,52.0,Moderate,-23.537575,-46.644169
+Sao Paulo,556030,Consolação,Entire home/apt,337.75,11,362,7,4.27,136.0,Unhealthy for Sensitive Groups,-23.484518,-46.655705
+Sao Paulo,341103,Pinheiros,Entire home/apt,501.39,12,360,7,3.92,146.0,Unhealthy for Sensitive Groups,-23.484542,-46.641074
+Sao Paulo,543839,Consolação,Hotel room,800.0,26,343,75,4.47,103.0,Unhealthy for Sensitive Groups,-23.510893,-46.662879
+Sao Paulo,419213,Itaim Bibi,Entire home/apt,551.51,2,310,132,3.71,151.0,Unhealthy,-23.563899,-46.576644
+Sao Paulo,607769,Itaim Bibi,Private room,598.59,16,214,42,3.93,80.0,Moderate,-23.508398,-46.60501
+Sao Paulo,323671,Moema,Entire home/apt,290.42,30,266,27,4.34,128.0,Unhealthy for Sensitive Groups,-23.519733,-46.600901
+Sao Paulo,561698,Liberdade,Entire home/apt,536.86,1,146,35,4.44,53.0,Moderate,-23.559011,-46.681636
+Sao Paulo,835380,Pinheiros,Entire home/apt,357.29,19,186,0,4.23,87.0,Moderate,-23.521851,-46.565068
+Sao Paulo,183204,Bela Vista,Entire home/apt,,19,317,12,4.56,,,-23.607723,-46.619518
+Sao Paulo,188691,Jardins,Private room,800.0,2,20,11,4.62,122.0,Unhealthy for Sensitive Groups,-23.521329,-46.69131
+Sao Paulo,930751,Itaim Bibi,Private room,753.75,24,350,88,3.82,90.0,Moderate,-23.563086,-46.67126
+Sao Paulo,471540,Vila Madalena,Entire home/apt,264.52,1,57,41,4.59,65.0,Moderate,-23.550291,-46.617373
+Sao Paulo,830504,Jardins,Private room,353.77,1,169,49,4.14,111.0,Unhealthy for Sensitive Groups,-23.585114,-46.656331
+Sao Paulo,720216,Moema,Private room,250.38,6,357,20,4.44,72.0,Moderate,-23.564418,-46.583089
+Sao Paulo,313758,Vila Madalena,Private room,321.85,14,336,69,3.98,129.0,Unhealthy for Sensitive Groups,-23.600209,-46.690783
+Sao Paulo,825672,Pinheiros,Entire home/apt,258.04,22,269,51,,79.0,Moderate,-23.570299,-46.606146
+Sao Paulo,487352,Itaim Bibi,Entire home/apt,475.33,1,223,12,4.12,90.0,Moderate,-23.610754,-46.685536
+Sao Paulo,990796,Pinheiros,Shared room,270.62,9,244,57,5.0,63.0,Moderate,-23.551753,-46.646997
+Sao Paulo,218787,Jardins,Entire home/apt,,15,21,48,4.19,115.0,Unhealthy for Sensitive Groups,-23.482367,-46.617321
+Sao Paulo,746412,Jardins,Entire home/apt,416.95,1,75,137,4.48,74.0,Moderate,-23.511534,-46.598401
+Sao Paulo,907620,Bela Vista,Private room,467.99,18,233,11,4.46,103.0,Unhealthy for Sensitive Groups,-23.495927,-46.702895
+Sao Paulo,968944,Consolação,Shared room,433.02,27,31,19,4.9,39.0,Good,-23.597986,-46.662689
+Sao Paulo,105746,Vila Madalena,Private room,800.0,5,263,20,4.45,95.0,Moderate,-23.592151,-46.596897
+Sao Paulo,894856,Pinheiros,Private room,663.42,3,238,31,4.51,99.0,Moderate,-23.506215,-46.604388
+Sao Paulo,191573,Itaim Bibi,Entire home/apt,423.46,26,291,83,,,,-23.616846,-46.70124
+Sao Paulo,115638,Itaim Bibi,Entire home/apt,350.04,30,54,7,4.3,101.0,Unhealthy for Sensitive Groups,-23.562088,-46.634275
+Sao Paulo,240707,Consolação,Entire home/apt,335.06,8,364,19,5.0,,,-23.573326,-46.646469
+Sao Paulo,427839,Pinheiros,Entire home/apt,800.0,1,93,10,4.38,89.0,Moderate,-23.57435,-46.614862
+Sao Paulo,354720,Vila Madalena,Entire home/apt,468.63,1,117,4,,,,-23.484748,-46.659776
+Sao Paulo,339241,Vila Madalena,Private room,210.71,7,256,9,5.0,107.0,Unhealthy for Sensitive Groups,-23.490786,-46.618436
+Sao Paulo,888588,Moema,Entire home/apt,489.69,24,55,16,4.36,143.0,Unhealthy for Sensitive Groups,-23.58502,-46.567436
+Sao Paulo,884345,Bela Vista,Entire home/apt,199.87,2,4,34,,,,-23.557032,-46.641669
+Sao Paulo,635180,Liberdade,Entire home/apt,435.72,24,333,47,4.21,85.0,Moderate,-23.607657,-46.59363
+Sao Paulo,711049,Liberdade,Entire home/apt,566.0,2,253,12,4.3,56.0,Moderate,-23.585915,-46.600481
+Sao Paulo,855247,Liberdade,Entire home/apt,552.98,27,308,32,4.67,50.0,Good,-23.564662,-46.700551
+Sao Paulo,612057,Moema,Entire home/apt,301.73,22,320,83,4.77,67.0,Moderate,-23.612858,-46.674754
+Sao Paulo,353248,Pinheiros,Private room,414.45,3,16,25,4.33,78.0,Moderate,-23.54635,-46.681865
+Sao Paulo,267127,Moema,Shared room,309.79,2,61,40,3.76,97.0,Moderate,-23.50616,-46.564748
+Sao Paulo,302560,Pinheiros,Entire home/apt,538.76,6,79,25,5.0,82.0,Moderate,-23.562631,-46.672765
+Sao Paulo,750484,Vila Madalena,Shared room,403.79,3,197,26,3.31,83.0,Moderate,-23.514647,-46.598221
+Sao Paulo,862452,Itaim Bibi,Entire home/apt,254.23,11,227,21,3.98,96.0,Moderate,-23.535847,-46.589446
+Sao Paulo,735558,Jardins,Entire home/apt,329.53,1,279,7,4.1,,,-23.481568,-46.649895
+Sao Paulo,796881,Liberdade,Entire home/apt,,10,325,7,4.51,122.0,Unhealthy for Sensitive Groups,-23.534033,-46.626476
+Sao Paulo,259446,Jardins,Private room,552.19,1,20,43,4.77,80.0,Moderate,-23.486601,-46.581804
+Sao Paulo,367703,Pinheiros,Entire home/apt,625.19,22,276,5,4.56,64.0,Moderate,-23.544631,-46.674536
+Sao Paulo,431243,Consolação,Entire home/apt,458.51,30,299,52,4.64,111.0,Unhealthy for Sensitive Groups,-23.51474,-46.63513
+Sao Paulo,342534,Jardins,Entire home/apt,489.08,2,31,40,4.25,109.0,Unhealthy for Sensitive Groups,-23.582349,-46.598316
+Sao Paulo,145335,Pinheiros,Hotel room,396.6,13,81,14,4.22,88.0,Moderate,-23.488503,-46.654737
+Sao Paulo,936511,Itaim Bibi,Entire home/apt,341.44,1,246,75,5.0,91.0,Moderate,-23.518689,-46.592237
+Sao Paulo,404105,Vila Madalena,Entire home/apt,456.77,2,144,6,3.86,108.0,Unhealthy for Sensitive Groups,-23.495415,-46.619371
+Sao Paulo,920012,Itaim Bibi,Entire home/apt,800.0,23,175,61,4.27,54.0,Moderate,-23.497686,-46.61063
+Sao Paulo,940341,Consolação,Entire home/apt,505.45,1,25,5,5.0,40.0,Good,-23.561643,-46.698624
+Sao Paulo,552135,Pinheiros,Shared room,487.02,21,290,10,,126.0,Unhealthy for Sensitive Groups,-23.501201,-46.700038
+Sao Paulo,854151,Bela Vista,Private room,,1,3,5,4.94,69.0,Moderate,-23.504816,-46.592988
+Sao Paulo,521027,Bela Vista,Entire home/apt,,12,163,4,4.73,78.0,Moderate,-23.495342,-46.687542
+Sao Paulo,514966,Pinheiros,Hotel room,546.57,29,65,4,4.13,99.0,Moderate,-23.545703,-46.586525
+Sao Paulo,198389,Liberdade,Entire home/apt,800.0,25,1,28,4.03,93.0,Moderate,-23.514445,-46.700533
+Sao Paulo,160760,Consolação,Entire home/apt,567.5,13,365,0,4.5,74.0,Moderate,-23.596344,-46.620728
+Sao Paulo,919777,Pinheiros,Entire home/apt,220.38,1,204,39,4.57,77.0,Moderate,-23.545111,-46.584052
+Sao Paulo,554710,Pinheiros,Entire home/apt,382.96,19,200,79,4.04,64.0,Moderate,-23.570879,-46.637738
+Sao Paulo,427520,Consolação,Entire home/apt,693.76,29,114,31,4.08,109.0,Unhealthy for Sensitive Groups,-23.500829,-46.636876
+Sao Paulo,985462,Moema,Entire home/apt,260.48,23,53,5,4.49,73.0,Moderate,-23.483943,-46.646943
+Sao Paulo,520587,Pinheiros,Entire home/apt,800.0,4,48,101,4.01,73.0,Moderate,-23.489601,-46.640055
+Sao Paulo,586168,Bela Vista,Private room,239.34,16,111,18,5.0,147.0,Unhealthy for Sensitive Groups,-23.577841,-46.637318
+Sao Paulo,540011,Moema,Shared room,611.28,3,72,51,5.0,97.0,Moderate,-23.487028,-46.65022
+Sao Paulo,978019,Jardins,Entire home/apt,778.35,14,149,14,4.27,74.0,Moderate,-23.496564,-46.641779
+Sao Paulo,578877,Pinheiros,Entire home/apt,254.58,2,70,62,,121.0,Unhealthy for Sensitive Groups,-23.574325,-46.677024
+Sao Paulo,181782,Itaim Bibi,Shared room,308.48,27,196,16,3.99,104.0,Unhealthy for Sensitive Groups,-23.553859,-46.622465
+Sao Paulo,405290,Bela Vista,Entire home/apt,385.77,1,44,62,4.53,108.0,Unhealthy for Sensitive Groups,-23.593237,-46.57383
+Sao Paulo,250822,Itaim Bibi,Entire home/apt,542.16,6,175,85,4.08,91.0,Moderate,-23.539621,-46.59009
+Sao Paulo,120526,Consolação,Entire home/apt,202.29,3,323,13,4.36,145.0,Unhealthy for Sensitive Groups,-23.519433,-46.630989
+Sao Paulo,406615,Pinheiros,Entire home/apt,800.0,9,144,71,4.28,36.0,Good,-23.540118,-46.645856
+Sao Paulo,933699,Itaim Bibi,Entire home/apt,665.79,2,220,69,3.18,54.0,Moderate,-23.511704,-46.691136
+Sao Paulo,830820,Jardins,Entire home/apt,295.55,9,346,24,4.4,81.0,Moderate,-23.593575,-46.573816
+Sao Paulo,268639,Moema,Entire home/apt,205.76,1,278,16,4.23,82.0,Moderate,-23.595213,-46.581567
+Sao Paulo,584337,Vila Madalena,Hotel room,604.88,1,363,196,4.73,69.0,Moderate,-23.584935,-46.602695
+Sao Paulo,124196,Bela Vista,Private room,563.25,1,178,37,4.77,96.0,Moderate,-23.507153,-46.633289
+Sao Paulo,828033,Itaim Bibi,Entire home/apt,454.17,14,232,97,5.0,98.0,Moderate,-23.606355,-46.582137
+Sao Paulo,688889,Consolação,Private room,,23,357,2,4.3,129.0,Unhealthy for Sensitive Groups,-23.606949,-46.578464
+Sao Paulo,773811,Vila Madalena,Private room,800.0,23,296,11,5.0,115.0,Unhealthy for Sensitive Groups,-23.540354,-46.639495
+Sao Paulo,895451,Bela Vista,Entire home/apt,488.09,1,133,8,4.91,99.0,Moderate,-23.516161,-46.611182
+Sao Paulo,926147,Moema,Entire home/apt,279.73,27,72,35,4.43,121.0,Unhealthy for Sensitive Groups,-23.549312,-46.668641
+Sao Paulo,174134,Itaim Bibi,Private room,633.9,15,14,31,4.48,73.0,Moderate,-23.569455,-46.672741
+Sao Paulo,353957,Vila Madalena,Private room,461.3,22,47,2,3.39,47.0,Good,-23.557805,-46.633647
+Sao Paulo,643243,Liberdade,Private room,219.54,5,327,8,4.64,72.0,Moderate,-23.491795,-46.695605
+Sao Paulo,443310,Liberdade,Entire home/apt,368.73,17,32,31,,93.0,Moderate,-23.542164,-46.632826
+Sao Paulo,614093,Bela Vista,Entire home/apt,263.36,4,110,12,4.05,75.0,Moderate,-23.606235,-46.601306
+Sao Paulo,684449,Itaim Bibi,Private room,278.62,1,264,25,4.57,109.0,Unhealthy for Sensitive Groups,-23.497379,-46.652404
+Sao Paulo,905147,Consolação,Private room,227.9,1,68,27,4.6,41.0,Good,-23.568775,-46.687345
+Sao Paulo,195566,Consolação,Entire home/apt,382.01,15,121,8,4.74,30.0,Good,-23.484163,-46.64583
+Sao Paulo,139410,Pinheiros,Private room,371.8,17,61,21,,74.0,Moderate,-23.590531,-46.695358
+Sao Paulo,235164,Consolação,Entire home/apt,257.65,24,99,129,4.56,150.0,Unhealthy for Sensitive Groups,-23.589108,-46.702535
+Sao Paulo,435794,Jardins,Entire home/apt,,30,59,19,4.47,53.0,Moderate,-23.590983,-46.574759
+Sao Paulo,224692,Moema,Entire home/apt,451.76,11,19,22,4.85,88.0,Moderate,-23.506295,-46.611801
+Sao Paulo,116123,Pinheiros,Shared room,379.27,1,342,23,4.74,86.0,Moderate,-23.511192,-46.685882
+Sao Paulo,501190,Jardins,Shared room,292.22,12,40,1,3.33,138.0,Unhealthy for Sensitive Groups,-23.574805,-46.601438
+Sao Paulo,101390,Consolação,Entire home/apt,781.77,1,95,19,4.76,115.0,Unhealthy for Sensitive Groups,-23.571164,-46.604591
+Sao Paulo,365737,Bela Vista,Entire home/apt,540.55,17,338,33,3.91,,,-23.529476,-46.612708
+Sao Paulo,293275,Itaim Bibi,Entire home/apt,383.46,29,48,2,4.27,63.0,Moderate,-23.59182,-46.657194
+Sao Paulo,200437,Moema,Shared room,380.66,7,100,66,4.09,136.0,Unhealthy for Sensitive Groups,-23.503043,-46.637737
+Sao Paulo,754191,Jardins,Private room,672.56,18,96,112,,103.0,Unhealthy for Sensitive Groups,-23.574031,-46.638811
+Sao Paulo,891625,Itaim Bibi,Entire home/apt,509.78,13,95,43,4.22,101.0,Unhealthy for Sensitive Groups,-23.616329,-46.701076
+Sao Paulo,351856,Vila Madalena,Shared room,348.65,2,291,7,3.32,75.0,Moderate,-23.596798,-46.689615
+Sao Paulo,366155,Moema,Hotel room,322.34,3,145,39,5.0,80.0,Moderate,-23.567855,-46.661675
+Sao Paulo,472918,Vila Madalena,Private room,262.01,7,336,68,3.93,66.0,Moderate,-23.555948,-46.688309
+Sao Paulo,258580,Jardins,Entire home/apt,675.08,3,120,14,3.94,137.0,Unhealthy for Sensitive Groups,-23.488739,-46.701224
+Sao Paulo,860815,Vila Madalena,Shared room,182.81,27,345,70,4.08,88.0,Moderate,-23.498564,-46.650274
+Sao Paulo,232026,Itaim Bibi,Private room,800.0,8,148,9,3.32,,,-23.583122,-46.700107
+Sao Paulo,427078,Bela Vista,Private room,318.18,10,28,28,3.37,58.0,Moderate,-23.54143,-46.57319
+Sao Paulo,867507,Bela Vista,Shared room,471.27,1,316,13,4.37,98.0,Moderate,-23.556729,-46.660624
+Sao Paulo,537284,Vila Madalena,Entire home/apt,490.09,1,111,39,4.22,88.0,Moderate,-23.532961,-46.577319
+Sao Paulo,333473,Jardins,Entire home/apt,800.0,1,277,36,4.88,,,-23.553333,-46.660393
+Sao Paulo,627397,Bela Vista,Private room,461.96,13,70,16,3.96,66.0,Moderate,-23.612866,-46.626344
+Sao Paulo,833138,Vila Madalena,Entire home/apt,412.36,8,47,100,3.91,98.0,Moderate,-23.509821,-46.665464
+Sao Paulo,838411,Jardins,Shared room,493.46,1,82,0,4.52,54.0,Moderate,-23.589734,-46.631931
+Sao Paulo,164465,Moema,Entire home/apt,731.96,4,140,21,3.6,78.0,Moderate,-23.610797,-46.68505
+Sao Paulo,445694,Pinheiros,Entire home/apt,476.78,7,62,82,4.21,57.0,Moderate,-23.551088,-46.622734
+Sao Paulo,797880,Bela Vista,Entire home/apt,298.54,6,63,29,4.22,76.0,Moderate,-23.585316,-46.58168
+Sao Paulo,560911,Jardins,Shared room,283.76,23,310,1,4.31,,,-23.49761,-46.583556
+Sao Paulo,526695,Bela Vista,Hotel room,120.0,6,32,0,3.54,78.0,Moderate,-23.516276,-46.593707
+Sao Paulo,755757,Liberdade,Private room,248.04,2,294,52,4.7,115.0,Unhealthy for Sensitive Groups,-23.608264,-46.627748
+Sao Paulo,978884,Jardins,Private room,685.97,4,258,0,3.73,72.0,Moderate,-23.532034,-46.664532
+Sao Paulo,467458,Jardins,Entire home/apt,,24,296,43,3.79,104.0,Unhealthy for Sensitive Groups,-23.557515,-46.694741
+Sao Paulo,548550,Consolação,Private room,800.0,11,75,94,4.03,80.0,Moderate,-23.506337,-46.650986
+Sao Paulo,682711,Pinheiros,Private room,800.0,1,93,6,4.57,60.0,Moderate,-23.569776,-46.602068
+Sao Paulo,939409,Moema,Shared room,800.0,2,259,98,4.69,111.0,Unhealthy for Sensitive Groups,-23.538979,-46.639955
+Sao Paulo,721455,Jardins,Entire home/apt,370.42,16,131,14,3.74,78.0,Moderate,-23.569638,-46.596177
+Sao Paulo,559181,Pinheiros,Hotel room,266.52,2,187,105,4.06,57.0,Moderate,-23.511435,-46.565563
+Sao Paulo,425859,Liberdade,Entire home/apt,681.63,29,146,6,3.64,102.0,Unhealthy for Sensitive Groups,-23.598673,-46.650195
+Sao Paulo,627901,Jardins,Entire home/apt,425.36,1,136,7,4.02,114.0,Unhealthy for Sensitive Groups,-23.614222,-46.58783
+Sao Paulo,250457,Consolação,Private room,305.85,16,91,7,3.93,49.0,Good,-23.557188,-46.565101
+Sao Paulo,283330,Itaim Bibi,Entire home/apt,190.03,7,48,27,4.4,,,-23.610123,-46.694416
+Sao Paulo,592667,Vila Madalena,Entire home/apt,428.17,5,251,19,,86.0,Moderate,-23.50972,-46.675563
+Sao Paulo,186766,Moema,Shared room,304.7,1,63,23,4.17,127.0,Unhealthy for Sensitive Groups,-23.609042,-46.642743
+Sao Paulo,391928,Itaim Bibi,Private room,615.76,9,167,17,3.99,91.0,Moderate,-23.508878,-46.566112
+Sao Paulo,806073,Pinheiros,Entire home/apt,279.09,5,260,30,3.76,71.0,Moderate,-23.521081,-46.623032
+Sao Paulo,248737,Consolação,Hotel room,641.18,26,64,83,4.84,52.0,Moderate,-23.591857,-46.580749
+Sao Paulo,423576,Bela Vista,Entire home/apt,301.72,5,15,25,3.52,99.0,Moderate,-23.553265,-46.607356
+Sao Paulo,999910,Itaim Bibi,Private room,540.09,17,299,1,4.44,57.0,Moderate,-23.536094,-46.630247
+Sao Paulo,621155,Vila Madalena,Entire home/apt,800.0,1,194,51,4.59,87.0,Moderate,-23.501035,-46.576533
+Sao Paulo,717767,Jardins,Shared room,314.01,16,206,11,4.14,61.0,Moderate,-23.559165,-46.602146
+Sao Paulo,745207,Bela Vista,Entire home/apt,594.89,1,33,2,,91.0,Moderate,-23.596817,-46.614107
+Sao Paulo,128020,Pinheiros,Entire home/apt,731.84,14,170,51,3.95,84.0,Moderate,-23.508891,-46.621015
+Sao Paulo,848974,Bela Vista,Entire home/apt,424.22,2,6,62,3.98,,,-23.571792,-46.573333
+Sao Paulo,186038,Moema,Private room,201.23,1,342,81,3.49,80.0,Moderate,-23.518981,-46.58231
+Sao Paulo,431549,Moema,Entire home/apt,800.0,3,206,38,4.78,71.0,Moderate,-23.562266,-46.648817
+Sao Paulo,934908,Vila Madalena,Private room,721.54,2,53,73,4.03,55.0,Moderate,-23.51031,-46.597858
+Sao Paulo,431743,Pinheiros,Private room,455.69,18,306,4,4.31,93.0,Moderate,-23.519516,-46.636527
+Sao Paulo,618166,Itaim Bibi,Entire home/apt,336.17,15,93,29,4.68,98.0,Moderate,-23.555264,-46.565734
+Sao Paulo,935961,Bela Vista,Shared room,243.46,14,209,87,4.59,88.0,Moderate,-23.485942,-46.640877
+Sao Paulo,519306,Bela Vista,Entire home/apt,,13,287,31,4.88,101.0,Unhealthy for Sensitive Groups,-23.532364,-46.678102
+Sao Paulo,158794,Vila Madalena,Entire home/apt,607.12,10,77,32,4.77,63.0,Moderate,-23.485472,-46.566781
+Sao Paulo,482763,Itaim Bibi,Entire home/apt,,3,260,118,4.73,112.0,Unhealthy for Sensitive Groups,-23.524956,-46.609358
+Sao Paulo,725866,Jardins,Entire home/apt,531.6,15,52,32,4.83,85.0,Moderate,-23.488133,-46.569826
+Sao Paulo,276342,Jardins,Entire home/apt,800.0,24,19,72,4.72,,,-23.536753,-46.683077
+Sao Paulo,673285,Consolação,Private room,387.25,3,170,3,3.75,68.0,Moderate,-23.55148,-46.603092
+Sao Paulo,794559,Itaim Bibi,Hotel room,563.37,26,137,50,4.0,56.0,Moderate,-23.537807,-46.617097
+Sao Paulo,788851,Liberdade,Entire home/apt,231.71,13,364,13,4.82,94.0,Moderate,-23.517998,-46.568097
+Sao Paulo,881720,Liberdade,Entire home/apt,,29,176,26,3.46,68.0,Moderate,-23.557056,-46.649356
+Sao Paulo,602545,Pinheiros,Hotel room,655.44,2,333,16,4.11,151.0,Unhealthy,-23.532397,-46.667254
+Sao Paulo,398878,Liberdade,Entire home/apt,333.19,3,222,6,3.69,91.0,Moderate,-23.48508,-46.63244
+Sao Paulo,579135,Consolação,Private room,649.31,3,254,0,3.73,72.0,Moderate,-23.521557,-46.666214
+Sao Paulo,284603,Pinheiros,Entire home/apt,234.19,17,341,3,4.5,87.0,Moderate,-23.603801,-46.646535
+Sao Paulo,983813,Consolação,Shared room,756.51,3,145,8,4.54,65.0,Moderate,-23.523866,-46.678708
+Sao Paulo,151957,Liberdade,Private room,402.13,19,210,27,4.4,113.0,Unhealthy for Sensitive Groups,-23.565259,-46.574204
+Sao Paulo,270379,Bela Vista,Shared room,531.03,1,262,10,4.76,120.0,Unhealthy for Sensitive Groups,-23.54921,-46.578297
+Sao Paulo,263841,Jardins,Private room,204.02,16,6,81,4.39,,,-23.538443,-46.66224
+Sao Paulo,391192,Liberdade,Hotel room,662.07,4,250,207,4.05,116.0,Unhealthy for Sensitive Groups,-23.533294,-46.597698
+Sao Paulo,805166,Moema,Shared room,542.73,12,359,127,4.53,43.0,Good,-23.604898,-46.679598
+Sao Paulo,771288,Itaim Bibi,Shared room,341.94,27,142,19,4.48,115.0,Unhealthy for Sensitive Groups,-23.566963,-46.589477
+Sao Paulo,985777,Itaim Bibi,Private room,301.27,1,92,20,4.74,98.0,Moderate,-23.575903,-46.641706
+Sao Paulo,317544,Jardins,Entire home/apt,800.0,14,328,29,4.81,37.0,Good,-23.517063,-46.701659
+Sao Paulo,958098,Consolação,Entire home/apt,364.91,2,187,71,4.45,117.0,Unhealthy for Sensitive Groups,-23.549142,-46.573514
+Sao Paulo,653086,Consolação,Hotel room,692.36,26,264,48,4.04,129.0,Unhealthy for Sensitive Groups,-23.545062,-46.574261
+Sao Paulo,374077,Bela Vista,Entire home/apt,415.32,2,127,1,4.23,81.0,Moderate,-23.579675,-46.618132
+Sao Paulo,749786,Vila Madalena,Private room,292.2,3,262,20,4.47,93.0,Moderate,-23.522657,-46.641271
+Sao Paulo,981393,Moema,Entire home/apt,271.68,7,280,17,4.66,107.0,Unhealthy for Sensitive Groups,-23.582074,-46.601037
+Sao Paulo,307033,Jardins,Entire home/apt,446.62,2,224,216,3.59,87.0,Moderate,-23.604592,-46.604504
+Sao Paulo,194603,Liberdade,Private room,691.86,8,353,74,3.65,100.0,Moderate,-23.539378,-46.648341
+Sao Paulo,535067,Bela Vista,Entire home/apt,800.0,3,190,14,5.0,87.0,Moderate,-23.485243,-46.618198
+Sao Paulo,294167,Pinheiros,Entire home/apt,383.51,10,359,35,4.21,,,-23.486901,-46.695715
+Sao Paulo,699253,Consolação,Private room,800.0,6,239,32,4.59,69.0,Moderate,-23.563563,-46.597714
+Sao Paulo,583475,Bela Vista,Private room,568.35,13,267,20,3.56,84.0,Moderate,-23.579759,-46.588647
+Sao Paulo,906488,Consolação,Hotel room,644.47,5,138,40,4.23,69.0,Moderate,-23.493848,-46.601864
+Sao Paulo,345585,Consolação,Entire home/apt,244.06,24,188,55,4.21,67.0,Moderate,-23.569662,-46.611455
+Sao Paulo,548274,Jardins,Shared room,285.91,21,13,190,3.19,100.0,Moderate,-23.502443,-46.573481
+Sao Paulo,431051,Moema,Entire home/apt,382.48,7,110,47,4.76,109.0,Unhealthy for Sensitive Groups,-23.523642,-46.628774
+Sao Paulo,318876,Vila Madalena,Private room,335.02,22,50,9,4.6,129.0,Unhealthy for Sensitive Groups,-23.523414,-46.605731
+Sao Paulo,756752,Liberdade,Private room,718.64,4,148,61,3.53,,,-23.52172,-46.596225
+Sao Paulo,353216,Jardins,Private room,,26,228,58,3.83,55.0,Moderate,-23.493496,-46.60115
+Sao Paulo,562757,Itaim Bibi,Private room,,3,34,68,,76.0,Moderate,-23.525861,-46.684053
+Sao Paulo,994787,Consolação,Shared room,800.0,6,161,63,4.25,63.0,Moderate,-23.605787,-46.601465
+Sao Paulo,437593,Jardins,Private room,612.28,8,217,21,5.0,77.0,Moderate,-23.549868,-46.63934
+Sao Paulo,862765,Moema,Entire home/apt,256.74,9,111,67,4.25,99.0,Moderate,-23.618267,-46.655989
+Sao Paulo,388752,Itaim Bibi,Entire home/apt,641.58,1,65,16,3.61,85.0,Moderate,-23.535516,-46.629911
+Sao Paulo,182149,Bela Vista,Entire home/apt,,24,187,5,5.0,75.0,Moderate,-23.48991,-46.692888
+Sao Paulo,966032,Jardins,Private room,,2,86,22,4.45,96.0,Moderate,-23.513722,-46.615804
+Sao Paulo,475403,Moema,Shared room,800.0,17,359,11,4.29,81.0,Moderate,-23.587951,-46.573875
+Sao Paulo,704247,Itaim Bibi,Shared room,165.98,23,85,7,4.14,139.0,Unhealthy for Sensitive Groups,-23.571012,-46.605861
+Sao Paulo,350704,Itaim Bibi,Private room,,22,34,25,5.0,113.0,Unhealthy for Sensitive Groups,-23.549675,-46.65255
+Sao Paulo,649757,Vila Madalena,Entire home/apt,595.8,25,112,38,4.51,99.0,Moderate,-23.560728,-46.688709
+Sao Paulo,338056,Jardins,Private room,335.75,2,243,5,3.79,86.0,Moderate,-23.606062,-46.617494
+Sao Paulo,544001,Pinheiros,Private room,686.79,15,122,154,4.32,129.0,Unhealthy for Sensitive Groups,-23.573152,-46.684923
+Sao Paulo,758373,Liberdade,Entire home/apt,747.06,15,352,208,3.72,59.0,Moderate,-23.557086,-46.689071
+Sao Paulo,284521,Vila Madalena,Private room,570.46,1,139,12,4.33,101.0,Unhealthy for Sensitive Groups,-23.506215,-46.628656
+Sao Paulo,822959,Jardins,Private room,,4,279,54,4.71,77.0,Moderate,-23.512968,-46.654628
+Sao Paulo,589883,Moema,Entire home/apt,509.7,7,324,13,4.57,79.0,Moderate,-23.569842,-46.591474
+Sao Paulo,231413,Jardins,Entire home/apt,514.68,3,218,69,4.79,,,-23.49826,-46.688009
+Sao Paulo,115999,Pinheiros,Entire home/apt,514.21,30,260,61,5.0,99.0,Moderate,-23.52083,-46.685675
+Sao Paulo,480915,Consolação,Private room,120.0,21,207,41,4.98,97.0,Moderate,-23.579508,-46.634205
+Sao Paulo,630793,Bela Vista,Private room,800.0,15,311,18,3.39,112.0,Unhealthy for Sensitive Groups,-23.519179,-46.64917
+Sao Paulo,606329,Liberdade,Private room,342.2,12,30,23,5.0,159.0,Unhealthy,-23.575052,-46.61691
+Sao Paulo,414854,Moema,Private room,372.51,26,27,10,4.17,146.0,Unhealthy for Sensitive Groups,-23.56806,-46.672498
+Sao Paulo,433602,Liberdade,Shared room,787.78,5,47,3,4.5,100.0,Moderate,-23.520779,-46.681878
+Sao Paulo,537355,Itaim Bibi,Private room,439.15,25,104,101,4.15,88.0,Moderate,-23.505658,-46.597939
+Sao Paulo,603065,Consolação,Entire home/apt,,17,265,60,4.31,108.0,Unhealthy for Sensitive Groups,-23.523433,-46.606922
+Sao Paulo,645968,Pinheiros,Entire home/apt,279.72,23,182,7,4.49,100.0,Moderate,-23.529544,-46.596753
+Sao Paulo,998587,Vila Madalena,Private room,353.73,1,250,144,4.75,70.0,Moderate,-23.495177,-46.565981
+Sao Paulo,175079,Consolação,Private room,370.97,26,203,67,4.9,82.0,Moderate,-23.525044,-46.575376
+Sao Paulo,601711,Consolação,Entire home/apt,203.22,20,171,133,4.35,,,-23.535336,-46.580813
+Sao Paulo,814010,Vila Madalena,Entire home/apt,448.26,29,18,28,3.85,101.0,Unhealthy for Sensitive Groups,-23.601323,-46.68652
+Sao Paulo,998532,Bela Vista,Entire home/apt,800.0,18,238,95,4.59,117.0,Unhealthy for Sensitive Groups,-23.48638,-46.683967
+Sao Paulo,177918,Jardins,Entire home/apt,305.2,13,282,22,4.12,110.0,Unhealthy for Sensitive Groups,-23.498177,-46.697648
+Sao Paulo,566921,Jardins,Private room,625.48,8,256,28,4.61,62.0,Moderate,-23.570843,-46.69415
+Sao Paulo,491429,Consolação,Entire home/apt,,8,166,2,4.55,92.0,Moderate,-23.564193,-46.698403
+Sao Paulo,182649,Pinheiros,Entire home/apt,413.35,8,16,7,4.38,61.0,Moderate,-23.512541,-46.690156
+Sao Paulo,232379,Moema,Entire home/apt,,1,124,25,4.32,43.0,Good,-23.528826,-46.618387
+Sao Paulo,716905,Consolação,Entire home/apt,323.55,1,302,33,3.84,69.0,Moderate,-23.567622,-46.65407
+Sao Paulo,968894,Itaim Bibi,Entire home/apt,607.04,5,53,85,4.96,102.0,Unhealthy for Sensitive Groups,-23.50457,-46.643868
+Sao Paulo,965178,Bela Vista,Private room,,25,194,21,4.45,82.0,Moderate,-23.599469,-46.654393
+Sao Paulo,221414,Bela Vista,Private room,165.65,18,182,9,3.88,69.0,Moderate,-23.555096,-46.586967
+Sao Paulo,342533,Bela Vista,Entire home/apt,199.42,1,152,55,3.87,71.0,Moderate,-23.535722,-46.58905
+Sao Paulo,192912,Consolação,Entire home/apt,393.64,3,145,50,4.8,100.0,Moderate,-23.576632,-46.684611
+Sao Paulo,877050,Itaim Bibi,Private room,394.64,3,43,161,3.65,86.0,Moderate,-23.619909,-46.661128
+Sao Paulo,896567,Itaim Bibi,Private room,420.45,1,61,19,4.58,85.0,Moderate,-23.552196,-46.69043
+Sao Paulo,460943,Itaim Bibi,Entire home/apt,800.0,9,357,2,3.63,118.0,Unhealthy for Sensitive Groups,-23.484857,-46.676892
+Sao Paulo,356173,Pinheiros,Entire home/apt,233.63,25,193,89,3.62,72.0,Moderate,-23.483455,-46.637766
+Sao Paulo,788561,Itaim Bibi,Entire home/apt,800.0,15,325,15,4.52,77.0,Moderate,-23.491434,-46.58978
+Sao Paulo,552858,Bela Vista,Entire home/apt,402.79,11,171,10,3.97,132.0,Unhealthy for Sensitive Groups,-23.537884,-46.566511
+Sao Paulo,665308,Moema,Entire home/apt,408.73,14,178,95,2.8,105.0,Unhealthy for Sensitive Groups,-23.515359,-46.588537
+Sao Paulo,107746,Pinheiros,Entire home/apt,800.0,3,71,0,4.07,98.0,Moderate,-23.514912,-46.666459
+Sao Paulo,292943,Moema,Private room,,27,271,10,3.82,136.0,Unhealthy for Sensitive Groups,-23.557423,-46.590452
+Sao Paulo,711106,Jardins,Entire home/apt,357.64,29,223,143,3.86,99.0,Moderate,-23.505102,-46.615751
+Sao Paulo,903443,Bela Vista,Entire home/apt,660.77,30,15,97,4.32,106.0,Unhealthy for Sensitive Groups,-23.508725,-46.584152
+Sao Paulo,462821,Itaim Bibi,Entire home/apt,800.0,25,251,19,3.53,116.0,Unhealthy for Sensitive Groups,-23.53862,-46.697738
+Sao Paulo,813205,Vila Madalena,Entire home/apt,800.0,25,324,25,4.27,86.0,Moderate,-23.503307,-46.639718
+Sao Paulo,873795,Vila Madalena,Private room,441.24,27,51,14,4.27,83.0,Moderate,-23.504589,-46.688938
+Sao Paulo,106522,Liberdade,Entire home/apt,800.0,26,47,43,4.0,107.0,Unhealthy for Sensitive Groups,-23.592247,-46.58569
+Sao Paulo,807987,Bela Vista,Private room,382.96,21,93,35,3.81,92.0,Moderate,-23.609411,-46.602028
+Sao Paulo,194404,Liberdade,Entire home/apt,359.45,2,287,2,4.84,47.0,Good,-23.52595,-46.570098
+Sao Paulo,686969,Itaim Bibi,Private room,512.51,28,207,1,,129.0,Unhealthy for Sensitive Groups,-23.557359,-46.650503
+Sao Paulo,595571,Liberdade,Entire home/apt,297.93,19,347,18,4.48,107.0,Unhealthy for Sensitive Groups,-23.578713,-46.600257
+Sao Paulo,811296,Bela Vista,Private room,450.09,4,159,33,5.0,,,-23.49245,-46.619562
+Sao Paulo,538305,Itaim Bibi,Entire home/apt,602.72,29,92,48,4.49,101.0,Unhealthy for Sensitive Groups,-23.603513,-46.658117
+Sao Paulo,242923,Bela Vista,Entire home/apt,800.0,9,189,69,4.56,101.0,Unhealthy for Sensitive Groups,-23.50968,-46.600428
+Sao Paulo,271195,Consolação,Private room,430.17,9,332,61,4.97,87.0,Moderate,-23.605017,-46.652143
+Sao Paulo,101789,Jardins,Private room,741.28,28,147,18,4.84,115.0,Unhealthy for Sensitive Groups,-23.593892,-46.606184
+Sao Paulo,652457,Moema,Private room,732.83,25,161,123,3.72,77.0,Moderate,-23.508133,-46.585723
+Sao Paulo,746215,Bela Vista,Private room,330.47,8,131,28,4.16,85.0,Moderate,-23.523783,-46.608218
+Sao Paulo,604249,Liberdade,Entire home/apt,800.0,27,269,0,4.73,82.0,Moderate,-23.504472,-46.679639
+Sao Paulo,484664,Pinheiros,Hotel room,674.26,15,91,32,4.37,83.0,Moderate,-23.611886,-46.611066
+Sao Paulo,947167,Bela Vista,Private room,,19,30,3,3.93,16.0,Good,-23.498527,-46.57608
+Sao Paulo,784596,Pinheiros,Entire home/apt,800.0,13,328,32,5.0,104.0,Unhealthy for Sensitive Groups,-23.566681,-46.658631
+Sao Paulo,386268,Itaim Bibi,Entire home/apt,672.47,22,302,19,4.63,83.0,Moderate,-23.485487,-46.611632
+Sao Paulo,473623,Liberdade,Entire home/apt,645.1,7,191,3,4.18,,,-23.499831,-46.587667
+Sao Paulo,959819,Pinheiros,Entire home/apt,323.07,15,5,11,4.38,57.0,Moderate,-23.50414,-46.672954
+Sao Paulo,465343,Consolação,Entire home/apt,236.09,3,100,34,4.63,94.0,Moderate,-23.605145,-46.58264
+Sao Paulo,878092,Liberdade,Entire home/apt,344.44,27,181,83,3.67,49.0,Good,-23.513265,-46.613733
+Sao Paulo,665922,Consolação,Entire home/apt,281.46,24,351,41,4.77,90.0,Moderate,-23.534083,-46.620559
+Sao Paulo,733010,Jardins,Entire home/apt,321.46,19,136,23,2.94,64.0,Moderate,-23.563715,-46.608759
+Sao Paulo,701355,Liberdade,Entire home/apt,673.33,14,225,6,,54.0,Moderate,-23.562431,-46.651056
+Sao Paulo,917880,Bela Vista,Private room,,4,314,76,2.74,48.0,Good,-23.498202,-46.581362
+Sao Paulo,344806,Jardins,Entire home/apt,335.46,3,324,79,3.93,68.0,Moderate,-23.556791,-46.654531
+Sao Paulo,720234,Bela Vista,Shared room,172.38,1,228,36,4.14,108.0,Unhealthy for Sensitive Groups,-23.613051,-46.5906
+Sao Paulo,843573,Bela Vista,Entire home/apt,208.17,20,333,23,4.61,70.0,Moderate,-23.605449,-46.676424
+Sao Paulo,266160,Jardins,Private room,511.89,23,136,151,4.4,42.0,Good,-23.507332,-46.640457
+Sao Paulo,845137,Liberdade,Private room,800.0,6,218,13,5.0,83.0,Moderate,-23.509451,-46.62061
+Sao Paulo,469155,Consolação,Entire home/apt,391.29,18,40,20,3.41,58.0,Moderate,-23.592469,-46.699113
+Sao Paulo,196062,Itaim Bibi,Private room,276.41,1,283,3,4.63,48.0,Good,-23.588052,-46.630381
+Sao Paulo,761470,Vila Madalena,Hotel room,524.26,27,9,37,4.08,94.0,Moderate,-23.596926,-46.578693
+Sao Paulo,869058,Moema,Entire home/apt,565.04,27,117,52,3.39,79.0,Moderate,-23.546457,-46.637234
+Sao Paulo,888548,Jardins,Entire home/apt,245.14,30,92,127,4.34,54.0,Moderate,-23.552155,-46.60473
+Sao Paulo,653338,Itaim Bibi,Private room,800.0,7,152,41,4.0,87.0,Moderate,-23.548931,-46.674265
+Sao Paulo,452335,Pinheiros,Private room,201.29,15,363,50,3.71,65.0,Moderate,-23.565442,-46.669651
+Sao Paulo,312506,Pinheiros,Entire home/apt,773.69,2,135,96,4.51,102.0,Unhealthy for Sensitive Groups,-23.616848,-46.584843
+Sao Paulo,881103,Consolação,Entire home/apt,600.16,1,195,69,4.23,,,-23.528976,-46.647109
+Sao Paulo,218049,Jardins,Shared room,332.65,20,359,34,5.0,113.0,Unhealthy for Sensitive Groups,-23.529653,-46.613254
+Sao Paulo,534814,Pinheiros,Shared room,469.33,1,68,5,4.38,115.0,Unhealthy for Sensitive Groups,-23.572757,-46.567513
+Sao Paulo,473272,Bela Vista,Entire home/apt,495.7,1,203,40,4.49,71.0,Moderate,-23.520934,-46.593137
+Sao Paulo,332907,Vila Madalena,Entire home/apt,120.0,7,364,9,4.31,108.0,Unhealthy for Sensitive Groups,-23.487355,-46.667885
+Sao Paulo,565904,Liberdade,Entire home/apt,388.92,28,349,64,3.68,129.0,Unhealthy for Sensitive Groups,-23.547403,-46.582598
+Sao Paulo,636248,Consolação,Shared room,743.51,23,74,42,4.22,117.0,Unhealthy for Sensitive Groups,-23.601653,-46.700087
+Sao Paulo,837434,Vila Madalena,Private room,800.0,22,270,17,4.34,68.0,Moderate,-23.505218,-46.605562
+Sao Paulo,945226,Bela Vista,Entire home/apt,356.39,13,272,11,4.59,98.0,Moderate,-23.497621,-46.674764
+Sao Paulo,867854,Moema,Shared room,,3,298,34,4.68,102.0,Unhealthy for Sensitive Groups,-23.600328,-46.685187
+Sao Paulo,967351,Jardins,Private room,600.37,14,72,0,4.42,71.0,Moderate,-23.487048,-46.575311
+Sao Paulo,866001,Vila Madalena,Shared room,345.23,10,13,56,4.71,61.0,Moderate,-23.585301,-46.602911
+Sao Paulo,200563,Consolação,Entire home/apt,580.09,3,234,27,4.76,,,-23.525669,-46.603558
+Sao Paulo,912052,Bela Vista,Private room,800.0,1,317,5,4.34,121.0,Unhealthy for Sensitive Groups,-23.497409,-46.577637
+Sao Paulo,247977,Liberdade,Entire home/apt,800.0,29,307,88,4.04,83.0,Moderate,-23.550848,-46.594289
+Sao Paulo,156071,Pinheiros,Private room,542.07,2,180,12,5.0,133.0,Unhealthy for Sensitive Groups,-23.561996,-46.628523
+Sao Paulo,394500,Vila Madalena,Entire home/apt,800.0,9,287,40,4.04,100.0,Moderate,-23.561404,-46.644478
+Sao Paulo,581837,Vila Madalena,Shared room,285.26,10,218,44,3.58,31.0,Good,-23.583101,-46.670882
+Sao Paulo,250470,Liberdade,Private room,426.2,2,169,18,4.86,84.0,Moderate,-23.614183,-46.674939
+Sao Paulo,750423,Bela Vista,Shared room,311.63,25,315,59,,98.0,Moderate,-23.61957,-46.620005
+Sao Paulo,307781,Moema,Entire home/apt,121.33,17,43,35,4.77,67.0,Moderate,-23.496835,-46.682841
+Sao Paulo,525112,Pinheiros,Entire home/apt,338.71,7,251,111,4.15,100.0,Moderate,-23.556169,-46.658527
+Sao Paulo,839046,Moema,Entire home/apt,307.79,29,92,74,4.18,88.0,Moderate,-23.606197,-46.69087
+Sao Paulo,658700,Pinheiros,Shared room,487.75,27,270,30,3.5,98.0,Moderate,-23.53987,-46.584618
+Sao Paulo,525673,Consolação,Private room,800.0,6,92,20,4.7,65.0,Moderate,-23.535682,-46.696837
+Sao Paulo,163358,Bela Vista,Entire home/apt,487.07,3,184,25,3.9,54.0,Moderate,-23.577931,-46.652183
+Sao Paulo,221893,Pinheiros,Entire home/apt,351.06,3,155,26,3.71,115.0,Unhealthy for Sensitive Groups,-23.578953,-46.66202
+Sao Paulo,319948,Jardins,Entire home/apt,800.0,27,86,15,4.42,27.0,Good,-23.508281,-46.647473
+Sao Paulo,533034,Moema,Private room,347.37,1,310,38,4.83,71.0,Moderate,-23.481169,-46.611954
+Sao Paulo,625478,Bela Vista,Private room,299.32,27,50,13,3.59,122.0,Unhealthy for Sensitive Groups,-23.618693,-46.603879
+Sao Paulo,746423,Pinheiros,Private room,317.4,2,298,0,4.25,76.0,Moderate,-23.527007,-46.697145
+Sao Paulo,203971,Bela Vista,Entire home/apt,678.5,2,257,25,4.96,99.0,Moderate,-23.616953,-46.694674
+Sao Paulo,381288,Itaim Bibi,Entire home/apt,297.99,13,290,109,,87.0,Moderate,-23.598406,-46.564077
+Sao Paulo,427159,Pinheiros,Private room,657.83,16,9,19,4.49,43.0,Good,-23.486757,-46.641431
+Sao Paulo,112017,Moema,Entire home/apt,631.49,1,184,6,4.25,,,-23.559861,-46.631401
+Sao Paulo,831213,Vila Madalena,Entire home/apt,579.55,4,123,34,4.95,68.0,Moderate,-23.533893,-46.678154
+Sao Paulo,394101,Liberdade,Hotel room,735.89,3,337,24,3.24,104.0,Unhealthy for Sensitive Groups,-23.600505,-46.596835
+Sao Paulo,432088,Consolação,Entire home/apt,406.35,3,173,43,4.78,68.0,Moderate,-23.588389,-46.621734
+Sao Paulo,880530,Vila Madalena,Private room,629.55,1,111,39,4.23,44.0,Good,-23.578633,-46.61801
+Sao Paulo,403521,Itaim Bibi,Entire home/apt,349.87,29,22,9,4.04,79.0,Moderate,-23.487586,-46.639393
+Sao Paulo,852267,Itaim Bibi,Entire home/apt,710.73,15,112,4,4.76,,,-23.614589,-46.675226
+Sao Paulo,967684,Liberdade,Shared room,509.95,7,319,23,4.87,74.0,Moderate,-23.544823,-46.570125
+Sao Paulo,863713,Liberdade,Entire home/apt,238.21,25,44,43,4.03,70.0,Moderate,-23.602776,-46.676897
+Sao Paulo,301937,Jardins,Private room,473.15,21,190,12,3.72,100.0,Moderate,-23.580069,-46.6544
+Sao Paulo,831606,Bela Vista,Hotel room,446.88,23,337,80,4.41,80.0,Moderate,-23.48781,-46.65594
+Sao Paulo,839094,Liberdade,Entire home/apt,618.13,11,289,8,5.0,84.0,Moderate,-23.589858,-46.682748
+Sao Paulo,758646,Vila Madalena,Private room,508.07,1,313,12,3.59,127.0,Unhealthy for Sensitive Groups,-23.490543,-46.571419
+Sao Paulo,619892,Bela Vista,Entire home/apt,512.06,20,99,15,4.17,89.0,Moderate,-23.521392,-46.651767
+Sao Paulo,954448,Liberdade,Private room,573.17,2,175,1,4.17,115.0,Unhealthy for Sensitive Groups,-23.515088,-46.582147
+Sao Paulo,444350,Moema,Entire home/apt,456.18,26,66,5,4.95,53.0,Moderate,-23.551417,-46.617142

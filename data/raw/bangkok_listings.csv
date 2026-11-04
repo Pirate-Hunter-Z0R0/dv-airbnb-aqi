@@ -1,0 +1,401 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Bangkok,738122,Chatuchak,Entire home/apt,4114.76,2,209,3,4.55,92.0,Moderate,13.691519,100.477163
+Bangkok,409295,Chatuchak,Private room,4068.9,2,133,2,5.0,126.0,Unhealthy for Sensitive Groups,13.738406,100.527045
+Bangkok,212739,Sathon,Entire home/apt,2410.99,1,330,16,3.59,131.0,Unhealthy for Sensitive Groups,13.79198,100.481586
+Bangkok,704117,Chatuchak,Private room,5420.43,2,30,30,3.79,90.0,Moderate,13.754728,100.43495
+Bangkok,357431,Silom,Entire home/apt,,7,132,7,4.44,147.0,Unhealthy for Sensitive Groups,13.712051,100.465068
+Bangkok,157749,Sukhumvit,Entire home/apt,4322.26,2,197,207,3.99,167.0,Unhealthy,13.823943,100.476333
+Bangkok,243568,Wang Thonglang,Entire home/apt,6000.0,14,188,113,4.41,55.0,Moderate,13.690637,100.506461
+Bangkok,314552,Bang Rak,Private room,3459.37,2,119,47,4.88,59.0,Moderate,13.795231,100.472901
+Bangkok,880683,Silom,Private room,1502.25,1,253,132,5.0,96.0,Moderate,13.751818,100.534811
+Bangkok,139353,Khlong Toei,Entire home/apt,4517.25,5,265,38,4.69,144.0,Unhealthy for Sensitive Groups,13.799803,100.474329
+Bangkok,589799,Sathon,Entire home/apt,4200.24,2,195,40,4.63,124.0,Unhealthy for Sensitive Groups,13.730977,100.553864
+Bangkok,619717,Bang Rak,Entire home/apt,6000.0,3,250,65,4.15,97.0,Moderate,13.799158,100.539838
+Bangkok,595401,Chatuchak,Entire home/apt,4938.04,12,80,11,4.62,110.0,Unhealthy for Sensitive Groups,13.715891,100.525475
+Bangkok,908583,Bang Rak,Shared room,2007.86,9,149,110,,116.0,Unhealthy for Sensitive Groups,13.798743,100.538369
+Bangkok,469012,Sathon,Entire home/apt,3883.07,25,5,35,,79.0,Moderate,13.772449,100.457927
+Bangkok,720648,Sukhumvit,Entire home/apt,1230.9,9,99,3,4.3,94.0,Moderate,13.817033,100.56672
+Bangkok,952289,Khlong Toei,Entire home/apt,6000.0,8,316,36,5.0,111.0,Unhealthy for Sensitive Groups,13.696963,100.464351
+Bangkok,273500,Sukhumvit,Private room,2525.08,30,243,69,4.36,154.0,Unhealthy,13.753494,100.468441
+Bangkok,450460,Sukhumvit,Private room,2376.0,10,299,14,3.27,94.0,Moderate,13.783025,100.516308
+Bangkok,372195,Chatuchak,Shared room,3397.84,21,246,42,4.23,119.0,Unhealthy for Sensitive Groups,13.822804,100.51888
+Bangkok,965398,Wang Thonglang,Entire home/apt,,2,221,5,3.29,91.0,Moderate,13.725243,100.438799
+Bangkok,158039,Sathon,Entire home/apt,3528.85,3,269,4,4.57,114.0,Unhealthy for Sensitive Groups,13.734204,100.524172
+Bangkok,936125,Sathon,Entire home/apt,2093.03,3,283,44,4.26,132.0,Unhealthy for Sensitive Groups,13.734747,100.540076
+Bangkok,480275,Sukhumvit,Private room,3831.73,10,46,33,4.11,141.0,Unhealthy for Sensitive Groups,13.808462,100.565821
+Bangkok,631368,Silom,Private room,2741.31,25,254,5,3.79,106.0,Unhealthy for Sensitive Groups,13.714808,100.447912
+Bangkok,654954,Lat Phrao,Entire home/apt,1544.02,21,307,126,4.29,103.0,Unhealthy for Sensitive Groups,13.804091,100.477923
+Bangkok,656653,Lat Phrao,Private room,1911.97,22,92,9,4.63,123.0,Unhealthy for Sensitive Groups,13.691882,100.559263
+Bangkok,995338,Sukhumvit,Entire home/apt,4001.86,3,313,68,4.44,120.0,Unhealthy for Sensitive Groups,13.689644,100.511011
+Bangkok,510433,Lat Phrao,Hotel room,1742.73,2,272,6,3.53,80.0,Moderate,13.792905,100.449885
+Bangkok,676887,Silom,Hotel room,3898.76,10,232,52,4.25,111.0,Unhealthy for Sensitive Groups,13.69546,100.552467
+Bangkok,388278,Sathon,Entire home/apt,2842.87,16,99,48,4.49,112.0,Unhealthy for Sensitive Groups,13.768516,100.464292
+Bangkok,962751,Sukhumvit,Entire home/apt,1991.85,1,33,5,3.75,135.0,Unhealthy for Sensitive Groups,13.803594,100.523675
+Bangkok,918897,Lat Phrao,Private room,2427.17,3,209,31,4.77,,,13.800926,100.442428
+Bangkok,718888,Chatuchak,Entire home/apt,4282.39,13,53,111,3.41,52.0,Moderate,13.770786,100.550493
+Bangkok,660872,Lat Phrao,Private room,2632.7,23,240,19,3.86,96.0,Moderate,13.771529,100.435996
+Bangkok,610302,Chatuchak,Private room,2334.71,8,191,44,4.34,61.0,Moderate,13.73507,100.553426
+Bangkok,305511,Wang Thonglang,Entire home/apt,6000.0,17,144,12,4.06,87.0,Moderate,13.715093,100.503027
+Bangkok,209219,Wang Thonglang,Entire home/apt,4662.39,6,251,57,2.98,,,13.820144,100.56832
+Bangkok,815000,Wang Thonglang,Entire home/apt,3241.64,3,281,21,4.39,136.0,Unhealthy for Sensitive Groups,13.719675,100.514883
+Bangkok,617209,Khlong Toei,Entire home/apt,3177.99,7,357,75,4.35,149.0,Unhealthy for Sensitive Groups,13.725199,100.48071
+Bangkok,852192,Silom,Private room,1915.23,18,358,18,4.39,106.0,Unhealthy for Sensitive Groups,13.725422,100.449288
+Bangkok,540293,Khlong Toei,Private room,3886.54,8,316,14,4.41,101.0,Unhealthy for Sensitive Groups,13.747918,100.518825
+Bangkok,960708,Silom,Entire home/apt,5290.7,8,268,84,4.43,132.0,Unhealthy for Sensitive Groups,13.795157,100.445821
+Bangkok,713990,Chatuchak,Entire home/apt,2380.86,1,160,12,5.0,58.0,Moderate,13.705402,100.479239
+Bangkok,589612,Wang Thonglang,Hotel room,1329.08,11,82,4,3.9,113.0,Unhealthy for Sensitive Groups,13.707324,100.498234
+Bangkok,441387,Bang Rak,Private room,2852.19,3,337,186,5.0,85.0,Moderate,13.728445,100.46625
+Bangkok,570872,Chatuchak,Shared room,3270.38,2,163,5,4.47,149.0,Unhealthy for Sensitive Groups,13.823445,100.512756
+Bangkok,992913,Silom,Entire home/apt,4188.81,20,52,74,4.16,84.0,Moderate,13.751759,100.47124
+Bangkok,735424,Silom,Private room,5047.47,8,203,46,4.21,,,13.771408,100.56534
+Bangkok,586824,Lat Phrao,Entire home/apt,4033.02,3,5,15,,77.0,Moderate,13.694663,100.568628
+Bangkok,711606,Lat Phrao,Private room,2586.56,30,338,29,,176.0,Unhealthy,13.815871,100.55978
+Bangkok,187351,Bang Rak,Private room,2172.51,23,328,33,4.15,84.0,Moderate,13.808252,100.466894
+Bangkok,638496,Wang Thonglang,Private room,6000.0,5,283,21,,112.0,Unhealthy for Sensitive Groups,13.705857,100.517471
+Bangkok,289684,Sukhumvit,Entire home/apt,4679.82,24,115,32,4.09,102.0,Unhealthy for Sensitive Groups,13.737553,100.531114
+Bangkok,745816,Lat Phrao,Entire home/apt,1760.49,4,331,152,3.99,117.0,Unhealthy for Sensitive Groups,13.742728,100.507692
+Bangkok,454022,Sukhumvit,Entire home/apt,1262.61,2,37,33,4.6,140.0,Unhealthy for Sensitive Groups,13.708967,100.570035
+Bangkok,456867,Silom,Entire home/apt,3886.34,2,33,3,4.88,107.0,Unhealthy for Sensitive Groups,13.825271,100.493941
+Bangkok,539326,Lat Phrao,Private room,,19,99,9,5.0,97.0,Moderate,13.794602,100.560868
+Bangkok,434540,Lat Phrao,Entire home/apt,2643.42,6,269,63,3.51,96.0,Moderate,13.75234,100.561381
+Bangkok,301327,Lat Phrao,Entire home/apt,2760.78,1,86,89,4.25,114.0,Unhealthy for Sensitive Groups,13.735237,100.545081
+Bangkok,826644,Sukhumvit,Entire home/apt,5238.21,28,207,51,4.7,96.0,Moderate,13.703542,100.554707
+Bangkok,374036,Silom,Private room,5870.74,1,352,42,4.25,79.0,Moderate,13.794054,100.530657
+Bangkok,684888,Chatuchak,Private room,3468.43,18,263,11,,70.0,Moderate,13.79365,100.456817
+Bangkok,799230,Silom,Entire home/apt,,2,358,6,4.26,87.0,Moderate,13.794622,100.495192
+Bangkok,836049,Silom,Private room,3718.22,26,148,16,4.44,121.0,Unhealthy for Sensitive Groups,13.756287,100.556718
+Bangkok,904890,Chatuchak,Private room,4483.79,2,71,100,4.35,161.0,Unhealthy,13.798395,100.487865
+Bangkok,335029,Khlong Toei,Entire home/apt,3352.37,9,204,49,4.85,99.0,Moderate,13.750599,100.506525
+Bangkok,219073,Khlong Toei,Entire home/apt,3024.29,6,133,18,4.24,112.0,Unhealthy for Sensitive Groups,13.791333,100.465267
+Bangkok,821521,Bang Rak,Private room,3426.78,5,39,56,4.01,98.0,Moderate,13.747474,100.563416
+Bangkok,817768,Chatuchak,Entire home/apt,2457.44,12,154,6,4.45,95.0,Moderate,13.731958,100.451624
+Bangkok,321261,Chatuchak,Private room,2865.89,27,122,25,4.73,123.0,Unhealthy for Sensitive Groups,13.704525,100.559057
+Bangkok,114490,Wang Thonglang,Shared room,3320.32,5,40,62,4.63,162.0,Unhealthy,13.738954,100.525016
+Bangkok,717109,Sathon,Entire home/apt,2382.17,3,180,92,3.92,156.0,Unhealthy,13.795011,100.501772
+Bangkok,294809,Lat Phrao,Private room,2974.44,1,110,4,4.57,75.0,Moderate,13.727692,100.507298
+Bangkok,455310,Sukhumvit,Private room,4908.52,1,24,11,4.32,,,13.704339,100.488703
+Bangkok,174775,Chatuchak,Hotel room,6000.0,14,295,7,4.3,167.0,Unhealthy,13.81414,100.532293
+Bangkok,207487,Lat Phrao,Private room,1421.8,6,321,41,,78.0,Moderate,13.824649,100.55952
+Bangkok,991599,Khlong Toei,Entire home/apt,1490.63,26,342,20,4.29,97.0,Moderate,13.81252,100.517859
+Bangkok,753015,Silom,Private room,6000.0,15,173,42,3.67,107.0,Unhealthy for Sensitive Groups,13.722105,100.527075
+Bangkok,621979,Wang Thonglang,Entire home/apt,5869.74,7,205,4,4.28,32.0,Good,13.740775,100.466791
+Bangkok,803881,Bang Rak,Shared room,2269.79,14,17,18,4.59,110.0,Unhealthy for Sensitive Groups,13.795538,100.526159
+Bangkok,343008,Chatuchak,Private room,3944.85,1,6,66,,137.0,Unhealthy for Sensitive Groups,13.774991,100.525709
+Bangkok,772767,Sukhumvit,Hotel room,2142.84,8,147,3,5.0,113.0,Unhealthy for Sensitive Groups,13.708182,100.523045
+Bangkok,305112,Sathon,Private room,2634.67,19,210,5,4.07,111.0,Unhealthy for Sensitive Groups,13.71967,100.513838
+Bangkok,769071,Khlong Toei,Shared room,2703.43,3,4,25,4.85,67.0,Moderate,13.792544,100.490862
+Bangkok,262143,Chatuchak,Entire home/apt,6000.0,4,122,45,4.54,97.0,Moderate,13.700718,100.531241
+Bangkok,322852,Sathon,Entire home/apt,1808.98,23,88,32,3.85,80.0,Moderate,13.779953,100.514933
+Bangkok,119420,Sukhumvit,Entire home/apt,4682.04,20,60,118,4.36,80.0,Moderate,13.7727,100.451632
+Bangkok,437943,Sukhumvit,Shared room,1464.04,13,176,112,4.35,116.0,Unhealthy for Sensitive Groups,13.812306,100.484904
+Bangkok,959145,Wang Thonglang,Entire home/apt,2237.34,2,90,136,4.56,73.0,Moderate,13.779698,100.474476
+Bangkok,581509,Wang Thonglang,Entire home/apt,3799.14,2,102,47,3.47,88.0,Moderate,13.810594,100.535677
+Bangkok,597403,Silom,Entire home/apt,1767.65,1,51,4,4.71,179.0,Unhealthy,13.689332,100.454008
+Bangkok,419471,Lat Phrao,Entire home/apt,2088.18,19,235,14,4.93,125.0,Unhealthy for Sensitive Groups,13.694524,100.473478
+Bangkok,823682,Sukhumvit,Entire home/apt,1831.14,7,272,59,5.0,52.0,Moderate,13.789216,100.502947
+Bangkok,700642,Silom,Shared room,3802.9,1,111,41,4.48,136.0,Unhealthy for Sensitive Groups,13.820631,100.54816
+Bangkok,733885,Wang Thonglang,Hotel room,5303.64,30,81,2,3.86,,,13.786517,100.457221
+Bangkok,578943,Silom,Entire home/apt,4091.36,26,100,39,5.0,200.0,Unhealthy,13.80726,100.437802
+Bangkok,979342,Sathon,Shared room,1518.37,17,270,23,3.5,112.0,Unhealthy for Sensitive Groups,13.749605,100.480411
+Bangkok,861427,Chatuchak,Entire home/apt,2264.49,24,175,73,4.77,135.0,Unhealthy for Sensitive Groups,13.809063,100.506517
+Bangkok,318676,Sukhumvit,Shared room,5277.86,20,166,5,5.0,106.0,Unhealthy for Sensitive Groups,13.758925,100.439072
+Bangkok,186626,Sukhumvit,Private room,6000.0,1,208,6,3.36,142.0,Unhealthy for Sensitive Groups,13.806361,100.557184
+Bangkok,797368,Sathon,Entire home/apt,1537.3,28,67,26,4.93,85.0,Moderate,13.759865,100.490357
+Bangkok,628695,Chatuchak,Entire home/apt,2307.14,13,71,3,4.76,76.0,Moderate,13.805177,100.484009
+Bangkok,866552,Silom,Shared room,2306.38,7,276,2,4.11,125.0,Unhealthy for Sensitive Groups,13.826043,100.538488
+Bangkok,995087,Chatuchak,Private room,2170.4,10,13,11,3.92,95.0,Moderate,13.733612,100.494499
+Bangkok,160950,Sathon,Hotel room,6000.0,1,38,2,3.5,75.0,Moderate,13.798109,100.557904
+Bangkok,643468,Sathon,Private room,2641.19,1,158,5,3.94,106.0,Unhealthy for Sensitive Groups,13.815879,100.493101
+Bangkok,282569,Khlong Toei,Entire home/apt,2256.42,24,295,42,,118.0,Unhealthy for Sensitive Groups,13.726645,100.516638
+Bangkok,733457,Chatuchak,Entire home/apt,3952.86,14,355,38,4.22,98.0,Moderate,13.771547,100.532682
+Bangkok,118409,Wang Thonglang,Entire home/apt,6000.0,7,361,62,,95.0,Moderate,13.738504,100.562809
+Bangkok,912439,Lat Phrao,Shared room,3577.45,6,206,5,4.68,113.0,Unhealthy for Sensitive Groups,13.817628,100.51866
+Bangkok,746938,Khlong Toei,Entire home/apt,1776.92,7,280,0,3.74,85.0,Moderate,13.817352,100.558678
+Bangkok,136296,Bang Rak,Private room,2906.83,1,347,9,5.0,57.0,Moderate,13.76749,100.455467
+Bangkok,247685,Sathon,Entire home/apt,2000.8,12,140,41,4.64,82.0,Moderate,13.742636,100.448865
+Bangkok,166959,Khlong Toei,Shared room,5722.46,27,160,69,3.99,,,13.706007,100.501428
+Bangkok,506127,Lat Phrao,Entire home/apt,4436.59,12,270,1,4.85,92.0,Moderate,13.820037,100.521878
+Bangkok,251726,Lat Phrao,Entire home/apt,6000.0,1,50,18,3.65,78.0,Moderate,13.804364,100.548315
+Bangkok,256570,Chatuchak,Private room,1952.19,15,161,44,4.16,45.0,Good,13.763,100.556802
+Bangkok,299809,Lat Phrao,Private room,4208.52,9,319,84,4.63,82.0,Moderate,13.789258,100.524435
+Bangkok,932790,Khlong Toei,Entire home/apt,3640.88,29,323,6,4.36,118.0,Unhealthy for Sensitive Groups,13.734203,100.554275
+Bangkok,138614,Sukhumvit,Entire home/apt,2844.68,2,62,134,4.2,189.0,Unhealthy,13.798823,100.514108
+Bangkok,801151,Silom,Entire home/apt,,1,203,6,4.57,111.0,Unhealthy for Sensitive Groups,13.769844,100.543655
+Bangkok,516683,Sathon,Entire home/apt,4164.47,8,220,12,4.12,102.0,Unhealthy for Sensitive Groups,13.817302,100.454012
+Bangkok,670015,Bang Rak,Entire home/apt,5665.73,3,39,59,3.71,81.0,Moderate,13.719833,100.465107
+Bangkok,923973,Khlong Toei,Entire home/apt,2482.7,14,150,21,4.23,98.0,Moderate,13.717826,100.491429
+Bangkok,597421,Chatuchak,Private room,2914.16,10,3,29,3.59,112.0,Unhealthy for Sensitive Groups,13.711801,100.510532
+Bangkok,107220,Sathon,Entire home/apt,4850.19,2,347,42,3.28,90.0,Moderate,13.749267,100.48335
+Bangkok,748327,Khlong Toei,Entire home/apt,1041.27,1,240,12,4.47,127.0,Unhealthy for Sensitive Groups,13.72307,100.538639
+Bangkok,689890,Sukhumvit,Entire home/apt,,7,21,68,3.78,108.0,Unhealthy for Sensitive Groups,13.792995,100.47247
+Bangkok,448577,Lat Phrao,Private room,2852.41,24,107,14,4.64,106.0,Unhealthy for Sensitive Groups,13.782948,100.45511
+Bangkok,519208,Sathon,Private room,2207.45,1,226,7,4.4,94.0,Moderate,13.813434,100.449632
+Bangkok,229275,Wang Thonglang,Entire home/apt,1605.11,24,91,16,4.49,57.0,Moderate,13.720629,100.569713
+Bangkok,495636,Chatuchak,Entire home/apt,6000.0,4,233,6,4.12,,,13.818476,100.537069
+Bangkok,619281,Bang Rak,Entire home/apt,4962.1,27,40,34,4.43,138.0,Unhealthy for Sensitive Groups,13.695536,100.569771
+Bangkok,856692,Silom,Entire home/apt,2569.78,30,201,1,4.62,84.0,Moderate,13.763882,100.505685
+Bangkok,682868,Wang Thonglang,Entire home/apt,4057.13,11,252,2,5.0,106.0,Unhealthy for Sensitive Groups,13.711226,100.548171
+Bangkok,410837,Wang Thonglang,Private room,898.58,10,230,5,4.21,119.0,Unhealthy for Sensitive Groups,13.735602,100.437483
+Bangkok,145137,Silom,Shared room,2349.01,1,117,60,4.66,80.0,Moderate,13.701129,100.494259
+Bangkok,663690,Wang Thonglang,Entire home/apt,2845.99,1,109,59,4.15,113.0,Unhealthy for Sensitive Groups,13.789248,100.466622
+Bangkok,466547,Sukhumvit,Entire home/apt,6000.0,1,182,66,4.74,63.0,Moderate,13.710408,100.443109
+Bangkok,661538,Chatuchak,Entire home/apt,4716.84,11,19,26,3.98,39.0,Good,13.812502,100.449754
+Bangkok,639247,Khlong Toei,Entire home/apt,5071.84,4,30,31,3.52,132.0,Unhealthy for Sensitive Groups,13.776619,100.439759
+Bangkok,106096,Wang Thonglang,Entire home/apt,3434.66,3,128,36,3.91,68.0,Moderate,13.780113,100.438081
+Bangkok,285730,Chatuchak,Entire home/apt,5769.11,22,7,36,3.74,109.0,Unhealthy for Sensitive Groups,13.714227,100.530624
+Bangkok,390976,Sukhumvit,Private room,1968.53,1,360,37,4.94,124.0,Unhealthy for Sensitive Groups,13.788044,100.529007
+Bangkok,195605,Wang Thonglang,Entire home/apt,2332.33,7,332,48,4.59,131.0,Unhealthy for Sensitive Groups,13.764545,100.557157
+Bangkok,101251,Sukhumvit,Entire home/apt,3480.11,2,145,52,3.36,140.0,Unhealthy for Sensitive Groups,13.691465,100.440163
+Bangkok,448303,Sathon,Entire home/apt,1687.03,19,178,48,4.97,157.0,Unhealthy,13.703428,100.444903
+Bangkok,306566,Sukhumvit,Private room,2942.46,1,187,45,3.65,115.0,Unhealthy for Sensitive Groups,13.732512,100.458746
+Bangkok,763479,Bang Rak,Private room,2648.53,9,185,43,4.34,98.0,Moderate,13.812703,100.541149
+Bangkok,371683,Khlong Toei,Entire home/apt,1803.28,14,27,78,4.46,119.0,Unhealthy for Sensitive Groups,13.783795,100.507514
+Bangkok,713693,Khlong Toei,Shared room,6000.0,27,319,39,,96.0,Moderate,13.782215,100.516738
+Bangkok,410393,Silom,Private room,,2,292,2,4.03,70.0,Moderate,13.754234,100.467307
+Bangkok,547343,Wang Thonglang,Private room,1717.65,10,81,10,,54.0,Moderate,13.773843,100.556831
+Bangkok,508976,Silom,Entire home/apt,1029.62,21,293,11,4.86,99.0,Moderate,13.821463,100.446251
+Bangkok,726137,Khlong Toei,Entire home/apt,5447.45,14,64,33,5.0,119.0,Unhealthy for Sensitive Groups,13.703954,100.45487
+Bangkok,850532,Sukhumvit,Entire home/apt,3986.61,10,165,49,4.59,115.0,Unhealthy for Sensitive Groups,13.694126,100.520968
+Bangkok,219860,Silom,Entire home/apt,3590.18,2,276,5,4.12,94.0,Moderate,13.721243,100.460514
+Bangkok,360691,Chatuchak,Hotel room,3886.64,3,39,81,3.14,123.0,Unhealthy for Sensitive Groups,13.82341,100.445518
+Bangkok,284794,Sathon,Entire home/apt,3099.67,9,306,25,3.58,,,13.77187,100.502027
+Bangkok,798004,Lat Phrao,Private room,,15,213,20,4.41,174.0,Unhealthy,13.723708,100.441166
+Bangkok,143803,Lat Phrao,Entire home/apt,3532.86,2,344,6,3.9,67.0,Moderate,13.729264,100.567427
+Bangkok,672522,Sathon,Shared room,3354.04,1,14,2,3.47,91.0,Moderate,13.719595,100.504367
+Bangkok,289802,Wang Thonglang,Entire home/apt,6000.0,22,81,120,4.55,97.0,Moderate,13.757278,100.510492
+Bangkok,531447,Silom,Entire home/apt,1570.42,1,269,95,4.01,80.0,Moderate,13.735452,100.492336
+Bangkok,201326,Sathon,Entire home/apt,1987.8,21,10,10,4.09,137.0,Unhealthy for Sensitive Groups,13.823657,100.563283
+Bangkok,309565,Silom,Entire home/apt,3011.57,25,341,0,3.49,134.0,Unhealthy for Sensitive Groups,13.782289,100.524098
+Bangkok,185657,Sathon,Entire home/apt,4559.02,24,164,16,5.0,122.0,Unhealthy for Sensitive Groups,13.731888,100.520421
+Bangkok,476145,Chatuchak,Entire home/apt,6000.0,16,170,17,3.44,51.0,Moderate,13.762586,100.453626
+Bangkok,445962,Lat Phrao,Entire home/apt,6000.0,2,220,25,5.0,125.0,Unhealthy for Sensitive Groups,13.694009,100.451315
+Bangkok,798225,Lat Phrao,Entire home/apt,4639.64,1,354,97,4.47,141.0,Unhealthy for Sensitive Groups,13.710638,100.480521
+Bangkok,467019,Lat Phrao,Entire home/apt,5348.21,1,220,59,4.72,66.0,Moderate,13.707659,100.545567
+Bangkok,126303,Chatuchak,Hotel room,6000.0,4,360,1,3.95,94.0,Moderate,13.691261,100.442379
+Bangkok,382902,Khlong Toei,Entire home/apt,5212.58,29,298,19,4.22,172.0,Unhealthy,13.794488,100.472181
+Bangkok,135248,Khlong Toei,Entire home/apt,4217.3,6,41,31,3.77,146.0,Unhealthy for Sensitive Groups,13.810222,100.467555
+Bangkok,511680,Lat Phrao,Entire home/apt,3232.62,1,231,12,4.34,94.0,Moderate,13.812933,100.547964
+Bangkok,449313,Sukhumvit,Entire home/apt,6000.0,3,117,71,3.82,85.0,Moderate,13.777775,100.526336
+Bangkok,548869,Sathon,Private room,4039.9,1,358,18,,97.0,Moderate,13.703645,100.468102
+Bangkok,892995,Lat Phrao,Entire home/apt,3124.13,22,102,67,4.41,69.0,Moderate,13.790033,100.551261
+Bangkok,992962,Sathon,Private room,5309.6,20,184,0,4.57,120.0,Unhealthy for Sensitive Groups,13.795994,100.453949
+Bangkok,910942,Khlong Toei,Shared room,2085.6,22,332,0,4.13,74.0,Moderate,13.715835,100.439174
+Bangkok,903927,Wang Thonglang,Shared room,1922.02,10,93,8,5.0,,,13.818473,100.465365
+Bangkok,220008,Sathon,Entire home/apt,4661.1,2,299,100,2.91,83.0,Moderate,13.692716,100.565491
+Bangkok,102139,Bang Rak,Entire home/apt,2644.86,3,339,46,4.82,140.0,Unhealthy for Sensitive Groups,13.817595,100.511869
+Bangkok,125741,Silom,Entire home/apt,1938.4,3,250,20,3.66,150.0,Unhealthy for Sensitive Groups,13.705129,100.438323
+Bangkok,169203,Chatuchak,Private room,6000.0,24,84,11,3.7,76.0,Moderate,13.823282,100.563578
+Bangkok,375934,Sathon,Entire home/apt,3250.45,16,333,12,4.47,78.0,Moderate,13.78754,100.552579
+Bangkok,330106,Wang Thonglang,Entire home/apt,4034.29,16,301,18,4.31,116.0,Unhealthy for Sensitive Groups,13.785949,100.479779
+Bangkok,283311,Sukhumvit,Entire home/apt,4398.66,18,45,7,4.89,47.0,Good,13.798215,100.510064
+Bangkok,989646,Khlong Toei,Entire home/apt,2630.15,16,100,38,5.0,129.0,Unhealthy for Sensitive Groups,13.81774,100.473459
+Bangkok,555238,Sukhumvit,Entire home/apt,3778.66,8,240,58,4.91,,,13.768916,100.447521
+Bangkok,472051,Silom,Private room,2173.28,2,271,12,4.66,117.0,Unhealthy for Sensitive Groups,13.81063,100.554743
+Bangkok,872056,Silom,Entire home/apt,6000.0,8,206,2,4.5,92.0,Moderate,13.738588,100.47508
+Bangkok,992732,Wang Thonglang,Private room,3342.46,8,230,31,,128.0,Unhealthy for Sensitive Groups,13.774606,100.532382
+Bangkok,124160,Wang Thonglang,Entire home/apt,3088.47,5,295,60,3.66,96.0,Moderate,13.706565,100.531099
+Bangkok,790028,Sukhumvit,Entire home/apt,6000.0,28,287,15,4.09,,,13.69126,100.516172
+Bangkok,383873,Chatuchak,Entire home/apt,2285.36,2,314,16,3.86,122.0,Unhealthy for Sensitive Groups,13.825667,100.433384
+Bangkok,793217,Bang Rak,Private room,5567.87,30,202,12,4.28,120.0,Unhealthy for Sensitive Groups,13.757342,100.46291
+Bangkok,603805,Sukhumvit,Entire home/apt,1982.41,2,337,45,,57.0,Moderate,13.711238,100.535779
+Bangkok,715761,Sukhumvit,Entire home/apt,6000.0,2,327,9,4.57,68.0,Moderate,13.814308,100.486059
+Bangkok,484699,Silom,Entire home/apt,2835.13,1,62,12,4.6,79.0,Moderate,13.82103,100.493459
+Bangkok,809648,Chatuchak,Private room,3254.13,11,342,22,4.03,123.0,Unhealthy for Sensitive Groups,13.708458,100.528184
+Bangkok,517226,Wang Thonglang,Entire home/apt,5257.57,24,161,31,4.79,121.0,Unhealthy for Sensitive Groups,13.750531,100.487178
+Bangkok,968181,Khlong Toei,Private room,6000.0,15,312,49,3.84,89.0,Moderate,13.741488,100.452151
+Bangkok,242938,Sukhumvit,Entire home/apt,,17,9,41,4.58,67.0,Moderate,13.701955,100.530398
+Bangkok,903371,Lat Phrao,Entire home/apt,2189.91,28,142,47,,84.0,Moderate,13.723488,100.518483
+Bangkok,478533,Khlong Toei,Private room,,7,212,1,4.87,145.0,Unhealthy for Sensitive Groups,13.688526,100.436996
+Bangkok,143376,Wang Thonglang,Private room,4508.67,29,173,21,3.34,108.0,Unhealthy for Sensitive Groups,13.708754,100.489933
+Bangkok,163405,Chatuchak,Entire home/apt,4289.24,11,25,23,4.37,107.0,Unhealthy for Sensitive Groups,13.815633,100.534461
+Bangkok,568981,Sathon,Entire home/apt,4897.38,11,53,190,3.57,63.0,Moderate,13.746113,100.55221
+Bangkok,876766,Silom,Entire home/apt,4216.34,8,365,43,5.0,132.0,Unhealthy for Sensitive Groups,13.699237,100.535879
+Bangkok,670169,Khlong Toei,Entire home/apt,2351.57,3,212,23,4.41,122.0,Unhealthy for Sensitive Groups,13.719182,100.530856
+Bangkok,268556,Wang Thonglang,Private room,3097.76,15,3,22,4.02,113.0,Unhealthy for Sensitive Groups,13.73301,100.486337
+Bangkok,630282,Bang Rak,Shared room,3475.2,3,173,12,4.06,112.0,Unhealthy for Sensitive Groups,13.715068,100.49763
+Bangkok,991721,Wang Thonglang,Hotel room,2833.5,10,136,66,3.79,74.0,Moderate,13.779595,100.562316
+Bangkok,105744,Silom,Entire home/apt,3480.01,9,84,31,4.97,68.0,Moderate,13.737732,100.556411
+Bangkok,411163,Chatuchak,Entire home/apt,3544.59,2,130,0,5.0,93.0,Moderate,13.737798,100.547754
+Bangkok,887425,Wang Thonglang,Private room,2567.13,8,82,21,4.25,,,13.804671,100.5204
+Bangkok,644274,Sukhumvit,Private room,2568.05,1,73,23,4.44,68.0,Moderate,13.690964,100.539169
+Bangkok,641588,Khlong Toei,Hotel room,4354.53,16,185,132,5.0,66.0,Moderate,13.723355,100.564017
+Bangkok,729799,Sathon,Shared room,4029.73,16,212,16,4.36,,,13.816528,100.529357
+Bangkok,592133,Lat Phrao,Entire home/apt,1183.69,2,13,11,4.51,72.0,Moderate,13.72839,100.520366
+Bangkok,715792,Khlong Toei,Shared room,1412.19,1,122,11,4.58,90.0,Moderate,13.811918,100.533484
+Bangkok,360314,Bang Rak,Entire home/apt,,23,176,8,3.31,101.0,Unhealthy for Sensitive Groups,13.801491,100.450053
+Bangkok,181455,Bang Rak,Entire home/apt,6000.0,18,39,10,4.38,102.0,Unhealthy for Sensitive Groups,13.786494,100.506612
+Bangkok,979126,Wang Thonglang,Entire home/apt,6000.0,1,19,53,3.79,61.0,Moderate,13.822477,100.468528
+Bangkok,347561,Wang Thonglang,Entire home/apt,3307.56,6,26,6,4.77,150.0,Unhealthy for Sensitive Groups,13.814791,100.526562
+Bangkok,911653,Bang Rak,Private room,3440.89,6,191,13,4.2,94.0,Moderate,13.699354,100.551957
+Bangkok,795761,Khlong Toei,Entire home/apt,3132.24,8,317,34,4.4,135.0,Unhealthy for Sensitive Groups,13.80691,100.559408
+Bangkok,420424,Silom,Private room,2430.81,6,257,106,2.9,59.0,Moderate,13.729906,100.537603
+Bangkok,353142,Silom,Entire home/apt,,4,197,0,4.02,116.0,Unhealthy for Sensitive Groups,13.797637,100.464885
+Bangkok,391370,Wang Thonglang,Hotel room,1725.43,18,30,7,5.0,71.0,Moderate,13.778657,100.545083
+Bangkok,961210,Silom,Entire home/apt,1782.25,27,177,48,3.42,167.0,Unhealthy,13.701857,100.459299
+Bangkok,174997,Lat Phrao,Shared room,2477.2,1,93,30,3.89,,,13.799481,100.48539
+Bangkok,867085,Lat Phrao,Entire home/apt,2788.95,25,346,10,4.75,114.0,Unhealthy for Sensitive Groups,13.76434,100.43457
+Bangkok,345563,Silom,Private room,3195.43,28,65,6,3.66,77.0,Moderate,13.787076,100.477939
+Bangkok,248019,Sathon,Entire home/apt,,6,212,9,4.92,126.0,Unhealthy for Sensitive Groups,13.730289,100.442978
+Bangkok,489858,Silom,Entire home/apt,3440.46,15,93,15,5.0,86.0,Moderate,13.69143,100.529355
+Bangkok,121614,Bang Rak,Hotel room,1379.02,6,64,220,3.19,91.0,Moderate,13.779706,100.548146
+Bangkok,706530,Lat Phrao,Shared room,2465.94,19,154,13,4.2,,,13.760793,100.446988
+Bangkok,685236,Sathon,Entire home/apt,2874.39,23,241,15,4.32,113.0,Unhealthy for Sensitive Groups,13.752251,100.562554
+Bangkok,879119,Sathon,Entire home/apt,3217.37,3,121,33,4.31,134.0,Unhealthy for Sensitive Groups,13.781732,100.474295
+Bangkok,618685,Sukhumvit,Entire home/apt,3398.32,5,88,21,4.1,87.0,Moderate,13.72885,100.51939
+Bangkok,850168,Bang Rak,Entire home/apt,2606.55,6,77,3,5.0,93.0,Moderate,13.74862,100.457877
+Bangkok,616771,Sukhumvit,Entire home/apt,5730.09,24,291,0,4.59,105.0,Unhealthy for Sensitive Groups,13.788407,100.448599
+Bangkok,621768,Silom,Entire home/apt,5609.74,12,172,146,4.61,90.0,Moderate,13.781602,100.537954
+Bangkok,796117,Khlong Toei,Entire home/apt,2774.25,20,279,132,4.88,,,13.822052,100.500841
+Bangkok,674151,Sukhumvit,Entire home/apt,2955.03,12,131,164,4.46,69.0,Moderate,13.78439,100.499514
+Bangkok,950165,Sukhumvit,Shared room,3653.36,23,283,24,4.54,101.0,Unhealthy for Sensitive Groups,13.7319,100.499141
+Bangkok,539351,Silom,Private room,1944.85,6,23,4,4.82,72.0,Moderate,13.787908,100.486328
+Bangkok,652886,Lat Phrao,Entire home/apt,6000.0,15,150,26,5.0,104.0,Unhealthy for Sensitive Groups,13.719752,100.447045
+Bangkok,437563,Lat Phrao,Entire home/apt,3330.84,2,175,108,3.14,160.0,Unhealthy,13.735645,100.507943
+Bangkok,916234,Lat Phrao,Entire home/apt,4475.47,29,317,42,4.1,,,13.763136,100.456912
+Bangkok,338171,Bang Rak,Entire home/apt,2199.08,2,161,7,3.19,78.0,Moderate,13.780034,100.442329
+Bangkok,463393,Wang Thonglang,Shared room,2106.44,3,63,29,4.18,108.0,Unhealthy for Sensitive Groups,13.758284,100.479714
+Bangkok,291253,Wang Thonglang,Entire home/apt,3397.78,23,270,18,4.28,79.0,Moderate,13.825703,100.472611
+Bangkok,545386,Wang Thonglang,Private room,6000.0,1,121,62,4.85,,,13.757015,100.537127
+Bangkok,688611,Sukhumvit,Entire home/apt,4038.11,30,46,29,4.69,90.0,Moderate,13.715586,100.514941
+Bangkok,457849,Wang Thonglang,Entire home/apt,2315.09,20,97,11,4.13,90.0,Moderate,13.746499,100.441204
+Bangkok,899570,Lat Phrao,Private room,2694.88,9,120,20,4.69,88.0,Moderate,13.819408,100.569766
+Bangkok,789678,Silom,Entire home/apt,2673.01,1,109,107,4.03,63.0,Moderate,13.824644,100.507324
+Bangkok,998727,Chatuchak,Entire home/apt,4235.14,12,6,45,4.31,51.0,Moderate,13.785169,100.565644
+Bangkok,187044,Sukhumvit,Entire home/apt,4133.42,12,200,7,,135.0,Unhealthy for Sensitive Groups,13.717728,100.551514
+Bangkok,852049,Sathon,Entire home/apt,1740.34,28,143,6,,41.0,Good,13.819478,100.43626
+Bangkok,575937,Sathon,Private room,6000.0,29,89,230,3.56,88.0,Moderate,13.723109,100.533282
+Bangkok,331016,Khlong Toei,Hotel room,2447.18,7,56,7,4.32,,,13.727809,100.487126
+Bangkok,587788,Sukhumvit,Private room,4625.03,21,59,79,4.65,86.0,Moderate,13.729657,100.448045
+Bangkok,653477,Sukhumvit,Shared room,1812.1,22,43,44,3.63,91.0,Moderate,13.701423,100.564605
+Bangkok,108413,Sukhumvit,Private room,3288.35,10,277,0,3.84,125.0,Unhealthy for Sensitive Groups,13.818975,100.522083
+Bangkok,933424,Wang Thonglang,Entire home/apt,2533.77,2,257,6,4.31,135.0,Unhealthy for Sensitive Groups,13.799192,100.569045
+Bangkok,905982,Khlong Toei,Entire home/apt,6000.0,11,140,15,3.54,142.0,Unhealthy for Sensitive Groups,13.771567,100.559747
+Bangkok,621550,Khlong Toei,Private room,2143.92,1,334,75,5.0,144.0,Unhealthy for Sensitive Groups,13.813126,100.455558
+Bangkok,431378,Lat Phrao,Private room,6000.0,10,340,3,4.3,70.0,Moderate,13.712701,100.470652
+Bangkok,322116,Wang Thonglang,Entire home/apt,,3,223,28,3.98,126.0,Unhealthy for Sensitive Groups,13.714443,100.494326
+Bangkok,870345,Silom,Entire home/apt,4722.13,22,182,8,4.15,160.0,Unhealthy,13.792981,100.444064
+Bangkok,296329,Chatuchak,Entire home/apt,2598.57,12,129,72,4.23,108.0,Unhealthy for Sensitive Groups,13.806864,100.54911
+Bangkok,784180,Sukhumvit,Entire home/apt,1151.52,3,308,64,3.22,125.0,Unhealthy for Sensitive Groups,13.805324,100.439707
+Bangkok,724101,Khlong Toei,Entire home/apt,6000.0,28,78,35,4.36,140.0,Unhealthy for Sensitive Groups,13.768435,100.566834
+Bangkok,552644,Sathon,Entire home/apt,2970.12,3,102,105,4.89,110.0,Unhealthy for Sensitive Groups,13.700543,100.52012
+Bangkok,676540,Sukhumvit,Entire home/apt,1596.24,30,159,22,,60.0,Moderate,13.770122,100.498212
+Bangkok,848073,Bang Rak,Entire home/apt,3635.48,12,253,2,3.94,105.0,Unhealthy for Sensitive Groups,13.794795,100.496043
+Bangkok,833178,Khlong Toei,Entire home/apt,3275.83,26,287,38,3.24,80.0,Moderate,13.738339,100.476179
+Bangkok,638722,Bang Rak,Shared room,6000.0,25,44,66,3.75,64.0,Moderate,13.788368,100.445747
+Bangkok,377881,Lat Phrao,Entire home/apt,4091.73,1,136,42,3.85,,,13.759367,100.525914
+Bangkok,572630,Chatuchak,Entire home/apt,,1,288,14,4.01,156.0,Unhealthy,13.818812,100.436998
+Bangkok,227173,Chatuchak,Entire home/apt,1433.6,22,174,80,4.43,164.0,Unhealthy,13.70384,100.53941
+Bangkok,647143,Lat Phrao,Entire home/apt,4779.37,2,173,117,4.06,113.0,Unhealthy for Sensitive Groups,13.711227,100.543182
+Bangkok,806761,Chatuchak,Entire home/apt,5306.18,9,344,20,4.04,110.0,Unhealthy for Sensitive Groups,13.697987,100.516545
+Bangkok,756332,Sathon,Entire home/apt,4335.12,18,153,21,3.4,108.0,Unhealthy for Sensitive Groups,13.71092,100.496676
+Bangkok,357738,Sukhumvit,Entire home/apt,5937.66,1,101,62,3.62,95.0,Moderate,13.784721,100.502757
+Bangkok,433218,Silom,Hotel room,4840.57,4,16,15,4.16,101.0,Unhealthy for Sensitive Groups,13.698333,100.548314
+Bangkok,431181,Wang Thonglang,Private room,2606.85,28,14,73,3.21,140.0,Unhealthy for Sensitive Groups,13.736858,100.440598
+Bangkok,951017,Silom,Entire home/apt,6000.0,2,331,57,3.98,54.0,Moderate,13.820517,100.50563
+Bangkok,982814,Silom,Entire home/apt,2377.54,16,137,28,4.09,62.0,Moderate,13.755533,100.453723
+Bangkok,644436,Lat Phrao,Hotel room,,24,144,8,5.0,107.0,Unhealthy for Sensitive Groups,13.760671,100.546843
+Bangkok,705739,Khlong Toei,Hotel room,2440.97,30,334,20,4.28,106.0,Unhealthy for Sensitive Groups,13.822893,100.442012
+Bangkok,306156,Wang Thonglang,Entire home/apt,2248.7,14,283,71,4.29,102.0,Unhealthy for Sensitive Groups,13.801694,100.542618
+Bangkok,870536,Silom,Shared room,5290.17,15,74,69,4.13,114.0,Unhealthy for Sensitive Groups,13.724543,100.482941
+Bangkok,716902,Sukhumvit,Entire home/apt,5563.46,5,29,125,,82.0,Moderate,13.739434,100.480409
+Bangkok,111629,Sukhumvit,Private room,4278.0,3,44,56,4.26,113.0,Unhealthy for Sensitive Groups,13.768896,100.504638
+Bangkok,306487,Sathon,Hotel room,6000.0,18,104,56,4.15,128.0,Unhealthy for Sensitive Groups,13.802274,100.496891
+Bangkok,630437,Wang Thonglang,Entire home/apt,6000.0,2,319,90,,106.0,Unhealthy for Sensitive Groups,13.753344,100.566933
+Bangkok,320094,Silom,Private room,4530.98,19,8,64,4.01,108.0,Unhealthy for Sensitive Groups,13.695331,100.445814
+Bangkok,401529,Sathon,Entire home/apt,4389.81,15,318,5,4.26,138.0,Unhealthy for Sensitive Groups,13.806158,100.46023
+Bangkok,444443,Sathon,Entire home/apt,2413.41,28,243,12,4.35,88.0,Moderate,13.797422,100.454244
+Bangkok,270565,Bang Rak,Private room,4461.65,2,234,40,3.77,91.0,Moderate,13.76302,100.463621
+Bangkok,310380,Silom,Shared room,2576.38,16,234,29,4.75,,,13.724995,100.542475
+Bangkok,675743,Sukhumvit,Hotel room,5005.26,22,209,90,,123.0,Unhealthy for Sensitive Groups,13.751926,100.511273
+Bangkok,760669,Wang Thonglang,Entire home/apt,3607.33,1,65,98,4.95,96.0,Moderate,13.808733,100.480385
+Bangkok,698620,Wang Thonglang,Hotel room,6000.0,16,168,28,4.64,118.0,Unhealthy for Sensitive Groups,13.740969,100.533376
+Bangkok,904511,Wang Thonglang,Private room,1912.6,13,320,53,4.4,88.0,Moderate,13.690629,100.532306
+Bangkok,305192,Chatuchak,Entire home/apt,3956.94,3,163,10,,,,13.787107,100.560182
+Bangkok,391731,Khlong Toei,Entire home/apt,2383.73,2,8,4,4.86,59.0,Moderate,13.790025,100.488861
+Bangkok,888627,Bang Rak,Entire home/apt,5362.5,29,347,123,3.95,166.0,Unhealthy,13.756531,100.450001
+Bangkok,437120,Chatuchak,Entire home/apt,4507.85,23,212,3,4.21,94.0,Moderate,13.778041,100.514594
+Bangkok,390463,Bang Rak,Private room,3146.04,18,344,32,4.98,133.0,Unhealthy for Sensitive Groups,13.740235,100.458596
+Bangkok,124393,Bang Rak,Entire home/apt,1930.08,1,149,31,4.22,103.0,Unhealthy for Sensitive Groups,13.686382,100.565201
+Bangkok,586563,Sukhumvit,Private room,4408.31,2,108,101,3.62,144.0,Unhealthy for Sensitive Groups,13.802322,100.500737
+Bangkok,464934,Chatuchak,Entire home/apt,2644.57,9,126,57,3.81,130.0,Unhealthy for Sensitive Groups,13.796938,100.475227
+Bangkok,314499,Sukhumvit,Private room,1816.95,26,113,75,3.91,136.0,Unhealthy for Sensitive Groups,13.69038,100.567876
+Bangkok,534629,Wang Thonglang,Private room,6000.0,2,362,13,3.85,99.0,Moderate,13.764441,100.458686
+Bangkok,674259,Chatuchak,Entire home/apt,3133.3,13,82,121,4.59,145.0,Unhealthy for Sensitive Groups,13.791816,100.454731
+Bangkok,415100,Bang Rak,Entire home/apt,2918.18,7,95,3,4.15,64.0,Moderate,13.690612,100.434749
+Bangkok,479254,Wang Thonglang,Hotel room,2168.31,8,296,23,3.95,62.0,Moderate,13.732475,100.432757
+Bangkok,265978,Sukhumvit,Private room,2371.7,4,346,39,3.93,169.0,Unhealthy,13.736478,100.561548
+Bangkok,391449,Sukhumvit,Entire home/apt,6000.0,1,299,45,3.9,129.0,Unhealthy for Sensitive Groups,13.746375,100.521054
+Bangkok,602351,Wang Thonglang,Entire home/apt,4737.52,21,298,17,4.61,94.0,Moderate,13.793014,100.513784
+Bangkok,445341,Wang Thonglang,Hotel room,1231.23,16,12,15,4.93,102.0,Unhealthy for Sensitive Groups,13.810445,100.529284
+Bangkok,980952,Wang Thonglang,Private room,3984.87,27,143,17,4.34,98.0,Moderate,13.722047,100.540774
+Bangkok,485239,Sathon,Entire home/apt,1915.64,22,212,23,4.26,108.0,Unhealthy for Sensitive Groups,13.690034,100.541172
+Bangkok,769271,Bang Rak,Entire home/apt,3097.28,1,325,15,,72.0,Moderate,13.704121,100.570992
+Bangkok,884766,Silom,Entire home/apt,3708.84,17,244,14,4.02,143.0,Unhealthy for Sensitive Groups,13.824087,100.535496
+Bangkok,740945,Chatuchak,Entire home/apt,4678.78,24,16,7,4.42,128.0,Unhealthy for Sensitive Groups,13.77165,100.468487
+Bangkok,534150,Lat Phrao,Private room,6000.0,13,91,8,4.95,75.0,Moderate,13.764339,100.473704
+Bangkok,741375,Chatuchak,Entire home/apt,4489.33,23,4,60,4.76,,,13.699286,100.468936
+Bangkok,202169,Khlong Toei,Entire home/apt,5603.82,2,356,69,5.0,115.0,Unhealthy for Sensitive Groups,13.818871,100.553105
+Bangkok,251148,Silom,Entire home/apt,1869.21,6,49,6,4.42,,,13.69154,100.530793
+Bangkok,524747,Sukhumvit,Hotel room,4936.25,3,238,5,4.32,95.0,Moderate,13.737338,100.455609
+Bangkok,559921,Sathon,Entire home/apt,1992.03,15,46,0,4.1,139.0,Unhealthy for Sensitive Groups,13.824403,100.433799
+Bangkok,986578,Wang Thonglang,Hotel room,4034.14,14,124,38,4.35,,,13.785486,100.481178
+Bangkok,556229,Silom,Entire home/apt,5489.2,1,301,0,4.07,143.0,Unhealthy for Sensitive Groups,13.709962,100.512896
+Bangkok,602092,Sathon,Entire home/apt,4513.91,5,121,35,4.2,76.0,Moderate,13.765436,100.444552
+Bangkok,900679,Lat Phrao,Entire home/apt,1793.9,16,270,64,5.0,61.0,Moderate,13.714568,100.492232
+Bangkok,137340,Bang Rak,Private room,4339.47,29,26,102,4.84,141.0,Unhealthy for Sensitive Groups,13.740705,100.445249
+Bangkok,689005,Sukhumvit,Shared room,5089.81,10,12,39,,115.0,Unhealthy for Sensitive Groups,13.739872,100.502262
+Bangkok,406280,Khlong Toei,Private room,3269.04,27,142,34,3.64,88.0,Moderate,13.703107,100.509249
+Bangkok,549081,Lat Phrao,Entire home/apt,3673.5,10,200,61,4.03,83.0,Moderate,13.81876,100.539434
+Bangkok,486041,Chatuchak,Shared room,6000.0,3,42,4,3.52,90.0,Moderate,13.707818,100.448571
+Bangkok,795115,Sukhumvit,Entire home/apt,1541.54,26,23,26,3.77,58.0,Moderate,13.793534,100.469197
+Bangkok,615366,Bang Rak,Entire home/apt,,2,251,84,4.3,113.0,Unhealthy for Sensitive Groups,13.784956,100.473985
+Bangkok,931056,Lat Phrao,Entire home/apt,1572.84,28,33,64,4.68,118.0,Unhealthy for Sensitive Groups,13.736015,100.50803
+Bangkok,379892,Silom,Private room,3668.17,29,322,38,4.58,62.0,Moderate,13.719778,100.526484
+Bangkok,243650,Silom,Entire home/apt,4587.17,22,97,10,5.0,147.0,Unhealthy for Sensitive Groups,13.78519,100.493774
+Bangkok,727145,Sathon,Entire home/apt,2919.04,17,274,9,4.71,115.0,Unhealthy for Sensitive Groups,13.796441,100.447216
+Bangkok,942619,Chatuchak,Entire home/apt,3412.45,3,164,81,3.91,,,13.771863,100.459643
+Bangkok,301056,Sathon,Entire home/apt,6000.0,2,166,4,4.12,68.0,Moderate,13.763559,100.53641
+Bangkok,388147,Sathon,Hotel room,,6,45,32,4.47,126.0,Unhealthy for Sensitive Groups,13.767852,100.534743
+Bangkok,546843,Lat Phrao,Entire home/apt,1714.37,18,324,26,4.12,87.0,Moderate,13.768243,100.546282
+Bangkok,586153,Silom,Entire home/apt,6000.0,3,148,34,4.49,29.0,Good,13.777026,100.454082
+Bangkok,890548,Sukhumvit,Private room,3179.28,9,111,28,,83.0,Moderate,13.727468,100.569698
+Bangkok,622980,Sukhumvit,Entire home/apt,1461.5,23,10,117,5.0,129.0,Unhealthy for Sensitive Groups,13.75128,100.528159
+Bangkok,759529,Sathon,Private room,3894.24,11,316,52,3.96,140.0,Unhealthy for Sensitive Groups,13.756362,100.469225
+Bangkok,464386,Sukhumvit,Shared room,3670.59,19,119,123,4.07,112.0,Unhealthy for Sensitive Groups,13.816143,100.526895
+Bangkok,680467,Khlong Toei,Entire home/apt,3539.01,26,342,121,4.53,106.0,Unhealthy for Sensitive Groups,13.688802,100.440979
+Bangkok,775750,Lat Phrao,Entire home/apt,5297.23,25,264,91,3.87,,,13.807197,100.480376
+Bangkok,631555,Wang Thonglang,Entire home/apt,1828.63,11,250,0,,120.0,Unhealthy for Sensitive Groups,13.789923,100.531067
+Bangkok,866155,Sathon,Entire home/apt,5248.44,1,136,30,3.85,57.0,Moderate,13.80661,100.466333
+Bangkok,909412,Silom,Entire home/apt,3931.38,18,1,22,5.0,105.0,Unhealthy for Sensitive Groups,13.751362,100.462535
+Bangkok,962102,Wang Thonglang,Shared room,2331.34,24,109,85,4.57,119.0,Unhealthy for Sensitive Groups,13.754553,100.445219
+Bangkok,743123,Wang Thonglang,Entire home/apt,2800.66,19,333,8,4.19,157.0,Unhealthy,13.792447,100.506572
+Bangkok,101422,Bang Rak,Shared room,4398.74,3,47,27,3.69,87.0,Moderate,13.822842,100.504779
+Bangkok,589613,Sukhumvit,Private room,1973.42,20,15,1,3.84,152.0,Unhealthy,13.817447,100.456108
+Bangkok,392199,Bang Rak,Entire home/apt,3028.99,1,1,58,4.74,75.0,Moderate,13.803541,100.502995
+Bangkok,870678,Bang Rak,Shared room,,12,295,13,,114.0,Unhealthy for Sensitive Groups,13.761404,100.514066
+Bangkok,361610,Sukhumvit,Hotel room,3111.69,15,56,69,3.85,69.0,Moderate,13.817518,100.57047
+Bangkok,834722,Silom,Private room,1909.17,2,306,40,4.13,109.0,Unhealthy for Sensitive Groups,13.803771,100.437909
+Bangkok,258940,Khlong Toei,Private room,6000.0,29,359,49,4.59,110.0,Unhealthy for Sensitive Groups,13.749879,100.549117
+Bangkok,269804,Bang Rak,Entire home/apt,1956.99,19,279,1,4.79,77.0,Moderate,13.710513,100.438713
+Bangkok,823286,Sathon,Entire home/apt,3172.49,4,334,19,4.57,52.0,Moderate,13.727593,100.467402
+Bangkok,966767,Khlong Toei,Entire home/apt,6000.0,3,326,76,4.26,155.0,Unhealthy,13.778809,100.518734
+Bangkok,882473,Wang Thonglang,Entire home/apt,2571.88,10,121,0,4.39,80.0,Moderate,13.716335,100.547118
+Bangkok,965905,Silom,Shared room,5285.65,25,5,4,3.84,94.0,Moderate,13.825153,100.503815
+Bangkok,220016,Silom,Entire home/apt,6000.0,25,0,38,4.38,142.0,Unhealthy for Sensitive Groups,13.723451,100.548761
+Bangkok,266137,Khlong Toei,Private room,4756.42,3,255,6,4.17,129.0,Unhealthy for Sensitive Groups,13.735663,100.458629
+Bangkok,970645,Wang Thonglang,Entire home/apt,3680.73,2,292,11,4.1,82.0,Moderate,13.790386,100.484228
+Bangkok,786072,Lat Phrao,Entire home/apt,2823.12,23,295,32,4.63,138.0,Unhealthy for Sensitive Groups,13.728904,100.450637
+Bangkok,539115,Sukhumvit,Entire home/apt,4179.08,15,343,10,4.31,,,13.801295,100.543947
+Bangkok,745955,Chatuchak,Entire home/apt,1589.52,24,112,41,,103.0,Unhealthy for Sensitive Groups,13.693332,100.489684
+Bangkok,162502,Lat Phrao,Entire home/apt,2862.01,1,170,67,3.44,118.0,Unhealthy for Sensitive Groups,13.788792,100.52855
+Bangkok,538169,Chatuchak,Shared room,4043.22,28,94,23,4.46,180.0,Unhealthy,13.817682,100.477353
+Bangkok,380775,Lat Phrao,Entire home/apt,1149.48,17,168,46,4.49,120.0,Unhealthy for Sensitive Groups,13.802264,100.555173
+Bangkok,178633,Silom,Private room,,29,55,1,3.87,97.0,Moderate,13.75966,100.553318
+Bangkok,496135,Bang Rak,Entire home/apt,2222.64,2,106,24,4.33,81.0,Moderate,13.738669,100.500773
+Bangkok,627195,Sukhumvit,Entire home/apt,3513.62,25,72,65,4.23,47.0,Good,13.733568,100.549877
+Bangkok,167215,Sukhumvit,Entire home/apt,5603.43,29,1,1,4.96,143.0,Unhealthy for Sensitive Groups,13.811332,100.43817
+Bangkok,813082,Silom,Private room,3442.29,4,59,12,3.94,66.0,Moderate,13.752018,100.489274
+Bangkok,690796,Lat Phrao,Shared room,2933.44,26,85,90,3.99,48.0,Good,13.688373,100.487185
+Bangkok,440716,Khlong Toei,Entire home/apt,3140.88,5,102,2,3.85,73.0,Moderate,13.705964,100.470665
+Bangkok,945040,Silom,Shared room,2047.28,10,314,45,3.87,127.0,Unhealthy for Sensitive Groups,13.804384,100.440151
+Bangkok,274346,Sukhumvit,Private room,2063.78,13,27,5,,147.0,Unhealthy for Sensitive Groups,13.765402,100.551673

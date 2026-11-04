@@ -1,0 +1,18 @@
+# Python Cache & Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Streamlit Local Cache
+.streamlit/
+
+# Node / Frontend (if not sharing React stack)
+frontend/node_modules/
+frontend/dist/
+
+# OS Specific
+.DS_Store
+Thumbs.db

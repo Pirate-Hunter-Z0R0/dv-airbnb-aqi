@@ -1,0 +1,251 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Brisbane,854546,Fortitude Valley,Entire home/apt,208.53,3,292,60,4.1,24.0,Good,-27.503345,152.967689
+Brisbane,811935,Fortitude Valley,Entire home/apt,263.14,15,268,50,3.76,31.0,Good,-27.416261,153.093175
+Brisbane,110712,Newstead,Private room,189.55,1,7,15,3.91,25.0,Good,-27.509523,152.978617
+Brisbane,979650,South Brisbane,Entire home/apt,,25,119,25,4.77,28.0,Good,-27.483908,153.013215
+Brisbane,678928,Teneriffe,Entire home/apt,300.0,1,26,12,4.72,29.0,Good,-27.513651,153.091255
+Brisbane,591244,CBD,Hotel room,178.8,2,49,0,3.61,25.0,Good,-27.400194,153.076645
+Brisbane,768627,South Brisbane,Entire home/apt,,13,291,1,4.46,34.0,Good,-27.411135,152.983734
+Brisbane,468118,Paddington,Private room,164.8,2,46,38,4.52,27.0,Good,-27.491276,153.092677
+Brisbane,367236,South Brisbane,Private room,300.0,21,26,74,4.83,15.0,Good,-27.453008,153.066887
+Brisbane,300487,CBD,Entire home/apt,300.0,16,94,74,3.96,24.0,Good,-27.448011,153.076878
+Brisbane,665965,CBD,Entire home/apt,300.0,23,123,283,2.92,33.0,Good,-27.52339,153.065623
+Brisbane,502095,West End,Shared room,70.0,8,223,59,3.79,26.0,Good,-27.52118,153.086661
+Brisbane,356930,CBD,Entire home/apt,192.35,13,48,72,,41.0,Good,-27.499832,153.052055
+Brisbane,199126,New Farm,Shared room,223.32,22,123,13,,20.0,Good,-27.418111,152.961811
+Brisbane,149093,South Brisbane,Private room,,8,268,38,4.9,16.0,Good,-27.457387,153.068102
+Brisbane,187169,Newstead,Shared room,247.4,8,336,39,4.86,40.0,Good,-27.536405,153.094934
+Brisbane,147232,Paddington,Entire home/apt,300.0,28,266,5,5.0,15.0,Good,-27.468205,153.088556
+Brisbane,958007,Teneriffe,Hotel room,300.0,24,215,34,4.34,19.0,Good,-27.461975,152.996588
+Brisbane,178094,West End,Entire home/apt,128.96,1,170,119,4.47,38.0,Good,-27.477943,153.050924
+Brisbane,526752,CBD,Private room,194.17,22,230,130,4.28,50.0,Good,-27.496004,153.05207
+Brisbane,810136,New Farm,Private room,119.12,9,274,51,4.12,33.0,Good,-27.443827,153.050973
+Brisbane,409193,South Brisbane,Entire home/apt,300.0,21,146,10,3.38,22.0,Good,-27.471614,153.078268
+Brisbane,212025,Paddington,Private room,300.0,20,167,36,5.0,27.0,Good,-27.429683,153.091694
+Brisbane,120559,Fortitude Valley,Entire home/apt,141.1,24,41,9,4.2,31.0,Good,-27.408441,153.027421
+Brisbane,348632,West End,Private room,123.75,18,296,130,4.57,33.0,Good,-27.51992,153.039119
+Brisbane,752432,New Farm,Private room,,5,184,50,,13.0,Good,-27.425941,153.090045
+Brisbane,690186,Newstead,Private room,181.41,13,17,0,3.43,24.0,Good,-27.439776,153.092259
+Brisbane,134082,West End,Entire home/apt,215.5,18,269,25,4.33,26.0,Good,-27.510128,152.983313
+Brisbane,243709,West End,Entire home/apt,102.9,19,161,18,4.47,40.0,Good,-27.495592,153.074086
+Brisbane,500998,Teneriffe,Private room,154.52,3,7,1,4.7,26.0,Good,-27.506256,153.075963
+Brisbane,666748,Paddington,Entire home/apt,185.61,2,184,3,4.8,30.0,Good,-27.471208,152.990625
+Brisbane,210940,Paddington,Private room,271.02,20,158,149,5.0,44.0,Good,-27.487569,152.981804
+Brisbane,482101,CBD,Shared room,300.0,14,258,20,4.03,14.0,Good,-27.424927,152.963566
+Brisbane,730841,CBD,Hotel room,99.15,9,223,55,4.08,23.0,Good,-27.496337,153.070003
+Brisbane,882502,Teneriffe,Entire home/apt,171.49,21,103,28,4.17,24.0,Good,-27.436486,153.01209
+Brisbane,797936,Paddington,Entire home/apt,77.23,3,152,166,4.55,23.0,Good,-27.487146,152.973564
+Brisbane,438565,South Brisbane,Private room,233.48,3,274,0,5.0,17.0,Good,-27.452941,153.080635
+Brisbane,337605,Teneriffe,Hotel room,240.21,10,354,60,5.0,33.0,Good,-27.501904,153.041526
+Brisbane,699730,Fortitude Valley,Shared room,136.34,2,10,19,,30.0,Good,-27.506111,153.050643
+Brisbane,259096,CBD,Entire home/apt,226.22,21,260,33,4.02,25.0,Good,-27.484312,153.005593
+Brisbane,644892,Teneriffe,Private room,229.91,8,316,41,,50.0,Good,-27.537741,153.018289
+Brisbane,103041,New Farm,Private room,180.86,2,243,73,,27.0,Good,-27.508401,152.966212
+Brisbane,910243,CBD,Shared room,202.05,3,306,18,,32.0,Good,-27.468698,153.083574
+Brisbane,897958,Newstead,Private room,,2,76,8,4.18,46.0,Good,-27.477748,153.075555
+Brisbane,799341,South Brisbane,Shared room,300.0,23,150,34,4.37,31.0,Good,-27.443639,153.073489
+Brisbane,594324,Paddington,Private room,251.11,25,266,182,5.0,40.0,Good,-27.520466,153.071891
+Brisbane,548912,South Brisbane,Entire home/apt,160.76,5,261,44,4.33,,,-27.432236,153.053121
+Brisbane,384434,Teneriffe,Entire home/apt,175.83,1,187,11,4.01,,,-27.524287,153.02523
+Brisbane,412444,Fortitude Valley,Entire home/apt,70.0,18,190,29,4.53,28.0,Good,-27.406114,153.004822
+Brisbane,313644,Fortitude Valley,Private room,,27,147,26,3.89,,,-27.429717,153.039111
+Brisbane,432118,New Farm,Entire home/apt,138.92,1,103,5,,30.0,Good,-27.509998,152.962608
+Brisbane,391108,Paddington,Entire home/apt,101.86,7,330,27,4.48,23.0,Good,-27.463075,153.008597
+Brisbane,295239,Newstead,Entire home/apt,71.79,3,357,0,4.05,28.0,Good,-27.485067,153.074569
+Brisbane,374170,West End,Entire home/apt,300.0,3,292,24,4.03,25.0,Good,-27.509916,152.978634
+Brisbane,239364,New Farm,Entire home/apt,216.22,13,39,49,4.53,31.0,Good,-27.447547,153.027148
+Brisbane,553892,Paddington,Shared room,159.35,2,273,17,4.54,24.0,Good,-27.471591,153.01088
+Brisbane,327443,West End,Entire home/apt,214.07,30,53,2,3.59,22.0,Good,-27.507857,153.081362
+Brisbane,195524,New Farm,Private room,259.05,25,318,51,4.17,38.0,Good,-27.417276,152.958213
+Brisbane,566570,Fortitude Valley,Private room,70.0,6,210,24,,,,-27.406457,152.987321
+Brisbane,379898,Paddington,Hotel room,116.72,2,150,8,4.49,20.0,Good,-27.444697,153.030426
+Brisbane,690107,Teneriffe,Private room,141.9,2,279,10,4.02,39.0,Good,-27.483477,153.086171
+Brisbane,250125,South Brisbane,Private room,103.3,30,0,42,4.66,36.0,Good,-27.414265,152.989248
+Brisbane,629416,Fortitude Valley,Entire home/apt,300.0,11,269,4,4.57,28.0,Good,-27.533725,153.029851
+Brisbane,352330,Paddington,Entire home/apt,300.0,17,327,195,4.94,27.0,Good,-27.408662,152.972677
+Brisbane,488239,CBD,Entire home/apt,275.09,12,325,50,4.17,13.0,Good,-27.414007,153.013046
+Brisbane,219199,New Farm,Private room,185.52,20,227,42,4.18,28.0,Good,-27.448938,153.058043
+Brisbane,886424,New Farm,Hotel room,300.0,11,325,105,4.4,23.0,Good,-27.500924,152.989267
+Brisbane,516972,New Farm,Shared room,240.94,28,192,5,4.46,22.0,Good,-27.529975,153.065151
+Brisbane,297625,Newstead,Entire home/apt,300.0,12,273,27,4.27,29.0,Good,-27.501188,152.983477
+Brisbane,183739,South Brisbane,Private room,70.0,11,178,62,3.62,32.0,Good,-27.536609,153.024327
+Brisbane,446794,New Farm,Private room,300.0,3,105,49,4.77,,,-27.530679,152.987188
+Brisbane,548282,CBD,Private room,139.56,19,18,4,5.0,32.0,Good,-27.452346,153.00428
+Brisbane,539460,Teneriffe,Hotel room,254.91,3,37,96,4.06,33.0,Good,-27.494557,153.041239
+Brisbane,934188,Paddington,Entire home/apt,228.52,1,313,15,4.29,20.0,Good,-27.423249,153.026286
+Brisbane,864313,Paddington,Private room,163.81,10,334,21,4.05,,,-27.536262,152.983239
+Brisbane,342203,Fortitude Valley,Private room,300.0,2,23,9,5.0,31.0,Good,-27.531289,153.075402
+Brisbane,794179,Paddington,Entire home/apt,171.32,15,132,25,4.24,,,-27.442825,152.982711
+Brisbane,804644,South Brisbane,Entire home/apt,133.32,5,319,23,4.13,18.0,Good,-27.424239,152.991407
+Brisbane,949995,Teneriffe,Entire home/apt,123.32,2,199,80,4.17,33.0,Good,-27.465721,153.02067
+Brisbane,472948,West End,Hotel room,77.37,8,19,1,4.66,27.0,Good,-27.455735,153.012009
+Brisbane,809303,West End,Private room,214.05,14,152,130,3.69,17.0,Good,-27.464981,153.0857
+Brisbane,931507,New Farm,Entire home/apt,300.0,5,265,19,4.2,,,-27.46249,153.025637
+Brisbane,121172,West End,Entire home/apt,179.39,3,41,11,3.76,33.0,Good,-27.40875,153.054402
+Brisbane,727039,CBD,Entire home/apt,270.82,3,129,25,3.96,32.0,Good,-27.480759,153.047428
+Brisbane,424694,New Farm,Entire home/apt,155.51,5,109,2,4.27,39.0,Good,-27.490188,153.006793
+Brisbane,488628,Newstead,Private room,181.04,9,244,40,4.59,26.0,Good,-27.408694,153.047506
+Brisbane,217211,CBD,Hotel room,190.48,3,157,9,4.11,12.0,Good,-27.427151,153.044525
+Brisbane,478376,Newstead,Private room,206.46,10,3,0,4.15,39.0,Good,-27.457094,153.004587
+Brisbane,610339,West End,Entire home/apt,275.66,1,148,22,5.0,32.0,Good,-27.457817,152.98174
+Brisbane,144077,Newstead,Private room,115.24,2,62,18,4.14,22.0,Good,-27.516529,152.965702
+Brisbane,351910,West End,Entire home/apt,160.55,7,231,6,5.0,47.0,Good,-27.473404,153.061936
+Brisbane,955384,West End,Entire home/apt,150.54,8,3,10,4.63,32.0,Good,-27.495569,153.075625
+Brisbane,720902,Fortitude Valley,Hotel room,177.02,3,354,33,3.38,31.0,Good,-27.503167,152.995622
+Brisbane,262851,Paddington,Private room,144.38,1,331,9,3.18,32.0,Good,-27.49251,153.02594
+Brisbane,941670,Fortitude Valley,Private room,196.36,1,190,15,4.87,33.0,Good,-27.5251,153.032017
+Brisbane,539870,New Farm,Entire home/apt,,29,43,102,3.98,24.0,Good,-27.524584,153.057442
+Brisbane,210297,Fortitude Valley,Entire home/apt,229.95,5,97,4,4.5,39.0,Good,-27.417168,153.062888
+Brisbane,709427,South Brisbane,Entire home/apt,136.55,2,81,9,5.0,32.0,Good,-27.445416,153.020159
+Brisbane,198261,Newstead,Entire home/apt,156.02,1,12,28,3.45,33.0,Good,-27.49132,153.093562
+Brisbane,608315,Fortitude Valley,Hotel room,262.99,7,194,0,5.0,29.0,Good,-27.527276,153.064398
+Brisbane,117452,Paddington,Entire home/apt,134.91,25,329,51,5.0,27.0,Good,-27.470892,153.026389
+Brisbane,727488,Paddington,Entire home/apt,221.37,3,233,34,4.2,25.0,Good,-27.480242,153.023826
+Brisbane,449792,South Brisbane,Private room,300.0,1,74,63,4.34,,,-27.405645,153.043072
+Brisbane,846403,South Brisbane,Entire home/apt,156.19,2,142,0,4.21,39.0,Good,-27.458826,152.993829
+Brisbane,588549,Paddington,Entire home/apt,180.38,26,162,18,4.81,16.0,Good,-27.486587,152.956614
+Brisbane,247014,South Brisbane,Entire home/apt,83.99,29,72,3,4.5,29.0,Good,-27.505573,153.000773
+Brisbane,764651,Paddington,Private room,167.97,29,103,24,4.05,18.0,Good,-27.491552,153.005696
+Brisbane,441428,Fortitude Valley,Entire home/apt,300.0,14,275,14,4.91,34.0,Good,-27.484628,152.974486
+Brisbane,845588,Paddington,Entire home/apt,269.56,21,80,85,4.64,40.0,Good,-27.499513,152.97216
+Brisbane,236557,Teneriffe,Entire home/apt,,22,108,43,4.67,34.0,Good,-27.49053,153.063159
+Brisbane,943382,Teneriffe,Private room,73.61,11,349,4,3.73,22.0,Good,-27.42233,152.982839
+Brisbane,771031,Paddington,Entire home/apt,175.16,1,365,31,3.57,23.0,Good,-27.483345,153.054568
+Brisbane,939451,New Farm,Entire home/apt,155.93,16,137,12,3.58,33.0,Good,-27.437309,153.026742
+Brisbane,437217,Paddington,Hotel room,98.08,1,21,11,3.61,18.0,Good,-27.424358,152.986826
+Brisbane,438693,West End,Shared room,,21,305,38,4.34,20.0,Good,-27.489846,153.082454
+Brisbane,931775,CBD,Entire home/apt,229.8,6,20,82,3.61,23.0,Good,-27.497153,153.061552
+Brisbane,614466,New Farm,Entire home/apt,164.01,1,227,73,4.77,27.0,Good,-27.524372,153.008765
+Brisbane,134967,Teneriffe,Shared room,300.0,18,284,88,3.56,20.0,Good,-27.449818,153.050342
+Brisbane,569226,Newstead,Entire home/apt,93.98,2,136,20,4.51,24.0,Good,-27.449291,153.084291
+Brisbane,305419,Paddington,Private room,70.0,6,98,26,3.89,30.0,Good,-27.419362,152.977299
+Brisbane,303958,New Farm,Hotel room,252.08,3,72,24,4.09,,,-27.403345,153.004923
+Brisbane,176322,Fortitude Valley,Private room,300.0,13,150,48,4.6,40.0,Good,-27.447676,152.968175
+Brisbane,244871,South Brisbane,Entire home/apt,295.21,28,245,67,5.0,28.0,Good,-27.450273,153.052821
+Brisbane,311298,CBD,Private room,268.44,1,259,30,3.98,32.0,Good,-27.468094,152.983346
+Brisbane,687705,Paddington,Private room,,21,166,0,3.69,35.0,Good,-27.421342,152.961293
+Brisbane,648786,South Brisbane,Hotel room,258.35,18,172,72,3.81,37.0,Good,-27.443861,153.002052
+Brisbane,204511,Paddington,Entire home/apt,70.0,8,317,145,3.81,14.0,Good,-27.534549,153.070386
+Brisbane,924584,Newstead,Entire home/apt,269.98,1,50,24,4.17,13.0,Good,-27.508499,152.996306
+Brisbane,450850,Newstead,Entire home/apt,102.5,18,17,1,4.19,15.0,Good,-27.410114,152.967641
+Brisbane,180858,New Farm,Entire home/apt,295.91,2,356,4,3.34,25.0,Good,-27.461526,153.047019
+Brisbane,780311,Fortitude Valley,Entire home/apt,136.74,14,33,42,4.57,37.0,Good,-27.467377,152.964948
+Brisbane,629620,Fortitude Valley,Entire home/apt,111.82,1,29,38,4.49,32.0,Good,-27.4327,153.03815
+Brisbane,801959,Teneriffe,Hotel room,300.0,3,96,2,5.0,39.0,Good,-27.470645,153.031593
+Brisbane,303580,South Brisbane,Entire home/apt,226.72,2,25,4,4.48,13.0,Good,-27.507157,153.036399
+Brisbane,516686,Paddington,Private room,254.21,18,213,8,4.26,25.0,Good,-27.476511,152.957997
+Brisbane,246940,Teneriffe,Shared room,99.43,12,93,5,4.44,28.0,Good,-27.450493,153.086706
+Brisbane,249484,South Brisbane,Entire home/apt,300.0,22,26,18,3.86,,,-27.512773,153.029342
+Brisbane,250760,New Farm,Private room,220.11,29,123,31,3.52,22.0,Good,-27.446481,153.053668
+Brisbane,340924,South Brisbane,Shared room,300.0,25,290,8,4.73,30.0,Good,-27.4915,153.01109
+Brisbane,926640,Newstead,Entire home/apt,145.92,30,354,4,4.46,21.0,Good,-27.457056,153.029139
+Brisbane,412921,South Brisbane,Entire home/apt,132.98,14,169,24,4.44,26.0,Good,-27.482067,153.083651
+Brisbane,900354,Fortitude Valley,Entire home/apt,,1,91,12,4.6,32.0,Good,-27.442456,152.998511
+Brisbane,834467,New Farm,Shared room,168.38,17,69,7,4.38,34.0,Good,-27.490923,153.017781
+Brisbane,870823,New Farm,Hotel room,88.93,14,13,31,3.64,17.0,Good,-27.482225,152.971299
+Brisbane,333410,West End,Entire home/apt,216.48,12,318,35,4.35,25.0,Good,-27.490234,153.016238
+Brisbane,949412,South Brisbane,Shared room,103.92,11,193,4,3.92,17.0,Good,-27.439855,153.071196
+Brisbane,558451,South Brisbane,Shared room,135.93,14,130,18,4.19,32.0,Good,-27.477331,152.977108
+Brisbane,416350,CBD,Entire home/apt,300.0,26,225,45,4.93,35.0,Good,-27.524905,152.961951
+Brisbane,827529,CBD,Private room,248.33,2,244,14,3.31,43.0,Good,-27.489077,153.025435
+Brisbane,512269,Newstead,Private room,133.4,3,212,19,3.88,29.0,Good,-27.408506,153.014911
+Brisbane,543333,Fortitude Valley,Entire home/apt,190.08,14,228,33,4.56,32.0,Good,-27.410141,153.049607
+Brisbane,856192,CBD,Shared room,101.86,1,337,6,4.15,21.0,Good,-27.514463,153.036906
+Brisbane,436307,CBD,Private room,222.04,19,232,133,,24.0,Good,-27.43231,152.965197
+Brisbane,636726,New Farm,Private room,269.94,15,178,64,4.43,25.0,Good,-27.473571,153.093143
+Brisbane,693942,Teneriffe,Private room,129.48,1,241,15,4.4,28.0,Good,-27.468813,152.972676
+Brisbane,921596,South Brisbane,Entire home/apt,275.15,10,328,4,4.07,19.0,Good,-27.403511,153.029845
+Brisbane,988295,Newstead,Entire home/apt,300.0,2,29,70,3.72,26.0,Good,-27.46027,152.994462
+Brisbane,616692,Teneriffe,Entire home/apt,134.77,5,149,73,3.66,,,-27.424742,153.065382
+Brisbane,185431,Fortitude Valley,Entire home/apt,,29,60,54,4.11,31.0,Good,-27.480479,153.014366
+Brisbane,427886,Paddington,Shared room,184.01,23,32,2,5.0,22.0,Good,-27.453057,152.975639
+Brisbane,703418,Newstead,Entire home/apt,244.19,1,278,54,5.0,28.0,Good,-27.487647,152.992473
+Brisbane,352296,CBD,Entire home/apt,,1,216,73,4.15,27.0,Good,-27.463957,153.083779
+Brisbane,154981,Teneriffe,Private room,223.2,16,117,72,3.6,33.0,Good,-27.516581,153.031592
+Brisbane,865374,Teneriffe,Private room,103.4,14,129,38,3.84,35.0,Good,-27.515968,153.065318
+Brisbane,985710,Teneriffe,Hotel room,263.13,9,9,60,3.12,35.0,Good,-27.524554,152.96603
+Brisbane,291089,West End,Private room,144.84,4,337,12,4.45,28.0,Good,-27.52659,153.047789
+Brisbane,330813,Teneriffe,Private room,115.65,3,137,17,4.26,39.0,Good,-27.52196,153.03203
+Brisbane,159416,West End,Entire home/apt,189.48,23,197,110,4.11,27.0,Good,-27.487741,153.027272
+Brisbane,430284,CBD,Private room,270.16,1,193,59,4.67,19.0,Good,-27.442353,153.060233
+Brisbane,222820,Paddington,Entire home/apt,208.84,1,11,2,3.95,18.0,Good,-27.407681,152.993037
+Brisbane,837921,West End,Entire home/apt,154.64,2,127,20,4.09,12.0,Good,-27.41879,152.99343
+Brisbane,138720,Paddington,Entire home/apt,135.17,29,128,21,3.73,28.0,Good,-27.539253,153.047655
+Brisbane,238018,Teneriffe,Shared room,300.0,14,364,74,4.17,14.0,Good,-27.456964,153.006552
+Brisbane,644523,South Brisbane,Private room,86.87,27,272,43,4.42,37.0,Good,-27.494022,152.958575
+Brisbane,260232,Fortitude Valley,Shared room,113.67,13,190,6,4.96,29.0,Good,-27.477166,153.042987
+Brisbane,453904,West End,Entire home/apt,99.29,22,200,20,4.64,34.0,Good,-27.53489,153.025274
+Brisbane,751669,Paddington,Private room,70.0,17,127,7,4.23,31.0,Good,-27.45748,153.09245
+Brisbane,839989,West End,Entire home/apt,185.13,3,59,0,4.06,,,-27.52041,152.962609
+Brisbane,179287,New Farm,Private room,300.0,15,256,8,5.0,22.0,Good,-27.464746,152.971307
+Brisbane,241317,Teneriffe,Entire home/apt,166.77,2,245,73,3.68,39.0,Good,-27.402603,153.020687
+Brisbane,262245,Fortitude Valley,Entire home/apt,88.23,15,243,129,4.21,40.0,Good,-27.40066,153.025218
+Brisbane,693691,New Farm,Entire home/apt,300.0,12,250,30,3.64,37.0,Good,-27.42475,152.96804
+Brisbane,765747,Paddington,Entire home/apt,290.62,12,164,8,4.64,24.0,Good,-27.483942,153.057933
+Brisbane,740129,Fortitude Valley,Private room,123.9,14,41,18,4.35,,,-27.537792,153.070246
+Brisbane,425967,Paddington,Entire home/apt,149.0,23,163,90,4.57,12.0,Good,-27.409008,152.967086
+Brisbane,544250,Fortitude Valley,Entire home/apt,180.09,28,167,16,4.66,10.0,Good,-27.471219,153.094671
+Brisbane,742353,CBD,Entire home/apt,,13,45,5,4.65,36.0,Good,-27.462998,152.977419
+Brisbane,745649,Fortitude Valley,Entire home/apt,111.47,1,285,13,4.11,19.0,Good,-27.448686,152.983744
+Brisbane,243452,Fortitude Valley,Entire home/apt,300.0,2,294,164,4.49,33.0,Good,-27.536781,153.019189
+Brisbane,317920,South Brisbane,Private room,145.31,2,116,32,4.37,21.0,Good,-27.497666,153.037227
+Brisbane,146559,Paddington,Private room,90.05,27,226,21,4.27,26.0,Good,-27.506399,153.016371
+Brisbane,722782,CBD,Entire home/apt,70.0,12,87,92,3.52,33.0,Good,-27.430593,152.990787
+Brisbane,994279,New Farm,Entire home/apt,,17,187,9,4.83,28.0,Good,-27.408332,153.05047
+Brisbane,278120,Fortitude Valley,Shared room,147.7,25,270,10,,16.0,Good,-27.405096,153.045401
+Brisbane,970076,West End,Entire home/apt,300.0,24,351,4,4.33,43.0,Good,-27.469303,153.004097
+Brisbane,908387,Teneriffe,Entire home/apt,142.91,8,129,35,4.79,37.0,Good,-27.447632,153.073845
+Brisbane,350566,Teneriffe,Private room,272.88,22,322,13,3.87,19.0,Good,-27.423023,152.96524
+Brisbane,234103,Teneriffe,Private room,132.86,3,158,26,3.94,17.0,Good,-27.454365,153.069015
+Brisbane,646500,Fortitude Valley,Entire home/apt,206.99,1,236,151,4.83,,,-27.464096,153.013344
+Brisbane,555938,Paddington,Entire home/apt,161.9,20,67,38,4.62,19.0,Good,-27.428007,153.014806
+Brisbane,256103,Teneriffe,Entire home/apt,133.11,23,203,57,3.98,23.0,Good,-27.455802,153.062239
+Brisbane,237302,New Farm,Private room,208.71,14,333,0,3.64,16.0,Good,-27.519264,153.058169
+Brisbane,922493,Fortitude Valley,Entire home/apt,190.74,6,324,34,4.05,24.0,Good,-27.511947,152.987544
+Brisbane,536759,CBD,Entire home/apt,126.85,11,142,14,3.55,21.0,Good,-27.444828,153.063676
+Brisbane,591390,South Brisbane,Entire home/apt,141.12,2,122,1,3.64,29.0,Good,-27.421213,153.03675
+Brisbane,755449,Teneriffe,Hotel room,292.28,1,80,4,4.56,31.0,Good,-27.447303,153.003731
+Brisbane,577041,Teneriffe,Entire home/apt,,14,244,29,3.65,30.0,Good,-27.446181,152.976316
+Brisbane,231159,Newstead,Entire home/apt,242.54,15,132,10,4.47,15.0,Good,-27.450712,153.048454
+Brisbane,506023,Newstead,Entire home/apt,144.11,1,44,5,4.07,51.0,Moderate,-27.515795,152.987961
+Brisbane,846038,Teneriffe,Entire home/apt,300.0,18,161,10,4.25,29.0,Good,-27.491612,153.057069
+Brisbane,737884,Fortitude Valley,Private room,171.9,10,262,62,4.75,27.0,Good,-27.456555,153.009158
+Brisbane,690023,Teneriffe,Entire home/apt,263.74,6,279,5,4.54,13.0,Good,-27.41614,153.062068
+Brisbane,625348,Fortitude Valley,Entire home/apt,,2,16,8,3.98,25.0,Good,-27.485251,152.976983
+Brisbane,405738,West End,Entire home/apt,144.5,18,115,12,,24.0,Good,-27.443279,152.996958
+Brisbane,423791,Newstead,Hotel room,205.21,28,25,16,4.02,21.0,Good,-27.475089,153.044862
+Brisbane,374250,CBD,Entire home/apt,241.64,22,83,72,4.29,23.0,Good,-27.433984,153.06622
+Brisbane,121949,Fortitude Valley,Entire home/apt,230.73,20,184,35,4.0,,,-27.5067,153.069719
+Brisbane,804379,Teneriffe,Private room,,20,69,89,3.5,22.0,Good,-27.492307,152.986161
+Brisbane,422177,Newstead,Hotel room,300.0,19,9,120,4.45,23.0,Good,-27.405998,152.970337
+Brisbane,300065,West End,Hotel room,113.24,13,121,103,4.25,30.0,Good,-27.489157,152.997369
+Brisbane,944684,New Farm,Entire home/apt,74.05,12,171,31,4.21,24.0,Good,-27.452332,153.055668
+Brisbane,688358,Teneriffe,Shared room,300.0,26,229,70,4.57,28.0,Good,-27.488469,153.078973
+Brisbane,201143,CBD,Private room,300.0,1,195,91,3.89,29.0,Good,-27.517938,153.072597
+Brisbane,765464,Fortitude Valley,Hotel room,70.0,3,322,0,4.13,22.0,Good,-27.406914,152.968854
+Brisbane,395400,Fortitude Valley,Shared room,99.63,25,241,23,4.85,28.0,Good,-27.499177,153.003006
+Brisbane,313830,New Farm,Entire home/apt,249.76,2,346,63,4.75,23.0,Good,-27.413067,153.036766
+Brisbane,212651,Teneriffe,Private room,122.75,18,75,19,4.81,35.0,Good,-27.478788,152.993098
+Brisbane,127160,Teneriffe,Entire home/apt,106.48,11,154,10,3.46,33.0,Good,-27.473732,153.040595
+Brisbane,937080,New Farm,Private room,180.34,1,318,25,5.0,30.0,Good,-27.46782,153.09207
+Brisbane,749911,New Farm,Private room,153.48,28,85,4,4.61,34.0,Good,-27.485118,153.040503
+Brisbane,870691,Fortitude Valley,Private room,127.87,10,85,12,4.95,38.0,Good,-27.504704,152.974826
+Brisbane,814897,South Brisbane,Private room,272.19,2,256,0,4.89,28.0,Good,-27.474543,153.009397
+Brisbane,207678,West End,Entire home/apt,108.26,1,261,43,4.25,10.0,Good,-27.478678,153.03701
+Brisbane,282976,West End,Private room,187.79,18,194,11,,30.0,Good,-27.424984,153.076221
+Brisbane,507906,Fortitude Valley,Entire home/apt,282.37,26,178,50,4.98,23.0,Good,-27.416458,153.028825
+Brisbane,599080,West End,Entire home/apt,280.3,7,98,46,,10.0,Good,-27.516135,152.975446
+Brisbane,697090,CBD,Entire home/apt,157.45,2,260,9,3.32,,,-27.450992,152.996178
+Brisbane,636442,Teneriffe,Private room,239.91,1,142,59,,16.0,Good,-27.453483,153.021896
+Brisbane,419730,Paddington,Private room,300.0,2,58,30,4.12,13.0,Good,-27.417166,153.04427
+Brisbane,160838,Newstead,Entire home/apt,223.29,23,108,66,4.09,17.0,Good,-27.485843,153.048272
+Brisbane,826308,West End,Shared room,294.45,1,156,90,,25.0,Good,-27.414879,153.063064
+Brisbane,146315,CBD,Private room,138.76,2,169,3,4.93,30.0,Good,-27.506833,152.957396
+Brisbane,394107,Newstead,Entire home/apt,218.23,15,205,5,4.29,21.0,Good,-27.532567,152.994833
+Brisbane,968784,Teneriffe,Entire home/apt,243.43,3,191,22,3.96,,,-27.45733,152.996137
+Brisbane,436229,Teneriffe,Private room,146.0,5,26,32,3.77,31.0,Good,-27.529913,153.047935
+Brisbane,258432,Newstead,Entire home/apt,205.41,30,260,19,4.25,25.0,Good,-27.422876,153.053293
+Brisbane,524148,CBD,Entire home/apt,300.0,26,167,257,3.85,25.0,Good,-27.537659,153.079231
+Brisbane,143812,Fortitude Valley,Private room,,2,41,38,4.04,38.0,Good,-27.523247,152.979299
+Brisbane,518706,Newstead,Entire home/apt,197.94,5,76,56,4.3,37.0,Good,-27.422948,152.979275
+Brisbane,124179,CBD,Private room,296.27,2,339,10,4.23,30.0,Good,-27.444069,153.049847

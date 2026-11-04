@@ -1,0 +1,451 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Chicago,914584,Wicker Park,Entire home/apt,316.17,2,333,2,5.0,49.0,Good,41.833455,-87.659117
+Chicago,282768,West Loop,Private room,221.21,5,43,24,4.59,35.0,Good,41.89056,-87.662162
+Chicago,156727,West Loop,Private room,292.33,2,263,31,3.89,,,41.919101,-87.666851
+Chicago,280516,Hyde Park,Shared room,,30,122,42,4.08,64.0,Moderate,41.939181,-87.638122
+Chicago,389867,Logan Square,Private room,389.25,17,226,28,3.34,50.0,Good,41.817511,-87.636529
+Chicago,297392,Lakeview,Entire home/apt,129.83,25,244,1,4.3,,,41.875778,-87.652862
+Chicago,318871,Lakeview,Entire home/apt,,9,210,52,3.91,51.0,Moderate,41.859949,-87.653254
+Chicago,192336,Hyde Park,Entire home/apt,371.27,3,90,0,4.04,57.0,Moderate,41.907031,-87.633777
+Chicago,817831,Lakeview,Entire home/apt,94.04,23,362,47,,44.0,Good,41.840603,-87.567687
+Chicago,384842,Lakeview,Shared room,,12,239,103,4.01,39.0,Good,41.81781,-87.682781
+Chicago,769401,Lincoln Park,Entire home/apt,110.71,24,85,58,3.6,32.0,Good,41.906853,-87.674573
+Chicago,286746,Loop,Entire home/apt,270.42,10,28,72,4.68,,,41.894709,-87.601979
+Chicago,636975,Lakeview,Entire home/apt,156.52,2,224,1,4.19,42.0,Good,41.923281,-87.660193
+Chicago,214386,Loop,Private room,199.83,1,108,17,3.85,36.0,Good,41.820241,-87.624851
+Chicago,300586,Lakeview,Private room,209.59,25,315,19,5.0,51.0,Moderate,41.842435,-87.570972
+Chicago,336373,Wicker Park,Private room,396.36,25,252,18,4.66,39.0,Good,41.853857,-87.69553
+Chicago,502243,Lakeview,Entire home/apt,294.21,14,217,6,4.55,65.0,Moderate,41.917158,-87.690042
+Chicago,381316,Lincoln Park,Entire home/apt,228.28,22,249,25,4.51,50.0,Good,41.865468,-87.639939
+Chicago,180552,Wicker Park,Entire home/apt,249.77,19,299,136,4.07,,,41.839438,-87.652715
+Chicago,397934,Logan Square,Entire home/apt,299.92,7,271,73,4.05,29.0,Good,41.866713,-87.680061
+Chicago,794461,Logan Square,Hotel room,212.5,1,265,16,4.71,46.0,Good,41.90659,-87.596316
+Chicago,673077,Loop,Private room,,13,106,157,4.67,59.0,Moderate,41.904691,-87.609734
+Chicago,226448,Logan Square,Private room,229.33,26,2,5,4.35,41.0,Good,41.865854,-87.604888
+Chicago,589230,West Loop,Shared room,450.0,25,134,64,5.0,31.0,Good,41.822081,-87.620782
+Chicago,911344,Logan Square,Entire home/apt,311.36,1,243,28,4.42,51.0,Moderate,41.87973,-87.607053
+Chicago,923739,River North,Entire home/apt,450.0,6,24,23,3.62,29.0,Good,41.944443,-87.587516
+Chicago,875444,Lincoln Park,Entire home/apt,450.0,1,203,55,4.64,36.0,Good,41.925133,-87.659493
+Chicago,485652,West Loop,Entire home/apt,127.73,29,70,48,3.41,45.0,Good,41.881835,-87.583455
+Chicago,242117,Hyde Park,Hotel room,373.2,10,142,79,5.0,68.0,Moderate,41.934465,-87.602913
+Chicago,436452,Hyde Park,Private room,186.76,11,239,6,4.43,,,41.918469,-87.62657
+Chicago,779347,Loop,Entire home/apt,344.3,2,337,76,3.76,39.0,Good,41.816051,-87.681267
+Chicago,751142,Logan Square,Hotel room,450.0,2,359,1,4.67,52.0,Moderate,41.919642,-87.69846
+Chicago,933007,Logan Square,Private room,450.0,2,146,43,4.36,25.0,Good,41.810475,-87.647695
+Chicago,882296,Lincoln Park,Private room,154.97,5,99,0,4.6,57.0,Moderate,41.896109,-87.656239
+Chicago,882343,River North,Private room,235.35,2,30,5,4.44,65.0,Moderate,41.875448,-87.679986
+Chicago,449493,Loop,Entire home/apt,407.23,2,310,0,3.62,42.0,Good,41.922027,-87.586336
+Chicago,871826,West Loop,Entire home/apt,292.09,20,121,38,4.11,36.0,Good,41.840381,-87.657925
+Chicago,160864,River North,Private room,177.42,12,245,75,4.56,47.0,Good,41.841346,-87.67169
+Chicago,207748,Wicker Park,Entire home/apt,206.29,2,116,28,4.62,32.0,Good,41.844034,-87.574056
+Chicago,186245,Lakeview,Entire home/apt,282.31,25,53,25,4.57,54.0,Moderate,41.90485,-87.646714
+Chicago,442551,Logan Square,Entire home/apt,378.61,29,36,131,4.56,54.0,Moderate,41.940331,-87.568543
+Chicago,330412,Lincoln Park,Entire home/apt,273.42,28,50,44,4.2,81.0,Moderate,41.879563,-87.665586
+Chicago,687787,Logan Square,Entire home/apt,339.44,19,296,37,4.19,51.0,Moderate,41.927261,-87.660733
+Chicago,501754,Lincoln Park,Private room,226.5,27,117,4,4.22,38.0,Good,41.893145,-87.693323
+Chicago,920676,Lakeview,Shared room,278.63,7,297,27,3.9,37.0,Good,41.915466,-87.693406
+Chicago,932087,Loop,Entire home/apt,349.44,3,122,2,4.18,59.0,Moderate,41.85545,-87.663865
+Chicago,110123,Lakeview,Entire home/apt,418.39,3,307,101,3.81,36.0,Good,41.930859,-87.599086
+Chicago,426123,Wicker Park,Shared room,208.38,28,251,18,4.02,26.0,Good,41.898483,-87.562843
+Chicago,679198,Lincoln Park,Shared room,188.91,12,6,5,4.04,55.0,Moderate,41.833685,-87.651407
+Chicago,253259,Wicker Park,Private room,,6,185,7,4.02,73.0,Moderate,41.863122,-87.666161
+Chicago,809108,Lakeview,Private room,270.35,17,347,0,4.95,33.0,Good,41.934082,-87.662463
+Chicago,326219,Hyde Park,Shared room,382.11,18,18,144,4.98,54.0,Moderate,41.908339,-87.639286
+Chicago,819380,Lincoln Park,Entire home/apt,346.11,10,48,15,3.81,47.0,Good,41.903876,-87.606259
+Chicago,584541,Hyde Park,Entire home/apt,124.7,1,130,91,3.86,55.0,Moderate,41.845918,-87.561983
+Chicago,151762,Lincoln Park,Private room,450.0,6,328,21,4.92,48.0,Good,41.826878,-87.578347
+Chicago,203980,Logan Square,Entire home/apt,196.22,23,264,55,4.07,46.0,Good,41.909719,-87.627603
+Chicago,670601,Wicker Park,Private room,,12,104,25,4.67,65.0,Moderate,41.926972,-87.594209
+Chicago,243787,River North,Hotel room,200.63,2,20,5,4.19,47.0,Good,41.896607,-87.590973
+Chicago,438816,Wicker Park,Entire home/apt,256.79,1,234,13,4.63,43.0,Good,41.906846,-87.630466
+Chicago,818668,Hyde Park,Private room,133.34,23,346,1,4.83,35.0,Good,41.93782,-87.563549
+Chicago,385671,Logan Square,Shared room,102.21,3,165,15,5.0,66.0,Moderate,41.890525,-87.667423
+Chicago,700690,West Loop,Entire home/apt,203.84,23,247,71,4.16,29.0,Good,41.916379,-87.60882
+Chicago,316991,Logan Square,Entire home/apt,223.74,1,132,18,3.64,45.0,Good,41.909485,-87.644578
+Chicago,421381,Wicker Park,Entire home/apt,178.14,10,3,67,4.43,44.0,Good,41.8453,-87.645973
+Chicago,828122,Wicker Park,Entire home/apt,156.64,11,315,4,4.29,53.0,Moderate,41.901599,-87.682576
+Chicago,205602,River North,Entire home/apt,150.86,1,198,0,4.45,77.0,Moderate,41.859401,-87.602369
+Chicago,960260,Logan Square,Entire home/apt,164.83,24,169,40,4.18,53.0,Moderate,41.928463,-87.686607
+Chicago,769079,Loop,Private room,410.6,2,91,47,5.0,57.0,Moderate,41.946232,-87.619472
+Chicago,103701,West Loop,Entire home/apt,227.64,17,306,5,4.41,30.0,Good,41.817532,-87.594151
+Chicago,529494,Lincoln Park,Entire home/apt,106.9,11,178,31,4.83,42.0,Good,41.903454,-87.679334
+Chicago,562819,Wicker Park,Entire home/apt,155.89,16,133,0,4.39,35.0,Good,41.823926,-87.66448
+Chicago,614166,Logan Square,Entire home/apt,324.64,7,344,63,,53.0,Moderate,41.830783,-87.687721
+Chicago,397760,Lakeview,Private room,345.52,10,192,6,3.83,,,41.945554,-87.661873
+Chicago,392199,Logan Square,Entire home/apt,168.25,24,361,53,4.56,41.0,Good,41.91917,-87.587654
+Chicago,929233,Loop,Entire home/apt,450.0,5,354,6,4.28,44.0,Good,41.911548,-87.579002
+Chicago,314121,Hyde Park,Entire home/apt,157.9,23,97,106,3.35,44.0,Good,41.84082,-87.616326
+Chicago,804564,Wicker Park,Hotel room,145.9,25,123,72,4.49,52.0,Moderate,41.939807,-87.695866
+Chicago,971989,Wicker Park,Private room,368.25,14,313,44,4.88,49.0,Good,41.838125,-87.583051
+Chicago,732784,Wicker Park,Entire home/apt,158.43,17,254,31,5.0,28.0,Good,41.877609,-87.632947
+Chicago,222910,Lincoln Park,Private room,374.59,25,293,41,3.95,29.0,Good,41.913345,-87.583711
+Chicago,689255,Wicker Park,Entire home/apt,156.83,3,157,27,,56.0,Moderate,41.904293,-87.594681
+Chicago,417185,Logan Square,Entire home/apt,249.74,11,237,3,4.67,58.0,Moderate,41.833817,-87.645675
+Chicago,355772,Lincoln Park,Entire home/apt,450.0,18,27,61,4.76,48.0,Good,41.821106,-87.643264
+Chicago,992145,River North,Shared room,280.87,5,1,7,3.65,26.0,Good,41.881439,-87.672454
+Chicago,498687,Lakeview,Entire home/apt,377.95,4,326,21,,5.0,Good,41.833741,-87.691138
+Chicago,654478,Lincoln Park,Entire home/apt,248.03,1,176,4,4.07,27.0,Good,41.94128,-87.674559
+Chicago,293075,Logan Square,Entire home/apt,208.15,19,65,10,4.29,58.0,Moderate,41.813987,-87.634248
+Chicago,345335,Wicker Park,Hotel room,360.42,3,196,37,3.52,64.0,Moderate,41.816471,-87.573788
+Chicago,392516,Wicker Park,Entire home/apt,211.02,2,92,58,3.64,50.0,Good,41.904553,-87.569839
+Chicago,245488,West Loop,Private room,148.2,3,42,15,4.74,25.0,Good,41.825628,-87.686562
+Chicago,908936,Lakeview,Entire home/apt,114.57,20,337,72,3.91,56.0,Moderate,41.938864,-87.675966
+Chicago,787996,Hyde Park,Private room,450.0,13,270,1,4.49,58.0,Moderate,41.86176,-87.59884
+Chicago,234601,West Loop,Hotel room,439.13,8,363,141,4.42,40.0,Good,41.826836,-87.64301
+Chicago,808756,Hyde Park,Hotel room,196.37,24,289,14,4.79,65.0,Moderate,41.921385,-87.617885
+Chicago,906107,West Loop,Entire home/apt,135.07,7,209,48,4.7,35.0,Good,41.817121,-87.599681
+Chicago,599165,Lakeview,Entire home/apt,427.79,15,202,30,4.79,52.0,Moderate,41.921581,-87.591133
+Chicago,368575,Lincoln Park,Private room,123.56,4,250,14,4.04,52.0,Moderate,41.909687,-87.687042
+Chicago,608437,Lincoln Park,Private room,99.7,24,226,90,3.93,25.0,Good,41.831618,-87.589225
+Chicago,424220,Loop,Entire home/apt,113.88,9,206,8,5.0,64.0,Moderate,41.941314,-87.60573
+Chicago,479917,River North,Private room,374.77,29,35,104,4.58,61.0,Moderate,41.822971,-87.572576
+Chicago,599927,Wicker Park,Entire home/apt,450.0,1,157,58,4.39,48.0,Good,41.839477,-87.584256
+Chicago,282103,Loop,Private room,164.84,5,246,29,5.0,38.0,Good,41.855792,-87.603339
+Chicago,336516,West Loop,Private room,351.51,24,20,90,4.84,60.0,Moderate,41.931526,-87.645427
+Chicago,531603,West Loop,Private room,450.0,21,28,42,4.37,42.0,Good,41.938268,-87.633716
+Chicago,479241,Wicker Park,Entire home/apt,292.71,24,312,37,5.0,49.0,Good,41.825211,-87.613826
+Chicago,984374,West Loop,Hotel room,295.24,25,333,8,3.96,32.0,Good,41.901882,-87.688125
+Chicago,749940,River North,Entire home/apt,371.3,10,172,24,4.35,,,41.868855,-87.617991
+Chicago,372102,Lakeview,Entire home/apt,,25,71,65,4.4,26.0,Good,41.920631,-87.591923
+Chicago,510718,Wicker Park,Private room,146.95,10,303,36,3.38,40.0,Good,41.812139,-87.571058
+Chicago,569017,Wicker Park,Hotel room,145.17,4,45,95,5.0,33.0,Good,41.872601,-87.601166
+Chicago,566048,River North,Hotel room,377.35,21,109,16,4.01,32.0,Good,41.846164,-87.621782
+Chicago,561362,Lincoln Park,Entire home/apt,450.0,7,80,37,3.26,50.0,Good,41.837949,-87.623341
+Chicago,621485,Lincoln Park,Entire home/apt,268.06,3,165,32,4.47,35.0,Good,41.897658,-87.584301
+Chicago,732141,West Loop,Entire home/apt,,20,298,36,4.0,80.0,Moderate,41.815906,-87.599928
+Chicago,675895,Loop,Private room,370.64,14,255,10,4.28,69.0,Moderate,41.909481,-87.603446
+Chicago,223452,River North,Shared room,158.85,15,104,28,,,,41.945756,-87.628303
+Chicago,514450,Wicker Park,Entire home/apt,,30,263,43,,49.0,Good,41.937626,-87.680757
+Chicago,700992,River North,Private room,450.0,3,327,8,,55.0,Moderate,41.812922,-87.591838
+Chicago,997395,Lakeview,Private room,450.0,17,273,40,3.78,72.0,Moderate,41.842447,-87.622809
+Chicago,438561,Wicker Park,Hotel room,273.82,12,152,47,4.36,55.0,Moderate,41.855905,-87.624576
+Chicago,151685,West Loop,Private room,201.06,1,125,128,3.97,28.0,Good,41.82086,-87.595646
+Chicago,182415,River North,Private room,149.62,22,252,22,4.46,43.0,Good,41.856446,-87.567913
+Chicago,255533,West Loop,Shared room,292.41,24,357,41,,51.0,Moderate,41.940892,-87.597721
+Chicago,933148,West Loop,Entire home/apt,265.15,4,287,49,4.01,43.0,Good,41.885059,-87.681223
+Chicago,128066,River North,Private room,148.14,29,54,27,5.0,76.0,Moderate,41.875128,-87.639641
+Chicago,501213,Lincoln Park,Entire home/apt,450.0,3,140,8,3.64,58.0,Moderate,41.862564,-87.655426
+Chicago,615311,Lakeview,Private room,262.96,1,133,22,4.06,40.0,Good,41.877004,-87.631809
+Chicago,845229,Lakeview,Entire home/apt,348.38,20,15,6,3.84,33.0,Good,41.81564,-87.568108
+Chicago,810179,Lincoln Park,Entire home/apt,274.2,2,361,75,4.58,45.0,Good,41.934369,-87.685974
+Chicago,448583,West Loop,Entire home/apt,342.92,9,287,11,4.73,59.0,Moderate,41.919688,-87.642956
+Chicago,357891,Logan Square,Entire home/apt,450.0,28,279,59,4.74,50.0,Good,41.842664,-87.595265
+Chicago,495430,Lincoln Park,Entire home/apt,329.7,7,226,12,4.17,42.0,Good,41.893273,-87.691449
+Chicago,631501,Loop,Hotel room,326.22,16,269,3,3.77,55.0,Moderate,41.891789,-87.585101
+Chicago,811860,Loop,Private room,239.18,18,298,6,4.7,26.0,Good,41.814319,-87.675045
+Chicago,650781,West Loop,Private room,169.98,1,15,71,2.99,42.0,Good,41.891935,-87.661783
+Chicago,468401,Lakeview,Entire home/apt,235.47,7,67,55,,,,41.914016,-87.66878
+Chicago,273602,Lakeview,Hotel room,163.68,2,315,56,4.42,49.0,Good,41.931481,-87.667788
+Chicago,179044,Wicker Park,Hotel room,359.68,3,246,181,3.43,40.0,Good,41.842749,-87.675781
+Chicago,807583,Lincoln Park,Hotel room,282.3,9,154,9,4.43,29.0,Good,41.900994,-87.657777
+Chicago,535119,Logan Square,Private room,371.92,30,78,37,4.32,85.0,Moderate,41.878947,-87.599141
+Chicago,290374,West Loop,Entire home/apt,450.0,5,73,15,3.78,,,41.851621,-87.622771
+Chicago,687503,Wicker Park,Private room,392.99,1,190,4,3.81,45.0,Good,41.871772,-87.620069
+Chicago,998708,West Loop,Entire home/apt,208.5,14,60,23,4.27,47.0,Good,41.82196,-87.57805
+Chicago,580183,Wicker Park,Entire home/apt,450.0,1,102,2,3.95,24.0,Good,41.913388,-87.683047
+Chicago,442403,Loop,Entire home/apt,154.08,1,186,26,4.16,50.0,Good,41.893948,-87.660795
+Chicago,578948,West Loop,Entire home/apt,236.4,1,168,78,4.24,23.0,Good,41.938332,-87.611795
+Chicago,165221,Wicker Park,Private room,242.22,1,205,65,4.35,60.0,Moderate,41.935655,-87.576834
+Chicago,802087,Loop,Entire home/apt,384.31,10,207,70,4.11,32.0,Good,41.892504,-87.576941
+Chicago,822367,Lincoln Park,Entire home/apt,238.86,15,182,38,5.0,47.0,Good,41.926896,-87.651934
+Chicago,123677,Hyde Park,Private room,200.21,2,202,3,4.39,49.0,Good,41.83871,-87.616312
+Chicago,437190,Hyde Park,Entire home/apt,392.47,27,184,60,3.28,,,41.820378,-87.694098
+Chicago,687697,Lakeview,Private room,138.41,2,83,6,4.54,45.0,Good,41.883232,-87.621914
+Chicago,654192,Hyde Park,Entire home/apt,151.23,29,79,46,4.01,40.0,Good,41.878889,-87.645031
+Chicago,796510,River North,Private room,214.16,1,27,2,,42.0,Good,41.939235,-87.570095
+Chicago,796743,Hyde Park,Private room,218.7,11,278,44,4.51,19.0,Good,41.870014,-87.6299
+Chicago,155174,River North,Entire home/apt,450.0,2,59,49,4.69,42.0,Good,41.913585,-87.610254
+Chicago,580646,Lakeview,Entire home/apt,450.0,1,189,7,4.11,60.0,Moderate,41.842717,-87.640631
+Chicago,499755,Logan Square,Private room,265.31,19,216,39,4.42,40.0,Good,41.91815,-87.677415
+Chicago,642931,Loop,Private room,267.79,9,29,13,4.52,38.0,Good,41.846745,-87.572523
+Chicago,213090,Loop,Entire home/apt,142.18,15,99,216,4.37,22.0,Good,41.947734,-87.620812
+Chicago,444880,West Loop,Entire home/apt,166.96,6,11,32,4.36,36.0,Good,41.812812,-87.614484
+Chicago,556650,River North,Private room,92.11,1,68,30,,,,41.864914,-87.626705
+Chicago,734526,Logan Square,Entire home/apt,99.24,19,300,73,3.88,31.0,Good,41.943855,-87.661142
+Chicago,627727,Loop,Private room,313.01,25,103,27,4.13,35.0,Good,41.884763,-87.56891
+Chicago,134832,Lakeview,Entire home/apt,427.64,3,185,24,4.5,33.0,Good,41.891681,-87.60989
+Chicago,771410,Lincoln Park,Shared room,237.97,4,182,117,3.2,53.0,Moderate,41.935439,-87.569287
+Chicago,390444,Loop,Private room,85.0,2,137,5,4.08,28.0,Good,41.822876,-87.598404
+Chicago,292135,Lincoln Park,Entire home/apt,375.63,13,13,16,4.72,85.0,Moderate,41.810601,-87.621826
+Chicago,405814,Wicker Park,Entire home/apt,,2,10,9,3.78,37.0,Good,41.838529,-87.636254
+Chicago,720162,Wicker Park,Entire home/apt,226.31,19,277,21,4.47,38.0,Good,41.859065,-87.655861
+Chicago,862863,Lincoln Park,Hotel room,182.94,6,338,21,3.67,37.0,Good,41.932796,-87.696766
+Chicago,257468,Logan Square,Entire home/apt,450.0,17,61,57,4.19,30.0,Good,41.888012,-87.603091
+Chicago,683274,West Loop,Entire home/apt,130.22,11,104,12,3.36,49.0,Good,41.815844,-87.600954
+Chicago,309606,Wicker Park,Entire home/apt,258.94,28,102,35,,58.0,Moderate,41.910254,-87.640533
+Chicago,956377,Hyde Park,Private room,373.39,7,353,5,,35.0,Good,41.906844,-87.584019
+Chicago,767124,Lincoln Park,Private room,150.14,6,296,3,5.0,54.0,Moderate,41.866533,-87.640831
+Chicago,926092,Lincoln Park,Private room,217.82,4,144,14,4.38,56.0,Moderate,41.851529,-87.682755
+Chicago,350552,West Loop,Entire home/apt,450.0,25,21,48,3.71,21.0,Good,41.817545,-87.652746
+Chicago,789868,River North,Hotel room,281.7,7,114,23,5.0,37.0,Good,41.861455,-87.689039
+Chicago,387083,Loop,Private room,335.9,1,183,15,4.71,65.0,Moderate,41.882408,-87.685845
+Chicago,344931,Lincoln Park,Private room,450.0,24,22,8,4.64,46.0,Good,41.934636,-87.656746
+Chicago,271946,River North,Shared room,,3,51,28,4.21,58.0,Moderate,41.860499,-87.636943
+Chicago,132083,Lakeview,Entire home/apt,171.54,14,12,43,4.47,40.0,Good,41.860519,-87.564176
+Chicago,156749,West Loop,Private room,336.76,1,34,35,4.14,58.0,Moderate,41.940221,-87.626001
+Chicago,277744,Lakeview,Entire home/apt,349.9,5,265,3,5.0,30.0,Good,41.934978,-87.576568
+Chicago,944599,River North,Private room,191.0,23,140,53,3.88,52.0,Moderate,41.944071,-87.576516
+Chicago,154033,River North,Entire home/apt,,2,338,2,3.56,56.0,Moderate,41.886601,-87.640776
+Chicago,828262,Wicker Park,Entire home/apt,228.74,26,142,62,4.6,39.0,Good,41.913762,-87.588598
+Chicago,587951,West Loop,Entire home/apt,334.76,30,34,87,4.2,,,41.85897,-87.638034
+Chicago,494553,Lincoln Park,Entire home/apt,448.58,1,67,34,4.16,41.0,Good,41.888453,-87.645924
+Chicago,899036,Lakeview,Shared room,,23,266,16,,28.0,Good,41.851663,-87.59941
+Chicago,722496,Logan Square,Shared room,142.69,13,48,19,4.53,46.0,Good,41.878923,-87.654217
+Chicago,340563,Wicker Park,Private room,238.46,22,357,63,4.11,42.0,Good,41.89426,-87.670331
+Chicago,335171,Logan Square,Entire home/apt,450.0,6,178,6,4.58,60.0,Moderate,41.824809,-87.648453
+Chicago,679202,River North,Private room,235.59,1,153,49,5.0,66.0,Moderate,41.885425,-87.57451
+Chicago,508281,Hyde Park,Private room,95.93,13,129,11,4.65,,,41.893089,-87.658326
+Chicago,873677,Wicker Park,Entire home/apt,447.53,4,171,26,3.83,18.0,Good,41.813486,-87.652125
+Chicago,711683,Wicker Park,Hotel room,450.0,10,13,4,,52.0,Moderate,41.811236,-87.60119
+Chicago,423732,River North,Private room,377.81,1,176,175,,52.0,Moderate,41.860499,-87.63704
+Chicago,466899,Lincoln Park,Entire home/apt,430.84,3,295,46,3.8,64.0,Moderate,41.809763,-87.610921
+Chicago,824754,Logan Square,Entire home/apt,251.15,1,341,11,3.79,,,41.840927,-87.597649
+Chicago,955984,Logan Square,Entire home/apt,290.94,25,290,12,4.07,34.0,Good,41.875172,-87.58335
+Chicago,397779,Loop,Entire home/apt,209.7,2,100,6,3.77,41.0,Good,41.930961,-87.578582
+Chicago,701066,Loop,Entire home/apt,231.82,13,129,46,3.27,40.0,Good,41.843386,-87.633575
+Chicago,569542,Hyde Park,Entire home/apt,304.89,28,237,61,4.39,55.0,Moderate,41.917956,-87.582942
+Chicago,101624,Lakeview,Entire home/apt,85.0,3,52,31,4.31,56.0,Moderate,41.929172,-87.650431
+Chicago,852154,River North,Entire home/apt,,3,101,20,4.47,,,41.895843,-87.663002
+Chicago,423904,Loop,Entire home/apt,325.11,22,161,1,3.86,58.0,Moderate,41.941604,-87.588578
+Chicago,889730,Lincoln Park,Entire home/apt,178.99,15,20,41,3.75,40.0,Good,41.929186,-87.650781
+Chicago,382039,Lincoln Park,Entire home/apt,196.05,24,51,45,4.07,33.0,Good,41.878015,-87.658498
+Chicago,420156,Hyde Park,Shared room,158.05,4,149,32,4.49,55.0,Moderate,41.83794,-87.67839
+Chicago,449882,Logan Square,Shared room,282.46,10,351,152,3.37,62.0,Moderate,41.935139,-87.680275
+Chicago,544890,River North,Private room,450.0,3,62,49,4.5,45.0,Good,41.866013,-87.6897
+Chicago,580435,River North,Entire home/apt,442.16,15,294,58,3.82,32.0,Good,41.884252,-87.560511
+Chicago,795195,Logan Square,Private room,,7,157,21,4.46,37.0,Good,41.900262,-87.63497
+Chicago,623521,River North,Entire home/apt,263.47,29,168,46,4.68,48.0,Good,41.862731,-87.67691
+Chicago,181464,Loop,Entire home/apt,121.48,24,58,75,4.78,31.0,Good,41.811408,-87.562293
+Chicago,528289,West Loop,Entire home/apt,446.62,1,37,39,4.66,46.0,Good,41.841336,-87.685959
+Chicago,895730,Hyde Park,Hotel room,161.74,26,177,60,5.0,50.0,Good,41.812852,-87.688364
+Chicago,809683,River North,Entire home/apt,258.87,3,193,102,4.98,34.0,Good,41.913897,-87.688572
+Chicago,617355,Hyde Park,Private room,450.0,1,84,10,4.28,23.0,Good,41.945755,-87.686013
+Chicago,248161,West Loop,Private room,374.13,26,138,57,4.71,58.0,Moderate,41.923879,-87.563447
+Chicago,547775,Lakeview,Private room,,17,349,16,4.44,56.0,Moderate,41.882495,-87.68004
+Chicago,303142,Hyde Park,Private room,124.25,19,288,4,3.38,42.0,Good,41.926442,-87.567079
+Chicago,150188,River North,Private room,100.07,23,300,32,4.54,61.0,Moderate,41.819194,-87.648252
+Chicago,102802,Lincoln Park,Shared room,235.49,4,262,66,4.72,47.0,Good,41.811387,-87.656121
+Chicago,804289,Lakeview,Entire home/apt,238.75,1,308,4,4.34,60.0,Moderate,41.930103,-87.573366
+Chicago,374662,Logan Square,Private room,282.91,2,57,10,4.86,47.0,Good,41.851964,-87.590896
+Chicago,565047,Wicker Park,Entire home/apt,205.82,25,350,42,4.24,,,41.945455,-87.619877
+Chicago,741412,Hyde Park,Entire home/apt,450.0,16,2,1,4.45,40.0,Good,41.808844,-87.58682
+Chicago,743447,Lakeview,Hotel room,194.5,23,131,173,4.27,65.0,Moderate,41.883103,-87.671177
+Chicago,595916,Lakeview,Private room,285.75,2,327,32,3.97,39.0,Good,41.820715,-87.6776
+Chicago,185858,Hyde Park,Entire home/apt,122.44,25,11,57,4.61,28.0,Good,41.947285,-87.613954
+Chicago,797065,Loop,Private room,295.8,1,272,26,4.82,61.0,Moderate,41.833111,-87.61122
+Chicago,994610,Lakeview,Shared room,109.13,6,342,7,4.32,33.0,Good,41.945269,-87.610305
+Chicago,964007,Loop,Private room,,18,334,17,3.03,42.0,Good,41.944847,-87.57639
+Chicago,762875,Wicker Park,Entire home/apt,324.14,28,323,2,4.88,52.0,Moderate,41.883103,-87.6752
+Chicago,153792,Hyde Park,Entire home/apt,135.01,8,180,35,4.45,74.0,Moderate,41.925456,-87.584056
+Chicago,423702,Hyde Park,Private room,450.0,1,109,128,3.67,64.0,Moderate,41.910513,-87.569546
+Chicago,371035,Loop,Private room,450.0,24,250,4,4.29,66.0,Moderate,41.892702,-87.66915
+Chicago,682643,Lincoln Park,Entire home/apt,293.3,5,280,60,5.0,43.0,Good,41.909543,-87.67372
+Chicago,703477,Lakeview,Entire home/apt,92.49,3,64,69,3.68,46.0,Good,41.913068,-87.630493
+Chicago,508899,Lakeview,Entire home/apt,132.88,3,324,115,3.57,51.0,Moderate,41.942932,-87.644246
+Chicago,245966,Loop,Shared room,119.71,2,216,21,4.79,48.0,Good,41.943478,-87.621289
+Chicago,845647,Lincoln Park,Private room,,10,355,55,,65.0,Moderate,41.816659,-87.573427
+Chicago,612226,River North,Entire home/apt,170.46,16,265,1,4.79,54.0,Moderate,41.853627,-87.592815
+Chicago,452892,Loop,Private room,342.33,3,119,100,4.96,42.0,Good,41.82068,-87.641872
+Chicago,565500,Lincoln Park,Entire home/apt,226.01,25,344,113,5.0,64.0,Moderate,41.928124,-87.690946
+Chicago,595735,Logan Square,Entire home/apt,450.0,25,97,3,3.92,65.0,Moderate,41.88706,-87.615609
+Chicago,281182,West Loop,Private room,450.0,16,18,21,3.49,35.0,Good,41.890458,-87.68175
+Chicago,895089,Logan Square,Hotel room,245.32,17,57,4,4.92,48.0,Good,41.863996,-87.653037
+Chicago,770804,Lincoln Park,Entire home/apt,111.07,11,326,24,3.79,58.0,Moderate,41.885461,-87.667438
+Chicago,715719,Lincoln Park,Private room,450.0,2,202,38,4.12,25.0,Good,41.897701,-87.59679
+Chicago,521798,River North,Entire home/apt,320.18,2,44,5,,43.0,Good,41.839707,-87.685445
+Chicago,149716,Lakeview,Private room,415.71,1,2,65,3.17,60.0,Moderate,41.87878,-87.686639
+Chicago,459366,River North,Entire home/apt,170.84,13,325,29,4.04,50.0,Good,41.836215,-87.607607
+Chicago,561239,Logan Square,Private room,401.45,12,153,32,4.53,61.0,Moderate,41.911844,-87.607463
+Chicago,245737,Lakeview,Entire home/apt,224.04,22,102,37,4.76,35.0,Good,41.894767,-87.582929
+Chicago,913738,Logan Square,Entire home/apt,278.02,10,116,83,4.4,59.0,Moderate,41.948034,-87.598378
+Chicago,377409,Wicker Park,Entire home/apt,450.0,15,161,31,4.32,28.0,Good,41.822794,-87.603678
+Chicago,419388,Logan Square,Private room,261.31,23,207,19,4.08,53.0,Moderate,41.89078,-87.628259
+Chicago,900590,Wicker Park,Entire home/apt,340.37,22,105,29,4.57,62.0,Moderate,41.825133,-87.624759
+Chicago,891366,Lincoln Park,Private room,95.95,1,27,281,4.67,46.0,Good,41.915977,-87.673997
+Chicago,486074,River North,Entire home/apt,180.8,9,157,25,5.0,54.0,Moderate,41.834206,-87.575045
+Chicago,686384,Hyde Park,Private room,325.02,14,317,32,5.0,42.0,Good,41.928618,-87.615822
+Chicago,466627,Lincoln Park,Entire home/apt,,13,94,3,4.35,63.0,Moderate,41.898328,-87.679667
+Chicago,607078,Wicker Park,Entire home/apt,221.81,27,282,34,4.25,33.0,Good,41.887273,-87.62403
+Chicago,545024,Logan Square,Private room,,8,365,9,4.33,64.0,Moderate,41.890436,-87.666315
+Chicago,392635,River North,Private room,359.09,2,168,2,3.38,36.0,Good,41.937748,-87.607478
+Chicago,123256,Loop,Entire home/apt,213.85,16,89,80,,39.0,Good,41.831736,-87.592165
+Chicago,183728,Loop,Shared room,384.48,1,344,79,,62.0,Moderate,41.890845,-87.661323
+Chicago,169996,Loop,Private room,441.93,17,310,225,3.56,61.0,Moderate,41.83008,-87.652786
+Chicago,419674,Lincoln Park,Private room,195.93,27,302,28,4.18,25.0,Good,41.877778,-87.662907
+Chicago,648209,West Loop,Entire home/apt,161.21,25,235,24,4.14,,,41.936073,-87.697612
+Chicago,302590,Loop,Entire home/apt,450.0,1,236,3,3.35,71.0,Moderate,41.836307,-87.612411
+Chicago,924370,Logan Square,Private room,155.43,12,194,10,3.32,69.0,Moderate,41.897022,-87.575613
+Chicago,392116,Wicker Park,Private room,450.0,12,12,5,3.58,,,41.814968,-87.609259
+Chicago,185073,Hyde Park,Shared room,253.96,22,310,7,5.0,50.0,Good,41.903864,-87.663276
+Chicago,692905,Logan Square,Entire home/apt,279.72,24,257,131,3.74,53.0,Moderate,41.910658,-87.607613
+Chicago,697944,Wicker Park,Private room,431.29,15,96,4,4.96,47.0,Good,41.892314,-87.64325
+Chicago,929977,Lakeview,Entire home/apt,313.35,1,42,93,3.52,,,41.863572,-87.596353
+Chicago,245051,Lakeview,Private room,450.0,18,0,4,4.49,48.0,Good,41.860788,-87.645491
+Chicago,322500,Wicker Park,Private room,369.61,2,173,5,,46.0,Good,41.886427,-87.640978
+Chicago,189624,Wicker Park,Entire home/apt,313.94,26,133,191,,39.0,Good,41.866161,-87.585861
+Chicago,247468,Lakeview,Private room,259.94,14,2,59,,42.0,Good,41.932316,-87.674046
+Chicago,131089,Lincoln Park,Entire home/apt,137.22,4,286,41,4.83,42.0,Good,41.907256,-87.561398
+Chicago,829407,Logan Square,Private room,280.19,15,34,1,5.0,40.0,Good,41.82176,-87.593243
+Chicago,344332,River North,Entire home/apt,450.0,2,356,117,4.45,53.0,Moderate,41.928594,-87.568593
+Chicago,410069,Lakeview,Shared room,324.25,19,311,23,4.34,60.0,Moderate,41.827324,-87.5894
+Chicago,523145,River North,Private room,159.68,1,230,21,4.2,40.0,Good,41.926834,-87.65075
+Chicago,243228,River North,Entire home/apt,105.03,30,74,9,3.42,51.0,Moderate,41.917992,-87.687742
+Chicago,232274,Wicker Park,Entire home/apt,188.33,4,258,38,4.97,67.0,Moderate,41.88589,-87.59339
+Chicago,725632,Wicker Park,Hotel room,139.55,25,145,73,3.52,22.0,Good,41.881426,-87.65818
+Chicago,362581,Loop,Hotel room,167.77,2,36,9,4.39,33.0,Good,41.843797,-87.579368
+Chicago,786475,River North,Hotel room,450.0,18,160,26,4.42,58.0,Moderate,41.869015,-87.598788
+Chicago,977377,West Loop,Entire home/apt,422.36,2,345,108,4.0,33.0,Good,41.838477,-87.586654
+Chicago,272245,Lincoln Park,Entire home/apt,274.45,9,322,148,3.74,34.0,Good,41.921451,-87.597145
+Chicago,572556,River North,Entire home/apt,178.12,4,248,15,5.0,42.0,Good,41.902092,-87.666306
+Chicago,203206,Lincoln Park,Private room,191.92,4,288,91,4.5,42.0,Good,41.822722,-87.658338
+Chicago,865114,Hyde Park,Entire home/apt,417.35,22,346,8,4.61,50.0,Good,41.833141,-87.61431
+Chicago,778751,Wicker Park,Entire home/apt,235.7,12,19,111,4.07,35.0,Good,41.880053,-87.626706
+Chicago,610179,Hyde Park,Entire home/apt,376.18,11,279,76,3.97,55.0,Moderate,41.885768,-87.609197
+Chicago,488301,Loop,Shared room,248.73,3,259,11,4.15,51.0,Moderate,41.860399,-87.668327
+Chicago,812451,Hyde Park,Private room,450.0,15,270,40,4.82,34.0,Good,41.877759,-87.634513
+Chicago,493230,Hyde Park,Private room,196.93,19,272,0,4.07,43.0,Good,41.832729,-87.60275
+Chicago,836311,Lakeview,Private room,189.65,11,158,2,4.89,43.0,Good,41.882294,-87.632467
+Chicago,904387,West Loop,Entire home/apt,146.17,1,140,9,4.71,48.0,Good,41.920633,-87.671553
+Chicago,447354,Lincoln Park,Entire home/apt,99.69,3,81,96,4.03,57.0,Moderate,41.861529,-87.693549
+Chicago,115680,West Loop,Entire home/apt,442.76,10,356,1,4.62,35.0,Good,41.841285,-87.693967
+Chicago,854866,Lincoln Park,Hotel room,450.0,4,88,69,3.4,36.0,Good,41.868148,-87.689152
+Chicago,128265,Lincoln Park,Private room,273.78,19,42,135,3.92,54.0,Moderate,41.813602,-87.695069
+Chicago,344925,Logan Square,Private room,271.63,1,333,5,4.15,54.0,Moderate,41.880212,-87.676125
+Chicago,762852,River North,Private room,418.57,30,325,67,4.89,33.0,Good,41.894153,-87.616893
+Chicago,283263,Hyde Park,Private room,198.78,2,190,13,3.12,44.0,Good,41.924712,-87.696199
+Chicago,881374,Loop,Private room,160.39,23,276,13,5.0,59.0,Moderate,41.906361,-87.598881
+Chicago,175775,Lakeview,Private room,237.06,11,227,14,4.3,23.0,Good,41.946998,-87.682193
+Chicago,708394,Lakeview,Entire home/apt,151.29,3,209,15,4.31,42.0,Good,41.93974,-87.695942
+Chicago,265455,Lincoln Park,Entire home/apt,411.34,7,31,34,4.56,47.0,Good,41.840607,-87.644348
+Chicago,432164,Wicker Park,Private room,165.91,7,43,37,5.0,37.0,Good,41.870887,-87.64141
+Chicago,371109,River North,Private room,211.36,2,276,3,4.18,51.0,Moderate,41.823144,-87.685664
+Chicago,383888,West Loop,Entire home/apt,85.0,4,230,2,4.05,,,41.810183,-87.687966
+Chicago,567252,Lincoln Park,Entire home/apt,327.04,13,156,10,4.63,36.0,Good,41.900382,-87.64181
+Chicago,420234,River North,Entire home/apt,85.0,2,205,23,,68.0,Moderate,41.865253,-87.639646
+Chicago,620223,Lakeview,Hotel room,450.0,4,137,31,4.19,57.0,Moderate,41.868403,-87.675108
+Chicago,375800,Wicker Park,Shared room,450.0,3,277,26,4.52,54.0,Moderate,41.923797,-87.568478
+Chicago,601094,River North,Private room,181.64,17,310,21,4.75,44.0,Good,41.844307,-87.623031
+Chicago,779256,Loop,Private room,94.39,22,296,32,3.54,36.0,Good,41.895716,-87.694908
+Chicago,258308,Loop,Entire home/apt,450.0,19,332,53,4.31,27.0,Good,41.929288,-87.649756
+Chicago,734473,Lakeview,Entire home/apt,,5,9,50,4.34,53.0,Moderate,41.934322,-87.620966
+Chicago,958262,Wicker Park,Entire home/apt,115.46,1,352,58,5.0,28.0,Good,41.922653,-87.60104
+Chicago,528007,Loop,Entire home/apt,362.29,2,351,75,4.83,19.0,Good,41.854359,-87.652834
+Chicago,130457,Lakeview,Hotel room,,17,277,4,4.2,37.0,Good,41.867728,-87.600597
+Chicago,602124,Wicker Park,Entire home/apt,329.72,8,20,37,4.42,51.0,Moderate,41.82151,-87.581475
+Chicago,773124,Hyde Park,Entire home/apt,293.48,28,91,113,4.51,43.0,Good,41.94286,-87.673886
+Chicago,719394,Loop,Private room,331.54,1,100,63,,50.0,Good,41.869078,-87.649868
+Chicago,437795,Lincoln Park,Hotel room,370.2,15,252,73,4.39,36.0,Good,41.844346,-87.582083
+Chicago,791794,Logan Square,Entire home/apt,450.0,14,321,36,4.36,44.0,Good,41.946906,-87.631957
+Chicago,605022,Logan Square,Entire home/apt,91.15,14,59,4,4.93,60.0,Moderate,41.901857,-87.617847
+Chicago,524914,Loop,Private room,132.39,9,135,63,3.94,33.0,Good,41.903565,-87.641648
+Chicago,408136,Lincoln Park,Entire home/apt,447.54,1,333,18,4.13,66.0,Moderate,41.847424,-87.586372
+Chicago,244417,Lincoln Park,Shared room,361.38,22,84,45,4.21,34.0,Good,41.930276,-87.668883
+Chicago,246071,Wicker Park,Private room,120.13,3,108,10,3.66,61.0,Moderate,41.912658,-87.643035
+Chicago,841032,West Loop,Entire home/apt,174.74,22,26,3,4.01,34.0,Good,41.862619,-87.689283
+Chicago,298102,Lakeview,Private room,251.68,6,223,20,4.71,41.0,Good,41.811952,-87.659296
+Chicago,987396,Logan Square,Private room,450.0,2,282,101,3.19,50.0,Good,41.892767,-87.647084
+Chicago,521856,Logan Square,Entire home/apt,326.97,22,263,26,,67.0,Moderate,41.848318,-87.574708
+Chicago,728256,Lincoln Park,Entire home/apt,,4,277,22,4.4,54.0,Moderate,41.808127,-87.563441
+Chicago,112775,Lincoln Park,Entire home/apt,403.37,20,180,1,4.45,,,41.865118,-87.686777
+Chicago,891244,Logan Square,Entire home/apt,259.33,2,245,9,4.11,44.0,Good,41.909943,-87.604226
+Chicago,134510,West Loop,Entire home/apt,358.5,12,65,13,3.48,25.0,Good,41.945012,-87.615766
+Chicago,635593,River North,Entire home/apt,,26,336,33,,36.0,Good,41.83324,-87.688417
+Chicago,177417,Lakeview,Private room,172.48,9,226,11,4.03,32.0,Good,41.878039,-87.665558
+Chicago,803412,Lakeview,Shared room,284.89,22,341,11,3.92,33.0,Good,41.848045,-87.672106
+Chicago,163871,Lincoln Park,Hotel room,450.0,23,352,18,4.22,36.0,Good,41.906591,-87.658282
+Chicago,377532,River North,Entire home/apt,148.95,4,103,57,3.9,47.0,Good,41.879756,-87.587713
+Chicago,322570,West Loop,Entire home/apt,339.75,1,172,42,5.0,36.0,Good,41.927958,-87.609038
+Chicago,219091,Wicker Park,Entire home/apt,119.39,2,135,0,3.16,43.0,Good,41.813804,-87.690196
+Chicago,730183,Loop,Entire home/apt,219.37,17,171,33,4.9,42.0,Good,41.820564,-87.578805
+Chicago,756414,West Loop,Entire home/apt,198.31,2,333,27,4.29,,,41.931642,-87.578968
+Chicago,244221,River North,Private room,174.71,29,107,19,4.45,50.0,Good,41.82411,-87.598732
+Chicago,118438,Lincoln Park,Entire home/apt,249.35,4,343,2,4.79,49.0,Good,41.843807,-87.64658
+Chicago,272497,River North,Entire home/apt,116.6,14,228,4,4.47,53.0,Moderate,41.811708,-87.599913
+Chicago,981759,Hyde Park,Entire home/apt,348.21,28,332,23,4.85,,,41.902589,-87.619734
+Chicago,947216,Logan Square,Hotel room,338.1,2,113,83,4.92,31.0,Good,41.92061,-87.670561
+Chicago,732385,Wicker Park,Private room,450.0,12,215,25,4.23,72.0,Moderate,41.827689,-87.645185
+Chicago,406748,Hyde Park,Entire home/apt,,15,205,14,4.79,61.0,Moderate,41.893934,-87.655081
+Chicago,552309,Lincoln Park,Entire home/apt,416.81,22,181,1,4.02,44.0,Good,41.888743,-87.582988
+Chicago,329484,River North,Entire home/apt,264.53,3,174,12,3.98,30.0,Good,41.853716,-87.615108
+Chicago,743340,Lincoln Park,Entire home/apt,414.56,1,303,7,3.79,67.0,Moderate,41.917899,-87.663676
+Chicago,791628,Lakeview,Entire home/apt,312.61,13,63,6,4.95,62.0,Moderate,41.944626,-87.649257
+Chicago,681537,Lincoln Park,Entire home/apt,85.0,19,325,12,4.73,43.0,Good,41.811099,-87.66514
+Chicago,811949,Wicker Park,Entire home/apt,177.33,28,225,65,4.43,29.0,Good,41.854283,-87.670141
+Chicago,341756,Wicker Park,Private room,121.06,2,192,54,4.66,51.0,Moderate,41.924157,-87.61093
+Chicago,887669,West Loop,Private room,420.82,4,14,23,4.53,31.0,Good,41.884873,-87.660966
+Chicago,386769,River North,Entire home/apt,197.5,2,45,190,4.16,72.0,Moderate,41.913847,-87.683994
+Chicago,220742,Lakeview,Shared room,245.03,14,99,98,4.09,47.0,Good,41.872596,-87.626196
+Chicago,505575,River North,Private room,189.15,9,110,21,4.46,62.0,Moderate,41.908144,-87.68598
+Chicago,626676,Wicker Park,Private room,279.51,1,68,35,4.34,,,41.841349,-87.698856
+Chicago,542194,Logan Square,Entire home/apt,268.71,21,67,44,4.46,41.0,Good,41.845939,-87.617778
+Chicago,961800,Lakeview,Hotel room,363.21,3,289,2,4.79,57.0,Moderate,41.881832,-87.688683
+Chicago,631555,River North,Entire home/apt,450.0,5,57,40,4.74,38.0,Good,41.921824,-87.623938
+Chicago,700267,River North,Private room,450.0,29,169,18,3.9,,,41.932919,-87.603692
+Chicago,604107,Hyde Park,Entire home/apt,236.07,21,179,43,3.96,25.0,Good,41.832265,-87.590166
+Chicago,437666,Hyde Park,Entire home/apt,,24,191,56,3.85,56.0,Moderate,41.833144,-87.632026
+Chicago,974801,Wicker Park,Private room,223.01,1,274,57,4.65,42.0,Good,41.924153,-87.675339
+Chicago,272064,Wicker Park,Entire home/apt,223.78,15,182,24,4.24,53.0,Moderate,41.880783,-87.658071
+Chicago,281151,West Loop,Private room,431.86,21,185,100,4.9,40.0,Good,41.902674,-87.687678
+Chicago,570599,Hyde Park,Private room,235.29,21,187,21,3.96,51.0,Moderate,41.862348,-87.689666
+Chicago,756473,Logan Square,Entire home/apt,337.47,29,281,68,4.8,43.0,Good,41.871884,-87.616654
+Chicago,854522,Lakeview,Entire home/apt,246.17,29,256,45,5.0,49.0,Good,41.946756,-87.660494
+Chicago,810661,River North,Entire home/apt,352.21,1,172,88,4.33,46.0,Good,41.823049,-87.645544
+Chicago,315622,Logan Square,Private room,199.41,3,207,37,,,,41.812806,-87.649721
+Chicago,883888,Lincoln Park,Entire home/apt,,11,343,30,4.0,63.0,Moderate,41.835079,-87.62033
+Chicago,548577,River North,Entire home/apt,414.61,27,134,23,3.81,28.0,Good,41.810172,-87.610992
+Chicago,178829,Lakeview,Private room,394.82,1,23,14,4.15,40.0,Good,41.871645,-87.687669
+Chicago,392432,River North,Entire home/apt,167.9,24,36,186,4.2,52.0,Moderate,41.880104,-87.679247
+Chicago,817257,River North,Shared room,389.02,15,79,12,4.32,51.0,Moderate,41.936635,-87.56259
+Chicago,811262,West Loop,Entire home/apt,450.0,1,270,1,4.15,39.0,Good,41.882112,-87.668112
+Chicago,786452,West Loop,Entire home/apt,198.63,11,276,23,,49.0,Good,41.903377,-87.635553
+Chicago,511125,Wicker Park,Private room,450.0,7,78,26,3.58,51.0,Moderate,41.843073,-87.648047
+Chicago,234514,Wicker Park,Entire home/apt,191.79,3,59,73,4.27,69.0,Moderate,41.856474,-87.593967
+Chicago,102767,Lakeview,Entire home/apt,326.66,20,199,89,4.13,47.0,Good,41.947292,-87.618489
+Chicago,610464,Lincoln Park,Entire home/apt,337.46,3,111,18,3.94,70.0,Moderate,41.895563,-87.589684
+Chicago,770957,River North,Private room,450.0,22,212,0,,37.0,Good,41.899219,-87.566858
+Chicago,372335,Logan Square,Entire home/apt,300.19,14,176,55,4.35,44.0,Good,41.810795,-87.59626
+Chicago,653826,River North,Shared room,368.14,2,127,40,4.13,53.0,Moderate,41.944972,-87.593037
+Chicago,401376,Lakeview,Entire home/apt,450.0,2,53,9,3.73,26.0,Good,41.837027,-87.612068
+Chicago,667337,Hyde Park,Hotel room,144.85,13,16,9,4.32,40.0,Good,41.87007,-87.677015
+Chicago,978653,Lincoln Park,Entire home/apt,335.89,1,224,15,4.0,46.0,Good,41.872867,-87.579358
+Chicago,722114,Wicker Park,Shared room,171.01,10,73,88,3.24,38.0,Good,41.90978,-87.693095
+Chicago,404059,Wicker Park,Entire home/apt,255.71,21,290,148,4.11,44.0,Good,41.894724,-87.632171
+Chicago,446868,Loop,Entire home/apt,233.31,23,328,32,4.07,43.0,Good,41.916167,-87.566827
+Chicago,804622,Lakeview,Private room,200.84,17,288,30,3.92,50.0,Good,41.825307,-87.657998
+Chicago,494077,Lincoln Park,Entire home/apt,317.29,7,110,30,3.67,61.0,Moderate,41.935846,-87.649775
+Chicago,344466,River North,Private room,159.35,16,144,18,4.44,,,41.890494,-87.672879
+Chicago,611457,Hyde Park,Entire home/apt,175.94,19,140,8,4.71,48.0,Good,41.925675,-87.585359
+Chicago,846795,Loop,Entire home/apt,292.75,7,255,106,,43.0,Good,41.87182,-87.612244
+Chicago,320505,River North,Private room,153.55,24,169,16,5.0,45.0,Good,41.837918,-87.693848
+Chicago,634918,Loop,Entire home/apt,450.0,21,23,30,,40.0,Good,41.900955,-87.61073
+Chicago,723623,Lakeview,Entire home/apt,307.78,24,274,10,4.74,47.0,Good,41.92982,-87.619385
+Chicago,558611,River North,Entire home/apt,224.01,20,170,178,4.89,46.0,Good,41.933055,-87.684816
+Chicago,339740,Lakeview,Private room,347.13,11,88,24,3.91,62.0,Moderate,41.885095,-87.673667
+Chicago,481242,Logan Square,Entire home/apt,281.46,29,73,0,3.36,44.0,Good,41.80879,-87.582767
+Chicago,805273,Lakeview,Entire home/apt,302.74,17,168,1,4.37,51.0,Moderate,41.900757,-87.679588
+Chicago,348579,Hyde Park,Private room,376.98,22,138,60,4.36,61.0,Moderate,41.844691,-87.596835
+Chicago,920042,Lincoln Park,Entire home/apt,212.68,4,161,34,4.21,49.0,Good,41.928557,-87.637624
+Chicago,838456,Lakeview,Private room,320.17,13,270,5,4.76,57.0,Moderate,41.824088,-87.581392
+Chicago,408129,Lakeview,Hotel room,392.24,16,126,16,4.33,42.0,Good,41.885678,-87.586245
+Chicago,451326,River North,Entire home/apt,,4,285,27,4.14,67.0,Moderate,41.915735,-87.647458
+Chicago,817509,West Loop,Private room,396.7,5,99,66,3.51,53.0,Moderate,41.945041,-87.60962
+Chicago,746916,Wicker Park,Entire home/apt,278.57,26,70,45,4.39,60.0,Moderate,41.810039,-87.663065
+Chicago,918820,West Loop,Entire home/apt,400.93,28,108,0,3.31,52.0,Moderate,41.813527,-87.585465
+Chicago,810878,Loop,Private room,122.6,23,218,30,4.68,45.0,Good,41.871152,-87.643292
+Chicago,232866,Wicker Park,Private room,222.25,1,278,1,4.51,53.0,Moderate,41.946944,-87.692581
+Chicago,153971,Loop,Private room,362.17,2,34,14,5.0,44.0,Good,41.835085,-87.660579
+Chicago,878394,River North,Entire home/apt,136.63,30,227,9,4.96,23.0,Good,41.817397,-87.653261
+Chicago,539014,Wicker Park,Private room,384.45,30,58,35,4.52,,,41.844438,-87.651788
+Chicago,410716,Lincoln Park,Entire home/apt,200.18,22,275,41,3.35,40.0,Good,41.820555,-87.664093
+Chicago,272546,Logan Square,Entire home/apt,450.0,12,160,67,3.9,60.0,Moderate,41.81968,-87.591366
+Chicago,907039,Lincoln Park,Entire home/apt,267.46,16,261,5,3.27,43.0,Good,41.826511,-87.606268
+Chicago,922062,Logan Square,Entire home/apt,227.31,1,230,6,5.0,63.0,Moderate,41.839478,-87.569607
+Chicago,809658,Hyde Park,Entire home/apt,170.07,26,212,104,4.02,56.0,Moderate,41.833232,-87.649077
+Chicago,923716,West Loop,Entire home/apt,450.0,3,129,198,4.9,36.0,Good,41.927804,-87.670275
+Chicago,106082,Lakeview,Entire home/apt,225.47,3,299,4,4.13,49.0,Good,41.829685,-87.634552
+Chicago,649925,Hyde Park,Private room,270.31,19,250,52,4.46,,,41.902799,-87.618297
+Chicago,537926,Lakeview,Entire home/apt,201.41,24,249,33,4.88,47.0,Good,41.934123,-87.582433
+Chicago,781462,Lakeview,Hotel room,361.93,14,38,33,3.8,53.0,Moderate,41.816625,-87.69541
+Chicago,344003,Logan Square,Entire home/apt,188.1,25,285,14,3.54,,,41.850382,-87.632728
+Chicago,707504,Loop,Private room,450.0,24,140,47,3.76,26.0,Good,41.947774,-87.635436
+Chicago,710548,Hyde Park,Hotel room,220.25,21,341,24,,48.0,Good,41.926588,-87.630648

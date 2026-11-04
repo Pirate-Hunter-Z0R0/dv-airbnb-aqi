@@ -1,0 +1,341 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Lisbon,136307,Belém,Entire home/apt,114.42,2,127,33,3.86,38.0,Good,38.767303,-9.16964
+Lisbon,714887,Bairro Alto,Private room,163.33,2,111,11,4.32,51.0,Moderate,38.654843,-9.175189
+Lisbon,687952,Belém,Entire home/apt,126.96,22,308,9,,46.0,Good,38.75652,-9.138431
+Lisbon,584794,Príncipe Real,Entire home/apt,310.0,1,214,76,4.12,32.0,Good,38.745619,-9.135505
+Lisbon,586649,Alfama,Entire home/apt,145.01,3,156,116,4.37,29.0,Good,38.703419,-9.186538
+Lisbon,832458,Alfama,Entire home/apt,128.48,14,300,1,4.63,25.0,Good,38.712504,-9.191451
+Lisbon,185188,Mouraria,Private room,189.19,29,80,23,4.22,42.0,Good,38.746297,-9.135863
+Lisbon,564542,Alfama,Shared room,101.08,19,245,29,4.17,33.0,Good,38.766162,-9.088211
+Lisbon,594451,Príncipe Real,Entire home/apt,178.49,18,208,3,4.12,49.0,Good,38.77977,-9.172573
+Lisbon,672152,Santos,Entire home/apt,310.0,3,188,71,4.45,15.0,Good,38.714372,-9.132115
+Lisbon,657318,Chiado,Entire home/apt,310.0,2,124,16,4.41,52.0,Moderate,38.745075,-9.165095
+Lisbon,975170,Chiado,Entire home/apt,267.74,6,303,64,4.78,26.0,Good,38.688194,-9.145148
+Lisbon,537283,Chiado,Private room,126.66,6,312,113,,27.0,Good,38.751303,-9.095667
+Lisbon,424330,Intendente,Entire home/apt,210.98,6,17,58,4.47,46.0,Good,38.776788,-9.10656
+Lisbon,553741,Mouraria,Entire home/apt,166.65,5,34,95,4.03,37.0,Good,38.657037,-9.12868
+Lisbon,568958,Chiado,Entire home/apt,258.14,2,170,8,5.0,44.0,Good,38.696397,-9.114079
+Lisbon,925270,Intendente,Entire home/apt,236.68,20,259,68,4.25,,,38.738474,-9.20749
+Lisbon,719384,Alfama,Hotel room,310.0,1,7,240,3.66,31.0,Good,38.67857,-9.151102
+Lisbon,540897,Intendente,Entire home/apt,310.0,27,78,50,4.5,18.0,Good,38.72813,-9.204099
+Lisbon,177424,Príncipe Real,Private room,170.28,8,354,6,,19.0,Good,38.72354,-9.123814
+Lisbon,474485,Intendente,Entire home/apt,310.0,27,286,11,4.22,20.0,Good,38.748576,-9.134149
+Lisbon,179085,Alfama,Entire home/apt,114.27,1,344,44,4.38,28.0,Good,38.690835,-9.185679
+Lisbon,284114,Intendente,Shared room,,3,109,19,4.65,26.0,Good,38.779208,-9.18847
+Lisbon,405502,Alfama,Hotel room,310.0,1,288,49,4.54,37.0,Good,38.763186,-9.079791
+Lisbon,806440,Alfama,Entire home/apt,203.88,22,28,58,4.07,47.0,Good,38.669705,-9.16629
+Lisbon,899413,Intendente,Entire home/apt,293.98,6,266,91,4.6,,,38.735478,-9.188406
+Lisbon,240839,Mouraria,Private room,310.0,1,81,93,4.18,41.0,Good,38.774508,-9.17486
+Lisbon,860020,Santos,Entire home/apt,197.89,26,62,5,4.23,26.0,Good,38.651245,-9.135448
+Lisbon,311652,Príncipe Real,Entire home/apt,211.75,2,335,6,4.39,,,38.668821,-9.187159
+Lisbon,292958,Mouraria,Entire home/apt,205.78,2,96,39,4.19,29.0,Good,38.764484,-9.132838
+Lisbon,231413,Príncipe Real,Entire home/apt,201.03,24,118,11,3.6,53.0,Moderate,38.692355,-9.167046
+Lisbon,608014,Príncipe Real,Entire home/apt,310.0,18,97,30,5.0,23.0,Good,38.682312,-9.07332
+Lisbon,938539,Intendente,Private room,189.19,8,157,23,4.02,50.0,Good,38.749093,-9.196343
+Lisbon,980039,Intendente,Hotel room,249.49,29,319,40,4.42,25.0,Good,38.727662,-9.074443
+Lisbon,494916,Mouraria,Private room,237.58,2,59,81,3.69,37.0,Good,38.741365,-9.15317
+Lisbon,908944,Bairro Alto,Shared room,146.63,2,42,40,4.98,46.0,Good,38.700226,-9.103769
+Lisbon,601187,Santos,Private room,72.11,19,63,5,4.26,44.0,Good,38.693091,-9.18833
+Lisbon,559838,Mouraria,Entire home/apt,285.51,10,40,21,4.18,39.0,Good,38.779627,-9.148275
+Lisbon,724342,Santos,Entire home/apt,152.33,22,328,55,4.55,45.0,Good,38.703388,-9.178928
+Lisbon,258503,Santos,Entire home/apt,199.06,2,47,6,4.83,,,38.684943,-9.109111
+Lisbon,760400,Mouraria,Private room,230.32,6,32,79,4.19,38.0,Good,38.731973,-9.157229
+Lisbon,312602,Santos,Entire home/apt,,9,17,8,3.86,,,38.694437,-9.199705
+Lisbon,684276,Santos,Private room,70.08,11,299,27,4.03,36.0,Good,38.693916,-9.160375
+Lisbon,950630,Príncipe Real,Hotel room,116.93,25,328,45,4.45,39.0,Good,38.747499,-9.136185
+Lisbon,462452,Mouraria,Entire home/apt,154.11,13,225,7,4.54,39.0,Good,38.712958,-9.150702
+Lisbon,120719,Alfama,Entire home/apt,250.98,11,161,81,4.7,50.0,Good,38.785511,-9.089152
+Lisbon,234268,Santos,Private room,,18,348,34,,45.0,Good,38.687225,-9.186512
+Lisbon,986123,Belém,Private room,,2,258,9,4.78,46.0,Good,38.669013,-9.183458
+Lisbon,707433,Chiado,Entire home/apt,181.13,2,31,40,3.98,53.0,Moderate,38.665987,-9.149518
+Lisbon,821957,Mouraria,Private room,310.0,12,319,95,4.74,24.0,Good,38.677737,-9.077291
+Lisbon,823009,Santos,Private room,113.79,19,57,8,4.1,28.0,Good,38.775506,-9.19093
+Lisbon,428261,Príncipe Real,Private room,254.43,16,179,47,4.02,,,38.757059,-9.195845
+Lisbon,740113,Bairro Alto,Private room,199.81,30,188,4,4.28,39.0,Good,38.757947,-9.112901
+Lisbon,856092,Príncipe Real,Entire home/apt,149.1,25,91,3,,40.0,Good,38.730781,-9.180665
+Lisbon,414454,Bairro Alto,Entire home/apt,145.18,19,260,22,3.97,44.0,Good,38.651805,-9.193251
+Lisbon,233659,Príncipe Real,Entire home/apt,211.37,17,292,0,3.18,32.0,Good,38.697763,-9.097465
+Lisbon,436935,Chiado,Hotel room,65.52,12,89,43,4.85,44.0,Good,38.692069,-9.076919
+Lisbon,242046,Chiado,Private room,310.0,28,261,15,,41.0,Good,38.651782,-9.090722
+Lisbon,804769,Chiado,Private room,137.14,18,359,142,5.0,34.0,Good,38.753767,-9.075405
+Lisbon,582757,Belém,Entire home/apt,159.45,24,56,17,4.04,36.0,Good,38.758205,-9.110999
+Lisbon,718037,Alfama,Entire home/apt,303.42,23,183,23,4.48,,,38.676941,-9.199655
+Lisbon,645611,Alfama,Entire home/apt,65.66,1,179,31,4.78,46.0,Good,38.687305,-9.179141
+Lisbon,380412,Bairro Alto,Entire home/apt,159.32,13,47,23,3.48,,,38.783679,-9.130597
+Lisbon,924737,Bairro Alto,Private room,310.0,7,104,43,3.83,35.0,Good,38.754151,-9.164846
+Lisbon,545341,Príncipe Real,Entire home/apt,310.0,10,82,6,3.64,46.0,Good,38.703242,-9.104194
+Lisbon,566542,Alfama,Shared room,,2,294,23,3.43,46.0,Good,38.77115,-9.167707
+Lisbon,102245,Bairro Alto,Private room,259.64,1,137,31,4.14,40.0,Good,38.715462,-9.166863
+Lisbon,851562,Alfama,Private room,269.58,23,199,7,5.0,40.0,Good,38.669455,-9.130177
+Lisbon,813500,Bairro Alto,Entire home/apt,142.6,1,19,9,3.98,28.0,Good,38.768418,-9.08202
+Lisbon,185142,Intendente,Shared room,113.98,16,105,24,4.1,32.0,Good,38.759501,-9.093837
+Lisbon,697737,Príncipe Real,Entire home/apt,70.6,7,2,53,4.52,46.0,Good,38.72132,-9.127103
+Lisbon,821142,Bairro Alto,Entire home/apt,,2,346,10,5.0,34.0,Good,38.685135,-9.086092
+Lisbon,976846,Intendente,Entire home/apt,199.61,12,59,36,5.0,43.0,Good,38.741948,-9.135103
+Lisbon,277150,Príncipe Real,Private room,245.57,3,274,45,4.73,,,38.666979,-9.199407
+Lisbon,789418,Belém,Private room,294.24,4,229,38,4.31,47.0,Good,38.696159,-9.200826
+Lisbon,371557,Alfama,Entire home/apt,220.13,1,341,24,4.51,20.0,Good,38.698023,-9.084045
+Lisbon,354960,Alfama,Entire home/apt,224.15,16,42,48,4.23,12.0,Good,38.759632,-9.196175
+Lisbon,385515,Alfama,Shared room,310.0,20,21,26,4.06,45.0,Good,38.689877,-9.169754
+Lisbon,326189,Bairro Alto,Private room,,23,124,18,4.89,42.0,Good,38.648547,-9.141281
+Lisbon,608672,Alfama,Hotel room,243.51,1,349,19,,27.0,Good,38.666311,-9.097655
+Lisbon,664068,Bairro Alto,Entire home/apt,144.94,28,13,16,4.54,47.0,Good,38.765378,-9.199353
+Lisbon,166383,Santos,Entire home/apt,106.64,14,65,62,4.48,16.0,Good,38.766931,-9.101031
+Lisbon,232410,Chiado,Entire home/apt,65.0,5,348,2,4.91,37.0,Good,38.759032,-9.150514
+Lisbon,946344,Santos,Hotel room,199.98,11,241,35,3.93,35.0,Good,38.771595,-9.150742
+Lisbon,557136,Mouraria,Entire home/apt,248.49,12,365,20,4.63,44.0,Good,38.777,-9.174148
+Lisbon,302903,Príncipe Real,Entire home/apt,204.01,26,88,6,5.0,,,38.710188,-9.072798
+Lisbon,485650,Santos,Private room,225.18,24,322,5,,37.0,Good,38.693292,-9.108332
+Lisbon,298727,Intendente,Entire home/apt,310.0,2,347,29,4.54,35.0,Good,38.760873,-9.145059
+Lisbon,846251,Intendente,Entire home/apt,110.63,30,12,35,,43.0,Good,38.729385,-9.166159
+Lisbon,808983,Alfama,Entire home/apt,310.0,1,144,31,4.2,10.0,Good,38.675296,-9.127029
+Lisbon,453209,Mouraria,Private room,227.2,2,263,18,4.63,37.0,Good,38.743559,-9.081885
+Lisbon,489006,Alfama,Entire home/apt,310.0,11,304,6,4.69,15.0,Good,38.694288,-9.077332
+Lisbon,384757,Bairro Alto,Entire home/apt,,22,68,29,4.01,41.0,Good,38.650708,-9.197086
+Lisbon,102069,Belém,Private room,310.0,10,66,9,4.37,45.0,Good,38.670346,-9.112125
+Lisbon,566745,Príncipe Real,Entire home/apt,118.98,23,152,144,3.74,8.0,Good,38.753736,-9.167856
+Lisbon,635961,Príncipe Real,Entire home/apt,236.5,20,26,78,4.4,37.0,Good,38.72952,-9.176757
+Lisbon,374987,Santos,Entire home/apt,,25,208,24,3.94,46.0,Good,38.717471,-9.098693
+Lisbon,283819,Santos,Hotel room,137.28,1,340,108,4.54,52.0,Moderate,38.78017,-9.117495
+Lisbon,482420,Mouraria,Entire home/apt,222.09,26,130,82,4.42,27.0,Good,38.652313,-9.142344
+Lisbon,898484,Mouraria,Entire home/apt,,27,159,20,4.6,21.0,Good,38.717627,-9.097904
+Lisbon,360593,Alfama,Shared room,128.71,28,171,4,3.93,40.0,Good,38.721017,-9.124261
+Lisbon,848861,Bairro Alto,Entire home/apt,87.61,13,187,40,3.97,41.0,Good,38.756402,-9.079856
+Lisbon,461918,Bairro Alto,Private room,126.36,27,66,90,4.83,38.0,Good,38.652973,-9.202993
+Lisbon,575865,Santos,Private room,65.0,6,234,21,3.56,24.0,Good,38.683562,-9.07669
+Lisbon,245529,Alfama,Private room,257.38,30,342,74,3.02,37.0,Good,38.720319,-9.149134
+Lisbon,100832,Mouraria,Entire home/apt,310.0,21,131,29,3.78,56.0,Moderate,38.662961,-9.139861
+Lisbon,561229,Bairro Alto,Entire home/apt,120.95,1,115,28,4.49,,,38.67331,-9.122979
+Lisbon,346820,Belém,Hotel room,292.03,18,23,34,4.06,43.0,Good,38.774839,-9.126434
+Lisbon,543105,Príncipe Real,Entire home/apt,65.0,26,197,17,3.8,27.0,Good,38.758338,-9.106541
+Lisbon,374310,Santos,Entire home/apt,156.8,3,104,9,3.67,64.0,Moderate,38.762846,-9.096137
+Lisbon,566487,Bairro Alto,Private room,,2,126,2,4.39,35.0,Good,38.76166,-9.10057
+Lisbon,337963,Mouraria,Entire home/apt,204.0,2,361,51,,41.0,Good,38.778781,-9.163018
+Lisbon,955467,Alfama,Entire home/apt,121.74,1,3,9,3.9,33.0,Good,38.710946,-9.167702
+Lisbon,269717,Alfama,Private room,,18,100,45,,43.0,Good,38.747249,-9.103163
+Lisbon,729212,Chiado,Entire home/apt,179.63,15,175,18,4.73,28.0,Good,38.693199,-9.094312
+Lisbon,666736,Príncipe Real,Entire home/apt,96.83,27,287,1,4.44,43.0,Good,38.70916,-9.187462
+Lisbon,194159,Bairro Alto,Shared room,310.0,9,307,11,4.02,55.0,Moderate,38.714692,-9.181285
+Lisbon,316194,Príncipe Real,Entire home/apt,160.84,10,107,60,,26.0,Good,38.710396,-9.131045
+Lisbon,575338,Belém,Entire home/apt,241.17,30,130,9,4.1,29.0,Good,38.707473,-9.152818
+Lisbon,734033,Belém,Entire home/apt,180.6,7,105,17,4.19,39.0,Good,38.688752,-9.180282
+Lisbon,704624,Santos,Private room,119.4,2,135,21,4.18,34.0,Good,38.764563,-9.20352
+Lisbon,905004,Alfama,Entire home/apt,310.0,11,44,29,4.64,40.0,Good,38.785223,-9.191076
+Lisbon,962376,Intendente,Shared room,72.42,12,205,20,3.94,31.0,Good,38.776038,-9.176609
+Lisbon,995558,Chiado,Entire home/apt,210.96,1,228,120,5.0,42.0,Good,38.71081,-9.150329
+Lisbon,592571,Belém,Private room,132.47,27,76,177,3.61,36.0,Good,38.713475,-9.185626
+Lisbon,148066,Príncipe Real,Private room,65.0,26,317,7,4.56,31.0,Good,38.726291,-9.193555
+Lisbon,381370,Bairro Alto,Private room,261.95,2,338,10,4.08,26.0,Good,38.741709,-9.156369
+Lisbon,945183,Chiado,Entire home/apt,102.78,28,183,37,4.23,47.0,Good,38.743283,-9.188998
+Lisbon,478596,Alfama,Shared room,103.91,24,59,136,4.81,17.0,Good,38.727462,-9.174275
+Lisbon,129544,Mouraria,Entire home/apt,310.0,11,160,59,4.91,58.0,Moderate,38.758281,-9.081735
+Lisbon,506874,Belém,Private room,211.11,11,247,48,4.64,25.0,Good,38.705156,-9.144452
+Lisbon,885389,Belém,Private room,136.59,19,166,30,4.41,24.0,Good,38.741123,-9.196515
+Lisbon,335354,Príncipe Real,Entire home/apt,95.31,15,39,156,4.2,20.0,Good,38.774698,-9.071474
+Lisbon,643657,Mouraria,Entire home/apt,310.0,3,78,131,4.72,41.0,Good,38.736631,-9.196389
+Lisbon,457444,Santos,Private room,128.34,3,210,63,4.08,44.0,Good,38.66934,-9.194938
+Lisbon,289936,Chiado,Entire home/apt,169.29,6,244,82,4.21,28.0,Good,38.697307,-9.077785
+Lisbon,769041,Belém,Entire home/apt,310.0,6,199,60,4.36,39.0,Good,38.656456,-9.20301
+Lisbon,529255,Belém,Entire home/apt,,15,159,4,,50.0,Good,38.661034,-9.11366
+Lisbon,914544,Chiado,Entire home/apt,277.14,25,312,185,4.75,,,38.736957,-9.099909
+Lisbon,640793,Santos,Entire home/apt,234.24,1,172,3,3.92,29.0,Good,38.673434,-9.121303
+Lisbon,656594,Chiado,Hotel room,189.57,11,21,19,,45.0,Good,38.758293,-9.205583
+Lisbon,103164,Belém,Private room,96.86,8,5,68,3.66,,,38.739819,-9.156019
+Lisbon,126642,Bairro Alto,Entire home/apt,160.04,24,129,4,4.81,44.0,Good,38.705927,-9.206197
+Lisbon,922182,Chiado,Private room,140.5,1,281,34,3.94,57.0,Moderate,38.679284,-9.096775
+Lisbon,727111,Intendente,Entire home/apt,181.78,17,28,61,3.23,22.0,Good,38.750856,-9.198425
+Lisbon,246815,Belém,Entire home/apt,310.0,6,115,123,2.9,54.0,Moderate,38.654605,-9.122922
+Lisbon,973430,Mouraria,Entire home/apt,225.05,3,36,43,4.36,,,38.777426,-9.10931
+Lisbon,442450,Belém,Shared room,84.38,1,65,19,4.15,,,38.741688,-9.075387
+Lisbon,340233,Bairro Alto,Entire home/apt,310.0,10,340,0,4.66,34.0,Good,38.704699,-9.151496
+Lisbon,290768,Príncipe Real,Private room,148.87,27,277,20,5.0,50.0,Good,38.771174,-9.128228
+Lisbon,410695,Santos,Entire home/apt,310.0,9,285,30,4.27,29.0,Good,38.782877,-9.151826
+Lisbon,811400,Belém,Private room,193.51,2,332,0,4.82,43.0,Good,38.756669,-9.106143
+Lisbon,637276,Intendente,Private room,84.21,10,254,96,4.17,67.0,Moderate,38.649699,-9.097489
+Lisbon,854181,Príncipe Real,Private room,310.0,1,168,17,4.65,48.0,Good,38.783492,-9.126103
+Lisbon,984673,Santos,Entire home/apt,203.46,13,27,52,4.85,57.0,Moderate,38.779539,-9.114428
+Lisbon,781395,Príncipe Real,Entire home/apt,,19,123,2,4.17,23.0,Good,38.673774,-9.170356
+Lisbon,334899,Mouraria,Private room,204.44,2,83,26,4.38,35.0,Good,38.769463,-9.076449
+Lisbon,862113,Chiado,Private room,203.54,3,194,76,4.45,31.0,Good,38.732314,-9.13798
+Lisbon,511797,Belém,Private room,182.18,30,178,19,4.3,15.0,Good,38.721659,-9.090634
+Lisbon,846592,Intendente,Private room,186.32,1,261,21,4.44,27.0,Good,38.670814,-9.164423
+Lisbon,862274,Santos,Entire home/apt,149.12,29,185,10,,51.0,Moderate,38.700822,-9.185559
+Lisbon,351363,Mouraria,Private room,174.92,11,349,1,3.86,44.0,Good,38.759864,-9.120968
+Lisbon,722181,Alfama,Shared room,310.0,2,166,25,4.85,36.0,Good,38.769768,-9.095462
+Lisbon,859328,Santos,Shared room,254.5,3,121,6,3.85,37.0,Good,38.70888,-9.180557
+Lisbon,872832,Intendente,Private room,180.6,1,90,3,4.28,44.0,Good,38.668452,-9.102775
+Lisbon,465894,Príncipe Real,Private room,137.44,1,120,70,3.65,53.0,Moderate,38.649132,-9.174977
+Lisbon,981019,Belém,Private room,310.0,20,35,26,3.68,45.0,Good,38.714545,-9.196857
+Lisbon,962262,Santos,Private room,254.98,1,334,21,5.0,54.0,Moderate,38.704429,-9.075331
+Lisbon,358036,Chiado,Hotel room,117.09,17,74,39,4.19,26.0,Good,38.779237,-9.183898
+Lisbon,763893,Bairro Alto,Entire home/apt,155.37,15,198,108,3.74,42.0,Good,38.669366,-9.187491
+Lisbon,942439,Bairro Alto,Entire home/apt,103.84,23,245,197,3.54,45.0,Good,38.677686,-9.163701
+Lisbon,872942,Mouraria,Entire home/apt,160.84,2,65,54,5.0,41.0,Good,38.731139,-9.192552
+Lisbon,875180,Bairro Alto,Entire home/apt,310.0,1,37,8,4.88,30.0,Good,38.775166,-9.119753
+Lisbon,544076,Intendente,Entire home/apt,310.0,1,158,63,3.63,25.0,Good,38.681567,-9.169588
+Lisbon,869992,Belém,Private room,216.73,1,344,34,3.87,,,38.784339,-9.109285
+Lisbon,906109,Santos,Private room,134.17,2,257,62,4.84,57.0,Moderate,38.656625,-9.119455
+Lisbon,647920,Alfama,Private room,258.59,1,163,18,3.92,39.0,Good,38.696051,-9.102325
+Lisbon,298493,Belém,Private room,100.36,10,295,40,3.82,33.0,Good,38.739087,-9.104049
+Lisbon,920336,Príncipe Real,Entire home/apt,310.0,21,30,55,4.27,44.0,Good,38.685439,-9.134105
+Lisbon,663154,Príncipe Real,Entire home/apt,203.46,24,73,43,4.01,49.0,Good,38.678355,-9.100116
+Lisbon,533569,Belém,Shared room,158.2,30,340,17,4.93,48.0,Good,38.718592,-9.148477
+Lisbon,475220,Santos,Entire home/apt,222.7,27,364,79,4.27,47.0,Good,38.655064,-9.198902
+Lisbon,544590,Príncipe Real,Private room,210.81,10,81,9,4.37,23.0,Good,38.738006,-9.110154
+Lisbon,506693,Belém,Hotel room,65.99,14,339,20,4.45,34.0,Good,38.767725,-9.185237
+Lisbon,362885,Príncipe Real,Entire home/apt,310.0,6,338,111,4.84,30.0,Good,38.656056,-9.196732
+Lisbon,229468,Intendente,Entire home/apt,183.69,14,88,5,4.21,40.0,Good,38.66663,-9.178422
+Lisbon,416486,Chiado,Entire home/apt,310.0,24,10,123,,25.0,Good,38.777569,-9.100402
+Lisbon,501674,Chiado,Entire home/apt,130.92,15,31,5,4.01,50.0,Good,38.699976,-9.150799
+Lisbon,579925,Intendente,Private room,188.58,22,288,41,,46.0,Good,38.777791,-9.201991
+Lisbon,259798,Chiado,Private room,226.39,4,289,3,4.4,49.0,Good,38.770424,-9.097953
+Lisbon,949000,Mouraria,Entire home/apt,310.0,23,119,8,3.71,43.0,Good,38.732353,-9.092287
+Lisbon,595507,Intendente,Private room,298.89,1,197,65,2.91,33.0,Good,38.7728,-9.171628
+Lisbon,854470,Intendente,Entire home/apt,256.68,2,95,42,4.35,42.0,Good,38.684977,-9.194318
+Lisbon,477984,Príncipe Real,Shared room,,18,0,37,,42.0,Good,38.671045,-9.205829
+Lisbon,128609,Príncipe Real,Shared room,142.08,30,204,15,4.72,40.0,Good,38.684368,-9.133619
+Lisbon,474553,Alfama,Shared room,310.0,2,353,32,4.72,43.0,Good,38.657954,-9.159712
+Lisbon,552712,Príncipe Real,Shared room,171.15,9,285,50,4.36,49.0,Good,38.653842,-9.136215
+Lisbon,593977,Alfama,Entire home/apt,102.96,2,335,1,4.28,41.0,Good,38.749845,-9.100533
+Lisbon,515927,Bairro Alto,Private room,139.89,5,44,38,,49.0,Good,38.669734,-9.16074
+Lisbon,984945,Mouraria,Private room,310.0,1,240,71,4.3,38.0,Good,38.684846,-9.1764
+Lisbon,395511,Santos,Entire home/apt,194.66,21,350,9,4.16,62.0,Moderate,38.724332,-9.070702
+Lisbon,388688,Mouraria,Shared room,124.57,29,160,1,4.38,35.0,Good,38.77532,-9.19137
+Lisbon,386640,Chiado,Shared room,83.78,1,283,4,4.53,26.0,Good,38.783701,-9.095842
+Lisbon,609084,Alfama,Entire home/apt,310.0,21,363,13,4.79,38.0,Good,38.738943,-9.102602
+Lisbon,882017,Bairro Alto,Entire home/apt,74.74,13,182,43,3.72,25.0,Good,38.769542,-9.076502
+Lisbon,937927,Príncipe Real,Private room,145.55,27,169,116,4.63,,,38.748297,-9.207383
+Lisbon,996175,Intendente,Private room,92.18,23,252,11,4.07,40.0,Good,38.762057,-9.115582
+Lisbon,942028,Santos,Entire home/apt,91.34,4,96,13,4.18,30.0,Good,38.695389,-9.073734
+Lisbon,861834,Santos,Entire home/apt,245.7,8,155,3,4.47,43.0,Good,38.677918,-9.123232
+Lisbon,863264,Belém,Entire home/apt,177.13,2,261,2,3.35,43.0,Good,38.728483,-9.150662
+Lisbon,969781,Alfama,Entire home/apt,310.0,30,80,6,3.69,,,38.749182,-9.101091
+Lisbon,135031,Alfama,Entire home/apt,154.63,3,322,38,,19.0,Good,38.652562,-9.172791
+Lisbon,978155,Santos,Private room,246.65,3,115,14,4.52,32.0,Good,38.72734,-9.074136
+Lisbon,684038,Santos,Hotel room,75.93,2,81,12,3.64,47.0,Good,38.651889,-9.158218
+Lisbon,926153,Chiado,Entire home/apt,275.19,7,270,3,4.47,34.0,Good,38.732837,-9.125541
+Lisbon,118891,Bairro Alto,Entire home/apt,243.74,30,67,107,3.61,32.0,Good,38.756667,-9.139217
+Lisbon,202774,Príncipe Real,Entire home/apt,126.54,7,336,57,4.78,32.0,Good,38.708929,-9.201771
+Lisbon,804351,Alfama,Private room,199.16,2,150,48,3.82,42.0,Good,38.666964,-9.077166
+Lisbon,626479,Santos,Private room,236.87,10,298,118,4.04,34.0,Good,38.656878,-9.089612
+Lisbon,122245,Belém,Entire home/apt,204.75,30,361,60,,50.0,Good,38.729675,-9.174352
+Lisbon,884640,Belém,Entire home/apt,310.0,17,351,16,4.8,43.0,Good,38.738153,-9.198066
+Lisbon,908844,Santos,Hotel room,269.99,3,229,13,4.36,37.0,Good,38.651485,-9.181616
+Lisbon,429611,Alfama,Private room,188.01,4,205,185,4.49,55.0,Moderate,38.69934,-9.158189
+Lisbon,746171,Chiado,Entire home/apt,266.65,10,59,66,4.1,31.0,Good,38.647519,-9.074986
+Lisbon,614341,Santos,Shared room,93.08,15,177,25,3.87,35.0,Good,38.785041,-9.123248
+Lisbon,793719,Bairro Alto,Entire home/apt,,10,141,1,4.17,43.0,Good,38.78348,-9.099047
+Lisbon,765832,Alfama,Entire home/apt,221.38,2,182,1,4.61,33.0,Good,38.681468,-9.180803
+Lisbon,142756,Intendente,Entire home/apt,310.0,3,283,4,4.08,39.0,Good,38.70232,-9.192862
+Lisbon,852065,Chiado,Private room,205.39,3,28,84,3.88,24.0,Good,38.71433,-9.189438
+Lisbon,267232,Belém,Hotel room,310.0,22,78,120,3.62,41.0,Good,38.768742,-9.181471
+Lisbon,346421,Mouraria,Entire home/apt,310.0,1,276,53,5.0,23.0,Good,38.659513,-9.186129
+Lisbon,883105,Bairro Alto,Entire home/apt,,1,106,38,3.9,,,38.753807,-9.154011
+Lisbon,284214,Príncipe Real,Private room,,16,263,78,3.96,22.0,Good,38.740674,-9.137748
+Lisbon,519284,Alfama,Shared room,310.0,7,289,13,3.84,13.0,Good,38.705758,-9.198486
+Lisbon,899886,Intendente,Entire home/apt,73.6,2,205,37,4.18,32.0,Good,38.697682,-9.088931
+Lisbon,349180,Santos,Private room,103.08,7,166,50,4.86,19.0,Good,38.671476,-9.149283
+Lisbon,305633,Santos,Entire home/apt,70.11,3,276,73,4.5,13.0,Good,38.784725,-9.169122
+Lisbon,117845,Santos,Entire home/apt,65.0,6,242,60,4.7,25.0,Good,38.658912,-9.14779
+Lisbon,452112,Príncipe Real,Private room,202.57,27,15,19,4.38,31.0,Good,38.661259,-9.153734
+Lisbon,734386,Alfama,Entire home/apt,68.82,22,100,6,3.67,39.0,Good,38.709994,-9.189241
+Lisbon,483935,Bairro Alto,Entire home/apt,264.51,11,147,2,4.83,33.0,Good,38.758879,-9.130528
+Lisbon,555888,Alfama,Entire home/apt,179.22,1,142,38,5.0,38.0,Good,38.661279,-9.13092
+Lisbon,437770,Príncipe Real,Entire home/apt,266.86,28,276,83,3.91,32.0,Good,38.778597,-9.145758
+Lisbon,705110,Bairro Alto,Entire home/apt,174.82,1,130,68,4.65,,,38.778279,-9.127196
+Lisbon,846417,Intendente,Shared room,101.4,10,232,24,4.46,23.0,Good,38.721836,-9.13659
+Lisbon,834479,Mouraria,Private room,192.02,10,65,3,4.84,27.0,Good,38.679621,-9.146807
+Lisbon,366484,Santos,Private room,206.56,3,199,28,4.34,43.0,Good,38.728563,-9.151938
+Lisbon,403726,Alfama,Private room,288.6,7,319,4,3.36,58.0,Moderate,38.677384,-9.150988
+Lisbon,480233,Príncipe Real,Entire home/apt,310.0,12,322,8,3.74,14.0,Good,38.764089,-9.167177
+Lisbon,275787,Intendente,Private room,110.04,5,245,30,3.6,35.0,Good,38.712276,-9.169207
+Lisbon,649191,Alfama,Entire home/apt,237.6,11,289,7,4.5,34.0,Good,38.662639,-9.168658
+Lisbon,318921,Mouraria,Private room,153.84,14,331,49,4.32,41.0,Good,38.71893,-9.19786
+Lisbon,183053,Chiado,Entire home/apt,77.97,24,24,65,,59.0,Moderate,38.750436,-9.15855
+Lisbon,995066,Príncipe Real,Entire home/apt,65.0,8,16,30,4.3,17.0,Good,38.66181,-9.088822
+Lisbon,805302,Alfama,Entire home/apt,,1,276,58,4.24,46.0,Good,38.69548,-9.193769
+Lisbon,498330,Belém,Private room,235.13,1,211,11,3.73,27.0,Good,38.749425,-9.13573
+Lisbon,552382,Intendente,Shared room,309.93,1,67,32,5.0,19.0,Good,38.676619,-9.097029
+Lisbon,454361,Príncipe Real,Private room,228.55,15,185,26,4.12,,,38.729731,-9.116256
+Lisbon,944902,Bairro Alto,Shared room,,4,147,3,4.44,25.0,Good,38.765722,-9.122124
+Lisbon,955803,Mouraria,Private room,238.53,29,67,12,4.22,26.0,Good,38.743812,-9.074606
+Lisbon,736719,Mouraria,Entire home/apt,310.0,6,266,76,3.97,39.0,Good,38.662128,-9.088705
+Lisbon,147118,Alfama,Entire home/apt,193.23,25,270,3,3.83,52.0,Moderate,38.703434,-9.159706
+Lisbon,161812,Intendente,Private room,117.9,3,6,96,4.16,38.0,Good,38.656332,-9.152725
+Lisbon,568828,Príncipe Real,Hotel room,97.23,14,11,242,4.52,30.0,Good,38.67097,-9.115382
+Lisbon,751708,Bairro Alto,Entire home/apt,85.33,8,284,68,3.02,21.0,Good,38.710745,-9.166883
+Lisbon,986650,Chiado,Entire home/apt,,1,73,31,3.39,34.0,Good,38.657308,-9.157172
+Lisbon,356096,Bairro Alto,Hotel room,,17,303,122,5.0,39.0,Good,38.684116,-9.073106
+Lisbon,912683,Príncipe Real,Entire home/apt,106.25,7,239,80,4.27,38.0,Good,38.684836,-9.150918
+Lisbon,298425,Santos,Entire home/apt,107.41,29,274,58,,40.0,Good,38.748945,-9.074282
+Lisbon,808399,Bairro Alto,Entire home/apt,262.07,23,53,26,4.25,34.0,Good,38.702173,-9.088128
+Lisbon,592525,Belém,Entire home/apt,65.0,17,99,91,4.95,51.0,Moderate,38.651469,-9.110363
+Lisbon,520022,Alfama,Entire home/apt,104.96,16,352,114,5.0,37.0,Good,38.666746,-9.106235
+Lisbon,962069,Santos,Entire home/apt,96.27,2,301,35,4.33,48.0,Good,38.707656,-9.131755
+Lisbon,590966,Príncipe Real,Entire home/apt,248.81,14,167,70,4.11,45.0,Good,38.701965,-9.144052
+Lisbon,422843,Bairro Alto,Entire home/apt,164.59,29,231,14,4.47,31.0,Good,38.716483,-9.072105
+Lisbon,533173,Príncipe Real,Entire home/apt,66.84,21,306,14,3.88,43.0,Good,38.714808,-9.087526
+Lisbon,108833,Mouraria,Private room,293.76,1,51,27,4.0,49.0,Good,38.673532,-9.185054
+Lisbon,515032,Belém,Private room,239.96,5,341,54,4.24,32.0,Good,38.692989,-9.088264
+Lisbon,791246,Santos,Entire home/apt,111.97,13,133,52,3.93,12.0,Good,38.735474,-9.165983
+Lisbon,840574,Bairro Alto,Entire home/apt,188.18,30,267,78,2.98,39.0,Good,38.682753,-9.148418
+Lisbon,507087,Bairro Alto,Entire home/apt,65.0,17,144,52,4.51,39.0,Good,38.660372,-9.186227
+Lisbon,293659,Príncipe Real,Private room,119.17,8,219,3,3.94,24.0,Good,38.748302,-9.106917
+Lisbon,323892,Mouraria,Entire home/apt,150.73,12,148,1,4.37,41.0,Good,38.756736,-9.147354
+Lisbon,660741,Príncipe Real,Private room,310.0,4,35,10,4.14,12.0,Good,38.694331,-9.087322
+Lisbon,262540,Alfama,Shared room,150.33,2,298,1,4.66,41.0,Good,38.784991,-9.159559
+Lisbon,936097,Intendente,Entire home/apt,158.25,29,199,123,,32.0,Good,38.737249,-9.167655
+Lisbon,787175,Belém,Private room,134.18,2,315,18,4.21,60.0,Moderate,38.647426,-9.09071
+Lisbon,772445,Belém,Entire home/apt,121.96,1,350,22,4.03,77.0,Moderate,38.697719,-9.111713
+Lisbon,791615,Chiado,Shared room,310.0,23,55,7,4.8,43.0,Good,38.652836,-9.177888
+Lisbon,557634,Chiado,Entire home/apt,310.0,18,347,3,4.84,47.0,Good,38.717275,-9.084062
+Lisbon,574959,Belém,Shared room,203.74,1,206,32,4.45,35.0,Good,38.743266,-9.140816
+Lisbon,954503,Príncipe Real,Hotel room,253.44,1,273,24,4.39,29.0,Good,38.726025,-9.152946
+Lisbon,281184,Alfama,Shared room,252.07,30,258,32,4.65,63.0,Moderate,38.738914,-9.129848
+Lisbon,315359,Príncipe Real,Entire home/apt,310.0,26,183,81,4.45,18.0,Good,38.655791,-9.088879
+Lisbon,639546,Chiado,Private room,166.55,1,59,72,3.64,,,38.779133,-9.188777
+Lisbon,882497,Chiado,Entire home/apt,299.99,28,342,77,4.59,26.0,Good,38.655433,-9.195944
+Lisbon,380183,Alfama,Shared room,,23,267,55,,51.0,Moderate,38.694626,-9.192315
+Lisbon,186075,Bairro Alto,Private room,255.95,14,187,5,4.21,15.0,Good,38.739647,-9.157567
+Lisbon,953818,Chiado,Private room,,17,150,10,4.47,34.0,Good,38.719812,-9.183291
+Lisbon,360844,Santos,Private room,105.34,13,130,15,4.96,35.0,Good,38.698917,-9.20946
+Lisbon,662120,Príncipe Real,Private room,261.19,9,312,30,4.19,1.0,Good,38.677781,-9.166059
+Lisbon,461684,Intendente,Private room,248.05,13,170,39,3.97,37.0,Good,38.723323,-9.088337
+Lisbon,887686,Chiado,Entire home/apt,239.43,1,287,29,,50.0,Good,38.760157,-9.169387
+Lisbon,547532,Chiado,Private room,209.23,6,61,32,3.85,38.0,Good,38.75345,-9.074556
+Lisbon,475134,Príncipe Real,Entire home/apt,89.44,24,71,76,3.36,38.0,Good,38.657685,-9.170869
+Lisbon,984405,Príncipe Real,Entire home/apt,165.73,14,172,1,4.6,34.0,Good,38.775775,-9.167283
+Lisbon,658345,Alfama,Entire home/apt,307.72,3,343,20,4.13,43.0,Good,38.687296,-9.078208
+Lisbon,319045,Intendente,Hotel room,183.26,18,215,4,5.0,45.0,Good,38.72946,-9.158003
+Lisbon,550951,Santos,Entire home/apt,132.6,14,296,10,4.86,44.0,Good,38.706087,-9.162101
+Lisbon,773283,Belém,Private room,310.0,25,6,47,5.0,37.0,Good,38.65921,-9.071602
+Lisbon,851838,Alfama,Private room,94.99,1,53,83,4.7,44.0,Good,38.689468,-9.082597
+Lisbon,648244,Bairro Alto,Private room,310.0,18,91,114,4.9,,,38.772474,-9.156572
+Lisbon,968485,Bairro Alto,Private room,247.85,1,170,18,4.24,35.0,Good,38.73573,-9.131375
+Lisbon,238835,Chiado,Entire home/apt,69.28,9,349,0,4.33,40.0,Good,38.775444,-9.110298
+Lisbon,604719,Mouraria,Entire home/apt,92.55,1,164,35,4.01,39.0,Good,38.691518,-9.139164
+Lisbon,797476,Chiado,Entire home/apt,278.44,18,211,5,4.56,40.0,Good,38.691243,-9.095013
+Lisbon,566185,Alfama,Private room,144.44,23,269,138,4.67,,,38.696562,-9.084367
+Lisbon,690145,Santos,Entire home/apt,310.0,2,34,3,4.76,48.0,Good,38.706531,-9.074421
+Lisbon,827781,Mouraria,Entire home/apt,,9,172,44,4.61,48.0,Good,38.708881,-9.170456
+Lisbon,670472,Chiado,Entire home/apt,168.37,22,275,34,3.78,38.0,Good,38.719316,-9.125781
+Lisbon,732773,Intendente,Entire home/apt,237.33,25,23,11,4.78,28.0,Good,38.649724,-9.157525
+Lisbon,990701,Alfama,Private room,83.64,27,89,16,3.63,26.0,Good,38.667117,-9.156509
+Lisbon,553621,Santos,Hotel room,168.62,3,63,19,4.03,45.0,Good,38.743911,-9.121364
+Lisbon,750903,Belém,Entire home/apt,160.82,26,351,30,4.29,52.0,Moderate,38.71376,-9.102762
+Lisbon,591760,Alfama,Entire home/apt,172.55,18,351,81,4.33,28.0,Good,38.699252,-9.09485
+Lisbon,305376,Intendente,Private room,180.9,6,83,20,4.45,26.0,Good,38.766483,-9.08076
+Lisbon,799430,Bairro Alto,Entire home/apt,103.87,2,203,13,4.68,39.0,Good,38.68745,-9.177931
+Lisbon,208890,Mouraria,Entire home/apt,128.21,9,242,33,3.74,24.0,Good,38.655912,-9.113823
+Lisbon,935812,Príncipe Real,Entire home/apt,243.21,29,153,21,4.31,52.0,Moderate,38.658079,-9.11233
+Lisbon,302702,Príncipe Real,Entire home/apt,216.15,2,142,27,3.94,54.0,Moderate,38.665339,-9.148839
+Lisbon,217126,Bairro Alto,Entire home/apt,310.0,13,338,7,3.65,34.0,Good,38.658764,-9.129485
+Lisbon,404052,Alfama,Shared room,209.07,3,187,29,4.62,37.0,Good,38.671351,-9.086395
+Lisbon,969897,Belém,Shared room,200.2,1,181,5,4.47,36.0,Good,38.686212,-9.079835
+Lisbon,665553,Alfama,Entire home/apt,205.1,3,13,42,4.46,18.0,Good,38.740034,-9.078772
+Lisbon,388554,Chiado,Private room,215.3,22,317,81,4.43,45.0,Good,38.700003,-9.097396
+Lisbon,269776,Mouraria,Private room,167.38,28,57,23,3.42,33.0,Good,38.77155,-9.156068
+Lisbon,694918,Príncipe Real,Entire home/apt,201.58,15,35,54,4.38,41.0,Good,38.76065,-9.138913
+Lisbon,362175,Chiado,Entire home/apt,225.94,28,169,18,4.6,66.0,Moderate,38.786067,-9.188961
+Lisbon,289090,Mouraria,Entire home/apt,,1,233,50,4.95,,,38.775237,-9.19981
+Lisbon,200565,Bairro Alto,Private room,195.37,27,220,47,4.39,40.0,Good,38.781554,-9.145533

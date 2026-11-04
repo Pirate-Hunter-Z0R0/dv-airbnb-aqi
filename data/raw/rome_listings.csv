@@ -1,0 +1,461 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Rome,413156,Centro Storico,Private room,,22,83,5,4.7,80.0,Moderate,41.889385,12.469549
+Rome,923357,Centro Storico,Hotel room,116.36,16,136,5,3.52,63.0,Moderate,41.856471,12.553027
+Rome,378731,Centro Storico,Private room,179.92,2,187,4,3.7,65.0,Moderate,41.884024,12.485301
+Rome,467874,Monti,Entire home/apt,390.0,1,335,8,3.79,56.0,Moderate,41.92707,12.564821
+Rome,838567,Monti,Entire home/apt,142.49,12,112,7,4.07,85.0,Moderate,41.852684,12.453109
+Rome,513148,San Lorenzo,Entire home/apt,224.24,18,253,79,,64.0,Moderate,41.967415,12.52525
+Rome,570063,San Lorenzo,Shared room,,16,306,31,4.1,30.0,Good,41.861398,12.443159
+Rome,170720,Prati,Private room,386.41,17,42,1,4.21,71.0,Moderate,41.85562,12.559653
+Rome,764380,Trastevere,Shared room,73.13,11,257,24,4.04,58.0,Moderate,41.953451,12.542272
+Rome,851393,San Lorenzo,Entire home/apt,312.82,11,133,20,,67.0,Moderate,41.933731,12.523582
+Rome,212552,Centro Storico,Private room,390.0,25,89,50,4.21,50.0,Good,41.886589,12.438045
+Rome,175333,Trastevere,Entire home/apt,164.88,1,364,85,4.04,38.0,Good,41.939811,12.447115
+Rome,624387,Campo de' Fiori,Entire home/apt,390.0,15,167,47,5.0,53.0,Moderate,41.853088,12.46873
+Rome,829983,San Lorenzo,Shared room,185.78,26,131,73,4.21,50.0,Good,41.965544,12.514712
+Rome,783044,Campo de' Fiori,Entire home/apt,388.75,2,153,23,4.47,50.0,Good,41.944117,12.437766
+Rome,834391,Aventino,Hotel room,390.0,2,82,40,3.55,,,41.920253,12.495503
+Rome,819932,Trastevere,Entire home/apt,364.33,25,282,29,3.65,44.0,Good,41.888418,12.463938
+Rome,511426,Prati,Entire home/apt,197.97,3,97,115,4.24,76.0,Moderate,41.896124,12.527385
+Rome,219635,Campo de' Fiori,Entire home/apt,137.6,9,258,2,4.81,42.0,Good,41.869784,12.43648
+Rome,966955,Testaccio,Entire home/apt,248.04,2,217,32,5.0,50.0,Good,41.849529,12.546572
+Rome,513615,Centro Storico,Entire home/apt,203.21,6,362,13,4.68,,,41.880342,12.483842
+Rome,127653,San Lorenzo,Entire home/apt,257.56,13,68,24,3.93,70.0,Moderate,41.931743,12.499746
+Rome,599131,Trastevere,Shared room,270.29,22,59,9,4.42,56.0,Moderate,41.859928,12.540567
+Rome,615395,Trastevere,Private room,184.6,2,218,9,5.0,44.0,Good,41.905911,12.502061
+Rome,920028,Prati,Entire home/apt,191.65,24,299,116,4.43,66.0,Moderate,41.870124,12.532206
+Rome,913870,Campo de' Fiori,Entire home/apt,276.47,13,82,39,4.11,27.0,Good,41.891244,12.531499
+Rome,910714,Aventino,Entire home/apt,134.63,17,83,15,4.07,26.0,Good,41.882845,12.537876
+Rome,826959,Testaccio,Entire home/apt,184.11,14,338,81,3.54,,,41.968329,12.478552
+Rome,816271,Prati,Private room,204.09,14,360,15,4.21,64.0,Moderate,41.951454,12.502437
+Rome,543343,Trastevere,Hotel room,208.7,18,37,22,4.0,62.0,Moderate,41.893764,12.563178
+Rome,414898,Campo de' Fiori,Entire home/apt,198.7,1,18,1,4.08,46.0,Good,41.917769,12.440672
+Rome,790423,Campo de' Fiori,Private room,199.69,3,267,5,3.59,,,41.86432,12.440216
+Rome,969844,Centro Storico,Entire home/apt,193.73,16,250,26,3.97,37.0,Good,41.846694,12.542099
+Rome,486692,Campo de' Fiori,Hotel room,369.58,2,112,31,3.95,20.0,Good,41.947345,12.533365
+Rome,263720,Trastevere,Entire home/apt,,19,365,33,4.66,63.0,Moderate,41.881489,12.494897
+Rome,487953,Campo de' Fiori,Shared room,177.29,30,60,23,4.29,57.0,Moderate,41.861513,12.531083
+Rome,904687,Prati,Private room,270.47,6,15,118,4.24,67.0,Moderate,41.875699,12.429121
+Rome,927935,Prati,Entire home/apt,119.05,30,309,61,3.57,51.0,Moderate,41.891466,12.428306
+Rome,379148,Campo de' Fiori,Entire home/apt,223.82,29,231,35,4.99,59.0,Moderate,41.844866,12.542208
+Rome,439415,Trastevere,Entire home/apt,390.0,24,93,61,,63.0,Moderate,41.955403,12.489447
+Rome,842681,Prati,Private room,113.27,1,198,18,4.89,50.0,Good,41.912156,12.507296
+Rome,966520,Prati,Shared room,178.72,15,364,4,4.44,47.0,Good,41.841375,12.540205
+Rome,134804,Trastevere,Private room,240.6,3,137,62,4.85,61.0,Moderate,41.965064,12.563031
+Rome,956731,Campo de' Fiori,Entire home/apt,176.67,3,327,17,4.11,61.0,Moderate,41.846685,12.493046
+Rome,698502,Centro Storico,Entire home/apt,119.79,30,260,118,4.76,45.0,Good,41.967841,12.471883
+Rome,871223,San Lorenzo,Private room,258.74,30,129,34,4.59,58.0,Moderate,41.856651,12.541144
+Rome,343515,San Lorenzo,Private room,160.48,20,177,46,4.76,73.0,Moderate,41.88831,12.51618
+Rome,579675,Aventino,Entire home/apt,224.0,9,130,16,3.5,30.0,Good,41.961661,12.473048
+Rome,852186,Campo de' Fiori,Entire home/apt,201.09,10,235,2,4.36,49.0,Good,41.875636,12.437446
+Rome,410292,Prati,Entire home/apt,252.25,17,365,4,4.16,54.0,Moderate,41.860568,12.452251
+Rome,698371,Trastevere,Entire home/apt,271.19,2,42,27,4.55,,,41.864062,12.551711
+Rome,252096,Campo de' Fiori,Shared room,346.67,3,192,1,4.12,74.0,Moderate,41.892803,12.53085
+Rome,635702,Trastevere,Entire home/apt,229.8,12,361,21,4.41,61.0,Moderate,41.919371,12.490753
+Rome,338392,Monti,Entire home/apt,390.0,22,118,27,,86.0,Moderate,41.876603,12.440908
+Rome,999014,San Lorenzo,Private room,71.49,2,294,91,4.58,83.0,Moderate,41.953373,12.559035
+Rome,319017,Centro Storico,Entire home/apt,180.77,20,169,22,3.82,31.0,Good,41.834821,12.542932
+Rome,910100,Monti,Private room,151.74,10,326,17,3.71,63.0,Moderate,41.867865,12.488833
+Rome,993897,San Lorenzo,Entire home/apt,186.07,4,91,167,3.53,67.0,Moderate,41.841474,12.426583
+Rome,181892,Monti,Entire home/apt,205.69,7,148,16,4.51,54.0,Moderate,41.834831,12.445157
+Rome,434913,Campo de' Fiori,Private room,,3,330,132,3.56,,,41.838036,12.476036
+Rome,920176,Prati,Entire home/apt,302.58,28,308,1,3.31,26.0,Good,41.957116,12.563285
+Rome,151414,Campo de' Fiori,Entire home/apt,390.0,1,265,26,3.67,40.0,Good,41.858723,12.472951
+Rome,195372,Trastevere,Entire home/apt,390.0,7,81,61,4.27,56.0,Moderate,41.969699,12.441469
+Rome,913564,Prati,Private room,390.0,11,295,11,4.35,56.0,Moderate,41.913323,12.467905
+Rome,519619,Aventino,Shared room,260.51,12,84,52,4.77,,,41.894192,12.501533
+Rome,136841,Monti,Entire home/apt,168.68,2,139,19,4.25,82.0,Moderate,41.862177,12.459334
+Rome,609187,Testaccio,Entire home/apt,234.42,2,337,126,4.72,62.0,Moderate,41.945975,12.558185
+Rome,755347,Monti,Entire home/apt,330.45,16,121,3,4.19,53.0,Moderate,41.858036,12.43995
+Rome,708408,San Lorenzo,Entire home/apt,334.81,16,238,17,4.79,53.0,Moderate,41.952107,12.54676
+Rome,324184,Monti,Entire home/apt,256.59,2,145,29,4.19,78.0,Moderate,41.844374,12.477574
+Rome,155406,Monti,Entire home/apt,177.46,18,61,21,4.44,33.0,Good,41.944844,12.432311
+Rome,739131,Campo de' Fiori,Entire home/apt,74.55,13,92,40,4.16,60.0,Moderate,41.915043,12.538299
+Rome,566050,Centro Storico,Entire home/apt,,28,167,13,4.46,60.0,Moderate,41.874074,12.505311
+Rome,577614,Trastevere,Private room,390.0,2,158,26,4.8,46.0,Good,41.861667,12.558886
+Rome,769285,Monti,Private room,390.0,26,261,11,5.0,54.0,Moderate,41.970412,12.496158
+Rome,986116,San Lorenzo,Entire home/apt,245.09,10,331,47,4.32,50.0,Good,41.908773,12.474149
+Rome,390192,Testaccio,Entire home/apt,74.9,1,85,0,3.28,47.0,Good,41.956783,12.512426
+Rome,563612,Testaccio,Shared room,179.18,29,358,106,3.78,33.0,Good,41.840196,12.433042
+Rome,140265,Trastevere,Entire home/apt,184.68,29,327,5,4.62,82.0,Moderate,41.885572,12.543411
+Rome,571376,Campo de' Fiori,Shared room,127.06,7,97,98,4.06,44.0,Good,41.834764,12.494834
+Rome,487772,Centro Storico,Entire home/apt,180.17,9,8,37,4.46,80.0,Moderate,41.889578,12.556671
+Rome,912257,Prati,Entire home/apt,382.21,2,168,54,4.16,62.0,Moderate,41.965044,12.47986
+Rome,536189,Prati,Private room,121.95,8,156,23,4.17,43.0,Good,41.90436,12.496402
+Rome,166491,Monti,Private room,303.77,2,158,6,5.0,53.0,Moderate,41.935984,12.485966
+Rome,118488,Monti,Entire home/apt,239.42,1,279,18,5.0,58.0,Moderate,41.967144,12.451962
+Rome,315856,Centro Storico,Entire home/apt,74.93,2,290,44,4.39,46.0,Good,41.87869,12.524978
+Rome,840735,Monti,Private room,132.36,2,255,28,4.21,65.0,Moderate,41.909905,12.471667
+Rome,616735,Aventino,Entire home/apt,180.72,13,151,30,3.59,69.0,Moderate,41.904032,12.512455
+Rome,572449,Campo de' Fiori,Entire home/apt,390.0,4,222,20,4.16,46.0,Good,41.922758,12.479385
+Rome,181206,Prati,Shared room,390.0,1,335,18,4.37,59.0,Moderate,41.908907,12.437134
+Rome,178355,Centro Storico,Entire home/apt,194.12,1,83,53,4.36,41.0,Good,41.953984,12.533928
+Rome,178295,Prati,Entire home/apt,286.72,12,153,73,4.26,25.0,Good,41.958904,12.429388
+Rome,730799,Centro Storico,Entire home/apt,181.3,10,103,188,4.26,66.0,Moderate,41.917683,12.516345
+Rome,428028,Monti,Entire home/apt,390.0,1,234,23,3.87,24.0,Good,41.855036,12.474649
+Rome,762959,Campo de' Fiori,Entire home/apt,70.0,2,128,74,4.06,48.0,Good,41.927958,12.495308
+Rome,103112,Campo de' Fiori,Private room,231.6,8,222,35,4.8,47.0,Good,41.882833,12.523949
+Rome,127340,Trastevere,Entire home/apt,221.42,30,287,3,,35.0,Good,41.841034,12.448455
+Rome,831458,San Lorenzo,Private room,275.92,1,313,67,3.98,44.0,Good,41.97277,12.479839
+Rome,642144,Prati,Entire home/apt,356.91,10,267,2,4.69,59.0,Moderate,41.859929,12.479044
+Rome,419260,Aventino,Private room,321.6,10,24,40,4.56,29.0,Good,41.934147,12.505053
+Rome,110646,Centro Storico,Entire home/apt,,2,364,26,4.48,31.0,Good,41.860485,12.55061
+Rome,162157,Trastevere,Shared room,135.35,1,123,29,4.75,70.0,Moderate,41.872167,12.520544
+Rome,121127,Testaccio,Entire home/apt,196.86,6,277,1,4.64,55.0,Moderate,41.880383,12.533968
+Rome,392321,Testaccio,Private room,,1,223,31,4.18,39.0,Good,41.875741,12.52346
+Rome,160590,Testaccio,Entire home/apt,178.36,17,288,85,3.13,60.0,Moderate,41.933853,12.498572
+Rome,322029,San Lorenzo,Entire home/apt,150.22,27,34,22,3.33,58.0,Moderate,41.937533,12.4347
+Rome,336703,Aventino,Entire home/apt,,11,354,39,4.45,61.0,Moderate,41.861815,12.499804
+Rome,838729,Campo de' Fiori,Entire home/apt,164.4,22,319,37,5.0,59.0,Moderate,41.947703,12.480824
+Rome,727253,Trastevere,Entire home/apt,338.55,23,310,0,4.09,98.0,Moderate,41.963755,12.487973
+Rome,829546,Prati,Entire home/apt,163.15,12,116,43,4.21,65.0,Moderate,41.860911,12.510604
+Rome,289525,Centro Storico,Private room,390.0,2,100,160,4.23,66.0,Moderate,41.897824,12.4727
+Rome,388000,Monti,Hotel room,,8,121,37,4.53,,,41.945736,12.491506
+Rome,658059,Prati,Private room,352.12,1,271,98,4.14,71.0,Moderate,41.969317,12.560311
+Rome,233778,Trastevere,Entire home/apt,221.65,18,159,11,5.0,69.0,Moderate,41.903813,12.467335
+Rome,668443,Prati,Entire home/apt,161.45,19,26,1,4.68,54.0,Moderate,41.942873,12.461625
+Rome,977522,Campo de' Fiori,Entire home/apt,98.51,29,26,71,4.17,38.0,Good,41.843259,12.512469
+Rome,614254,Centro Storico,Hotel room,76.71,2,205,19,4.18,74.0,Moderate,41.868958,12.48275
+Rome,413661,Centro Storico,Hotel room,390.0,11,235,15,5.0,53.0,Moderate,41.963794,12.448687
+Rome,613132,Prati,Entire home/apt,343.38,6,188,6,4.51,75.0,Moderate,41.866763,12.461388
+Rome,538285,Centro Storico,Entire home/apt,390.0,20,284,5,4.06,,,41.869816,12.485528
+Rome,972195,Aventino,Entire home/apt,190.99,3,307,25,4.83,42.0,Good,41.866224,12.500414
+Rome,218976,Aventino,Private room,235.2,8,257,3,3.52,38.0,Good,41.932452,12.525939
+Rome,575102,Campo de' Fiori,Hotel room,217.36,15,276,23,5.0,39.0,Good,41.918923,12.554644
+Rome,912204,Campo de' Fiori,Entire home/apt,390.0,4,113,41,4.55,62.0,Moderate,41.952306,12.518156
+Rome,979535,Trastevere,Entire home/apt,279.97,3,24,80,5.0,96.0,Moderate,41.945828,12.532595
+Rome,501131,San Lorenzo,Private room,204.67,20,141,253,3.23,33.0,Good,41.849807,12.454724
+Rome,685924,Aventino,Entire home/apt,222.2,2,77,74,4.16,18.0,Good,41.885893,12.432572
+Rome,572097,Monti,Hotel room,184.34,20,71,50,4.06,,,41.960269,12.484801
+Rome,610173,Aventino,Private room,188.12,6,80,88,3.6,57.0,Moderate,41.963337,12.489469
+Rome,226714,Trastevere,Entire home/apt,390.0,14,49,35,4.34,55.0,Moderate,41.95669,12.526135
+Rome,415928,San Lorenzo,Entire home/apt,249.95,2,84,65,4.71,,,41.874285,12.518943
+Rome,113161,Trastevere,Entire home/apt,,25,211,0,3.93,43.0,Good,41.902998,12.480008
+Rome,345435,Centro Storico,Entire home/apt,149.93,1,118,30,4.35,56.0,Moderate,41.846606,12.533007
+Rome,741799,Trastevere,Private room,132.66,29,26,14,4.05,,,41.87014,12.460675
+Rome,136070,Testaccio,Private room,159.42,4,173,1,4.42,59.0,Moderate,41.921373,12.563285
+Rome,188829,Aventino,Private room,149.7,19,270,5,3.87,50.0,Good,41.901329,12.545706
+Rome,447813,Centro Storico,Private room,320.41,30,105,84,5.0,42.0,Good,41.847646,12.442216
+Rome,599788,San Lorenzo,Private room,335.01,1,197,13,3.65,60.0,Moderate,41.855723,12.529222
+Rome,831030,Trastevere,Entire home/apt,,13,77,140,3.81,50.0,Good,41.97059,12.521977
+Rome,121032,Monti,Entire home/apt,92.16,9,64,42,5.0,60.0,Moderate,41.888357,12.43754
+Rome,319860,Campo de' Fiori,Private room,183.97,14,364,38,4.84,51.0,Moderate,41.856147,12.502747
+Rome,417640,Monti,Private room,360.37,11,111,39,3.56,,,41.919219,12.436045
+Rome,158785,San Lorenzo,Entire home/apt,370.38,2,168,7,4.71,77.0,Moderate,41.961581,12.53954
+Rome,948910,Aventino,Entire home/apt,241.73,20,361,26,4.25,82.0,Moderate,41.861719,12.428367
+Rome,506508,San Lorenzo,Entire home/apt,363.91,2,269,105,3.66,13.0,Good,41.8377,12.475375
+Rome,937426,San Lorenzo,Entire home/apt,285.27,27,137,18,,38.0,Good,41.924001,12.514682
+Rome,142410,Trastevere,Private room,227.98,3,67,10,4.41,52.0,Moderate,41.898235,12.470905
+Rome,378858,San Lorenzo,Shared room,221.72,21,211,0,4.84,47.0,Good,41.901911,12.459384
+Rome,650438,Prati,Entire home/apt,142.15,28,221,191,3.9,58.0,Moderate,41.850585,12.551758
+Rome,165470,Aventino,Entire home/apt,390.0,2,317,32,4.4,52.0,Moderate,41.931121,12.457682
+Rome,221902,San Lorenzo,Entire home/apt,155.53,4,114,30,4.2,65.0,Moderate,41.9638,12.514123
+Rome,419519,Centro Storico,Private room,,20,238,27,4.35,53.0,Moderate,41.844882,12.539026
+Rome,195892,Testaccio,Entire home/apt,271.79,23,9,10,5.0,33.0,Good,41.880511,12.557952
+Rome,716576,Monti,Private room,183.71,3,171,16,4.69,74.0,Moderate,41.955176,12.48947
+Rome,627467,Aventino,Shared room,123.95,25,37,28,5.0,73.0,Moderate,41.866403,12.564918
+Rome,862300,Campo de' Fiori,Entire home/apt,172.52,26,74,3,4.38,66.0,Moderate,41.934485,12.485963
+Rome,852144,Monti,Shared room,230.55,11,210,31,4.61,71.0,Moderate,41.887776,12.447467
+Rome,830298,Aventino,Entire home/apt,177.89,4,112,1,4.71,56.0,Moderate,41.942431,12.515308
+Rome,347265,Aventino,Entire home/apt,129.89,1,311,2,3.04,55.0,Moderate,41.971015,12.488348
+Rome,765376,Monti,Entire home/apt,86.04,2,201,28,4.88,42.0,Good,41.874328,12.445184
+Rome,334853,Testaccio,Entire home/apt,,25,321,7,3.76,,,41.887211,12.486569
+Rome,685719,Centro Storico,Entire home/apt,166.48,19,268,18,,52.0,Moderate,41.964819,12.454205
+Rome,921517,Campo de' Fiori,Shared room,129.85,1,267,0,3.48,47.0,Good,41.908972,12.45756
+Rome,814704,San Lorenzo,Entire home/apt,148.62,29,313,15,4.94,52.0,Moderate,41.931369,12.471467
+Rome,606774,Aventino,Private room,77.2,25,304,11,4.62,50.0,Good,41.876683,12.445593
+Rome,411662,Centro Storico,Private room,267.03,3,361,7,3.82,77.0,Moderate,41.841478,12.490159
+Rome,472386,Monti,Private room,390.0,27,139,118,4.3,62.0,Moderate,41.948115,12.520573
+Rome,568155,Prati,Entire home/apt,186.86,4,95,52,4.74,65.0,Moderate,41.895522,12.429324
+Rome,393906,Prati,Private room,384.83,1,87,37,4.45,59.0,Moderate,41.879801,12.443671
+Rome,809410,Trastevere,Hotel room,218.51,13,330,4,,53.0,Moderate,41.953206,12.528303
+Rome,592895,Monti,Entire home/apt,390.0,21,177,7,4.26,53.0,Moderate,41.950864,12.496145
+Rome,409255,Centro Storico,Entire home/apt,,27,202,8,3.61,80.0,Moderate,41.855322,12.47122
+Rome,946685,Aventino,Shared room,221.01,1,300,18,3.84,60.0,Moderate,41.843563,12.440605
+Rome,181395,Prati,Entire home/apt,246.95,15,131,8,4.01,11.0,Good,41.880186,12.553827
+Rome,480315,Testaccio,Entire home/apt,390.0,1,13,8,4.03,54.0,Moderate,41.967549,12.564328
+Rome,811378,Centro Storico,Entire home/apt,315.44,6,32,50,4.15,58.0,Moderate,41.931346,12.432419
+Rome,694934,Centro Storico,Entire home/apt,160.48,19,42,15,3.82,40.0,Good,41.919648,12.495784
+Rome,877874,Trastevere,Hotel room,219.7,2,236,1,3.99,44.0,Good,41.84825,12.564353
+Rome,213723,Prati,Entire home/apt,206.12,23,342,5,4.28,49.0,Good,41.879452,12.495742
+Rome,546169,Campo de' Fiori,Entire home/apt,170.95,10,69,50,4.66,57.0,Moderate,41.931722,12.498201
+Rome,588186,Prati,Entire home/apt,247.76,1,136,20,4.38,54.0,Moderate,41.909227,12.559094
+Rome,649143,Prati,Entire home/apt,390.0,15,44,260,5.0,72.0,Moderate,41.8598,12.447473
+Rome,591107,Testaccio,Entire home/apt,249.8,8,78,29,4.6,69.0,Moderate,41.928843,12.463666
+Rome,199686,Testaccio,Entire home/apt,164.34,21,29,27,3.94,56.0,Moderate,41.8718,12.555384
+Rome,822276,Centro Storico,Private room,390.0,13,132,4,4.74,48.0,Good,41.849456,12.442494
+Rome,158673,Centro Storico,Private room,173.83,13,294,50,3.67,76.0,Moderate,41.882972,12.516315
+Rome,311417,Aventino,Entire home/apt,255.7,29,33,7,5.0,43.0,Good,41.839114,12.466504
+Rome,123416,Centro Storico,Entire home/apt,297.05,6,253,26,3.4,52.0,Moderate,41.928405,12.532977
+Rome,965117,Prati,Entire home/apt,205.03,10,27,37,4.68,72.0,Moderate,41.883809,12.479293
+Rome,495524,Monti,Entire home/apt,144.3,13,104,30,4.41,66.0,Moderate,41.969248,12.554952
+Rome,124991,Monti,Private room,139.93,29,250,51,4.84,59.0,Moderate,41.915288,12.545978
+Rome,614161,Testaccio,Entire home/apt,154.83,1,261,64,4.51,52.0,Moderate,41.957062,12.517671
+Rome,580202,Prati,Entire home/apt,123.85,2,235,15,4.95,60.0,Moderate,41.963302,12.459698
+Rome,900443,Campo de' Fiori,Entire home/apt,162.36,20,190,62,5.0,55.0,Moderate,41.955341,12.490046
+Rome,662126,Testaccio,Entire home/apt,390.0,11,297,5,3.9,49.0,Good,41.886241,12.563181
+Rome,810267,Campo de' Fiori,Entire home/apt,72.81,27,52,5,4.05,78.0,Moderate,41.966919,12.564449
+Rome,690059,Aventino,Private room,216.32,9,218,46,4.48,48.0,Good,41.950498,12.560938
+Rome,495209,Prati,Entire home/apt,272.19,14,269,19,4.11,47.0,Good,41.919098,12.532853
+Rome,608000,Prati,Hotel room,313.5,29,357,51,3.52,47.0,Good,41.939116,12.502132
+Rome,481095,Aventino,Private room,121.48,1,124,19,3.72,40.0,Good,41.863151,12.502946
+Rome,246670,San Lorenzo,Entire home/apt,192.13,27,28,7,4.5,46.0,Good,41.962584,12.437292
+Rome,142509,San Lorenzo,Private room,139.12,13,317,74,4.71,81.0,Moderate,41.917883,12.521351
+Rome,832781,Prati,Entire home/apt,,21,53,5,4.26,45.0,Good,41.934247,12.538625
+Rome,707777,Trastevere,Entire home/apt,174.18,29,171,62,4.18,49.0,Good,41.886927,12.448742
+Rome,474957,Testaccio,Entire home/apt,90.53,1,55,229,4.59,66.0,Moderate,41.897982,12.468562
+Rome,181222,Aventino,Shared room,130.92,14,323,8,3.63,43.0,Good,41.889879,12.562514
+Rome,870932,Testaccio,Entire home/apt,379.0,15,136,31,4.83,71.0,Moderate,41.91085,12.481213
+Rome,972595,Testaccio,Private room,201.22,26,108,46,3.82,40.0,Good,41.891922,12.529133
+Rome,972091,Aventino,Hotel room,320.68,16,232,39,4.17,64.0,Moderate,41.958738,12.533379
+Rome,727576,Testaccio,Entire home/apt,390.0,28,26,136,4.53,69.0,Moderate,41.9556,12.521711
+Rome,698375,Testaccio,Entire home/apt,187.7,30,144,4,5.0,53.0,Moderate,41.938596,12.555557
+Rome,601864,Aventino,Entire home/apt,320.33,3,53,2,4.44,11.0,Good,41.904146,12.486474
+Rome,515842,Monti,Entire home/apt,312.67,24,288,114,4.62,28.0,Good,41.938632,12.494069
+Rome,670617,Centro Storico,Entire home/apt,390.0,3,286,62,4.05,47.0,Good,41.962012,12.439561
+Rome,586255,Aventino,Private room,206.96,21,212,37,4.62,35.0,Good,41.833349,12.466489
+Rome,417683,Testaccio,Hotel room,156.7,2,48,58,5.0,51.0,Moderate,41.895256,12.505927
+Rome,250808,Trastevere,Entire home/apt,119.33,20,83,13,3.77,58.0,Moderate,41.932412,12.447494
+Rome,967388,Centro Storico,Private room,209.47,5,68,29,5.0,61.0,Moderate,41.940095,12.502208
+Rome,980968,Campo de' Fiori,Private room,162.73,29,40,134,3.62,50.0,Good,41.840714,12.531156
+Rome,204874,Testaccio,Entire home/apt,210.1,8,124,19,3.79,62.0,Moderate,41.868288,12.473087
+Rome,536728,San Lorenzo,Entire home/apt,390.0,3,54,49,3.62,22.0,Good,41.84207,12.507695
+Rome,559042,Prati,Entire home/apt,256.83,28,83,10,3.63,81.0,Moderate,41.925231,12.524011
+Rome,575551,Trastevere,Entire home/apt,,4,237,3,4.48,48.0,Good,41.943657,12.561178
+Rome,495867,Campo de' Fiori,Entire home/apt,390.0,11,219,5,5.0,48.0,Good,41.895729,12.450171
+Rome,189746,Trastevere,Entire home/apt,127.96,5,72,13,4.03,69.0,Moderate,41.863623,12.432806
+Rome,256045,Aventino,Private room,232.88,1,218,4,4.74,22.0,Good,41.899003,12.500801
+Rome,989089,Aventino,Entire home/apt,390.0,6,2,86,3.85,59.0,Moderate,41.934042,12.451975
+Rome,857526,Testaccio,Entire home/apt,191.0,30,187,28,4.5,53.0,Moderate,41.928477,12.461161
+Rome,878254,Centro Storico,Entire home/apt,192.57,4,223,26,4.28,44.0,Good,41.841982,12.562024
+Rome,204295,Testaccio,Entire home/apt,241.02,14,295,47,4.58,,,41.890339,12.453556
+Rome,722197,Monti,Private room,201.73,22,83,13,4.7,60.0,Moderate,41.953259,12.426991
+Rome,176955,San Lorenzo,Entire home/apt,296.26,21,134,16,3.94,40.0,Good,41.949175,12.512278
+Rome,917026,Monti,Entire home/apt,171.14,12,333,33,4.6,56.0,Moderate,41.871476,12.504438
+Rome,453481,Monti,Entire home/apt,264.43,28,266,221,4.5,75.0,Moderate,41.848966,12.438745
+Rome,408765,Aventino,Entire home/apt,189.52,2,108,28,4.38,44.0,Good,41.931894,12.520575
+Rome,847658,Campo de' Fiori,Entire home/apt,139.93,11,261,17,3.91,59.0,Moderate,41.944518,12.452802
+Rome,900970,Monti,Entire home/apt,369.45,24,23,5,4.63,49.0,Good,41.960055,12.481843
+Rome,595024,Aventino,Entire home/apt,125.38,22,276,26,,39.0,Good,41.885024,12.470349
+Rome,265126,Testaccio,Shared room,315.62,3,157,40,4.93,69.0,Moderate,41.921329,12.563722
+Rome,536537,Aventino,Private room,331.41,1,219,25,4.8,66.0,Moderate,41.926962,12.508844
+Rome,204462,Testaccio,Hotel room,,3,247,4,5.0,28.0,Good,41.855551,12.546169
+Rome,969648,Prati,Entire home/apt,239.83,3,111,26,4.52,49.0,Good,41.857589,12.484601
+Rome,129455,Monti,Entire home/apt,272.59,29,228,66,4.24,58.0,Moderate,41.839599,12.479599
+Rome,833023,San Lorenzo,Private room,235.9,19,229,39,4.44,58.0,Moderate,41.899768,12.469974
+Rome,584294,Trastevere,Entire home/apt,195.61,9,97,12,4.7,63.0,Moderate,41.950383,12.496246
+Rome,284581,Trastevere,Shared room,299.23,22,323,21,3.87,46.0,Good,41.952432,12.509844
+Rome,401805,Aventino,Entire home/apt,302.95,2,106,35,2.98,79.0,Moderate,41.906616,12.499468
+Rome,209091,Trastevere,Hotel room,70.0,5,338,7,4.61,73.0,Moderate,41.952549,12.4889
+Rome,122196,Testaccio,Private room,232.87,6,316,66,4.05,48.0,Good,41.838077,12.561044
+Rome,674097,Trastevere,Entire home/apt,230.01,2,329,7,3.95,38.0,Good,41.846615,12.526755
+Rome,450899,Centro Storico,Shared room,390.0,27,253,4,3.61,54.0,Moderate,41.93187,12.533259
+Rome,901982,Testaccio,Entire home/apt,177.57,19,133,124,4.26,54.0,Moderate,41.920109,12.464412
+Rome,323334,Prati,Private room,283.47,20,282,54,3.12,51.0,Moderate,41.903697,12.48057
+Rome,153160,Centro Storico,Entire home/apt,261.24,1,207,1,,49.0,Good,41.851383,12.514805
+Rome,875761,San Lorenzo,Entire home/apt,134.81,25,136,73,4.23,60.0,Moderate,41.89016,12.473268
+Rome,467092,Campo de' Fiori,Entire home/apt,331.56,9,11,81,4.39,62.0,Moderate,41.85787,12.500631
+Rome,977162,Campo de' Fiori,Hotel room,239.86,2,88,17,3.11,34.0,Good,41.970087,12.535942
+Rome,545872,Trastevere,Entire home/apt,,11,230,101,3.92,45.0,Good,41.970753,12.531944
+Rome,666475,Campo de' Fiori,Private room,111.87,17,150,13,4.46,85.0,Moderate,41.889394,12.537509
+Rome,431711,Trastevere,Entire home/apt,241.78,6,265,16,4.6,50.0,Good,41.841983,12.476121
+Rome,619229,Testaccio,Entire home/apt,219.66,2,11,7,4.25,56.0,Moderate,41.863492,12.438996
+Rome,880347,Monti,Private room,254.76,22,23,75,4.08,82.0,Moderate,41.868395,12.449502
+Rome,470399,Trastevere,Entire home/apt,,12,180,3,3.73,82.0,Moderate,41.877704,12.565699
+Rome,380461,Trastevere,Private room,197.83,1,220,19,3.38,68.0,Moderate,41.906376,12.531172
+Rome,126128,Aventino,Shared room,347.7,2,2,1,4.28,24.0,Good,41.905945,12.525029
+Rome,721751,Monti,Entire home/apt,293.54,16,73,10,4.05,75.0,Moderate,41.845539,12.537679
+Rome,236885,Monti,Entire home/apt,,19,277,19,4.21,41.0,Good,41.953382,12.518606
+Rome,314932,Prati,Private room,390.0,8,37,45,4.31,28.0,Good,41.857785,12.519587
+Rome,380563,Monti,Private room,390.0,17,40,6,3.65,41.0,Good,41.886061,12.451053
+Rome,516385,San Lorenzo,Entire home/apt,261.83,1,224,9,4.02,62.0,Moderate,41.880904,12.475294
+Rome,106272,Prati,Shared room,325.95,7,275,135,3.4,31.0,Good,41.843014,12.504309
+Rome,563089,Testaccio,Entire home/apt,109.24,25,231,55,4.59,46.0,Good,41.941752,12.433176
+Rome,877118,San Lorenzo,Private room,238.72,14,75,2,4.29,47.0,Good,41.971936,12.535905
+Rome,199038,Prati,Entire home/apt,390.0,2,18,17,,49.0,Good,41.922615,12.502083
+Rome,514828,Aventino,Entire home/apt,290.85,27,55,7,4.76,45.0,Good,41.845303,12.500366
+Rome,363329,San Lorenzo,Hotel room,99.79,22,209,86,,31.0,Good,41.85585,12.512047
+Rome,153590,Prati,Entire home/apt,155.12,21,150,141,4.0,87.0,Moderate,41.923023,12.53826
+Rome,272927,Trastevere,Entire home/apt,390.0,23,167,8,4.64,47.0,Good,41.915771,12.545343
+Rome,540833,Trastevere,Shared room,213.5,18,365,9,4.54,49.0,Good,41.967298,12.489227
+Rome,407500,Centro Storico,Hotel room,213.17,18,9,3,4.62,87.0,Moderate,41.878935,12.50572
+Rome,519860,Centro Storico,Entire home/apt,88.01,3,109,14,3.46,74.0,Moderate,41.910802,12.560662
+Rome,376160,Campo de' Fiori,Entire home/apt,390.0,21,174,23,4.47,59.0,Moderate,41.93387,12.518911
+Rome,528204,Trastevere,Entire home/apt,379.6,1,223,59,4.41,44.0,Good,41.884855,12.542661
+Rome,614438,Centro Storico,Shared room,212.94,1,310,12,3.63,50.0,Good,41.88448,12.466472
+Rome,754143,Campo de' Fiori,Private room,74.15,29,68,81,3.87,63.0,Moderate,41.943749,12.440661
+Rome,443322,Testaccio,Entire home/apt,,6,6,16,4.23,,,41.883941,12.458032
+Rome,341728,Monti,Shared room,390.0,14,85,15,4.85,54.0,Moderate,41.955362,12.505267
+Rome,283594,Aventino,Shared room,360.88,23,359,40,4.61,60.0,Moderate,41.92685,12.560452
+Rome,574354,Aventino,Entire home/apt,107.4,26,127,4,3.91,74.0,Moderate,41.897416,12.466602
+Rome,547633,Aventino,Hotel room,207.53,30,120,96,4.57,,,41.861409,12.564459
+Rome,302421,Campo de' Fiori,Private room,390.0,21,73,86,4.11,53.0,Moderate,41.894164,12.430041
+Rome,269962,Testaccio,Private room,207.95,3,361,16,4.19,82.0,Moderate,41.8404,12.560131
+Rome,996781,Campo de' Fiori,Entire home/apt,142.78,30,310,38,4.76,49.0,Good,41.847756,12.553981
+Rome,785736,Testaccio,Entire home/apt,,18,254,30,3.92,66.0,Moderate,41.836654,12.49098
+Rome,193930,Aventino,Private room,119.31,28,94,79,4.51,85.0,Moderate,41.861714,12.541841
+Rome,283060,Trastevere,Private room,230.11,16,86,27,,47.0,Good,41.92836,12.464888
+Rome,468076,Aventino,Entire home/apt,250.03,14,245,74,4.67,29.0,Good,41.848555,12.435798
+Rome,527719,Aventino,Entire home/apt,243.23,29,324,68,3.98,65.0,Moderate,41.870004,12.533886
+Rome,277330,Campo de' Fiori,Entire home/apt,191.75,1,155,9,4.1,70.0,Moderate,41.925065,12.480034
+Rome,636017,Aventino,Private room,290.23,1,195,36,4.31,74.0,Moderate,41.884907,12.539311
+Rome,937014,Monti,Hotel room,208.81,6,86,32,4.56,,,41.857819,12.452849
+Rome,524296,Trastevere,Private room,321.45,2,75,75,4.03,37.0,Good,41.879555,12.458857
+Rome,847466,Prati,Entire home/apt,292.08,1,12,3,4.33,50.0,Good,41.944629,12.459448
+Rome,629159,Aventino,Private room,212.37,20,270,146,4.39,66.0,Moderate,41.840494,12.477523
+Rome,806210,Centro Storico,Entire home/apt,272.21,15,302,27,4.68,47.0,Good,41.959499,12.44884
+Rome,238868,San Lorenzo,Private room,139.95,10,77,1,3.73,80.0,Moderate,41.917532,12.491549
+Rome,942015,Aventino,Entire home/apt,,29,333,20,4.33,52.0,Moderate,41.929512,12.52864
+Rome,799302,Centro Storico,Entire home/apt,155.98,27,273,77,,85.0,Moderate,41.948204,12.547578
+Rome,485543,Testaccio,Entire home/apt,356.97,19,189,7,4.81,21.0,Good,41.837831,12.551266
+Rome,834228,Trastevere,Shared room,351.88,2,150,11,4.88,33.0,Good,41.928126,12.486779
+Rome,152402,Monti,Entire home/apt,390.0,8,275,73,,32.0,Good,41.861899,12.444868
+Rome,328766,San Lorenzo,Entire home/apt,245.85,15,155,95,4.91,47.0,Good,41.834287,12.551339
+Rome,657060,Testaccio,Entire home/apt,269.15,18,80,61,4.49,83.0,Moderate,41.924409,12.438077
+Rome,763841,Testaccio,Entire home/apt,368.9,2,157,2,4.16,71.0,Moderate,41.85004,12.489475
+Rome,752728,San Lorenzo,Entire home/apt,288.16,17,98,18,5.0,71.0,Moderate,41.936316,12.488703
+Rome,710315,Monti,Entire home/apt,370.54,21,80,39,3.96,,,41.86477,12.563372
+Rome,757154,Prati,Shared room,390.0,3,116,44,4.43,69.0,Moderate,41.924523,12.434374
+Rome,234015,Monti,Private room,275.02,16,38,31,4.6,65.0,Moderate,41.843138,12.484153
+Rome,131250,Testaccio,Entire home/apt,154.22,11,126,54,4.63,61.0,Moderate,41.875128,12.482748
+Rome,206033,Prati,Entire home/apt,143.82,27,116,4,,40.0,Good,41.964912,12.491556
+Rome,793590,Testaccio,Entire home/apt,348.19,2,365,32,5.0,70.0,Moderate,41.884095,12.456715
+Rome,516117,Testaccio,Entire home/apt,201.49,12,89,136,4.52,18.0,Good,41.936131,12.549243
+Rome,100271,Monti,Private room,360.62,1,193,14,4.5,66.0,Moderate,41.877896,12.492072
+Rome,409316,Testaccio,Entire home/apt,134.68,26,132,63,4.53,69.0,Moderate,41.939264,12.45627
+Rome,148614,Aventino,Private room,181.49,2,302,120,4.72,40.0,Good,41.857022,12.456164
+Rome,949203,San Lorenzo,Private room,231.34,1,254,168,4.69,43.0,Good,41.868122,12.442643
+Rome,693447,Testaccio,Entire home/apt,,3,331,49,4.41,48.0,Good,41.857623,12.45319
+Rome,380193,Trastevere,Entire home/apt,197.84,25,357,63,4.05,48.0,Good,41.937824,12.464275
+Rome,454150,Centro Storico,Private room,293.58,29,81,4,4.37,50.0,Good,41.842465,12.53514
+Rome,315001,San Lorenzo,Entire home/apt,272.85,9,142,6,4.43,67.0,Moderate,41.8714,12.539765
+Rome,247674,Aventino,Entire home/apt,,20,122,21,3.77,,,41.923566,12.487034
+Rome,924813,Campo de' Fiori,Private room,349.71,26,80,31,4.45,63.0,Moderate,41.908575,12.555428
+Rome,291796,Testaccio,Entire home/apt,78.41,15,176,33,4.95,38.0,Good,41.876135,12.447975
+Rome,921133,Aventino,Private room,105.51,2,335,14,3.76,63.0,Moderate,41.909666,12.552222
+Rome,122835,Aventino,Entire home/apt,181.18,1,17,39,3.83,22.0,Good,41.84765,12.518264
+Rome,692952,Trastevere,Entire home/apt,173.3,27,105,25,4.08,64.0,Moderate,41.933818,12.513859
+Rome,989920,Monti,Entire home/apt,313.37,27,254,40,4.64,23.0,Good,41.903498,12.434991
+Rome,561937,Prati,Entire home/apt,256.83,17,99,3,4.13,63.0,Moderate,41.878803,12.487465
+Rome,606143,Monti,Shared room,251.44,1,360,3,4.27,64.0,Moderate,41.958843,12.534451
+Rome,159754,Trastevere,Hotel room,216.05,3,165,24,3.61,39.0,Good,41.937081,12.477752
+Rome,154185,Testaccio,Shared room,153.26,2,320,1,3.5,,,41.936368,12.529137
+Rome,387320,Campo de' Fiori,Entire home/apt,176.57,20,250,30,4.34,72.0,Moderate,41.869556,12.493783
+Rome,349458,Aventino,Entire home/apt,314.13,29,52,14,3.88,64.0,Moderate,41.867934,12.503887
+Rome,970385,Aventino,Private room,390.0,1,277,6,4.36,47.0,Good,41.892791,12.529894
+Rome,185879,Campo de' Fiori,Private room,154.72,3,44,61,,48.0,Good,41.955925,12.491572
+Rome,539988,San Lorenzo,Private room,130.23,5,6,64,4.02,55.0,Moderate,41.896346,12.541781
+Rome,407152,Centro Storico,Entire home/apt,159.03,30,256,47,4.56,46.0,Good,41.972054,12.549659
+Rome,808848,Trastevere,Shared room,152.17,28,147,25,2.78,71.0,Moderate,41.856052,12.523319
+Rome,943365,Aventino,Entire home/apt,302.6,19,132,50,4.78,60.0,Moderate,41.859195,12.43536
+Rome,518853,Centro Storico,Entire home/apt,345.01,30,339,25,4.89,71.0,Moderate,41.957472,12.496089
+Rome,865988,Centro Storico,Entire home/apt,390.0,21,93,68,4.42,37.0,Good,41.833271,12.475926
+Rome,728045,Testaccio,Private room,,23,255,20,5.0,49.0,Good,41.96079,12.440133
+Rome,402409,Campo de' Fiori,Private room,197.85,25,269,18,4.09,,,41.885461,12.493004
+Rome,739761,Trastevere,Private room,254.46,1,248,23,4.59,57.0,Moderate,41.971724,12.517248
+Rome,402928,Aventino,Entire home/apt,112.34,23,217,45,3.7,63.0,Moderate,41.925124,12.530207
+Rome,541963,San Lorenzo,Entire home/apt,260.5,18,130,14,,96.0,Moderate,41.861644,12.533059
+Rome,978543,San Lorenzo,Shared room,226.92,1,131,36,4.55,54.0,Moderate,41.864469,12.44692
+Rome,966153,San Lorenzo,Entire home/apt,275.7,6,154,6,3.53,66.0,Moderate,41.926741,12.453927
+Rome,869780,Campo de' Fiori,Entire home/apt,366.58,3,357,34,4.22,65.0,Moderate,41.918655,12.555403
+Rome,402020,Trastevere,Private room,243.47,25,201,69,4.7,44.0,Good,41.959175,12.563396
+Rome,915061,Monti,Private room,313.21,7,40,2,3.21,46.0,Good,41.839186,12.492012
+Rome,150471,Trastevere,Entire home/apt,72.71,21,336,24,4.48,53.0,Moderate,41.891439,12.448039
+Rome,749965,Testaccio,Entire home/apt,192.75,30,5,3,5.0,78.0,Moderate,41.87281,12.45262
+Rome,203144,Aventino,Entire home/apt,,17,243,8,5.0,41.0,Good,41.85132,12.480914
+Rome,653645,Campo de' Fiori,Entire home/apt,338.94,12,273,15,4.19,70.0,Moderate,41.882975,12.489687
+Rome,229512,Campo de' Fiori,Private room,143.95,1,50,24,4.97,70.0,Moderate,41.86375,12.437008
+Rome,353755,Monti,Entire home/apt,104.1,18,129,35,4.33,32.0,Good,41.954555,12.525062
+Rome,234383,Campo de' Fiori,Entire home/apt,390.0,8,254,3,4.58,53.0,Moderate,41.923813,12.470091
+Rome,264755,Aventino,Private room,390.0,28,221,1,4.62,61.0,Moderate,41.916335,12.546516
+Rome,869501,Trastevere,Private room,221.21,19,77,12,4.04,55.0,Moderate,41.948379,12.441872
+Rome,831965,Campo de' Fiori,Entire home/apt,300.59,10,126,92,3.96,63.0,Moderate,41.917047,12.497232
+Rome,294794,San Lorenzo,Entire home/apt,213.61,3,21,23,4.36,,,41.899259,12.472825
+Rome,148642,Monti,Entire home/apt,390.0,25,68,12,4.96,81.0,Moderate,41.854654,12.506013
+Rome,804025,Centro Storico,Private room,187.34,1,287,111,3.89,48.0,Good,41.958795,12.437066
+Rome,418533,Trastevere,Private room,163.97,26,32,24,,52.0,Moderate,41.951483,12.523229
+Rome,720786,Aventino,Entire home/apt,390.0,15,305,39,5.0,42.0,Good,41.839664,12.521308
+Rome,942922,Campo de' Fiori,Shared room,199.2,11,261,73,5.0,46.0,Good,41.868997,12.443952
+Rome,587873,Centro Storico,Entire home/apt,268.88,3,285,49,4.62,44.0,Good,41.935981,12.481173
+Rome,502550,Campo de' Fiori,Hotel room,207.98,6,124,3,3.79,61.0,Moderate,41.972095,12.549788
+Rome,564946,Testaccio,Entire home/apt,247.93,3,119,71,4.43,62.0,Moderate,41.880797,12.474151
+Rome,752817,Testaccio,Entire home/apt,280.36,4,231,86,3.99,44.0,Good,41.862578,12.462669
+Rome,233608,Prati,Private room,,19,156,21,3.57,26.0,Good,41.857606,12.534043
+Rome,364435,Campo de' Fiori,Private room,270.17,15,276,54,4.77,52.0,Moderate,41.932624,12.545441
+Rome,173338,Testaccio,Hotel room,390.0,20,256,0,4.39,48.0,Good,41.907166,12.529662
+Rome,789139,Campo de' Fiori,Shared room,177.78,11,246,7,3.39,53.0,Moderate,41.956876,12.528232
+Rome,914654,Centro Storico,Entire home/apt,118.7,24,311,60,4.39,60.0,Moderate,41.968448,12.526832
+Rome,147308,Testaccio,Entire home/apt,181.35,11,76,30,5.0,73.0,Moderate,41.887999,12.527638
+Rome,828148,Trastevere,Entire home/apt,303.79,21,178,66,4.48,96.0,Moderate,41.854484,12.456223
+Rome,910997,Prati,Entire home/apt,,30,93,2,3.91,26.0,Good,41.926871,12.565708
+Rome,473467,Centro Storico,Private room,,6,190,19,4.16,56.0,Moderate,41.897838,12.47922
+Rome,141342,Prati,Entire home/apt,174.43,2,150,99,5.0,47.0,Good,41.97047,12.472451
+Rome,178303,Campo de' Fiori,Private room,185.29,16,194,25,4.2,36.0,Good,41.882238,12.479903
+Rome,754148,Testaccio,Hotel room,78.53,2,22,35,3.62,43.0,Good,41.972185,12.494797
+Rome,650069,San Lorenzo,Entire home/apt,,2,4,7,3.62,,,41.882217,12.448237
+Rome,960099,Prati,Entire home/apt,167.87,27,45,23,3.54,40.0,Good,41.874876,12.533722
+Rome,635712,Trastevere,Shared room,296.37,4,35,13,4.33,55.0,Moderate,41.837941,12.520238
+Rome,497741,Testaccio,Private room,292.6,2,257,8,5.0,46.0,Good,41.869304,12.475403
+Rome,583976,Centro Storico,Private room,390.0,11,324,35,,47.0,Good,41.869392,12.529687
+Rome,867543,San Lorenzo,Entire home/apt,70.0,5,234,0,4.98,56.0,Moderate,41.874513,12.501073
+Rome,468132,Monti,Entire home/apt,,26,339,29,5.0,35.0,Good,41.941132,12.50249
+Rome,220810,Trastevere,Private room,275.23,1,248,18,4.14,41.0,Good,41.959275,12.441605
+Rome,105930,Aventino,Entire home/apt,70.0,2,97,70,,59.0,Moderate,41.912828,12.517379
+Rome,514105,Trastevere,Private room,270.96,30,77,2,4.27,66.0,Moderate,41.841812,12.537591
+Rome,773592,Campo de' Fiori,Entire home/apt,124.55,20,293,16,4.39,39.0,Good,41.957158,12.490371
+Rome,103081,Centro Storico,Private room,104.29,14,198,32,4.37,35.0,Good,41.938743,12.4925
+Rome,482699,Campo de' Fiori,Entire home/apt,102.8,1,43,54,4.28,54.0,Moderate,41.890979,12.516951
+Rome,977509,Testaccio,Private room,390.0,16,348,31,3.94,,,41.899785,12.503665
+Rome,416653,Centro Storico,Private room,70.0,17,121,36,3.59,58.0,Moderate,41.884816,12.473916
+Rome,634161,Monti,Entire home/apt,,8,349,143,3.89,57.0,Moderate,41.847884,12.481802
+Rome,809976,Prati,Entire home/apt,159.05,18,59,15,3.6,54.0,Moderate,41.961951,12.558422
+Rome,900984,Monti,Entire home/apt,236.44,29,91,35,4.51,41.0,Good,41.938407,12.44149
+Rome,903808,Campo de' Fiori,Private room,205.79,20,211,10,4.94,38.0,Good,41.923785,12.50821
+Rome,298995,Aventino,Entire home/apt,257.11,2,243,29,4.57,69.0,Moderate,41.900505,12.52567
+Rome,431154,Monti,Private room,198.83,13,160,28,4.08,,,41.905861,12.517858
+Rome,976549,Monti,Entire home/apt,390.0,19,17,25,4.64,34.0,Good,41.873055,12.496836
+Rome,409361,Testaccio,Entire home/apt,165.07,19,70,55,4.24,71.0,Moderate,41.957421,12.544817
+Rome,821353,Campo de' Fiori,Private room,390.0,19,319,5,3.72,72.0,Moderate,41.9312,12.531594
+Rome,360054,Trastevere,Entire home/apt,135.8,2,111,24,3.93,72.0,Moderate,41.921834,12.465171
+Rome,569460,Prati,Private room,390.0,9,163,247,3.95,65.0,Moderate,41.933775,12.49753
+Rome,282338,Campo de' Fiori,Entire home/apt,95.51,1,58,7,4.58,54.0,Moderate,41.844385,12.520112
+Rome,738174,Monti,Entire home/apt,115.44,3,257,18,4.09,45.0,Good,41.866556,12.550448
+Rome,212496,Centro Storico,Hotel room,106.85,1,22,5,5.0,51.0,Moderate,41.885722,12.440142
+Rome,454732,Trastevere,Private room,191.8,10,355,14,4.03,97.0,Moderate,41.872903,12.552864
+Rome,846229,Aventino,Entire home/apt,252.31,20,196,54,3.48,54.0,Moderate,41.875234,12.52374
+Rome,319523,Testaccio,Shared room,390.0,26,276,38,4.45,49.0,Good,41.962887,12.517466
+Rome,334387,Monti,Hotel room,121.08,1,160,27,3.81,31.0,Good,41.881739,12.548129
+Rome,361586,Trastevere,Entire home/apt,351.52,12,242,47,4.17,52.0,Moderate,41.937968,12.540308
+Rome,286981,Campo de' Fiori,Private room,231.45,23,21,8,5.0,50.0,Good,41.851239,12.510115
+Rome,526679,Centro Storico,Hotel room,138.21,23,229,109,4.1,70.0,Moderate,41.889882,12.486769
+Rome,628205,Monti,Entire home/apt,348.27,16,226,34,4.77,34.0,Good,41.856306,12.494673
+Rome,587757,Monti,Hotel room,232.21,28,283,13,4.32,,,41.953503,12.554735
+Rome,355603,Trastevere,Shared room,142.98,2,0,29,4.34,,,41.848482,12.434088
+Rome,709260,Campo de' Fiori,Private room,228.01,26,311,18,4.61,65.0,Moderate,41.915595,12.46113
+Rome,180514,Centro Storico,Entire home/apt,390.0,19,313,30,4.69,34.0,Good,41.859777,12.562035
+Rome,803073,Aventino,Private room,118.24,15,111,84,3.69,73.0,Moderate,41.839244,12.520368
+Rome,788828,San Lorenzo,Entire home/apt,142.88,9,75,35,3.71,48.0,Good,41.930123,12.50218
+Rome,520791,San Lorenzo,Private room,226.8,1,107,12,2.94,56.0,Moderate,41.889633,12.554557
+Rome,589916,Centro Storico,Entire home/apt,150.29,2,318,88,4.62,43.0,Good,41.877736,12.503724
+Rome,569294,Centro Storico,Hotel room,160.55,17,181,47,3.76,38.0,Good,41.933253,12.4777
+Rome,849235,Trastevere,Entire home/apt,390.0,6,220,23,,52.0,Moderate,41.90787,12.532059
+Rome,102648,Testaccio,Entire home/apt,204.79,2,343,47,4.18,40.0,Good,41.97254,12.507016
+Rome,342626,Monti,Shared room,197.12,2,311,36,,55.0,Moderate,41.949586,12.455616
+Rome,632997,San Lorenzo,Hotel room,279.57,1,200,34,4.47,66.0,Moderate,41.870905,12.551091
+Rome,360345,Monti,Entire home/apt,390.0,30,318,67,5.0,25.0,Good,41.8504,12.550792
+Rome,939039,Testaccio,Private room,204.01,5,263,53,3.72,41.0,Good,41.891648,12.441715
+Rome,932826,Prati,Entire home/apt,210.29,1,17,2,4.05,60.0,Moderate,41.891876,12.532553
+Rome,622682,San Lorenzo,Entire home/apt,314.81,2,87,3,3.9,41.0,Good,41.843033,12.429673
+Rome,378062,Campo de' Fiori,Private room,275.86,2,204,74,4.25,31.0,Good,41.842509,12.431161
+Rome,867985,Prati,Private room,81.92,25,259,51,4.08,60.0,Moderate,41.899165,12.524674
+Rome,447315,Testaccio,Hotel room,,16,204,21,4.33,66.0,Moderate,41.918731,12.556073
+Rome,994907,Testaccio,Entire home/apt,234.34,1,187,10,4.51,62.0,Moderate,41.871996,12.533835
+Rome,737545,Monti,Entire home/apt,317.27,2,94,120,4.49,58.0,Moderate,41.862916,12.491582
+Rome,325929,Aventino,Private room,280.85,19,24,27,4.84,44.0,Good,41.929633,12.561714
+Rome,566422,San Lorenzo,Private room,390.0,8,180,108,4.88,54.0,Moderate,41.969855,12.551451
+Rome,199263,Monti,Entire home/apt,188.11,1,127,24,3.05,38.0,Good,41.860938,12.483411
+Rome,646184,Campo de' Fiori,Entire home/apt,113.12,23,295,8,3.76,77.0,Moderate,41.894719,12.540538
+Rome,303721,Campo de' Fiori,Entire home/apt,356.86,14,258,16,4.62,35.0,Good,41.940109,12.457293
+Rome,643042,Aventino,Private room,270.84,14,22,39,,50.0,Good,41.898787,12.5024
+Rome,356408,Centro Storico,Entire home/apt,314.63,11,78,21,4.77,44.0,Good,41.900403,12.54351
+Rome,357160,Campo de' Fiori,Entire home/apt,254.13,10,99,44,4.97,86.0,Moderate,41.851251,12.515902

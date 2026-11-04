@@ -1,0 +1,261 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Ottawa,159797,Centretown,Entire home/apt,300.0,28,204,38,,23.0,Good,45.395746,-75.682079
+Ottawa,116345,Orléans,Hotel room,153.41,18,61,27,3.83,12.0,Good,45.359598,-75.713782
+Ottawa,673337,Hintonburg,Entire home/apt,201.48,3,43,0,4.27,19.0,Good,45.409865,-75.685421
+Ottawa,116462,Sandy Hill,Hotel room,143.12,8,55,18,4.64,19.0,Good,45.456598,-75.702037
+Ottawa,177080,Sandy Hill,Entire home/apt,248.27,5,339,25,3.29,32.0,Good,45.400273,-75.641649
+Ottawa,884620,Westboro,Private room,300.0,2,144,119,4.04,24.0,Good,45.458344,-75.73062
+Ottawa,500677,Orléans,Entire home/apt,130.49,1,176,22,4.19,18.0,Good,45.373183,-75.755948
+Ottawa,593933,Hintonburg,Entire home/apt,121.04,20,19,39,4.9,26.0,Good,45.37585,-75.685732
+Ottawa,417949,Hintonburg,Entire home/apt,265.55,11,4,24,4.07,30.0,Good,45.360414,-75.732448
+Ottawa,237515,Westboro,Entire home/apt,135.11,2,247,52,,24.0,Good,45.399804,-75.759558
+Ottawa,628261,Westboro,Private room,132.74,25,5,168,4.28,1.0,Good,45.422019,-75.643758
+Ottawa,318286,Orléans,Entire home/apt,118.95,27,147,28,3.53,31.0,Good,45.425643,-75.717829
+Ottawa,878506,Centretown,Entire home/apt,290.78,8,185,5,3.93,28.0,Good,45.358954,-75.746676
+Ottawa,367600,Westboro,Entire home/apt,154.93,4,168,0,3.79,,,45.355392,-75.665489
+Ottawa,814170,ByWard Market,Entire home/apt,70.0,14,230,2,3.76,32.0,Good,45.478399,-75.740707
+Ottawa,773591,Orléans,Shared room,239.6,17,113,48,5.0,27.0,Good,45.47053,-75.684305
+Ottawa,894399,Centretown,Entire home/apt,300.0,17,142,25,4.61,15.0,Good,45.410519,-75.729345
+Ottawa,585220,Westboro,Private room,180.05,10,234,58,3.61,17.0,Good,45.488371,-75.681384
+Ottawa,764920,Centretown,Entire home/apt,281.44,1,341,10,4.42,11.0,Good,45.361504,-75.694941
+Ottawa,799161,ByWard Market,Private room,266.1,10,227,54,4.95,36.0,Good,45.364107,-75.69186
+Ottawa,720100,Westboro,Entire home/apt,119.76,16,138,53,3.93,23.0,Good,45.47288,-75.648824
+Ottawa,519093,ByWard Market,Entire home/apt,133.38,25,351,18,4.18,31.0,Good,45.439893,-75.741801
+Ottawa,928564,The Glebe,Entire home/apt,221.35,14,163,8,3.75,25.0,Good,45.371888,-75.64654
+Ottawa,929862,Hintonburg,Entire home/apt,291.71,23,45,68,3.78,24.0,Good,45.43812,-75.680836
+Ottawa,697045,Orléans,Private room,267.1,30,275,137,3.52,36.0,Good,45.418111,-75.742813
+Ottawa,646261,Sandy Hill,Private room,117.53,17,323,25,4.69,36.0,Good,45.422813,-75.648302
+Ottawa,877094,Kanata,Entire home/apt,158.89,13,241,10,4.82,29.0,Good,45.37218,-75.651009
+Ottawa,603274,Centretown,Entire home/apt,,19,295,34,4.43,36.0,Good,45.408359,-75.721018
+Ottawa,637127,Orléans,Entire home/apt,221.06,5,108,75,,20.0,Good,45.418153,-75.674707
+Ottawa,320584,Orléans,Entire home/apt,79.58,27,64,44,4.41,22.0,Good,45.438616,-75.698409
+Ottawa,202935,Kanata,Entire home/apt,178.15,27,257,14,3.89,31.0,Good,45.481138,-75.686683
+Ottawa,990889,Kanata,Entire home/apt,70.0,6,20,7,4.54,12.0,Good,45.437578,-75.648868
+Ottawa,502377,Centretown,Private room,223.83,4,32,30,3.88,23.0,Good,45.360655,-75.658902
+Ottawa,283661,The Glebe,Entire home/apt,,6,87,160,3.75,27.0,Good,45.399079,-75.722617
+Ottawa,870242,Centretown,Entire home/apt,263.64,29,241,33,3.71,14.0,Good,45.420813,-75.640782
+Ottawa,686932,Centretown,Entire home/apt,188.06,12,348,54,4.14,35.0,Good,45.406775,-75.704188
+Ottawa,312275,Kanata,Entire home/apt,254.36,2,45,97,5.0,31.0,Good,45.374274,-75.707664
+Ottawa,573908,Orléans,Entire home/apt,276.48,1,237,53,4.87,30.0,Good,45.406011,-75.668815
+Ottawa,171838,Kanata,Private room,112.77,21,249,20,5.0,30.0,Good,45.44308,-75.736775
+Ottawa,106505,Westboro,Private room,300.0,8,84,70,4.35,35.0,Good,45.446278,-75.68476
+Ottawa,401621,ByWard Market,Private room,156.55,19,75,116,4.65,30.0,Good,45.384055,-75.653415
+Ottawa,646162,The Glebe,Entire home/apt,,21,249,81,4.24,35.0,Good,45.446363,-75.631126
+Ottawa,208076,Kanata,Entire home/apt,221.05,12,44,51,4.82,35.0,Good,45.384137,-75.744221
+Ottawa,376828,The Glebe,Entire home/apt,131.02,2,336,7,4.36,23.0,Good,45.457737,-75.728922
+Ottawa,982654,Sandy Hill,Shared room,162.21,1,162,5,2.88,20.0,Good,45.364355,-75.731733
+Ottawa,253049,Orléans,Private room,70.0,18,355,38,3.84,20.0,Good,45.359265,-75.695868
+Ottawa,889810,Orléans,Entire home/apt,142.45,20,76,83,4.45,13.0,Good,45.381899,-75.713046
+Ottawa,934359,ByWard Market,Entire home/apt,93.64,2,357,165,3.74,9.0,Good,45.479193,-75.705472
+Ottawa,267133,Hintonburg,Entire home/apt,300.0,6,228,38,,16.0,Good,45.404742,-75.762776
+Ottawa,797617,The Glebe,Entire home/apt,141.68,3,145,120,4.46,12.0,Good,45.481239,-75.713967
+Ottawa,158626,Sandy Hill,Entire home/apt,178.66,30,107,9,4.45,19.0,Good,45.381427,-75.682852
+Ottawa,173083,Hintonburg,Entire home/apt,197.04,26,7,23,5.0,32.0,Good,45.441168,-75.657988
+Ottawa,271320,ByWard Market,Private room,169.49,1,118,77,3.92,30.0,Good,45.351887,-75.671737
+Ottawa,626404,Kanata,Entire home/apt,82.39,18,354,28,4.42,19.0,Good,45.380257,-75.664263
+Ottawa,410272,Westboro,Entire home/apt,223.52,2,38,39,4.87,33.0,Good,45.446931,-75.702142
+Ottawa,930498,ByWard Market,Hotel room,179.18,13,337,10,4.56,35.0,Good,45.380831,-75.677154
+Ottawa,532733,Centretown,Private room,300.0,14,55,202,3.78,24.0,Good,45.41147,-75.714743
+Ottawa,443774,Sandy Hill,Entire home/apt,95.28,2,88,39,4.08,22.0,Good,45.381811,-75.70268
+Ottawa,844580,Kanata,Entire home/apt,272.31,3,171,9,4.97,26.0,Good,45.361941,-75.682832
+Ottawa,555286,Kanata,Shared room,149.37,15,28,47,4.28,29.0,Good,45.401741,-75.76413
+Ottawa,706996,Westboro,Entire home/apt,269.12,8,204,13,3.67,1.0,Good,45.446564,-75.653112
+Ottawa,561365,Orléans,Shared room,107.57,9,235,11,4.56,17.0,Good,45.475361,-75.658623
+Ottawa,725221,ByWard Market,Hotel room,300.0,3,38,9,4.04,31.0,Good,45.478021,-75.633775
+Ottawa,859817,Centretown,Entire home/apt,152.53,16,197,69,4.86,27.0,Good,45.441208,-75.657857
+Ottawa,246496,Westboro,Entire home/apt,129.63,1,6,32,4.94,34.0,Good,45.486119,-75.660176
+Ottawa,100458,ByWard Market,Entire home/apt,,16,180,11,4.19,13.0,Good,45.407383,-75.675678
+Ottawa,153362,Centretown,Shared room,192.17,29,278,6,3.63,18.0,Good,45.384842,-75.652572
+Ottawa,506499,Sandy Hill,Entire home/apt,142.31,21,50,19,5.0,,,45.392313,-75.670964
+Ottawa,960937,Hintonburg,Entire home/apt,76.13,2,309,131,4.06,26.0,Good,45.353823,-75.735347
+Ottawa,698398,Sandy Hill,Entire home/apt,143.43,25,343,9,4.51,29.0,Good,45.46506,-75.644619
+Ottawa,967431,Orléans,Entire home/apt,208.01,20,266,5,4.77,25.0,Good,45.408969,-75.651989
+Ottawa,462005,Sandy Hill,Private room,300.0,21,350,9,3.48,36.0,Good,45.353826,-75.719409
+Ottawa,955863,Westboro,Entire home/apt,224.45,3,289,36,3.81,9.0,Good,45.437786,-75.709283
+Ottawa,517102,Kanata,Private room,158.91,19,138,4,4.35,21.0,Good,45.363011,-75.679882
+Ottawa,402750,Kanata,Hotel room,300.0,22,275,56,3.41,29.0,Good,45.453658,-75.71267
+Ottawa,922452,Sandy Hill,Shared room,,3,237,11,4.46,28.0,Good,45.438732,-75.629382
+Ottawa,872605,The Glebe,Entire home/apt,278.38,21,107,12,5.0,31.0,Good,45.46132,-75.72768
+Ottawa,956265,Sandy Hill,Entire home/apt,174.95,27,64,6,4.35,41.0,Good,45.399074,-75.723095
+Ottawa,253605,ByWard Market,Entire home/apt,205.28,10,278,9,4.84,50.0,Good,45.406478,-75.698172
+Ottawa,260563,ByWard Market,Entire home/apt,155.29,20,170,39,4.68,27.0,Good,45.410918,-75.698395
+Ottawa,340854,Hintonburg,Entire home/apt,98.65,14,174,52,5.0,,,45.471673,-75.713135
+Ottawa,808503,Hintonburg,Shared room,300.0,16,189,97,4.49,17.0,Good,45.357112,-75.745443
+Ottawa,166814,Sandy Hill,Entire home/apt,173.44,1,96,13,4.55,32.0,Good,45.436689,-75.684249
+Ottawa,545655,Centretown,Entire home/apt,221.35,21,338,37,4.13,35.0,Good,45.390215,-75.727468
+Ottawa,532479,Hintonburg,Entire home/apt,289.24,23,54,31,4.18,27.0,Good,45.434922,-75.629376
+Ottawa,339073,The Glebe,Entire home/apt,227.18,17,188,48,4.79,22.0,Good,45.405233,-75.751495
+Ottawa,246807,Centretown,Hotel room,149.44,2,48,17,4.54,32.0,Good,45.378926,-75.729158
+Ottawa,411574,Centretown,Entire home/apt,227.57,2,181,13,3.95,23.0,Good,45.441111,-75.659817
+Ottawa,177445,Hintonburg,Entire home/apt,150.21,15,167,81,4.08,25.0,Good,45.435578,-75.70328
+Ottawa,835691,Centretown,Entire home/apt,227.61,15,61,41,4.08,33.0,Good,45.404401,-75.682721
+Ottawa,188673,Sandy Hill,Private room,273.29,21,291,6,4.33,,,45.475815,-75.761459
+Ottawa,187561,The Glebe,Entire home/apt,146.62,16,20,58,4.34,33.0,Good,45.463844,-75.744593
+Ottawa,983855,Sandy Hill,Private room,300.0,28,135,91,3.99,30.0,Good,45.416445,-75.693981
+Ottawa,550181,Sandy Hill,Entire home/apt,300.0,1,221,41,5.0,23.0,Good,45.471689,-75.751242
+Ottawa,237251,Centretown,Private room,216.26,1,351,38,4.36,20.0,Good,45.406109,-75.643859
+Ottawa,652473,Westboro,Entire home/apt,270.63,1,73,47,4.12,21.0,Good,45.445618,-75.753356
+Ottawa,911794,The Glebe,Private room,229.04,14,47,135,4.37,26.0,Good,45.454382,-75.674661
+Ottawa,984303,Kanata,Entire home/apt,300.0,15,141,77,,15.0,Good,45.46241,-75.761022
+Ottawa,834607,Westboro,Entire home/apt,84.14,1,236,45,3.7,34.0,Good,45.397922,-75.657863
+Ottawa,417823,The Glebe,Hotel room,231.36,2,258,23,4.3,21.0,Good,45.364188,-75.763516
+Ottawa,631447,Orléans,Private room,160.76,25,244,19,3.8,33.0,Good,45.39105,-75.719309
+Ottawa,975995,Kanata,Private room,179.6,4,113,4,3.71,36.0,Good,45.365525,-75.741573
+Ottawa,754465,The Glebe,Entire home/apt,203.28,13,336,48,4.45,17.0,Good,45.351926,-75.644172
+Ottawa,789965,Westboro,Private room,92.66,3,176,11,4.32,34.0,Good,45.379016,-75.715613
+Ottawa,344290,Westboro,Private room,121.35,8,224,66,3.82,41.0,Good,45.403793,-75.644884
+Ottawa,512627,The Glebe,Entire home/apt,120.21,2,234,2,4.15,14.0,Good,45.476541,-75.627354
+Ottawa,102736,Sandy Hill,Entire home/apt,112.08,1,360,25,5.0,24.0,Good,45.450967,-75.757758
+Ottawa,627836,Sandy Hill,Entire home/apt,209.9,24,15,10,4.71,29.0,Good,45.367177,-75.766884
+Ottawa,164684,Kanata,Entire home/apt,300.0,3,257,34,4.04,,,45.373103,-75.635627
+Ottawa,253818,Orléans,Private room,73.49,2,106,43,4.44,20.0,Good,45.474149,-75.679479
+Ottawa,150246,Westboro,Entire home/apt,179.99,1,259,42,,,,45.414501,-75.72796
+Ottawa,606684,The Glebe,Entire home/apt,221.02,22,181,46,5.0,26.0,Good,45.415713,-75.758964
+Ottawa,554560,Kanata,Entire home/apt,96.18,2,91,18,3.35,26.0,Good,45.379093,-75.744598
+Ottawa,979560,ByWard Market,Private room,197.89,6,60,198,5.0,,,45.466423,-75.760405
+Ottawa,298218,Hintonburg,Private room,193.13,19,73,45,4.57,33.0,Good,45.489373,-75.689776
+Ottawa,992698,Kanata,Entire home/apt,155.13,26,235,48,3.2,24.0,Good,45.385759,-75.717517
+Ottawa,462620,Sandy Hill,Entire home/apt,205.46,1,23,0,3.8,30.0,Good,45.440581,-75.648172
+Ottawa,369607,ByWard Market,Entire home/apt,123.52,2,194,25,4.93,,,45.373703,-75.669918
+Ottawa,929579,Kanata,Shared room,288.44,3,330,95,3.52,15.0,Good,45.402525,-75.680985
+Ottawa,690311,Centretown,Private room,140.79,17,293,9,3.82,,,45.376778,-75.670943
+Ottawa,646053,Westboro,Private room,115.35,10,321,14,4.91,31.0,Good,45.44581,-75.711857
+Ottawa,112985,ByWard Market,Private room,300.0,29,226,30,4.43,38.0,Good,45.388449,-75.636732
+Ottawa,859742,The Glebe,Entire home/apt,300.0,23,259,42,4.27,8.0,Good,45.456221,-75.687934
+Ottawa,382702,Centretown,Entire home/apt,,30,209,20,4.48,33.0,Good,45.371538,-75.727974
+Ottawa,966758,The Glebe,Entire home/apt,300.0,11,45,5,5.0,32.0,Good,45.457503,-75.734327
+Ottawa,847715,ByWard Market,Hotel room,206.2,1,364,29,3.5,19.0,Good,45.491334,-75.755087
+Ottawa,916002,Hintonburg,Entire home/apt,75.64,11,112,16,3.92,18.0,Good,45.437669,-75.747193
+Ottawa,237659,Sandy Hill,Private room,300.0,23,246,0,4.54,14.0,Good,45.44525,-75.723469
+Ottawa,193813,Westboro,Entire home/apt,236.21,26,103,31,3.85,14.0,Good,45.450966,-75.709194
+Ottawa,554039,Orléans,Entire home/apt,300.0,30,95,30,3.87,32.0,Good,45.451836,-75.699448
+Ottawa,120137,Hintonburg,Entire home/apt,216.27,24,122,19,4.19,26.0,Good,45.452274,-75.746169
+Ottawa,988267,The Glebe,Private room,,15,277,8,,28.0,Good,45.488929,-75.677056
+Ottawa,585459,Sandy Hill,Entire home/apt,,26,299,74,4.72,27.0,Good,45.362902,-75.7585
+Ottawa,412012,Sandy Hill,Private room,127.28,3,319,29,4.48,31.0,Good,45.445216,-75.721039
+Ottawa,923792,The Glebe,Private room,194.96,4,66,57,3.35,24.0,Good,45.398072,-75.644116
+Ottawa,820464,The Glebe,Entire home/apt,70.0,17,143,51,4.19,29.0,Good,45.373147,-75.681109
+Ottawa,849231,Orléans,Private room,,12,122,27,3.6,36.0,Good,45.455595,-75.68646
+Ottawa,646311,ByWard Market,Entire home/apt,150.09,2,60,12,4.47,24.0,Good,45.413943,-75.712423
+Ottawa,479466,The Glebe,Hotel room,231.32,22,99,18,2.84,28.0,Good,45.405769,-75.741893
+Ottawa,873829,Centretown,Entire home/apt,186.62,2,118,2,3.84,18.0,Good,45.385249,-75.69865
+Ottawa,659080,Westboro,Private room,271.77,1,206,276,5.0,21.0,Good,45.483283,-75.673804
+Ottawa,625843,Kanata,Private room,151.25,1,162,153,3.78,31.0,Good,45.356048,-75.645647
+Ottawa,362360,Westboro,Entire home/apt,121.73,1,1,18,4.46,30.0,Good,45.432548,-75.642922
+Ottawa,964962,Sandy Hill,Entire home/apt,107.53,17,156,6,4.54,17.0,Good,45.454897,-75.700206
+Ottawa,319815,ByWard Market,Private room,129.25,2,174,23,3.5,13.0,Good,45.41432,-75.766787
+Ottawa,247477,Hintonburg,Private room,209.25,2,196,15,3.87,16.0,Good,45.380583,-75.73076
+Ottawa,814246,Sandy Hill,Entire home/apt,273.79,13,63,43,4.56,,,45.419925,-75.633863
+Ottawa,366873,Sandy Hill,Private room,129.27,30,283,53,4.64,25.0,Good,45.420465,-75.700545
+Ottawa,206315,ByWard Market,Private room,70.0,29,334,35,,35.0,Good,45.380375,-75.756315
+Ottawa,454132,Orléans,Hotel room,,1,268,9,3.35,15.0,Good,45.394934,-75.65715
+Ottawa,435966,Kanata,Private room,264.52,17,215,8,4.27,33.0,Good,45.430153,-75.708678
+Ottawa,824389,The Glebe,Shared room,300.0,9,142,2,3.99,28.0,Good,45.382827,-75.692776
+Ottawa,411492,Centretown,Entire home/apt,84.63,14,216,40,4.51,23.0,Good,45.486274,-75.670566
+Ottawa,448363,Sandy Hill,Hotel room,231.01,2,114,105,4.41,31.0,Good,45.426321,-75.690972
+Ottawa,542465,The Glebe,Entire home/apt,106.92,2,295,10,3.21,36.0,Good,45.478474,-75.702416
+Ottawa,879974,ByWard Market,Private room,256.83,2,159,4,3.73,28.0,Good,45.391223,-75.735306
+Ottawa,944267,Westboro,Private room,121.45,15,139,7,3.73,36.0,Good,45.43836,-75.725727
+Ottawa,626154,Orléans,Private room,295.35,24,30,1,3.9,26.0,Good,45.403184,-75.640565
+Ottawa,887936,The Glebe,Private room,125.49,1,45,61,3.71,31.0,Good,45.450418,-75.735579
+Ottawa,758733,Westboro,Hotel room,136.69,7,158,44,4.17,23.0,Good,45.480396,-75.755452
+Ottawa,942110,ByWard Market,Entire home/apt,138.52,3,126,24,4.7,36.0,Good,45.479032,-75.638327
+Ottawa,486410,Orléans,Private room,152.62,27,0,8,4.54,31.0,Good,45.358215,-75.70257
+Ottawa,573430,The Glebe,Shared room,300.0,14,167,30,4.23,27.0,Good,45.38077,-75.727052
+Ottawa,650017,ByWard Market,Entire home/apt,100.74,7,171,32,4.85,24.0,Good,45.483331,-75.757551
+Ottawa,611717,Orléans,Private room,165.49,20,116,5,,39.0,Good,45.39806,-75.748838
+Ottawa,258769,Sandy Hill,Entire home/apt,300.0,2,90,108,3.7,37.0,Good,45.400217,-75.69221
+Ottawa,219936,Kanata,Private room,200.56,11,144,38,4.61,20.0,Good,45.441697,-75.697571
+Ottawa,481500,The Glebe,Private room,192.39,20,79,113,3.5,40.0,Good,45.372239,-75.742039
+Ottawa,817209,Hintonburg,Entire home/apt,191.48,4,274,8,3.99,,,45.359956,-75.654974
+Ottawa,928411,ByWard Market,Shared room,171.39,2,330,40,4.19,,,45.420659,-75.656431
+Ottawa,556661,ByWard Market,Entire home/apt,171.17,16,277,22,4.72,27.0,Good,45.43931,-75.74128
+Ottawa,234302,Sandy Hill,Entire home/apt,300.0,22,183,2,4.29,27.0,Good,45.448975,-75.633164
+Ottawa,441709,Orléans,Private room,88.32,1,32,88,4.92,20.0,Good,45.413529,-75.766266
+Ottawa,196371,Hintonburg,Entire home/apt,280.33,9,32,33,4.33,31.0,Good,45.357361,-75.742933
+Ottawa,494313,ByWard Market,Entire home/apt,285.97,2,0,2,4.02,21.0,Good,45.422825,-75.701397
+Ottawa,223324,Orléans,Hotel room,288.75,1,272,120,4.18,21.0,Good,45.356565,-75.722904
+Ottawa,348758,ByWard Market,Entire home/apt,275.68,2,357,3,4.25,6.0,Good,45.383744,-75.673895
+Ottawa,752775,Sandy Hill,Entire home/apt,300.0,18,284,8,4.22,21.0,Good,45.375167,-75.656109
+Ottawa,200149,Kanata,Private room,229.1,20,286,41,4.15,44.0,Good,45.485322,-75.702207
+Ottawa,962989,Hintonburg,Entire home/apt,111.86,2,252,32,4.56,9.0,Good,45.371359,-75.627774
+Ottawa,644250,The Glebe,Private room,150.67,12,219,14,4.83,39.0,Good,45.395345,-75.692492
+Ottawa,149581,ByWard Market,Entire home/apt,133.81,9,343,53,4.4,29.0,Good,45.467622,-75.696454
+Ottawa,106934,Orléans,Entire home/apt,153.12,2,81,22,4.43,17.0,Good,45.413185,-75.659771
+Ottawa,611334,Kanata,Private room,300.0,20,114,0,4.79,8.0,Good,45.361812,-75.752156
+Ottawa,762793,ByWard Market,Private room,189.76,1,207,31,4.39,25.0,Good,45.482229,-75.72342
+Ottawa,432088,The Glebe,Entire home/apt,,1,142,16,3.97,19.0,Good,45.462639,-75.682993
+Ottawa,266723,Kanata,Entire home/apt,155.72,1,312,46,,25.0,Good,45.44817,-75.687005
+Ottawa,418400,Hintonburg,Private room,89.59,1,332,19,3.44,17.0,Good,45.354095,-75.761301
+Ottawa,847899,Orléans,Private room,246.3,28,329,11,4.35,28.0,Good,45.44469,-75.695604
+Ottawa,101475,Kanata,Entire home/apt,175.47,2,320,40,4.42,29.0,Good,45.451515,-75.748811
+Ottawa,871749,ByWard Market,Entire home/apt,213.08,20,141,106,4.22,31.0,Good,45.459498,-75.747064
+Ottawa,419660,Hintonburg,Private room,300.0,1,114,50,4.32,28.0,Good,45.391732,-75.670593
+Ottawa,173340,Kanata,Entire home/apt,295.42,2,268,40,4.29,26.0,Good,45.392018,-75.704926
+Ottawa,988973,The Glebe,Private room,106.05,2,188,38,5.0,37.0,Good,45.44751,-75.627346
+Ottawa,214795,Hintonburg,Shared room,,2,269,84,3.44,27.0,Good,45.382345,-75.631721
+Ottawa,402805,Sandy Hill,Private room,108.66,1,15,10,4.35,,,45.472395,-75.710579
+Ottawa,832481,Orléans,Entire home/apt,300.0,3,316,2,4.3,30.0,Good,45.45755,-75.685395
+Ottawa,820657,Westboro,Entire home/apt,300.0,1,162,30,3.83,27.0,Good,45.455503,-75.672486
+Ottawa,155481,Kanata,Entire home/apt,233.56,15,79,8,4.52,7.0,Good,45.415455,-75.721221
+Ottawa,384384,The Glebe,Entire home/apt,211.43,11,41,56,4.2,12.0,Good,45.415909,-75.63706
+Ottawa,666930,Orléans,Entire home/apt,268.57,6,293,16,,23.0,Good,45.353897,-75.714294
+Ottawa,581828,Westboro,Entire home/apt,196.41,6,23,6,3.79,26.0,Good,45.36201,-75.661781
+Ottawa,939003,Hintonburg,Entire home/apt,300.0,7,224,35,,24.0,Good,45.475118,-75.68581
+Ottawa,877568,Centretown,Entire home/apt,170.71,1,51,22,4.64,16.0,Good,45.449761,-75.751265
+Ottawa,383604,Kanata,Hotel room,300.0,21,166,39,3.5,45.0,Good,45.48735,-75.634471
+Ottawa,805623,ByWard Market,Entire home/apt,169.28,2,144,5,3.69,33.0,Good,45.447681,-75.676143
+Ottawa,189827,Orléans,Entire home/apt,148.98,23,193,48,3.39,36.0,Good,45.359026,-75.745055
+Ottawa,961963,Sandy Hill,Private room,,20,124,43,4.2,35.0,Good,45.377648,-75.766669
+Ottawa,619601,Westboro,Entire home/apt,152.68,6,198,9,3.67,33.0,Good,45.355165,-75.728988
+Ottawa,414311,Kanata,Hotel room,260.59,4,362,174,4.33,26.0,Good,45.374401,-75.732062
+Ottawa,583594,Centretown,Private room,300.0,16,154,5,4.62,42.0,Good,45.379372,-75.662359
+Ottawa,962944,Hintonburg,Entire home/apt,174.0,1,200,37,4.07,9.0,Good,45.426374,-75.747337
+Ottawa,335982,Hintonburg,Entire home/apt,125.38,1,284,64,4.5,26.0,Good,45.454698,-75.731852
+Ottawa,124850,Centretown,Entire home/apt,209.13,10,24,29,5.0,9.0,Good,45.369827,-75.638736
+Ottawa,732241,ByWard Market,Shared room,273.49,23,167,9,4.92,,,45.420423,-75.709691
+Ottawa,398772,Orléans,Hotel room,134.62,3,32,73,4.69,28.0,Good,45.383307,-75.737876
+Ottawa,101754,The Glebe,Entire home/apt,300.0,11,311,75,4.07,33.0,Good,45.406288,-75.646158
+Ottawa,174287,Orléans,Entire home/apt,206.74,3,127,1,4.16,17.0,Good,45.361157,-75.638661
+Ottawa,729828,Kanata,Entire home/apt,300.0,7,188,51,3.65,39.0,Good,45.381852,-75.755606
+Ottawa,513155,Kanata,Entire home/apt,149.45,24,22,86,3.81,41.0,Good,45.410674,-75.742012
+Ottawa,685399,Hintonburg,Entire home/apt,196.11,9,215,83,4.5,22.0,Good,45.477033,-75.69786
+Ottawa,762516,Orléans,Entire home/apt,186.08,1,39,3,4.61,39.0,Good,45.472596,-75.706702
+Ottawa,343593,Centretown,Entire home/apt,198.09,14,348,38,4.12,28.0,Good,45.480859,-75.737679
+Ottawa,186890,Orléans,Private room,105.06,4,279,18,3.84,33.0,Good,45.491106,-75.666747
+Ottawa,318743,Orléans,Shared room,232.87,4,300,40,4.28,22.0,Good,45.44555,-75.710711
+Ottawa,759752,ByWard Market,Entire home/apt,196.47,4,282,47,4.78,33.0,Good,45.360745,-75.755551
+Ottawa,357518,Kanata,Entire home/apt,160.26,2,11,87,3.79,28.0,Good,45.380741,-75.64915
+Ottawa,929594,Westboro,Entire home/apt,160.63,17,94,27,3.55,23.0,Good,45.450196,-75.730435
+Ottawa,391355,The Glebe,Private room,258.79,3,29,7,4.56,40.0,Good,45.392052,-75.642046
+Ottawa,838226,Sandy Hill,Private room,187.67,5,266,31,4.64,25.0,Good,45.414737,-75.744151
+Ottawa,468243,ByWard Market,Entire home/apt,160.13,6,33,52,5.0,32.0,Good,45.375641,-75.761651
+Ottawa,608123,Sandy Hill,Private room,121.19,1,341,3,4.68,33.0,Good,45.468323,-75.74452
+Ottawa,805867,Hintonburg,Shared room,76.2,3,234,75,4.25,,,45.416859,-75.701012
+Ottawa,626670,Orléans,Entire home/apt,300.0,22,204,14,4.35,24.0,Good,45.456007,-75.690109
+Ottawa,672282,Kanata,Entire home/apt,,7,299,29,3.56,39.0,Good,45.374984,-75.669186
+Ottawa,286540,Kanata,Private room,300.0,4,306,16,4.39,30.0,Good,45.421741,-75.649718
+Ottawa,427823,Sandy Hill,Hotel room,216.17,15,288,37,4.27,30.0,Good,45.467821,-75.722149
+Ottawa,843068,Hintonburg,Entire home/apt,153.45,11,148,50,4.54,27.0,Good,45.370367,-75.70085
+Ottawa,706946,Orléans,Entire home/apt,219.96,23,48,37,3.86,21.0,Good,45.379909,-75.657759
+Ottawa,598494,Hintonburg,Entire home/apt,199.14,25,336,4,3.67,26.0,Good,45.374136,-75.627424
+Ottawa,541331,The Glebe,Entire home/apt,129.32,1,288,27,4.77,22.0,Good,45.464757,-75.682314
+Ottawa,209890,The Glebe,Private room,300.0,13,51,109,3.69,28.0,Good,45.467745,-75.766277
+Ottawa,654744,Kanata,Entire home/apt,211.87,13,75,13,3.55,29.0,Good,45.456171,-75.634263
+Ottawa,292563,Sandy Hill,Hotel room,217.54,17,178,4,4.69,15.0,Good,45.449762,-75.711308
+Ottawa,677079,Sandy Hill,Entire home/apt,,27,18,32,4.57,18.0,Good,45.444938,-75.704378
+Ottawa,826261,Hintonburg,Entire home/apt,300.0,7,210,11,4.45,26.0,Good,45.468984,-75.64802
+Ottawa,628872,Westboro,Private room,165.66,27,184,3,4.52,30.0,Good,45.390351,-75.638421
+Ottawa,243610,ByWard Market,Private room,192.97,1,309,133,3.54,28.0,Good,45.370213,-75.662088
+Ottawa,244078,The Glebe,Private room,219.62,17,72,7,4.93,18.0,Good,45.437803,-75.690011
+Ottawa,385586,Sandy Hill,Shared room,300.0,5,187,13,4.38,23.0,Good,45.413806,-75.745511
+Ottawa,647998,Hintonburg,Entire home/apt,242.58,2,144,3,3.97,,,45.401425,-75.640064
+Ottawa,663300,Orléans,Entire home/apt,287.65,1,107,98,4.07,,,45.397262,-75.70041
+Ottawa,380445,Hintonburg,Entire home/apt,256.62,2,246,98,5.0,36.0,Good,45.431475,-75.693862
+Ottawa,354319,Hintonburg,Private room,300.0,25,121,16,4.04,27.0,Good,45.48609,-75.748276
+Ottawa,587018,ByWard Market,Private room,104.26,22,338,99,,27.0,Good,45.491482,-75.67166
+Ottawa,190192,Hintonburg,Hotel room,177.31,25,26,134,3.61,30.0,Good,45.478537,-75.65651
+Ottawa,353702,Orléans,Private room,296.32,20,352,15,4.42,28.0,Good,45.422663,-75.653313
+Ottawa,122425,The Glebe,Entire home/apt,185.25,10,352,51,4.38,20.0,Good,45.361636,-75.740294
+Ottawa,820587,Hintonburg,Entire home/apt,162.94,1,57,3,4.61,19.0,Good,45.459172,-75.738336
+Ottawa,560444,Westboro,Entire home/apt,174.1,17,147,19,3.64,38.0,Good,45.355242,-75.675208

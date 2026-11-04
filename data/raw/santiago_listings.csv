@@ -1,0 +1,291 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Santiago,389161,Miraflores,Entire home/apt,161870.58,16,169,48,4.93,99.0,Moderate,-33.445078,-70.712379
+Santiago,726142,Ñuñoa,Shared room,41452.43,3,112,5,5.0,109.0,Unhealthy for Sensitive Groups,-33.517958,-70.710779
+Santiago,678680,Ñuñoa,Entire home/apt,93097.46,13,327,52,,87.0,Moderate,-33.429244,-70.647271
+Santiago,537142,Providencia,Entire home/apt,105222.78,7,46,6,4.78,86.0,Moderate,-33.477029,-70.65288
+Santiago,628912,Providencia,Entire home/apt,104257.15,1,37,20,4.49,100.0,Moderate,-33.405611,-70.607216
+Santiago,745315,Miraflores,Entire home/apt,108741.02,14,187,11,4.27,85.0,Moderate,-33.480625,-70.69621
+Santiago,137439,Santiago Centro,Shared room,129336.53,21,26,2,4.61,84.0,Moderate,-33.45471,-70.63567
+Santiago,272026,Ñuñoa,Entire home/apt,106412.78,1,244,57,4.94,70.0,Moderate,-33.41954,-70.687275
+Santiago,858741,Santiago Centro,Private room,124991.58,1,151,1,4.15,112.0,Unhealthy for Sensitive Groups,-33.495815,-70.609505
+Santiago,925880,Miraflores,Private room,48659.29,3,93,169,4.28,115.0,Unhealthy for Sensitive Groups,-33.442339,-70.701156
+Santiago,733172,Las Condes,Hotel room,96077.76,17,81,98,4.22,112.0,Unhealthy for Sensitive Groups,-33.405224,-70.637398
+Santiago,786686,Vitacura,Private room,92996.15,1,133,33,3.77,,,-33.424204,-70.618181
+Santiago,717974,Providencia,Private room,,22,181,0,4.02,91.0,Moderate,-33.46286,-70.648749
+Santiago,313469,Miraflores,Entire home/apt,63377.43,8,234,7,4.58,43.0,Good,-33.382672,-70.727199
+Santiago,312910,Bellavista,Entire home/apt,140626.97,26,350,25,4.86,78.0,Moderate,-33.394593,-70.64136
+Santiago,877514,Vitacura,Entire home/apt,92097.35,27,300,1,4.29,123.0,Unhealthy for Sensitive Groups,-33.495622,-70.623158
+Santiago,940969,Bellavista,Entire home/apt,116876.6,8,281,26,4.57,68.0,Moderate,-33.412318,-70.670889
+Santiago,978744,Ñuñoa,Entire home/apt,106876.02,18,322,125,5.0,96.0,Moderate,-33.409966,-70.714844
+Santiago,709360,Bellavista,Entire home/apt,34514.31,1,253,29,4.02,79.0,Moderate,-33.463297,-70.731608
+Santiago,376072,Barrio Italia,Entire home/apt,51937.31,4,197,61,4.14,67.0,Moderate,-33.465207,-70.716252
+Santiago,109751,Miraflores,Private room,180000.0,3,172,38,3.64,108.0,Unhealthy for Sensitive Groups,-33.50346,-70.615633
+Santiago,190055,Vitacura,Shared room,115040.03,16,243,48,5.0,67.0,Moderate,-33.492729,-70.666877
+Santiago,101499,Santiago Centro,Entire home/apt,153024.94,20,39,71,4.88,42.0,Good,-33.471496,-70.723364
+Santiago,869459,Las Condes,Private room,136718.25,22,116,17,4.18,40.0,Good,-33.383263,-70.664227
+Santiago,440912,Las Condes,Entire home/apt,142296.25,7,265,26,3.66,87.0,Moderate,-33.472123,-70.648585
+Santiago,454257,Santiago Centro,Entire home/apt,163992.98,29,278,40,4.76,82.0,Moderate,-33.397148,-70.717275
+Santiago,478102,Barrio Italia,Entire home/apt,154911.74,23,245,33,4.99,54.0,Moderate,-33.3908,-70.604412
+Santiago,394985,Miraflores,Private room,,2,19,17,4.63,87.0,Moderate,-33.393861,-70.687785
+Santiago,857498,Santiago Centro,Private room,86884.63,3,83,48,4.64,92.0,Moderate,-33.384645,-70.695648
+Santiago,591508,Barrio Italia,Shared room,138326.69,15,83,22,4.23,49.0,Good,-33.453687,-70.716859
+Santiago,540525,Miraflores,Entire home/apt,131711.44,13,218,9,4.07,31.0,Good,-33.470177,-70.734639
+Santiago,231773,Miraflores,Entire home/apt,,13,191,17,4.51,102.0,Unhealthy for Sensitive Groups,-33.445191,-70.727579
+Santiago,932306,Ñuñoa,Entire home/apt,105127.7,4,317,41,4.49,,,-33.426872,-70.663421
+Santiago,850822,Las Condes,Hotel room,167401.3,2,152,6,4.08,59.0,Moderate,-33.501716,-70.647473
+Santiago,928268,Providencia,Entire home/apt,,9,243,22,3.56,71.0,Moderate,-33.507071,-70.601444
+Santiago,933152,Barrio Italia,Entire home/apt,114077.63,23,212,5,4.38,69.0,Moderate,-33.386025,-70.728276
+Santiago,608457,Las Condes,Entire home/apt,41308.79,1,347,12,3.51,84.0,Moderate,-33.481055,-70.737527
+Santiago,650691,Santiago Centro,Private room,116275.4,3,67,18,,65.0,Moderate,-33.489803,-70.65326
+Santiago,677887,Vitacura,Shared room,143156.88,21,33,8,,92.0,Moderate,-33.478018,-70.631983
+Santiago,912666,Santiago Centro,Entire home/apt,76866.77,1,315,101,4.93,113.0,Unhealthy for Sensitive Groups,-33.440066,-70.72541
+Santiago,915682,Santiago Centro,Entire home/apt,86158.93,23,241,49,4.61,63.0,Moderate,-33.405036,-70.689082
+Santiago,307855,Bellavista,Entire home/apt,180000.0,1,219,28,4.11,39.0,Good,-33.401981,-70.722971
+Santiago,417884,Vitacura,Entire home/apt,84888.85,23,248,33,4.15,79.0,Moderate,-33.420391,-70.652445
+Santiago,977232,Las Condes,Private room,74786.85,25,125,11,4.47,73.0,Moderate,-33.453623,-70.711427
+Santiago,160747,Miraflores,Private room,101238.4,2,90,12,3.77,,,-33.411865,-70.668009
+Santiago,501768,Barrio Italia,Entire home/apt,133961.54,12,350,74,5.0,73.0,Moderate,-33.438264,-70.712932
+Santiago,295669,Ñuñoa,Hotel room,180000.0,20,158,84,4.43,28.0,Good,-33.417012,-70.622153
+Santiago,435460,Las Condes,Entire home/apt,122752.29,3,12,22,,67.0,Moderate,-33.444276,-70.651511
+Santiago,976214,Providencia,Entire home/apt,116959.49,1,190,106,5.0,62.0,Moderate,-33.394892,-70.686294
+Santiago,987504,Santiago Centro,Hotel room,180000.0,2,277,15,4.5,76.0,Moderate,-33.426085,-70.696161
+Santiago,882003,Providencia,Private room,180000.0,2,14,20,4.47,95.0,Moderate,-33.486172,-70.640983
+Santiago,590695,Vitacura,Entire home/apt,107150.43,14,18,2,4.19,,,-33.453357,-70.716962
+Santiago,657134,Barrio Italia,Entire home/apt,61178.49,1,43,63,3.55,67.0,Moderate,-33.459978,-70.648475
+Santiago,874715,Providencia,Entire home/apt,61135.81,14,190,59,4.71,61.0,Moderate,-33.39346,-70.641273
+Santiago,267819,Providencia,Private room,56233.84,21,272,142,4.02,76.0,Moderate,-33.384398,-70.634354
+Santiago,496358,Vitacura,Private room,70271.69,18,359,22,4.43,93.0,Moderate,-33.467214,-70.640728
+Santiago,260001,Santiago Centro,Private room,148336.97,3,149,30,4.39,80.0,Moderate,-33.512083,-70.614561
+Santiago,248132,Barrio Italia,Private room,168704.58,26,50,7,4.54,73.0,Moderate,-33.405606,-70.660169
+Santiago,492957,Providencia,Entire home/apt,180000.0,29,149,16,4.31,95.0,Moderate,-33.469121,-70.609424
+Santiago,297214,Santiago Centro,Private room,69279.16,2,285,50,5.0,64.0,Moderate,-33.512779,-70.609469
+Santiago,920026,Miraflores,Private room,180000.0,3,350,49,3.85,92.0,Moderate,-33.405041,-70.63099
+Santiago,962224,Las Condes,Shared room,62925.6,1,325,124,4.26,,,-33.435996,-70.717196
+Santiago,424408,Ñuñoa,Private room,177165.71,25,214,40,4.4,74.0,Moderate,-33.42204,-70.718948
+Santiago,863534,Barrio Italia,Private room,81341.57,13,345,68,,81.0,Moderate,-33.394599,-70.698971
+Santiago,951629,Las Condes,Entire home/apt,35486.08,9,320,4,,70.0,Moderate,-33.428686,-70.678755
+Santiago,805637,Bellavista,Shared room,128332.4,5,154,33,4.78,53.0,Moderate,-33.415518,-70.649108
+Santiago,458586,Vitacura,Private room,180000.0,23,45,25,3.79,44.0,Good,-33.479924,-70.612174
+Santiago,602911,Ñuñoa,Private room,86612.82,20,112,52,4.28,74.0,Moderate,-33.394647,-70.658838
+Santiago,165279,Ñuñoa,Entire home/apt,,28,25,18,4.58,49.0,Good,-33.47122,-70.648703
+Santiago,869959,Ñuñoa,Entire home/apt,93611.39,15,191,25,4.23,42.0,Good,-33.393241,-70.652538
+Santiago,891231,Providencia,Shared room,99271.95,2,331,55,3.89,62.0,Moderate,-33.464936,-70.648793
+Santiago,445832,Providencia,Private room,124824.48,29,328,79,4.08,37.0,Good,-33.4563,-70.686429
+Santiago,588443,Las Condes,Hotel room,99372.76,2,84,27,4.12,83.0,Moderate,-33.419811,-70.684587
+Santiago,837082,Providencia,Entire home/apt,157043.26,26,68,10,,74.0,Moderate,-33.383787,-70.627141
+Santiago,244115,Ñuñoa,Entire home/apt,180000.0,1,298,82,4.1,87.0,Moderate,-33.457554,-70.731214
+Santiago,350993,Miraflores,Private room,140207.94,3,360,4,5.0,39.0,Good,-33.482382,-70.712553
+Santiago,272697,Providencia,Entire home/apt,87046.35,9,136,4,4.72,47.0,Good,-33.485871,-70.683715
+Santiago,423247,Providencia,Private room,180000.0,3,149,39,4.3,75.0,Moderate,-33.391793,-70.626405
+Santiago,912642,Providencia,Entire home/apt,110696.34,20,338,20,4.22,70.0,Moderate,-33.469804,-70.719835
+Santiago,148564,Providencia,Shared room,81777.26,14,239,12,4.48,58.0,Moderate,-33.386652,-70.733472
+Santiago,530354,Miraflores,Entire home/apt,55259.86,16,142,67,4.35,,,-33.468533,-70.73519
+Santiago,759065,Las Condes,Entire home/apt,79826.73,30,108,22,3.65,69.0,Moderate,-33.501062,-70.616791
+Santiago,534780,Barrio Italia,Hotel room,76338.34,8,143,33,4.18,51.0,Moderate,-33.414583,-70.697776
+Santiago,686729,Santiago Centro,Shared room,113120.25,13,291,70,4.62,56.0,Moderate,-33.380247,-70.714881
+Santiago,917067,Vitacura,Shared room,144312.81,21,332,74,3.59,59.0,Moderate,-33.417755,-70.625462
+Santiago,720392,Santiago Centro,Entire home/apt,78232.83,24,201,27,4.51,68.0,Moderate,-33.474744,-70.679596
+Santiago,416914,Barrio Italia,Entire home/apt,131817.22,22,5,6,,93.0,Moderate,-33.404537,-70.72147
+Santiago,765648,Barrio Italia,Private room,61561.83,24,129,4,4.23,80.0,Moderate,-33.438815,-70.701609
+Santiago,368176,Bellavista,Entire home/apt,180000.0,5,170,11,5.0,72.0,Moderate,-33.456723,-70.689295
+Santiago,850807,Santiago Centro,Private room,180000.0,21,352,0,,81.0,Moderate,-33.518515,-70.684332
+Santiago,227021,Miraflores,Private room,49584.61,3,270,4,4.09,97.0,Moderate,-33.505424,-70.666391
+Santiago,936884,Las Condes,Entire home/apt,53014.36,25,264,24,3.87,79.0,Moderate,-33.407213,-70.621042
+Santiago,618784,Miraflores,Hotel room,136636.07,29,243,75,4.53,101.0,Unhealthy for Sensitive Groups,-33.437911,-70.611547
+Santiago,551409,Miraflores,Private room,171488.66,2,58,36,4.74,42.0,Good,-33.431743,-70.624789
+Santiago,424889,Santiago Centro,Private room,44769.62,1,30,0,3.74,,,-33.442129,-70.692389
+Santiago,214856,Barrio Italia,Private room,94735.45,7,115,34,,55.0,Moderate,-33.39784,-70.673208
+Santiago,194337,Santiago Centro,Shared room,107392.58,10,94,34,4.17,42.0,Good,-33.417225,-70.678605
+Santiago,167844,Las Condes,Entire home/apt,161625.5,30,252,34,3.85,76.0,Moderate,-33.517449,-70.694128
+Santiago,757127,Las Condes,Private room,71371.12,23,109,47,3.13,85.0,Moderate,-33.44654,-70.650897
+Santiago,854578,Ñuñoa,Entire home/apt,65958.18,10,120,44,3.69,56.0,Moderate,-33.455742,-70.70309
+Santiago,761416,Santiago Centro,Shared room,65971.86,21,219,16,4.01,101.0,Unhealthy for Sensitive Groups,-33.467922,-70.726299
+Santiago,362550,Santiago Centro,Private room,,28,100,39,,75.0,Moderate,-33.497244,-70.670661
+Santiago,517588,Santiago Centro,Private room,30893.34,5,361,42,3.69,81.0,Moderate,-33.393614,-70.697502
+Santiago,925161,Las Condes,Entire home/apt,49807.67,2,299,45,4.39,96.0,Moderate,-33.49107,-70.60616
+Santiago,717454,Las Condes,Hotel room,63384.66,14,48,34,,39.0,Good,-33.439924,-70.646983
+Santiago,822618,Las Condes,Entire home/apt,105052.89,18,281,156,4.46,67.0,Moderate,-33.436126,-70.628509
+Santiago,507578,Santiago Centro,Entire home/apt,128696.42,14,45,9,3.78,47.0,Good,-33.397643,-70.610383
+Santiago,284417,Las Condes,Entire home/apt,,5,97,174,4.39,67.0,Moderate,-33.398574,-70.705447
+Santiago,920038,Ñuñoa,Entire home/apt,127169.58,23,275,11,4.66,72.0,Moderate,-33.474195,-70.737832
+Santiago,515867,Las Condes,Entire home/apt,63448.56,14,203,3,4.17,66.0,Moderate,-33.436805,-70.633599
+Santiago,104659,Las Condes,Entire home/apt,180000.0,3,149,0,3.58,61.0,Moderate,-33.50059,-70.686522
+Santiago,742396,Las Condes,Private room,95190.87,18,14,75,5.0,63.0,Moderate,-33.477267,-70.708949
+Santiago,130909,Ñuñoa,Entire home/apt,122113.87,20,235,13,,72.0,Moderate,-33.495757,-70.728731
+Santiago,465351,Miraflores,Entire home/apt,117454.25,25,182,74,4.56,94.0,Moderate,-33.496145,-70.633001
+Santiago,632020,Miraflores,Private room,157391.17,24,70,71,4.85,77.0,Moderate,-33.498035,-70.652638
+Santiago,734605,Miraflores,Shared room,137756.05,3,121,19,4.53,85.0,Moderate,-33.458832,-70.626289
+Santiago,534015,Ñuñoa,Entire home/apt,138459.06,26,73,18,4.07,67.0,Moderate,-33.492698,-70.706309
+Santiago,965891,Bellavista,Private room,180000.0,22,107,32,4.6,28.0,Good,-33.384837,-70.639524
+Santiago,158224,Vitacura,Private room,180000.0,2,354,11,3.51,92.0,Moderate,-33.44158,-70.624676
+Santiago,573950,Ñuñoa,Entire home/apt,92163.03,1,33,5,5.0,86.0,Moderate,-33.42785,-70.607216
+Santiago,879090,Barrio Italia,Private room,88858.56,9,170,21,4.34,88.0,Moderate,-33.381268,-70.715333
+Santiago,972572,Vitacura,Entire home/apt,94431.51,1,169,35,3.8,95.0,Moderate,-33.450931,-70.707988
+Santiago,446433,Miraflores,Entire home/apt,156506.08,14,91,17,4.8,44.0,Good,-33.460759,-70.63617
+Santiago,619934,Miraflores,Shared room,73200.32,1,264,6,4.28,71.0,Moderate,-33.396455,-70.622975
+Santiago,383417,Vitacura,Entire home/apt,95910.34,25,70,61,4.25,61.0,Moderate,-33.445769,-70.634427
+Santiago,746581,Ñuñoa,Private room,102306.93,18,53,57,3.62,,,-33.412721,-70.599901
+Santiago,962234,Vitacura,Entire home/apt,96734.92,21,193,19,3.54,112.0,Unhealthy for Sensitive Groups,-33.462685,-70.60477
+Santiago,984054,Providencia,Entire home/apt,78708.16,28,309,35,4.9,35.0,Good,-33.444811,-70.615861
+Santiago,584659,Bellavista,Private room,,1,0,15,5.0,82.0,Moderate,-33.433139,-70.710484
+Santiago,349230,Barrio Italia,Entire home/apt,133736.33,30,56,42,3.92,45.0,Good,-33.462871,-70.677765
+Santiago,723635,Ñuñoa,Entire home/apt,60682.98,8,59,40,4.01,68.0,Moderate,-33.379068,-70.646036
+Santiago,577303,Providencia,Private room,56414.56,1,187,0,,57.0,Moderate,-33.419554,-70.722441
+Santiago,139390,Providencia,Private room,85355.4,16,125,35,4.27,67.0,Moderate,-33.454381,-70.615069
+Santiago,547989,Las Condes,Private room,71271.42,19,156,80,4.34,39.0,Good,-33.402616,-70.619563
+Santiago,646000,Bellavista,Entire home/apt,147204.77,1,185,12,,60.0,Moderate,-33.406183,-70.645587
+Santiago,681747,Barrio Italia,Entire home/apt,60442.13,1,75,11,4.68,71.0,Moderate,-33.437885,-70.714257
+Santiago,704204,Las Condes,Entire home/apt,143298.48,12,336,53,4.77,60.0,Moderate,-33.464799,-70.624265
+Santiago,298498,Barrio Italia,Entire home/apt,180000.0,7,287,3,4.16,75.0,Moderate,-33.40191,-70.73059
+Santiago,684024,Barrio Italia,Shared room,105992.58,3,224,2,4.47,64.0,Moderate,-33.517813,-70.702752
+Santiago,902879,Providencia,Private room,83601.23,11,141,37,,75.0,Moderate,-33.440237,-70.623509
+Santiago,687632,Las Condes,Private room,43782.35,19,41,4,4.24,119.0,Unhealthy for Sensitive Groups,-33.491447,-70.73237
+Santiago,967346,Miraflores,Private room,166978.74,30,315,7,3.62,52.0,Moderate,-33.411279,-70.723275
+Santiago,528763,Miraflores,Private room,69300.66,16,324,6,3.19,65.0,Moderate,-33.518867,-70.648555
+Santiago,902342,Providencia,Entire home/apt,99413.96,25,266,48,4.56,92.0,Moderate,-33.47648,-70.629191
+Santiago,359310,Providencia,Entire home/apt,87650.94,3,132,93,4.78,63.0,Moderate,-33.479149,-70.621655
+Santiago,464334,Bellavista,Entire home/apt,180000.0,19,48,14,,58.0,Moderate,-33.426525,-70.691794
+Santiago,820933,Miraflores,Entire home/apt,81987.18,1,208,6,4.62,35.0,Good,-33.450283,-70.605039
+Santiago,493562,Barrio Italia,Private room,67547.12,3,31,70,4.3,67.0,Moderate,-33.429677,-70.713202
+Santiago,329053,Bellavista,Entire home/apt,62000.94,15,348,38,4.9,44.0,Good,-33.392129,-70.659823
+Santiago,486364,Vitacura,Private room,93774.34,4,236,14,4.59,41.0,Good,-33.425177,-70.626418
+Santiago,438591,Santiago Centro,Entire home/apt,180000.0,2,14,119,3.97,61.0,Moderate,-33.510015,-70.729897
+Santiago,821435,Barrio Italia,Entire home/apt,72013.34,20,229,8,4.18,58.0,Moderate,-33.495034,-70.646408
+Santiago,140377,Providencia,Private room,65584.48,1,57,170,4.43,84.0,Moderate,-33.456736,-70.620768
+Santiago,974394,Santiago Centro,Shared room,110098.98,12,10,7,4.28,64.0,Moderate,-33.420214,-70.617709
+Santiago,167904,Santiago Centro,Entire home/apt,112671.11,27,225,106,4.23,89.0,Moderate,-33.453697,-70.712835
+Santiago,815050,Santiago Centro,Entire home/apt,76497.04,18,295,17,4.95,57.0,Moderate,-33.494524,-70.634077
+Santiago,759693,Bellavista,Entire home/apt,118074.25,14,117,6,3.16,42.0,Good,-33.387263,-70.677811
+Santiago,339507,Providencia,Entire home/apt,104853.86,24,135,28,4.62,85.0,Moderate,-33.386086,-70.737927
+Santiago,947660,Ñuñoa,Private room,77452.82,16,73,1,,61.0,Moderate,-33.421867,-70.632755
+Santiago,130580,Bellavista,Entire home/apt,129628.24,27,253,67,3.4,,,-33.409551,-70.653196
+Santiago,514208,Barrio Italia,Private room,126617.81,19,187,65,4.51,51.0,Moderate,-33.384976,-70.708283
+Santiago,845126,Providencia,Entire home/apt,128957.43,12,319,119,4.1,54.0,Moderate,-33.433669,-70.628105
+Santiago,852209,Santiago Centro,Private room,86022.11,8,258,33,5.0,83.0,Moderate,-33.499561,-70.661568
+Santiago,150210,Bellavista,Private room,110962.34,17,23,20,4.6,60.0,Moderate,-33.451449,-70.68179
+Santiago,504120,Bellavista,Entire home/apt,99880.5,25,56,85,4.1,37.0,Good,-33.456627,-70.676734
+Santiago,454601,Las Condes,Private room,134653.53,4,305,40,4.41,67.0,Moderate,-33.427141,-70.647562
+Santiago,433267,Ñuñoa,Entire home/apt,169231.01,22,167,53,3.99,73.0,Moderate,-33.408357,-70.647871
+Santiago,698580,Las Condes,Entire home/apt,89817.49,1,297,26,3.85,58.0,Moderate,-33.474476,-70.733455
+Santiago,346624,Vitacura,Entire home/apt,180000.0,3,315,8,3.96,,,-33.437978,-70.697712
+Santiago,876526,Bellavista,Entire home/apt,145437.77,2,55,3,4.07,26.0,Good,-33.43547,-70.630962
+Santiago,910630,Ñuñoa,Entire home/apt,,11,244,1,4.29,64.0,Moderate,-33.419277,-70.737459
+Santiago,516598,Ñuñoa,Entire home/apt,146608.83,2,8,31,3.65,110.0,Unhealthy for Sensitive Groups,-33.484278,-70.641647
+Santiago,672207,Providencia,Entire home/apt,135098.85,6,129,9,4.48,98.0,Moderate,-33.415971,-70.700934
+Santiago,514480,Barrio Italia,Entire home/apt,79365.64,28,332,104,3.74,38.0,Good,-33.3965,-70.605694
+Santiago,388568,Barrio Italia,Entire home/apt,,2,112,0,4.47,67.0,Moderate,-33.426834,-70.617769
+Santiago,171051,Santiago Centro,Entire home/apt,157704.49,11,178,29,4.07,39.0,Good,-33.414658,-70.656988
+Santiago,664208,Las Condes,Private room,180000.0,2,96,35,4.07,78.0,Moderate,-33.505085,-70.642362
+Santiago,850899,Barrio Italia,Hotel room,180000.0,1,38,12,4.09,99.0,Moderate,-33.462696,-70.662145
+Santiago,418116,Bellavista,Entire home/apt,92781.74,26,187,194,4.26,58.0,Moderate,-33.490265,-70.690091
+Santiago,242716,Bellavista,Private room,67187.95,2,155,40,4.02,73.0,Moderate,-33.441391,-70.643403
+Santiago,743062,Las Condes,Entire home/apt,74571.13,21,303,51,4.26,54.0,Moderate,-33.511686,-70.684863
+Santiago,284836,Providencia,Private room,109181.84,16,339,82,4.94,71.0,Moderate,-33.446906,-70.707417
+Santiago,216629,Las Condes,Entire home/apt,180000.0,13,362,3,4.47,76.0,Moderate,-33.432459,-70.699454
+Santiago,960097,Vitacura,Entire home/apt,111805.55,10,243,100,3.45,87.0,Moderate,-33.451879,-70.653168
+Santiago,777771,Miraflores,Entire home/apt,48874.26,5,314,27,4.42,,,-33.394958,-70.724506
+Santiago,530094,Las Condes,Private room,91246.66,2,183,2,3.97,84.0,Moderate,-33.423769,-70.69726
+Santiago,496772,Vitacura,Entire home/apt,104246.14,3,207,15,4.53,64.0,Moderate,-33.494734,-70.667421
+Santiago,610744,Miraflores,Entire home/apt,,1,152,87,4.0,41.0,Good,-33.421291,-70.657317
+Santiago,173543,Providencia,Private room,121029.81,3,302,12,4.0,64.0,Moderate,-33.395284,-70.603081
+Santiago,233489,Ñuñoa,Entire home/apt,128543.48,3,42,75,3.87,37.0,Good,-33.401224,-70.604737
+Santiago,789133,Las Condes,Entire home/apt,180000.0,17,282,31,4.55,60.0,Moderate,-33.489694,-70.707491
+Santiago,887083,Bellavista,Entire home/apt,45629.42,13,189,0,3.67,86.0,Moderate,-33.40872,-70.728179
+Santiago,800207,Bellavista,Entire home/apt,82770.25,8,199,31,4.42,91.0,Moderate,-33.476375,-70.703885
+Santiago,325626,Providencia,Private room,100458.11,2,70,8,4.46,89.0,Moderate,-33.387361,-70.709893
+Santiago,517507,Santiago Centro,Entire home/apt,60181.37,26,51,21,4.32,112.0,Unhealthy for Sensitive Groups,-33.409601,-70.669693
+Santiago,637312,Barrio Italia,Entire home/apt,90438.22,1,209,56,4.88,58.0,Moderate,-33.423956,-70.691436
+Santiago,526922,Miraflores,Entire home/apt,,4,47,81,3.91,85.0,Moderate,-33.42639,-70.733368
+Santiago,217114,Ñuñoa,Entire home/apt,67848.12,7,22,108,3.59,,,-33.505326,-70.675652
+Santiago,384234,Las Condes,Entire home/apt,120088.77,16,84,34,4.27,79.0,Moderate,-33.405685,-70.615223
+Santiago,492000,Vitacura,Entire home/apt,105275.26,21,48,13,3.95,98.0,Moderate,-33.379882,-70.644099
+Santiago,259274,Las Condes,Private room,56976.9,19,76,4,4.22,46.0,Good,-33.500823,-70.687651
+Santiago,824293,Santiago Centro,Entire home/apt,,2,361,31,4.79,89.0,Moderate,-33.390615,-70.671134
+Santiago,683926,Bellavista,Entire home/apt,180000.0,14,88,18,4.92,,,-33.422347,-70.644282
+Santiago,942761,Barrio Italia,Entire home/apt,115472.69,14,308,43,4.34,,,-33.473329,-70.65501
+Santiago,349502,Miraflores,Hotel room,101248.26,14,137,17,3.26,,,-33.515503,-70.674949
+Santiago,976812,Barrio Italia,Entire home/apt,138781.31,29,53,19,4.78,72.0,Moderate,-33.397714,-70.6665
+Santiago,287516,Bellavista,Private room,101079.0,24,47,62,4.48,,,-33.438132,-70.704833
+Santiago,693415,Vitacura,Entire home/apt,88835.7,2,43,69,4.58,89.0,Moderate,-33.403808,-70.641393
+Santiago,223296,Bellavista,Entire home/apt,94707.87,26,303,101,3.17,65.0,Moderate,-33.470665,-70.69475
+Santiago,639076,Miraflores,Entire home/apt,88475.86,23,107,15,5.0,62.0,Moderate,-33.378928,-70.671204
+Santiago,736194,Barrio Italia,Entire home/apt,133430.44,14,49,88,5.0,,,-33.388945,-70.697691
+Santiago,221185,Ñuñoa,Entire home/apt,156577.03,1,361,9,,60.0,Moderate,-33.477051,-70.7344
+Santiago,579200,Providencia,Entire home/apt,109328.42,18,232,31,4.3,,,-33.436098,-70.724382
+Santiago,705460,Barrio Italia,Shared room,68410.28,28,45,24,3.82,100.0,Moderate,-33.44273,-70.621188
+Santiago,684711,Las Condes,Private room,76250.42,3,218,11,4.77,79.0,Moderate,-33.463945,-70.61699
+Santiago,671527,Barrio Italia,Entire home/apt,180000.0,1,28,17,,85.0,Moderate,-33.485911,-70.615197
+Santiago,914881,Providencia,Entire home/apt,86743.61,9,102,10,4.21,128.0,Unhealthy for Sensitive Groups,-33.39696,-70.7254
+Santiago,459831,Las Condes,Entire home/apt,180000.0,1,133,71,3.98,54.0,Moderate,-33.512181,-70.626728
+Santiago,172396,Vitacura,Shared room,132103.8,24,20,88,4.06,105.0,Unhealthy for Sensitive Groups,-33.477646,-70.669575
+Santiago,179564,Santiago Centro,Entire home/apt,180000.0,1,54,107,4.0,52.0,Moderate,-33.423647,-70.647546
+Santiago,918092,Providencia,Hotel room,152662.01,2,279,0,4.19,43.0,Good,-33.510595,-70.680979
+Santiago,488284,Miraflores,Entire home/apt,73581.02,7,283,13,4.98,90.0,Moderate,-33.422017,-70.687506
+Santiago,909597,Barrio Italia,Entire home/apt,63499.29,25,20,116,3.96,67.0,Moderate,-33.452997,-70.617838
+Santiago,503702,Las Condes,Private room,180000.0,11,38,16,4.55,48.0,Good,-33.458678,-70.627273
+Santiago,958581,Providencia,Hotel room,129753.03,2,175,97,4.2,82.0,Moderate,-33.414449,-70.614794
+Santiago,663313,Santiago Centro,Private room,48096.51,23,84,28,4.5,92.0,Moderate,-33.50565,-70.634161
+Santiago,147353,Las Condes,Entire home/apt,119559.33,3,291,105,4.34,99.0,Moderate,-33.468475,-70.734556
+Santiago,102678,Santiago Centro,Entire home/apt,42884.24,3,19,51,3.84,84.0,Moderate,-33.43454,-70.71447
+Santiago,742000,Miraflores,Entire home/apt,180000.0,6,289,18,3.05,54.0,Moderate,-33.43274,-70.644488
+Santiago,972278,Las Condes,Entire home/apt,180000.0,6,266,3,4.49,79.0,Moderate,-33.382119,-70.631483
+Santiago,907666,Las Condes,Shared room,101086.79,5,247,86,4.48,80.0,Moderate,-33.48257,-70.667155
+Santiago,830410,Vitacura,Entire home/apt,44416.49,7,197,91,4.32,76.0,Moderate,-33.444288,-70.646383
+Santiago,150490,Vitacura,Entire home/apt,180000.0,7,4,0,3.55,92.0,Moderate,-33.447487,-70.710302
+Santiago,944081,Ñuñoa,Entire home/apt,180000.0,3,292,77,4.51,80.0,Moderate,-33.405349,-70.69598
+Santiago,292153,Ñuñoa,Entire home/apt,131143.01,3,296,100,5.0,70.0,Moderate,-33.432742,-70.723881
+Santiago,778292,Barrio Italia,Entire home/apt,144186.97,23,260,58,3.66,61.0,Moderate,-33.40163,-70.688429
+Santiago,862865,Vitacura,Entire home/apt,151515.1,23,220,17,4.24,79.0,Moderate,-33.382325,-70.65298
+Santiago,340079,Vitacura,Entire home/apt,92421.68,24,112,80,4.6,83.0,Moderate,-33.404371,-70.599464
+Santiago,909945,Ñuñoa,Entire home/apt,69519.32,5,116,63,5.0,105.0,Unhealthy for Sensitive Groups,-33.432743,-70.648032
+Santiago,546947,Vitacura,Private room,77739.66,2,169,19,3.56,91.0,Moderate,-33.402741,-70.611528
+Santiago,873424,Barrio Italia,Entire home/apt,35212.31,17,237,149,4.67,33.0,Good,-33.517468,-70.667692
+Santiago,525245,Barrio Italia,Entire home/apt,164820.55,20,319,21,4.35,82.0,Moderate,-33.448595,-70.736082
+Santiago,169931,Providencia,Entire home/apt,133614.93,10,242,28,5.0,,,-33.493338,-70.672593
+Santiago,188902,Las Condes,Entire home/apt,143509.12,9,222,27,4.14,90.0,Moderate,-33.401583,-70.682396
+Santiago,706604,Santiago Centro,Private room,62510.38,5,196,40,4.55,60.0,Moderate,-33.510883,-70.678018
+Santiago,320784,Las Condes,Shared room,175975.59,12,319,10,3.86,67.0,Moderate,-33.471823,-70.691226
+Santiago,441401,Las Condes,Entire home/apt,,21,135,92,3.89,51.0,Moderate,-33.477921,-70.703652
+Santiago,807699,Barrio Italia,Private room,78410.32,1,359,23,4.25,55.0,Moderate,-33.398802,-70.660145
+Santiago,654346,Vitacura,Entire home/apt,85521.76,3,357,5,4.43,67.0,Moderate,-33.434265,-70.7123
+Santiago,132178,Providencia,Entire home/apt,83508.02,16,189,2,3.61,106.0,Unhealthy for Sensitive Groups,-33.494191,-70.737766
+Santiago,539878,Providencia,Private room,66212.11,3,54,104,4.25,77.0,Moderate,-33.497678,-70.717269
+Santiago,247008,Vitacura,Private room,,14,276,200,3.54,107.0,Unhealthy for Sensitive Groups,-33.410334,-70.65161
+Santiago,925237,Bellavista,Entire home/apt,38625.83,18,220,51,4.29,93.0,Moderate,-33.490896,-70.63051
+Santiago,447926,Las Condes,Private room,,28,275,39,3.14,86.0,Moderate,-33.446426,-70.608334
+Santiago,537643,Bellavista,Entire home/apt,88485.67,1,289,3,4.88,78.0,Moderate,-33.472484,-70.686623
+Santiago,249306,Bellavista,Entire home/apt,31974.9,2,194,8,3.78,84.0,Moderate,-33.455664,-70.638934
+Santiago,672990,Las Condes,Private room,149616.77,25,243,58,4.44,68.0,Moderate,-33.505519,-70.654805
+Santiago,324827,Barrio Italia,Private room,48125.77,2,22,37,3.72,80.0,Moderate,-33.455502,-70.714976
+Santiago,864325,Barrio Italia,Entire home/apt,94299.56,20,350,40,4.41,85.0,Moderate,-33.502225,-70.658517
+Santiago,829586,Santiago Centro,Private room,146779.05,6,352,24,3.46,88.0,Moderate,-33.430153,-70.697917
+Santiago,207500,Las Condes,Entire home/apt,56852.56,1,31,27,5.0,70.0,Moderate,-33.506069,-70.62916
+Santiago,949321,Miraflores,Private room,83709.93,30,257,33,4.8,39.0,Good,-33.462545,-70.715545
+Santiago,801928,Miraflores,Entire home/apt,,2,327,34,4.2,110.0,Unhealthy for Sensitive Groups,-33.478756,-70.710752
+Santiago,756845,Santiago Centro,Entire home/apt,130780.28,1,166,1,4.62,69.0,Moderate,-33.439952,-70.63601
+Santiago,832920,Las Condes,Entire home/apt,125621.21,18,262,48,5.0,79.0,Moderate,-33.388431,-70.654692
+Santiago,320468,Ñuñoa,Entire home/apt,83845.71,4,69,8,5.0,96.0,Moderate,-33.398271,-70.638311
+Santiago,130582,Las Condes,Shared room,53539.16,14,46,66,4.02,67.0,Moderate,-33.397001,-70.63524
+Santiago,461600,Providencia,Shared room,116880.86,19,191,27,5.0,63.0,Moderate,-33.468022,-70.634268
+Santiago,245094,Vitacura,Private room,137230.91,21,51,9,4.72,89.0,Moderate,-33.466979,-70.653079
+Santiago,889331,Miraflores,Entire home/apt,143600.59,1,145,42,4.21,81.0,Moderate,-33.421548,-70.611112
+Santiago,355584,Miraflores,Entire home/apt,75758.11,4,131,22,4.17,62.0,Moderate,-33.405307,-70.720702
+Santiago,189058,Santiago Centro,Hotel room,55489.13,12,85,23,5.0,98.0,Moderate,-33.445724,-70.607382
+Santiago,185933,Providencia,Private room,180000.0,1,331,60,4.76,,,-33.456875,-70.626669
+Santiago,837404,Las Condes,Private room,71064.25,22,320,115,4.05,21.0,Good,-33.40276,-70.694189
+Santiago,564876,Las Condes,Entire home/apt,166834.99,1,263,84,3.94,,,-33.499684,-70.730269
+Santiago,105898,Miraflores,Private room,126261.79,28,242,30,4.18,80.0,Moderate,-33.403642,-70.722752
+Santiago,877387,Bellavista,Private room,51444.39,17,92,2,4.65,89.0,Moderate,-33.427306,-70.731101
+Santiago,155636,Bellavista,Private room,91980.35,26,217,6,3.48,65.0,Moderate,-33.437121,-70.675092
+Santiago,126293,Ñuñoa,Private room,111425.31,2,267,9,4.38,39.0,Good,-33.509469,-70.623291
+Santiago,327861,Ñuñoa,Private room,55877.49,13,77,20,4.38,55.0,Moderate,-33.379614,-70.701865
+Santiago,671890,Santiago Centro,Entire home/apt,84745.96,1,214,15,4.52,64.0,Moderate,-33.387688,-70.611914
+Santiago,685493,Ñuñoa,Entire home/apt,173048.58,17,35,17,4.25,77.0,Moderate,-33.455741,-70.680518
+Santiago,764448,Bellavista,Entire home/apt,110437.99,25,149,31,,58.0,Moderate,-33.390826,-70.64291
+Santiago,151399,Vitacura,Entire home/apt,180000.0,15,127,15,4.04,98.0,Moderate,-33.446098,-70.639148
+Santiago,235739,Santiago Centro,Private room,97691.19,24,306,5,4.08,58.0,Moderate,-33.514483,-70.711621
+Santiago,779317,Barrio Italia,Entire home/apt,180000.0,6,149,30,4.07,73.0,Moderate,-33.43137,-70.63758
+Santiago,133209,Las Condes,Entire home/apt,,2,183,37,4.45,100.0,Moderate,-33.379143,-70.624547
+Santiago,667517,Providencia,Entire home/apt,70307.86,28,286,25,4.46,91.0,Moderate,-33.473782,-70.623457
+Santiago,844521,Bellavista,Entire home/apt,165627.61,13,103,28,4.56,74.0,Moderate,-33.380082,-70.723649
+Santiago,161291,Barrio Italia,Entire home/apt,100110.28,1,158,11,,78.0,Moderate,-33.508984,-70.716477

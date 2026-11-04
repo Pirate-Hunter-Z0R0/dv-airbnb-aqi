@@ -1,0 +1,281 @@
+city,listing_id,neighbourhood,room_type,price,minimum_nights,availability_365,number_of_reviews,review_scores_rating,aqi,aqi_category,latitude,longitude
+Valencia,931984,Campanar,Entire home/apt,68.89,22,216,9,3.98,33.0,Good,39.429368,-0.429961
+Valencia,112024,Campanar,Entire home/apt,90.16,2,303,71,5.0,24.0,Good,39.51981,-0.359734
+Valencia,688046,El Carmen,Entire home/apt,63.2,2,265,50,4.56,39.0,Good,39.497126,-0.388284
+Valencia,634906,Ruzafa,Shared room,112.42,1,90,14,4.38,38.0,Good,39.448236,-0.369033
+Valencia,480991,Ruzafa,Entire home/apt,131.99,5,4,43,,26.0,Good,39.464175,-0.412633
+Valencia,506653,El Carmen,Entire home/apt,88.54,12,240,9,4.07,52.0,Moderate,39.444906,-0.316293
+Valencia,949177,Ruzafa,Hotel room,92.3,2,323,43,4.54,33.0,Good,39.524965,-0.403851
+Valencia,807602,Ruzafa,Private room,240.0,30,124,49,4.51,48.0,Good,39.465388,-0.359631
+Valencia,604611,Patraix,Entire home/apt,74.29,1,67,6,3.4,46.0,Good,39.475299,-0.315187
+Valencia,175335,El Carmen,Private room,65.44,3,105,22,4.31,,,39.4815,-0.385558
+Valencia,800045,Campanar,Entire home/apt,240.0,15,34,18,4.45,61.0,Moderate,39.47456,-0.406517
+Valencia,810515,Campanar,Private room,169.21,13,262,18,4.04,,,39.428423,-0.327773
+Valencia,909588,Benimaclet,Entire home/apt,55.24,2,209,10,4.87,1.0,Good,39.478946,-0.347224
+Valencia,140216,Cabanyal,Shared room,224.42,3,342,1,4.16,43.0,Good,39.454222,-0.402848
+Valencia,265889,El Carmen,Hotel room,218.81,17,359,15,4.39,57.0,Moderate,39.478972,-0.376946
+Valencia,508615,Campanar,Entire home/apt,120.84,16,130,51,4.39,19.0,Good,39.438153,-0.419234
+Valencia,951887,Campanar,Entire home/apt,238.86,30,239,3,4.65,46.0,Good,39.453667,-0.329831
+Valencia,791813,Cabanyal,Entire home/apt,240.0,24,36,52,4.89,28.0,Good,39.42604,-0.409981
+Valencia,375202,Malilla,Private room,240.0,12,242,68,4.06,57.0,Moderate,39.494796,-0.417742
+Valencia,743421,El Carmen,Private room,187.89,12,44,3,4.52,39.0,Good,39.51927,-0.393491
+Valencia,171112,El Carmen,Entire home/apt,240.0,25,227,7,4.57,41.0,Good,39.530782,-0.361025
+Valencia,630517,Extramurs,Hotel room,144.93,2,55,57,4.91,,,39.480885,-0.330446
+Valencia,653508,El Carmen,Private room,50.0,29,230,8,4.05,39.0,Good,39.406096,-0.331227
+Valencia,812007,Campanar,Entire home/apt,142.2,18,325,14,4.31,39.0,Good,39.468267,-0.353993
+Valencia,315275,Cabanyal,Entire home/apt,148.68,3,65,3,4.01,32.0,Good,39.444778,-0.309312
+Valencia,728482,Malilla,Entire home/apt,,16,346,12,4.32,60.0,Moderate,39.508937,-0.351471
+Valencia,609902,Malilla,Entire home/apt,80.08,26,266,21,4.65,34.0,Good,39.429191,-0.410271
+Valencia,776780,Ruzafa,Shared room,,1,62,14,4.73,35.0,Good,39.408718,-0.402854
+Valencia,490808,Cabanyal,Private room,138.43,19,33,26,3.83,40.0,Good,39.449428,-0.411393
+Valencia,688414,Malilla,Entire home/apt,216.86,23,138,74,4.93,52.0,Moderate,39.474119,-0.3706
+Valencia,856777,Extramurs,Entire home/apt,71.77,4,10,147,4.26,33.0,Good,39.49004,-0.432747
+Valencia,426950,Campanar,Entire home/apt,126.22,10,6,37,3.24,58.0,Moderate,39.500906,-0.320993
+Valencia,221884,Patraix,Shared room,66.77,25,161,47,4.49,15.0,Good,39.501688,-0.342839
+Valencia,125559,Ruzafa,Entire home/apt,240.0,27,330,38,4.72,39.0,Good,39.538251,-0.347054
+Valencia,458547,Extramurs,Entire home/apt,240.0,7,262,111,4.63,44.0,Good,39.503198,-0.352374
+Valencia,942572,Campanar,Private room,159.95,29,16,56,4.29,35.0,Good,39.427628,-0.308085
+Valencia,192030,Patraix,Entire home/apt,240.0,25,189,12,4.37,51.0,Moderate,39.466023,-0.406896
+Valencia,820800,Extramurs,Private room,193.8,10,222,4,4.33,52.0,Moderate,39.43236,-0.370448
+Valencia,445904,Campanar,Private room,240.0,2,7,82,4.31,49.0,Good,39.451037,-0.410995
+Valencia,609781,Malilla,Private room,199.21,1,193,76,4.29,37.0,Good,39.409883,-0.307668
+Valencia,979397,Benimaclet,Entire home/apt,113.65,2,328,26,3.78,30.0,Good,39.502713,-0.398585
+Valencia,671774,Benimaclet,Entire home/apt,240.0,1,97,11,4.31,38.0,Good,39.401328,-0.3625
+Valencia,694810,Extramurs,Entire home/apt,115.18,2,76,124,4.51,46.0,Good,39.404479,-0.414711
+Valencia,683005,Malilla,Entire home/apt,117.01,1,130,18,3.59,27.0,Good,39.489167,-0.43429
+Valencia,653807,Benimaclet,Entire home/apt,190.91,2,131,97,3.68,29.0,Good,39.493034,-0.418929
+Valencia,394920,El Carmen,Entire home/apt,238.95,21,308,8,3.89,43.0,Good,39.423622,-0.404595
+Valencia,966859,Cabanyal,Entire home/apt,240.0,8,228,26,4.4,50.0,Good,39.50734,-0.353829
+Valencia,318381,Benimaclet,Entire home/apt,154.11,9,41,36,,41.0,Good,39.413837,-0.358694
+Valencia,827544,El Carmen,Entire home/apt,142.75,16,72,19,4.05,,,39.524575,-0.389948
+Valencia,121155,Malilla,Entire home/apt,143.96,21,20,66,4.49,,,39.530561,-0.343008
+Valencia,863318,El Carmen,Entire home/apt,240.0,11,362,47,4.59,40.0,Good,39.418114,-0.407452
+Valencia,634653,Extramurs,Shared room,240.0,8,292,3,3.89,41.0,Good,39.447814,-0.434389
+Valencia,675591,Benimaclet,Entire home/apt,117.21,6,345,8,4.52,44.0,Good,39.488004,-0.31738
+Valencia,771084,Cabanyal,Private room,122.16,23,156,28,3.31,44.0,Good,39.515303,-0.378306
+Valencia,239321,Campanar,Entire home/apt,,3,292,51,4.64,26.0,Good,39.489139,-0.31706
+Valencia,302734,Extramurs,Entire home/apt,175.4,7,107,40,3.93,27.0,Good,39.47245,-0.385383
+Valencia,421981,Patraix,Private room,240.0,19,157,48,4.6,35.0,Good,39.408976,-0.373944
+Valencia,992055,Benimaclet,Entire home/apt,65.73,22,322,53,4.6,23.0,Good,39.527721,-0.407701
+Valencia,739515,Ruzafa,Private room,240.0,10,82,20,4.18,34.0,Good,39.477962,-0.384202
+Valencia,686936,Benimaclet,Entire home/apt,164.25,3,211,0,4.51,35.0,Good,39.454308,-0.387849
+Valencia,524778,Benimaclet,Entire home/apt,200.58,11,196,20,3.76,35.0,Good,39.45676,-0.419892
+Valencia,965333,Benimaclet,Hotel room,104.43,27,106,13,3.58,40.0,Good,39.425829,-0.350294
+Valencia,379768,Cabanyal,Entire home/apt,129.24,2,290,40,3.59,38.0,Good,39.4556,-0.445294
+Valencia,875733,Campanar,Entire home/apt,186.44,6,299,6,4.32,7.0,Good,39.421803,-0.310153
+Valencia,751440,Benimaclet,Shared room,182.08,16,82,65,4.95,29.0,Good,39.455941,-0.327774
+Valencia,813669,El Carmen,Private room,159.48,4,195,49,4.56,60.0,Moderate,39.476937,-0.407779
+Valencia,356539,El Carmen,Entire home/apt,93.06,1,235,22,5.0,32.0,Good,39.451925,-0.415386
+Valencia,509275,Malilla,Entire home/apt,114.87,15,165,0,4.34,22.0,Good,39.493559,-0.409969
+Valencia,128121,Cabanyal,Private room,191.28,2,224,5,3.78,54.0,Moderate,39.475698,-0.334131
+Valencia,342420,Cabanyal,Private room,240.0,8,168,76,4.96,36.0,Good,39.521654,-0.41045
+Valencia,894687,Extramurs,Entire home/apt,131.19,6,171,0,4.89,31.0,Good,39.399959,-0.386311
+Valencia,795723,El Carmen,Entire home/apt,77.12,29,76,23,3.22,37.0,Good,39.443456,-0.424958
+Valencia,903065,Patraix,Private room,240.0,1,131,20,5.0,40.0,Good,39.509804,-0.343193
+Valencia,518401,Extramurs,Hotel room,114.91,1,82,6,4.59,,,39.411117,-0.442255
+Valencia,986450,Patraix,Shared room,137.04,9,269,18,4.76,44.0,Good,39.420032,-0.373945
+Valencia,491073,Campanar,Private room,96.98,14,34,26,3.91,50.0,Good,39.496526,-0.425654
+Valencia,750401,Extramurs,Private room,97.56,26,191,67,3.71,,,39.493792,-0.378969
+Valencia,310860,Campanar,Entire home/apt,,7,155,50,3.86,59.0,Moderate,39.479091,-0.327881
+Valencia,908036,Malilla,Shared room,131.67,1,72,18,3.51,43.0,Good,39.494421,-0.377785
+Valencia,344641,Campanar,Private room,118.5,11,123,2,4.59,33.0,Good,39.528765,-0.357256
+Valencia,898660,Campanar,Shared room,79.2,12,183,7,4.75,44.0,Good,39.504324,-0.408543
+Valencia,451422,El Carmen,Entire home/apt,240.0,17,341,9,3.87,37.0,Good,39.498918,-0.405552
+Valencia,230281,Malilla,Entire home/apt,117.45,10,320,11,2.9,34.0,Good,39.400899,-0.327905
+Valencia,759750,Campanar,Entire home/apt,76.37,17,272,29,3.73,43.0,Good,39.421715,-0.359649
+Valencia,142532,El Carmen,Private room,98.32,24,215,24,4.52,46.0,Good,39.491077,-0.339963
+Valencia,587390,Campanar,Private room,137.25,3,194,63,4.48,29.0,Good,39.48749,-0.399774
+Valencia,429097,El Carmen,Private room,119.98,2,320,69,3.62,26.0,Good,39.479638,-0.406603
+Valencia,503581,Campanar,Entire home/apt,,10,53,0,4.4,45.0,Good,39.449813,-0.322436
+Valencia,161791,Malilla,Shared room,105.75,29,161,108,3.92,,,39.428617,-0.317092
+Valencia,670785,Malilla,Entire home/apt,95.59,27,149,21,5.0,43.0,Good,39.450504,-0.401196
+Valencia,175771,Benimaclet,Entire home/apt,,9,179,23,4.52,45.0,Good,39.492173,-0.428284
+Valencia,847138,Patraix,Hotel room,76.87,21,29,23,3.67,37.0,Good,39.482818,-0.442651
+Valencia,209238,Malilla,Entire home/apt,188.61,1,27,35,4.33,54.0,Moderate,39.410378,-0.41663
+Valencia,279772,Benimaclet,Entire home/apt,71.7,16,218,21,3.46,60.0,Moderate,39.524011,-0.357892
+Valencia,280603,El Carmen,Entire home/apt,157.25,23,224,1,,61.0,Moderate,39.530485,-0.409926
+Valencia,503596,Extramurs,Private room,240.0,4,330,31,3.34,,,39.501316,-0.387404
+Valencia,642872,Cabanyal,Entire home/apt,174.0,20,41,3,4.58,31.0,Good,39.507044,-0.375095
+Valencia,849314,Benimaclet,Private room,,16,43,110,4.25,46.0,Good,39.529867,-0.337497
+Valencia,368307,Patraix,Entire home/apt,65.94,21,109,4,4.14,32.0,Good,39.461497,-0.320683
+Valencia,965507,Patraix,Entire home/apt,161.54,6,154,2,4.57,48.0,Good,39.445637,-0.399484
+Valencia,435805,Campanar,Private room,169.5,5,241,13,4.1,,,39.49963,-0.342549
+Valencia,140035,Cabanyal,Entire home/apt,67.45,30,216,0,4.14,32.0,Good,39.500995,-0.366374
+Valencia,452377,Ruzafa,Entire home/apt,203.08,3,118,62,3.54,36.0,Good,39.436153,-0.37214
+Valencia,781331,Campanar,Private room,130.9,1,364,32,3.89,58.0,Moderate,39.476875,-0.397188
+Valencia,719883,Malilla,Entire home/apt,240.0,26,155,9,4.24,,,39.49647,-0.364262
+Valencia,214945,Benimaclet,Entire home/apt,98.65,22,68,130,4.43,39.0,Good,39.486325,-0.437328
+Valencia,692650,Campanar,Entire home/apt,85.69,15,217,4,,48.0,Good,39.404206,-0.35959
+Valencia,200959,Campanar,Private room,129.19,17,114,0,4.52,,,39.465693,-0.416283
+Valencia,406779,Ruzafa,Private room,228.15,1,153,1,4.83,30.0,Good,39.437942,-0.430311
+Valencia,565328,Campanar,Entire home/apt,152.67,19,59,6,4.68,31.0,Good,39.511528,-0.400722
+Valencia,301678,Cabanyal,Private room,100.9,2,317,63,3.68,22.0,Good,39.487417,-0.41649
+Valencia,566906,Benimaclet,Entire home/apt,240.0,3,40,19,4.07,43.0,Good,39.538794,-0.423593
+Valencia,869625,Extramurs,Entire home/apt,197.32,6,79,76,4.11,35.0,Good,39.510839,-0.307104
+Valencia,336611,Extramurs,Entire home/apt,109.93,10,25,18,,45.0,Good,39.486083,-0.357407
+Valencia,373121,Campanar,Private room,210.6,28,24,151,4.24,30.0,Good,39.506311,-0.407633
+Valencia,831461,Patraix,Shared room,215.51,17,255,7,4.47,19.0,Good,39.528935,-0.408966
+Valencia,574960,Cabanyal,Entire home/apt,165.5,15,327,2,2.97,26.0,Good,39.500531,-0.398387
+Valencia,638372,Extramurs,Entire home/apt,136.07,1,96,6,4.93,31.0,Good,39.494724,-0.37402
+Valencia,791360,Campanar,Private room,181.89,19,268,134,4.66,49.0,Good,39.436927,-0.401969
+Valencia,868444,Malilla,Entire home/apt,105.32,14,154,6,4.65,37.0,Good,39.539602,-0.400791
+Valencia,425721,Malilla,Shared room,126.41,27,318,17,3.93,26.0,Good,39.492579,-0.317416
+Valencia,178523,El Carmen,Entire home/apt,91.05,4,267,1,4.63,11.0,Good,39.475522,-0.382017
+Valencia,228744,Malilla,Hotel room,167.17,23,80,182,4.59,37.0,Good,39.528756,-0.325059
+Valencia,166283,Cabanyal,Entire home/apt,61.25,26,141,60,4.06,33.0,Good,39.481177,-0.36481
+Valencia,444583,Benimaclet,Private room,163.44,1,0,10,4.31,42.0,Good,39.455324,-0.382662
+Valencia,854168,Campanar,Entire home/apt,84.48,12,297,149,4.74,37.0,Good,39.535714,-0.439472
+Valencia,957697,Benimaclet,Entire home/apt,70.89,14,122,24,4.58,49.0,Good,39.423952,-0.322803
+Valencia,216557,Malilla,Shared room,148.51,3,244,6,4.61,29.0,Good,39.525268,-0.320802
+Valencia,568315,Cabanyal,Entire home/apt,72.98,4,365,17,3.92,35.0,Good,39.497455,-0.361566
+Valencia,874501,Cabanyal,Private room,87.83,21,325,8,4.08,43.0,Good,39.401108,-0.365409
+Valencia,743602,Extramurs,Private room,226.61,23,349,95,4.13,37.0,Good,39.48725,-0.419877
+Valencia,910158,Cabanyal,Entire home/apt,175.19,22,248,133,4.03,27.0,Good,39.426176,-0.406394
+Valencia,705216,Campanar,Private room,81.0,7,202,26,3.9,55.0,Moderate,39.489146,-0.332233
+Valencia,610295,Cabanyal,Entire home/apt,240.0,30,255,17,3.82,46.0,Good,39.468282,-0.315623
+Valencia,977618,Ruzafa,Private room,67.1,6,190,0,4.34,42.0,Good,39.414516,-0.406239
+Valencia,155854,Ruzafa,Entire home/apt,184.8,10,141,13,3.69,23.0,Good,39.407238,-0.343599
+Valencia,994726,El Carmen,Entire home/apt,91.44,2,71,19,,32.0,Good,39.510173,-0.403558
+Valencia,900867,Campanar,Entire home/apt,50.0,1,122,1,4.35,25.0,Good,39.47678,-0.40959
+Valencia,969435,Cabanyal,Private room,,2,261,33,3.78,72.0,Moderate,39.442729,-0.431393
+Valencia,599300,Malilla,Private room,,1,212,13,4.28,41.0,Good,39.514422,-0.36645
+Valencia,856548,El Carmen,Entire home/apt,228.97,29,81,110,4.37,32.0,Good,39.455467,-0.313305
+Valencia,747646,Campanar,Entire home/apt,83.98,22,206,22,4.14,36.0,Good,39.418776,-0.428003
+Valencia,714304,Benimaclet,Entire home/apt,169.66,11,81,1,,,,39.48012,-0.366681
+Valencia,237079,Patraix,Entire home/apt,111.27,1,97,11,4.14,24.0,Good,39.518824,-0.406894
+Valencia,803609,Patraix,Private room,99.72,2,130,37,4.47,28.0,Good,39.441729,-0.332851
+Valencia,999328,El Carmen,Private room,86.2,1,243,70,5.0,,,39.474177,-0.342479
+Valencia,891090,Campanar,Private room,240.0,9,71,49,3.59,62.0,Moderate,39.41028,-0.314259
+Valencia,981567,Patraix,Private room,71.47,26,321,14,4.29,26.0,Good,39.421969,-0.40105
+Valencia,116495,Benimaclet,Entire home/apt,119.24,22,341,11,4.33,21.0,Good,39.424101,-0.4211
+Valencia,721420,Extramurs,Shared room,240.0,23,91,57,4.13,35.0,Good,39.500859,-0.405474
+Valencia,185203,Ruzafa,Private room,143.38,2,207,30,2.82,24.0,Good,39.455404,-0.401036
+Valencia,174373,Ruzafa,Private room,165.97,30,358,18,4.04,43.0,Good,39.411325,-0.318262
+Valencia,881178,Extramurs,Private room,76.35,21,49,44,4.21,51.0,Moderate,39.531659,-0.362988
+Valencia,779478,Benimaclet,Shared room,240.0,27,323,63,,12.0,Good,39.490651,-0.316886
+Valencia,301534,Benimaclet,Entire home/apt,240.0,19,302,123,4.43,49.0,Good,39.496438,-0.308648
+Valencia,214846,Malilla,Entire home/apt,234.51,3,53,28,4.62,52.0,Moderate,39.456467,-0.31598
+Valencia,926411,Ruzafa,Entire home/apt,75.71,2,272,12,5.0,48.0,Good,39.496666,-0.420509
+Valencia,126665,Cabanyal,Entire home/apt,154.23,14,257,65,5.0,39.0,Good,39.442828,-0.35804
+Valencia,878910,Patraix,Entire home/apt,240.0,7,47,48,,43.0,Good,39.448833,-0.441248
+Valencia,866993,El Carmen,Entire home/apt,91.46,3,148,46,4.98,52.0,Moderate,39.408415,-0.310007
+Valencia,313105,Ruzafa,Private room,240.0,20,48,13,4.98,40.0,Good,39.417736,-0.37398
+Valencia,746415,Malilla,Entire home/apt,151.34,23,14,52,4.53,51.0,Moderate,39.411012,-0.416287
+Valencia,341554,Benimaclet,Entire home/apt,90.81,2,348,27,4.74,21.0,Good,39.426174,-0.419505
+Valencia,971668,Ruzafa,Entire home/apt,240.0,3,146,121,3.97,41.0,Good,39.488865,-0.308127
+Valencia,731033,Extramurs,Entire home/apt,97.21,18,127,39,5.0,41.0,Good,39.535467,-0.429363
+Valencia,210819,Malilla,Private room,159.31,27,274,40,3.89,32.0,Good,39.466823,-0.36905
+Valencia,685111,Malilla,Private room,91.78,18,203,24,4.81,9.0,Good,39.484095,-0.405752
+Valencia,107083,Ruzafa,Private room,240.0,14,47,14,5.0,30.0,Good,39.433009,-0.359949
+Valencia,667163,Extramurs,Entire home/apt,208.09,23,83,35,3.83,44.0,Good,39.461786,-0.325692
+Valencia,425200,Ruzafa,Private room,240.0,14,76,7,3.68,36.0,Good,39.403609,-0.327969
+Valencia,870200,Extramurs,Entire home/apt,60.62,8,98,2,3.66,31.0,Good,39.516896,-0.425329
+Valencia,170289,El Carmen,Private room,150.15,9,159,83,4.11,32.0,Good,39.41385,-0.352706
+Valencia,471815,Malilla,Entire home/apt,240.0,24,144,12,3.25,36.0,Good,39.446847,-0.420251
+Valencia,676546,Patraix,Entire home/apt,128.37,11,245,51,4.36,55.0,Moderate,39.473661,-0.367155
+Valencia,276614,Ruzafa,Private room,,2,133,71,4.24,53.0,Moderate,39.503939,-0.41729
+Valencia,534685,Extramurs,Hotel room,142.34,11,101,23,3.94,60.0,Moderate,39.495903,-0.35999
+Valencia,308844,Benimaclet,Entire home/apt,142.34,8,205,32,3.6,64.0,Moderate,39.445993,-0.357917
+Valencia,872902,Patraix,Private room,169.2,2,167,20,3.78,49.0,Good,39.459372,-0.398342
+Valencia,687988,Ruzafa,Entire home/apt,82.78,20,326,130,4.82,40.0,Good,39.533814,-0.384616
+Valencia,498692,Patraix,Entire home/apt,135.48,3,175,12,3.76,43.0,Good,39.428634,-0.324352
+Valencia,276304,Ruzafa,Hotel room,240.0,12,249,0,4.11,36.0,Good,39.45247,-0.350773
+Valencia,863421,Ruzafa,Private room,82.39,7,135,77,3.37,54.0,Moderate,39.411565,-0.379314
+Valencia,400867,Campanar,Entire home/apt,240.0,19,176,19,4.3,57.0,Moderate,39.472794,-0.370783
+Valencia,738964,Extramurs,Private room,,24,145,76,4.35,41.0,Good,39.417518,-0.37251
+Valencia,149750,Malilla,Private room,94.18,1,138,17,4.42,,,39.488255,-0.323061
+Valencia,207894,Campanar,Private room,134.0,8,69,42,3.85,44.0,Good,39.484265,-0.310145
+Valencia,144847,Campanar,Private room,197.03,13,299,46,3.63,37.0,Good,39.495276,-0.404816
+Valencia,749196,Patraix,Private room,,13,322,39,4.1,34.0,Good,39.498821,-0.407069
+Valencia,301952,Extramurs,Shared room,151.7,14,287,94,3.69,26.0,Good,39.521428,-0.394828
+Valencia,846165,Campanar,Private room,240.0,3,337,3,4.27,34.0,Good,39.53171,-0.327043
+Valencia,249153,Extramurs,Entire home/apt,240.0,2,254,29,4.63,38.0,Good,39.539746,-0.328568
+Valencia,626713,Ruzafa,Entire home/apt,50.0,2,232,1,,49.0,Good,39.44548,-0.387385
+Valencia,238513,Patraix,Hotel room,75.04,17,187,103,4.84,50.0,Good,39.427974,-0.435286
+Valencia,347770,Benimaclet,Entire home/apt,103.38,3,192,141,5.0,,,39.48418,-0.31564
+Valencia,866575,Ruzafa,Entire home/apt,94.99,3,82,20,4.34,40.0,Good,39.455901,-0.383915
+Valencia,876063,Extramurs,Private room,240.0,1,173,53,4.73,59.0,Moderate,39.417628,-0.321964
+Valencia,953869,Extramurs,Entire home/apt,240.0,1,77,9,4.45,51.0,Moderate,39.454199,-0.408794
+Valencia,203294,Ruzafa,Private room,181.02,10,236,89,4.13,41.0,Good,39.529573,-0.405293
+Valencia,642564,Cabanyal,Private room,215.69,21,359,48,5.0,23.0,Good,39.435461,-0.334376
+Valencia,742475,Benimaclet,Shared room,171.41,21,288,247,4.72,52.0,Moderate,39.440702,-0.313686
+Valencia,101109,Patraix,Private room,152.53,5,77,37,5.0,46.0,Good,39.486151,-0.416085
+Valencia,986381,Patraix,Entire home/apt,166.05,3,92,116,5.0,45.0,Good,39.532548,-0.360234
+Valencia,960357,Benimaclet,Shared room,228.36,21,54,1,,17.0,Good,39.491964,-0.413569
+Valencia,194682,Ruzafa,Entire home/apt,240.0,16,244,49,3.71,41.0,Good,39.401697,-0.36025
+Valencia,389467,Campanar,Shared room,88.26,17,319,6,4.45,70.0,Moderate,39.40724,-0.323384
+Valencia,170523,Ruzafa,Private room,69.94,30,201,39,3.92,38.0,Good,39.47968,-0.380221
+Valencia,812389,Ruzafa,Entire home/apt,122.65,4,301,44,3.77,41.0,Good,39.447515,-0.316568
+Valencia,470587,Malilla,Private room,180.63,2,104,115,4.13,40.0,Good,39.528599,-0.38154
+Valencia,129515,Extramurs,Entire home/apt,159.69,9,328,15,4.04,41.0,Good,39.468077,-0.439274
+Valencia,428923,Benimaclet,Private room,79.74,10,219,43,3.14,28.0,Good,39.483717,-0.421991
+Valencia,271448,Benimaclet,Entire home/apt,112.38,1,210,15,4.78,43.0,Good,39.532346,-0.403357
+Valencia,540922,Benimaclet,Private room,68.46,18,232,12,4.81,39.0,Good,39.438734,-0.389179
+Valencia,484767,Ruzafa,Private room,218.07,2,134,18,4.54,57.0,Moderate,39.468437,-0.428682
+Valencia,645459,Benimaclet,Entire home/apt,,7,187,7,4.73,32.0,Good,39.494902,-0.306615
+Valencia,697881,El Carmen,Private room,174.94,2,215,24,4.53,37.0,Good,39.420105,-0.39656
+Valencia,997439,El Carmen,Private room,149.88,6,252,0,3.44,42.0,Good,39.529844,-0.422966
+Valencia,853962,Ruzafa,Private room,182.54,26,301,4,5.0,42.0,Good,39.467293,-0.342031
+Valencia,206132,Extramurs,Private room,125.14,3,166,5,4.02,32.0,Good,39.497286,-0.339618
+Valencia,227882,Malilla,Entire home/apt,170.32,7,228,3,4.8,,,39.43284,-0.309854
+Valencia,882631,Ruzafa,Shared room,147.71,4,245,69,4.59,39.0,Good,39.463973,-0.339055
+Valencia,214379,Malilla,Private room,153.67,1,134,8,4.44,23.0,Good,39.445581,-0.384631
+Valencia,571215,Patraix,Private room,240.0,26,335,43,4.19,30.0,Good,39.492639,-0.310094
+Valencia,500412,Cabanyal,Shared room,82.65,25,39,60,2.98,39.0,Good,39.408477,-0.346372
+Valencia,336632,El Carmen,Entire home/apt,240.0,17,107,118,4.15,42.0,Good,39.532452,-0.380013
+Valencia,459149,Cabanyal,Entire home/apt,227.64,19,259,12,,35.0,Good,39.523236,-0.384978
+Valencia,752492,Cabanyal,Entire home/apt,182.1,14,153,35,4.36,26.0,Good,39.428263,-0.391202
+Valencia,421261,El Carmen,Shared room,116.22,20,177,7,3.64,33.0,Good,39.517927,-0.349126
+Valencia,454753,Malilla,Entire home/apt,147.93,11,165,2,,40.0,Good,39.493646,-0.366361
+Valencia,293082,Patraix,Entire home/apt,173.25,18,217,25,3.9,52.0,Moderate,39.492256,-0.42191
+Valencia,645832,Benimaclet,Private room,181.93,1,112,67,3.96,32.0,Good,39.517573,-0.390565
+Valencia,619722,Cabanyal,Private room,150.96,3,139,100,3.95,76.0,Moderate,39.510367,-0.431806
+Valencia,248078,Campanar,Hotel room,105.17,24,49,34,4.42,28.0,Good,39.425995,-0.394076
+Valencia,913780,Cabanyal,Entire home/apt,110.35,2,205,104,,50.0,Good,39.52453,-0.332735
+Valencia,612130,Benimaclet,Entire home/apt,240.0,11,134,26,3.95,50.0,Good,39.511189,-0.317223
+Valencia,728790,Campanar,Entire home/apt,147.64,24,61,1,4.26,42.0,Good,39.475511,-0.378559
+Valencia,174991,Campanar,Entire home/apt,77.46,28,106,33,5.0,30.0,Good,39.471893,-0.314227
+Valencia,279332,Malilla,Hotel room,181.97,21,288,11,3.25,45.0,Good,39.432474,-0.381953
+Valencia,745666,Malilla,Shared room,203.96,1,218,46,,40.0,Good,39.47402,-0.418926
+Valencia,197628,Ruzafa,Entire home/apt,112.2,22,303,36,3.86,48.0,Good,39.490027,-0.340468
+Valencia,915186,Benimaclet,Hotel room,193.16,29,72,28,3.42,43.0,Good,39.472115,-0.367385
+Valencia,192175,Extramurs,Entire home/apt,167.49,17,159,97,4.45,54.0,Moderate,39.4923,-0.41976
+Valencia,237919,Malilla,Entire home/apt,181.64,15,3,47,3.53,36.0,Good,39.4235,-0.396434
+Valencia,789539,Patraix,Hotel room,75.3,10,298,24,4.55,30.0,Good,39.408018,-0.395225
+Valencia,685885,Benimaclet,Private room,94.75,3,46,58,4.84,32.0,Good,39.53126,-0.388822
+Valencia,253715,Malilla,Hotel room,73.16,16,180,21,4.04,31.0,Good,39.423783,-0.326273
+Valencia,119766,Malilla,Private room,59.85,8,154,7,3.9,51.0,Moderate,39.502478,-0.342539
+Valencia,215836,El Carmen,Entire home/apt,240.0,1,288,122,5.0,32.0,Good,39.426253,-0.368926
+Valencia,297213,Cabanyal,Shared room,94.43,7,288,0,4.02,,,39.409825,-0.401265
+Valencia,175138,Patraix,Private room,,3,190,113,4.32,46.0,Good,39.529163,-0.414975
+Valencia,644866,Malilla,Entire home/apt,138.83,3,8,114,3.99,41.0,Good,39.503446,-0.380176
+Valencia,560759,Cabanyal,Entire home/apt,209.38,1,51,41,5.0,54.0,Moderate,39.470889,-0.431012
+Valencia,885035,Campanar,Private room,56.0,21,136,114,4.3,11.0,Good,39.494079,-0.433914
+Valencia,427716,El Carmen,Private room,141.72,2,72,20,3.98,45.0,Good,39.450604,-0.423067
+Valencia,871545,Extramurs,Entire home/apt,101.67,8,146,92,4.1,36.0,Good,39.513721,-0.325346
+Valencia,399587,Ruzafa,Entire home/apt,83.39,2,191,8,4.77,45.0,Good,39.519289,-0.384859
+Valencia,967865,Extramurs,Entire home/apt,163.11,15,67,2,4.22,34.0,Good,39.501026,-0.433346
+Valencia,247871,Cabanyal,Entire home/apt,50.0,2,364,0,3.77,32.0,Good,39.520412,-0.411727
+Valencia,577611,Patraix,Entire home/apt,169.94,28,265,53,4.31,42.0,Good,39.486554,-0.358411
+Valencia,472233,Extramurs,Entire home/apt,208.83,3,299,24,4.12,45.0,Good,39.485456,-0.407363
+Valencia,977055,El Carmen,Private room,50.0,1,268,61,4.5,,,39.414203,-0.324024
+Valencia,791659,Benimaclet,Entire home/apt,101.43,12,204,12,4.03,45.0,Good,39.523226,-0.392748
+Valencia,261894,Campanar,Private room,76.09,3,107,93,4.72,55.0,Moderate,39.465461,-0.333747
+Valencia,992311,El Carmen,Entire home/apt,141.85,9,233,55,3.65,50.0,Good,39.535895,-0.311061
+Valencia,957774,Campanar,Entire home/apt,184.11,11,52,5,3.76,21.0,Good,39.478186,-0.420282
+Valencia,199434,Ruzafa,Entire home/apt,197.78,3,279,58,3.59,,,39.435335,-0.371651
+Valencia,551470,Malilla,Entire home/apt,,27,65,106,4.4,45.0,Good,39.399993,-0.433157
+Valencia,708550,Campanar,Entire home/apt,189.55,2,142,33,3.73,32.0,Good,39.495779,-0.374957
+Valencia,788087,El Carmen,Shared room,,28,30,30,4.73,38.0,Good,39.424202,-0.420572
+Valencia,829303,Ruzafa,Entire home/apt,212.22,15,84,30,5.0,53.0,Moderate,39.42192,-0.35952
+Valencia,811195,Cabanyal,Private room,240.0,22,11,2,4.41,49.0,Good,39.414229,-0.427225
+Valencia,207301,El Carmen,Hotel room,179.51,12,201,55,3.99,47.0,Good,39.420604,-0.418634
+Valencia,997227,Patraix,Shared room,102.49,9,101,0,4.56,49.0,Good,39.460409,-0.375795
+Valencia,550211,Malilla,Entire home/apt,240.0,30,101,14,3.98,36.0,Good,39.454736,-0.382181
+Valencia,406815,Benimaclet,Shared room,143.67,1,132,28,4.93,27.0,Good,39.465083,-0.436226
+Valencia,342429,Ruzafa,Entire home/apt,96.01,2,41,83,3.55,51.0,Moderate,39.522026,-0.340276
+Valencia,457338,Patraix,Entire home/apt,148.08,22,230,70,,44.0,Good,39.461261,-0.403269
+Valencia,269339,Cabanyal,Entire home/apt,98.85,14,160,3,5.0,,,39.479346,-0.34279
+Valencia,503167,Ruzafa,Hotel room,170.67,25,264,17,3.8,53.0,Moderate,39.50438,-0.404575
+Valencia,414053,Extramurs,Shared room,129.1,1,298,32,4.23,32.0,Good,39.539444,-0.422189
+Valencia,915145,El Carmen,Entire home/apt,103.49,5,145,11,3.54,20.0,Good,39.446821,-0.354598
