@@ -1,0 +1,49 @@
+# Design system for the dashboard. Light and dark are both defined, so viewers can switch in
+# the app menu (Settings → Theme) and the default follows their OS.
+
+[browser]
+gatherUsageStats = false
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+font = "Geist:https://fonts.googleapis.com/css2?family=Geist:wght@300..700&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400..700&display=swap"
+codeFont = "'Geist Mono':https://fonts.googleapis.com/css2?family=Geist+Mono:wght@400..600&display=swap"
+baseFontSize = 15
+baseRadius = "0.65rem"
+buttonRadius = "0.5rem"
+showWidgetBorder = true
+showSidebarBorder = true
+metricValueFontSize = "1.9rem"
+metricValueFontWeight = 600
+# Muted editorial palette for non-AQI series (room types, cities). AQI always uses its own scale.
+chartCategoricalColors = ["#1F5F74", "#C0603A", "#7C8C3A", "#7A4E7E", "#C9A15A", "#5C6B7A", "#3F8F86", "#B65C74", "#2F3A4A", "#4F7A52"]
+
+[theme.light]
+primaryColor = "#1F5F74"
+backgroundColor = "#F6F4EF"
+secondaryBackgroundColor = "#ECE8DF"
+textColor = "#1C1B19"
+borderColor = "#DCD7CC"
+linkColor = "#1F5F74"
+dataframeHeaderBackgroundColor = "#ECE8DF"
+
+[theme.light.sidebar]
+backgroundColor = "#EFECE5"
+secondaryBackgroundColor = "#E4DFD4"
+
+[theme.dark]
+primaryColor = "#7DB8CB"
+backgroundColor = "#131312"
+secondaryBackgroundColor = "#1E1D1B"
+textColor = "#ECEAE4"
+borderColor = "#302E2A"
+linkColor = "#7DB8CB"
+dataframeHeaderBackgroundColor = "#1E1D1B"
+chartCategoricalColors = ["#7DB8CB", "#E08A64", "#A9B865", "#B48AB8", "#D9B977", "#94A3B2", "#6CC0B5", "#D98BA0", "#AEB8C6", "#86AE88"]
+
+[theme.dark.sidebar]
+backgroundColor = "#181816"
+secondaryBackgroundColor = "#24231F"

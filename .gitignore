@@ -21,7 +21,7 @@ venv.bak/
 *.env
 
 # Streamlit Local Cache & Config
-.streamlit/
+.streamlit/secrets.toml
 
 # Node / Frontend Build & Dependencies
 node_modules/
