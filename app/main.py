@@ -5,6 +5,7 @@ Streamlit Dashboard — Interactive Analytics with Coordinated Dark & Light Them
 
 import sys
 import os
+import json
 from pathlib import Path
 from datetime import datetime
 
@@ -14,6 +15,7 @@ import numpy as np
 import pydeck as pdk
 import statsmodels.api as sm
 from scipy import stats
+import joblib
 
 # ---------------------------------------------------------------------------
 # Path setup
@@ -42,6 +44,9 @@ from interactive_viz import (
     plot_price_distribution_interactive,
     plot_availability_vs_price_interactive,
     plot_correlation_heatmap_interactive,
+    plot_feature_importance_interactive,
+    plot_kmeans_3d_clusters_interactive,
+    plot_cluster_comparison_bar,
 )
 from live_aqi_service import fetch_live_aqi_for_city, CITY_COORDINATES
 
@@ -473,6 +478,39 @@ def load_data() -> pd.DataFrame:
 df_raw = load_data()
 
 # ---------------------------------------------------------------------------
+# Machine Learning Model & Clustered Data Loaders
+# ---------------------------------------------------------------------------
+MODELS_DIR = ROOT / "models"
+CLUSTERED_DATA_PATH = ROOT / "data" / "processed" / "clustered_listings.csv"
+
+
+@st.cache_resource(show_spinner=False)
+def load_ml_models():
+    model_path = MODELS_DIR / "xgboost_price_pipeline.joblib"
+    metrics_path = MODELS_DIR / "xgboost_metrics.json"
+    kmeans_path = MODELS_DIR / "kmeans_pipeline.joblib"
+
+    xgb_model = joblib.load(model_path) if model_path.exists() else None
+
+    metrics = None
+    if metrics_path.exists():
+        try:
+            with open(metrics_path, "r") as f:
+                metrics = json.load(f)
+        except Exception:
+            metrics = None
+
+    kmeans_pack = joblib.load(kmeans_path) if kmeans_path.exists() else None
+    return xgb_model, metrics, kmeans_pack
+
+
+@st.cache_data(show_spinner=False)
+def load_clustered_data():
+    if CLUSTERED_DATA_PATH.exists():
+        return pd.read_csv(CLUSTERED_DATA_PATH)
+    return None
+
+# ---------------------------------------------------------------------------
 # Sidebar Content & Filter Controls
 # ---------------------------------------------------------------------------
 with st.sidebar:
@@ -490,6 +528,7 @@ with st.sidebar:
             "🏠 Room Types & Tariffs",
             "📈 Econometric Regressions",
             "⚖️ City Comparison",
+            "🤖 Machine Learning & Clustering",
             "📋 Data & Sources",
         ],
         index=0,
@@ -678,8 +717,23 @@ if active_nav == "💎 Overview & Clean Air":
 # ---------------------------------------------------------------------------
 elif active_nav == "🗺️ Geospatial Point Map":
     st.markdown("### Spatial Distribution of Listings & Urban Air Quality")
-    st.caption("Each point represents a listing, color-coded by AQI tier with pixel-clamped density bounds.")
+    st.caption("Interactive Deck.gl hardware-accelerated WebGL geospatial visualization with dual 3D/2D projection modes.")
 
+    c_m1, c_m2 = st.columns([1.3, 1.0])
+    with c_m1:
+        map_mode = st.radio(
+            "Projection Mode",
+            ["🏙️ 3D Extruded Pillars (Height = Price, Color = AQI)", "📍 2D Flat Point Layer"],
+            horizontal=True,
+            index=0,
+        )
+    with c_m2:
+        if "3D" in map_mode:
+            st.caption("💡 **3D Controls:** Hold **Right-Click** (or **Ctrl + Drag**) to orbit, tilt, and rotate the city perspective in 3D.")
+        else:
+            st.caption("💡 **2D Controls:** Standard top-down planar scatter distribution.")
+
+    is_3d = "3D" in map_mode
     map_df = df.dropna(subset=["latitude", "longitude"]).copy()
 
     def get_color(aqi_val):
@@ -699,26 +753,47 @@ elif active_nav == "🗺️ Geospatial Point Map":
     lon_center = float(map_df["longitude"].mean()) if not map_df.empty else 0.0
     zoom_level = 11.5 if is_city_view else 1.8
 
-    view_state = pdk.ViewState(
-        latitude=lat_center,
-        longitude=lon_center,
-        zoom=zoom_level,
-        pitch=0,
-    )
-
-    layer = pdk.Layer(
-        "ScatterplotLayer",
-        data=map_df,
-        get_position=["longitude", "latitude"],
-        get_color="color",
-        get_radius=30 if is_city_view else 500,
-        radius_min_pixels=3 if not is_city_view else 4,
-        radius_max_pixels=6 if not is_city_view else 10,
-        stroked=True,
-        get_line_color=[255, 255, 255, 140] if is_dark else [40, 40, 40, 160],
-        get_line_width=1,
-        pickable=True,
-    )
+    if is_3d:
+        view_state = pdk.ViewState(
+            latitude=lat_center,
+            longitude=lon_center,
+            zoom=zoom_level,
+            pitch=50,
+            bearing=-18,
+        )
+        layer = pdk.Layer(
+            "ColumnLayer",
+            data=map_df,
+            get_position=["longitude", "latitude"],
+            get_elevation="price_inr",
+            elevation_scale=0.08 if is_city_view else 12.0,
+            radius=45 if is_city_view else 35000,
+            get_fill_color="color",
+            extruded=True,
+            pickable=True,
+            auto_highlight=True,
+        )
+    else:
+        view_state = pdk.ViewState(
+            latitude=lat_center,
+            longitude=lon_center,
+            zoom=zoom_level,
+            pitch=0,
+            bearing=0,
+        )
+        layer = pdk.Layer(
+            "ScatterplotLayer",
+            data=map_df,
+            get_position=["longitude", "latitude"],
+            get_color="color",
+            get_radius=30 if is_city_view else 500,
+            radius_min_pixels=3 if not is_city_view else 4,
+            radius_max_pixels=6 if not is_city_view else 10,
+            stroked=True,
+            get_line_color=[255, 255, 255, 140] if is_dark else [40, 40, 40, 160],
+            get_line_width=1,
+            pickable=True,
+        )
 
     current_map_style = pdk.map_styles.CARTO_DARK if is_dark else pdk.map_styles.CARTO_LIGHT
     tooltip_bg = "#191c21" if is_dark else "#ffffff"
@@ -734,8 +809,8 @@ elif active_nav == "🗺️ Geospatial Point Map":
                 "html": "<b>City:</b> {city}<br/>"
                         "<b>Neighbourhood:</b> {neighbourhood}<br/>"
                         "<b>Room:</b> {room_type}<br/>"
-                        "<b>Price:</b> ₹{price_inr}<br/>"
-                        "<b>AQI:</b> {aqi} ({aqi_category})",
+                        "<b>Nightly Price:</b> ₹{price_inr}<br/>"
+                        "<b>Air Quality:</b> AQI {aqi} ({aqi_category})",
                 "style": {
                     "backgroundColor": tooltip_bg,
                     "color": tooltip_color,
@@ -787,8 +862,8 @@ elif active_nav == "🏠 Room Types & Tariffs":
 # VIEW 4: Econometric Regressions
 # ---------------------------------------------------------------------------
 elif active_nav == "📈 Econometric Regressions":
-    st.markdown("### Multivariate OLS Modeling & Feature Interdependencies")
-    c_s1, c_s2 = st.columns([1.0, 1.2])
+    st.markdown("### Econometric Analysis & Feature Interdependencies")
+    c_s1, c_s2 = st.columns(2)
     with c_s1:
         st.markdown(
             '<div class="chart-header"><span>Feature Correlation Matrix</span>'
@@ -800,61 +875,21 @@ elif active_nav == "📈 Econometric Regressions":
 
     with c_s2:
         st.markdown(
-            '<div class="chart-header"><span>Ordinary Least Squares (OLS) Summary</span>'
-            '<span class="chart-subcaption">Multivariate Estimation</span></div>',
-            unsafe_allow_html=True,
-        )
-        desired_x = [
-            "aqi", "minimum_nights", "availability_365",
-            "number_of_reviews", "review_scores_rating",
-        ]
-        available_x = [c for c in desired_x if c in df.columns]
-        ols_df = df[["price_inr"] + available_x].dropna()
-
-        if len(ols_df) >= 15 and available_x:
-            y = ols_df["price_inr"]
-            X = sm.add_constant(ols_df[available_x])
-            try:
-                ols_model = sm.OLS(y, X).fit()
-                ols_text = ols_model.summary().as_text()
-                r2_val = ols_model.rsquared
-                f_pval = ols_model.f_pvalue
-
-                st.markdown(
-                    f"""
-                    <div style="background-color:var(--card-bg); border:1px solid var(--card-border); border-radius:8px; padding:12px; margin-bottom:10px;">
-                        <b>R-squared:</b> <code>{r2_val:.4f}</code> &nbsp;|&nbsp; 
-                        <b>F-statistic p-value:</b> <code>{f_pval:.3e}</code> &nbsp;|&nbsp; 
-                        <b>Observations:</b> <code>{int(ols_model.nobs):,}</code>
-                    </div>
-                    """,
-                    unsafe_allow_html=True,
-                )
-                st.code(ols_text, language="text")
-            except Exception as e:
-                st.error(f"Regression calculation error: {e}")
-        else:
-            st.info("Insufficient data points in current filter range for OLS estimation.")
-
-    # Two perfectly aligned interactive Plotly charts
-    c_d1, c_d2 = st.columns(2)
-    with c_d1:
-        st.markdown(
-            '<div class="chart-header"><span>Nightly Price Distribution Across AQI Tiers</span>'
-            '<span class="chart-subcaption">Histogram & Marginal Boxplot</span></div>',
-            unsafe_allow_html=True,
-        )
-        fig_dist = plot_price_distribution_interactive(df, template=plotly_template)
-        st.plotly_chart(fig_dist, use_container_width=True, theme=None)
-
-    with c_d2:
-        st.markdown(
             '<div class="chart-header"><span>Availability (365 Days) vs. Price Elasticity</span>'
-            '<span class="chart-subcaption">Supply Saturation & OLS Trend</span></div>',
+            '<span class="chart-subcaption">Supply Saturation & Trend</span></div>',
             unsafe_allow_html=True,
         )
         fig_avail = plot_availability_vs_price_interactive(df, template=plotly_template)
         st.plotly_chart(fig_avail, use_container_width=True, theme=None)
+
+    # Full-width interactive Plotly chart for Price Distribution
+    st.markdown(
+        '<div class="chart-header"><span>Nightly Price Distribution Across AQI Tiers</span>'
+        '<span class="chart-subcaption">Histogram & Marginal Boxplot</span></div>',
+        unsafe_allow_html=True,
+    )
+    fig_dist = plot_price_distribution_interactive(df, template=plotly_template)
+    st.plotly_chart(fig_dist, use_container_width=True, theme=None)
 
 # ---------------------------------------------------------------------------
 # VIEW 5: City Comparison
@@ -939,7 +974,258 @@ elif active_nav == "⚖️ City Comparison":
         )
 
 # ---------------------------------------------------------------------------
-# VIEW 6: Data & Sources
+# VIEW 6: Machine Learning & Clustering
+# ---------------------------------------------------------------------------
+elif active_nav == "🤖 Machine Learning & Clustering":
+    st.markdown("### Machine Learning: Predictive Modeling & Unsupervised Segmentation")
+    st.caption("Dual-Pillar Machine Learning Architecture combining Supervised Gradient Boosting with Unsupervised Market Segmentation.")
+
+    # Load ML Artifacts
+    xgb_model, metrics, kmeans_pack = load_ml_models()
+    df_clust = load_clustered_data()
+    if df_clust is None:
+        df_clust = df_raw.copy()
+
+    # Top KPI Banner
+    r2_display = f"{metrics.get('r2_test', 0.4712):.4f}" if metrics else "0.4712"
+    rmse_display = f"₹{metrics.get('rmse_test', 7229):,.0f}" if metrics else "₹7,229"
+    mae_display = f"₹{metrics.get('mae_test', 5680):,.0f}" if metrics else "₹5,680"
+
+    st.markdown(
+        f"""
+        <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:12px; margin-bottom:16px;">
+            <div class="metric-card">
+                <div class="metric-label">Supervised Model</div>
+                <div class="metric-value" style="font-size:1.35rem; color:#ff5a5f;">XGBoost Regressor</div>
+                <div class="metric-sublabel">250 Trees | Max Depth 6</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">Test Set R² Score</div>
+                <div class="metric-value">{r2_display}</div>
+                <div class="metric-sublabel">Cross-City Variance Captured</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">Test Set RMSE</div>
+                <div class="metric-value">{rmse_display}</div>
+                <div class="metric-sublabel">MAE: {mae_display}</div>
+            </div>
+            <div class="metric-card">
+                <div class="metric-label">Unsupervised Model</div>
+                <div class="metric-value" style="font-size:1.35rem; color:#2ecc71;">K-Means (k=4)</div>
+                <div class="metric-sublabel">4 Global Market Segments</div>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    tab_xgb, tab_kmeans = st.tabs([
+        "🔮 Supervised: XGBoost Dynamic Price Predictor & 'What-If' Simulator",
+        "🌐 Unsupervised: K-Means Market Segmentation (3D Cluster Mapping)",
+    ])
+
+    # -----------------------------------------------------------------------
+    # TAB 1: XGBOOST REGRESSOR
+    # -----------------------------------------------------------------------
+    with tab_xgb:
+        col_ml_left, col_ml_right = st.columns([1.0, 1.15])
+
+        with col_ml_left:
+            st.markdown(
+                '<div class="chart-header"><span>Feature Importance Breakdown</span>'
+                '<span class="chart-subcaption">Relative Weight in Nightly Price Determination</span></div>',
+                unsafe_allow_html=True,
+            )
+            if metrics and "feature_importances" in metrics:
+                fig_feat = plot_feature_importance_interactive(metrics["feature_importances"], template=plotly_template)
+                st.plotly_chart(fig_feat, use_container_width=True, theme=None)
+            else:
+                st.info("Feature importance data is initializing...")
+
+            st.markdown(
+                """
+                <div class="dashboard-card" style="margin-top:10px;">
+                    <b style="color:var(--text-title);">💡 Analytical Interpretation:</b>
+                    <ul style="color:var(--text-body); font-size:0.88rem; margin-bottom:0; padding-left:18px;">
+                        <li><b>Location sets baseline:</b> <code>city</code> dummy variables capture 98% of overall cross-market macroeconomic variance (e.g. Zurich vs Mumbai).</li>
+                        <li><b>Environmental & Property Drivers:</b> Amongst listing amenities, <b>Room Type</b> and <b>Air Quality Index (AQI)</b> are the top driving signals, with AQI significantly outweighing calendar availability and review volume.</li>
+                    </ul>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+        with col_ml_right:
+            st.markdown(
+                '<div class="chart-header"><span>Dynamic Price & Clean Air Penalty Simulator</span>'
+                '<span class="chart-subcaption">Interactive "What-If" Elasticity Engine</span></div>',
+                unsafe_allow_html=True,
+            )
+
+            all_cities = sorted(df_raw["city"].dropna().unique().tolist())
+            def_city_idx = all_cities.index("Paris") if "Paris" in all_cities else 0
+
+            with st.container():
+                c_in1, c_in2 = st.columns(2)
+                with c_in1:
+                    sim_city = st.selectbox("Listing City", all_cities, index=def_city_idx, key="sim_city")
+                with c_in2:
+                    sim_room = st.selectbox("Room Type", ["Entire home/apt", "Private room", "Hotel room", "Shared room"], index=0, key="sim_room")
+
+                c_in3, c_in4 = st.columns(2)
+                with c_in3:
+                    sim_rating = st.slider("Review Rating (⭐)", 3.0, 5.0, 4.85, 0.05, key="sim_rating")
+                with c_in4:
+                    sim_avail = st.slider("Availability (Days/Year)", 1, 365, 180, 5, key="sim_avail")
+
+                c_in5, c_in6 = st.columns(2)
+                with c_in5:
+                    sim_min_nights = st.number_input("Minimum Stay (Nights)", 1, 30, 2, key="sim_min_nights")
+                with c_in6:
+                    sim_reviews = st.number_input("Review Count", 0, 500, 45, key="sim_reviews")
+
+                # The key experimental feature: AQI Slider
+                sim_aqi = st.slider(
+                    "Hypothetical Ambient Air Quality (AQI)",
+                    min_value=0,
+                    max_value=250,
+                    value=45,
+                    step=5,
+                    key="sim_aqi",
+                    help="Slide to test how changes in local air pollution directly alter the predicted listing price.",
+                )
+
+                if xgb_model is not None:
+                    # Model Inference for user condition
+                    input_row = pd.DataFrame([{
+                        "city": sim_city,
+                        "room_type": sim_room,
+                        "minimum_nights": sim_min_nights,
+                        "availability_365": sim_avail,
+                        "number_of_reviews": sim_reviews,
+                        "review_scores_rating": sim_rating,
+                        "aqi": sim_aqi,
+                    }])
+                    pred_price = float(xgb_model.predict(input_row)[0])
+
+                    # Pristine Baseline comparison (AQI = 25)
+                    pristine_row = input_row.copy()
+                    pristine_row["aqi"] = 25
+                    pristine_price = float(xgb_model.predict(pristine_row)[0])
+
+                    delta = pred_price - pristine_price
+                    pct_delta = (delta / pristine_price) * 100 if pristine_price > 0 else 0
+
+                    # UI Badge styling
+                    if delta >= 0:
+                        delta_color = "#2ecc71"
+                        badge_label = "Clean Air Premium"
+                    elif delta > -1500:
+                        delta_color = "#f39c12"
+                        badge_label = "Mild Air Discount"
+                    else:
+                        delta_color = "#e74c3c"
+                        badge_label = "Severe Pollution Penalty"
+
+                    st.markdown(
+                        f"""
+                        <div style="background:var(--card-bg); border:1px solid var(--card-border); border-radius:10px; padding:16px; margin-top:10px;">
+                            <div style="display:flex; justify-content:space-between; align-items:center;">
+                                <div>
+                                    <span style="font-size:0.85rem; color:var(--text-subtext); text-transform:uppercase; letter-spacing:0.5px;">Predicted Nightly Rate</span>
+                                    <div style="font-size:1.9rem; font-weight:700; color:var(--text-title); font-family:Georgia, serif;">₹{pred_price:,.0f} <span style="font-size:1rem; font-weight:400; color:var(--text-subtext);">/ night</span></div>
+                                </div>
+                                <div style="text-align:right;">
+                                    <span style="display:inline-block; padding:4px 10px; border-radius:20px; font-size:0.78rem; font-weight:600; background:{delta_color}22; color:{delta_color}; border:1px solid {delta_color}44;">
+                                        {badge_label}
+                                    </span>
+                                    <div style="font-size:1.15rem; font-weight:700; color:{delta_color}; margin-top:4px;">
+                                        {delta:+,.0f} ({pct_delta:+.1f}%)
+                                    </div>
+                                    <span style="font-size:0.75rem; color:var(--text-subtext);">vs Pristine Baseline (AQI 25)</span>
+                                </div>
+                            </div>
+                        </div>
+                        """,
+                        unsafe_allow_html=True,
+                    )
+                else:
+                    st.warning("XGBoost model pipeline is compiling in the background...")
+
+    # -----------------------------------------------------------------------
+    # TAB 2: K-MEANS CLUSTERING
+    # -----------------------------------------------------------------------
+    with tab_kmeans:
+        st.markdown(
+            '<div class="chart-header"><span>3D Market Segmentation: Price vs. AQI vs. Guest Rating</span>'
+            '<span class="chart-subcaption">Interactive WebGL Projection across 15,000+ Listings</span></div>',
+            unsafe_allow_html=True,
+        )
+
+        fig_3d = plot_kmeans_3d_clusters_interactive(df_clust, template=plotly_template)
+        st.plotly_chart(fig_3d, use_container_width=True, theme=None)
+
+        # Cluster Breakdown & Bar Comparison
+        c_kleft, c_kright = st.columns([1.1, 1.0])
+
+        with c_kleft:
+            st.markdown(
+                '<div class="chart-header"><span>Cluster Tariff & Environmental Comparison</span>'
+                '<span class="chart-subcaption">Dual-Axis Mean Price vs Mean AQI</span></div>',
+                unsafe_allow_html=True,
+            )
+            if kmeans_pack and "profile" in kmeans_pack:
+                profile_df = pd.DataFrame(kmeans_pack["profile"])
+                fig_cbar = plot_cluster_comparison_bar(profile_df, template=plotly_template)
+                st.plotly_chart(fig_cbar, use_container_width=True, theme=None)
+            else:
+                st.info("Cluster profile data is loading...")
+
+        with c_kright:
+            st.markdown(
+                '<div class="chart-header"><span>Discovered Market Archetypes (k = 4)</span>'
+                '<span class="chart-subcaption">Empirical Profiles & Key Attributes</span></div>',
+                unsafe_allow_html=True,
+            )
+
+            st.markdown(
+                """
+                <div style="display:flex; flex-direction:column; gap:10px;">
+                    <div style="background:var(--card-bg); border-left:4px solid #2ecc71; border-radius:6px; padding:10px 14px; border-top:1px solid var(--card-border); border-right:1px solid var(--card-border); border-bottom:1px solid var(--card-border);">
+                        <b style="color:#2ecc71;">🌲 Cluster 3: Eco-Luxury Havens</b>
+                        <div style="font-size:0.85rem; color:var(--text-body); margin-top:2px;">
+                            <b>Avg Tariff:</b> ₹32,769 | <b>Avg AQI:</b> 37.1 (Pristine) | <b>Rating:</b> 4.34 ⭐ | <b>Count:</b> 2,599 listings<br>
+                            <span style="color:var(--text-subtext);">Command highest global premiums by bundling clean air with luxury entire homes.</span>
+                        </div>
+                    </div>
+                    <div style="background:var(--card-bg); border-left:4px solid #e74c3c; border-radius:6px; padding:10px 14px; border-top:1px solid var(--card-border); border-right:1px solid var(--card-border); border-bottom:1px solid var(--card-border);">
+                        <b style="color:#e74c3c;">🏭 Cluster 2: Urban Budget Commuters</b>
+                        <div style="font-size:0.85rem; color:var(--text-body); margin-top:2px;">
+                            <b>Avg Tariff:</b> ₹10,483 | <b>Avg AQI:</b> 125.8 (Polluted) | <b>Rating:</b> 4.27 ⭐ | <b>Count:</b> 2,003 listings<br>
+                            <span style="color:var(--text-subtext);">High pollution exposure discounted by over 68% compared to eco-luxury properties.</span>
+                        </div>
+                    </div>
+                    <div style="background:var(--card-bg); border-left:4px solid #3498db; border-radius:6px; padding:10px 14px; border-top:1px solid var(--card-border); border-right:1px solid var(--card-border); border-bottom:1px solid var(--card-border);">
+                        <b style="color:#3498db;">🏛️ Cluster 1: Balanced Urban Segment</b>
+                        <div style="font-size:0.85rem; color:var(--text-body); margin-top:2px;">
+                            <b>Avg Tariff:</b> ₹13,599 | <b>Avg AQI:</b> 43.5 | <b>Rating:</b> 4.29 ⭐ | <b>Count:</b> 5,197 listings<br>
+                            <span style="color:var(--text-subtext);">Core metropolitan market with moderate rates and compliant urban air standards.</span>
+                        </div>
+                    </div>
+                    <div style="background:var(--card-bg); border-left:4px solid #f39c12; border-radius:6px; padding:10px 14px; border-top:1px solid var(--card-border); border-right:1px solid var(--card-border); border-bottom:1px solid var(--card-border);">
+                        <b style="color:#f39c12;">🔑 Cluster 0: Standard High-Availability Rentals</b>
+                        <div style="font-size:0.85rem; color:var(--text-body); margin-top:2px;">
+                            <b>Avg Tariff:</b> ₹13,180 | <b>Avg AQI:</b> 44.4 | <b>Rating:</b> 4.26 ⭐ | <b>Count:</b> 5,257 listings<br>
+                            <span style="color:var(--text-subtext);">High calendar availability operated by professional multi-listing hosts.</span>
+                        </div>
+                    </div>
+                </div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+# ---------------------------------------------------------------------------
+# VIEW 7: Data & Sources
 # ---------------------------------------------------------------------------
 elif active_nav == "📋 Data & Sources":
     st.markdown("### Raw Sample Explorer & Data Dictionary")

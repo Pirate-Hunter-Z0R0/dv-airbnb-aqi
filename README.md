@@ -82,18 +82,29 @@ clean-air-airbnb/
 ├── app/
 │   ├── main.py              # Streamlit dashboard (Inside Airbnb design)
 │   ├── interactive_viz.py   # Interactive Plotly charts (zoom, pan, hover)
+│   ├── live_aqi_service.py  # Live Open-Meteo Air Quality REST API service
 │   └── viz_modules.py       # Seaborn & Matplotlib figure generators
 ├── data/
+│   ├── images/              # System diagrams and visual snapshots
 │   ├── raw/                 # 45 individual city CSV files
 │   └── processed/
-│       └── merged_listings.csv  # 16,050 listings, INR-converted, imputed
+│       ├── merged_listings.csv    # 16,050 listings, INR-converted, imputed
+│       └── clustered_listings.csv # Listings with K-Means market archetypes
+├── models/
+│   ├── xgboost_price_pipeline.joblib # Trained XGBoost regression pipeline
+│   ├── kmeans_pipeline.joblib        # Trained K-Means clustering pipeline
+│   └── xgboost_metrics.json          # R², RMSE, MAE & feature importance
 ├── notebooks/
 │   ├── 01_cleaning_and_imputation.ipynb
 │   └── 02_eda_and_stats.ipynb
 ├── scripts/
 │   ├── currency_converter.py      # Multi-currency to INR conversion map
 │   ├── data_merger.py             # Schema standardization & ETL merge
-│   └── generate_synthetic_data.py # Synthetic raw dataset generator
+│   ├── generate_synthetic_data.py # Synthetic raw dataset generator
+│   └── ml_pipeline.py             # Dual-pillar ML training & evaluation
+├── Data_Visualization_Report_Paying_for_Clean_Air.docx # Academic Seminar Report (15 pages)
+├── Paying_for_Clean_Air_Presentation.pptx            # 12-slide Executive Seminar Presentation
+├── Presentation_Guide_and_Walkthrough.md             # Guide & Viva Defense Manual
 ├── requirements.txt         # Project Python dependencies
 └── README.md                # Project documentation
 ```
@@ -101,8 +112,10 @@ clean-air-airbnb/
 ---
 
 ## 🌟 Key Features of the Dashboard
-1. **Interactive Geospatial Map**: Geo-referenced listing coordinates with AQI color tags.
-2. **Clean Air Premium Analysis**: Interactive scatter plot with dynamic OLS regression fit testing $H_1$.
-3. **Head-to-Head City Comparison**: Compare any 2 of the 45 cities and view the top-rated stays in clean-air zones.
-4. **Manual Filters**: Precise numeric inputs for AQI and Price (INR) along with Room Type selectors.
-5. **Theme-Aware Styling**: Seamless readability in both Light and Dark modes.
+1. **🏙️ 3D WebGL Geospatial Map**: Hardware-accelerated Deck.gl projection with 3D extruded pillars (Height = Nightly Price in ₹, Color = AQI tier) and 360° orbit controls.
+2. **📡 Live Air Quality Telemetry**: Real-time satellite & ground sensor feed querying the Open-Meteo Air Quality REST API on demand.
+3. **🔮 Supervised XGBoost Price Simulator**: Interactive "What-If" elasticity simulator calculating the monetary penalty/premium of air quality against pristine air (AQI 25).
+4. **🌐 Unsupervised K-Means Market Segmentation**: 3D WebGL cluster mapping across 4 global archetypes (Eco-Luxury Havens vs Urban Budget Commuters).
+5. **💎 Clean Air Premium Analysis**: Interactive scatter plot with OLS regression fit testing the clean air valuation hypothesis.
+6. **⚖️ Head-to-Head City Comparison**: Compare any 2 of the 45 cities and view top-rated stays in clean-air zones.
+7. **🌗 Dual-Theming Architecture**: 100% font contrast in both Sleek Dark Mode and Pure White Light Mode.

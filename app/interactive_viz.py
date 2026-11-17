@@ -56,21 +56,22 @@ def plot_price_vs_aqi_interactive(df: pd.DataFrame, template: str = "plotly_dark
         y="price_inr",
         color="aqi_category",
         color_discrete_map=_AQI_COLOR_MAP,
+        opacity=0.7,
         hover_data={"city": True, "neighbourhood": True, "room_type": True, "aqi": True, "price_inr": ":,.0f"},
         labels={"aqi": "Air Quality Index (AQI)", "price_inr": "Nightly Price (₹ INR)", "aqi_category": "Air Quality"},
         template=template,
     )
 
-    # Add linear regression trendline
+    # Add linear regression trendline in front using Scattergl
     x_range = np.linspace(sub["aqi"].min(), sub["aqi"].max(), 100)
     y_pred = slope * x_range + intercept
     fig.add_trace(
-        go.Scatter(
+        go.Scattergl(
             x=x_range,
             y=y_pred,
             mode="lines",
             name="OLS Fit",
-            line=dict(color="#e74c3c", width=2.5, dash="dash"),
+            line=dict(color="#e74c3c", width=3.5, dash="dash"),
             hoverinfo="skip",
         )
     )
@@ -364,16 +365,16 @@ def plot_availability_vs_price_interactive(df: pd.DataFrame, template: str = "pl
         template=template,
     )
 
-    # Add linear regression trendline
+    # Add linear regression trendline in front using Scattergl
     x_range = np.linspace(sub["availability_365"].min(), sub["availability_365"].max(), 100)
     y_pred = slope * x_range + intercept
     fig.add_trace(
-        go.Scatter(
+        go.Scattergl(
             x=x_range,
             y=y_pred,
             mode="lines",
             name="OLS Fit",
-            line=dict(color="#c0392b", width=2.5, dash="dash"),
+            line=dict(color="#c0392b", width=3.5, dash="dash"),
             hoverinfo="skip",
         )
     )
@@ -457,3 +458,174 @@ def plot_correlation_heatmap_interactive(df: pd.DataFrame, template: str = "plot
         margin=dict(l=50, r=40, t=25, b=50),
     )
     return fig
+
+
+def plot_feature_importance_interactive(importance_dict: dict, template: str = "plotly_dark") -> go.Figure:
+    """Horizontal bar chart of XGBoost Feature Importances."""
+    tc = _get_theme_colors(template)
+    
+    # Prettify labels
+    name_map = {
+        "city": "City Location (45 Global Metros)",
+        "room_type": "Room Type (Entire/Private/Shared)",
+        "aqi": "Air Quality Index (AQI)",
+        "review_scores_rating": "Guest Review Rating",
+        "availability_365": "Annual Calendar Availability",
+        "number_of_reviews": "Total Reviews Count",
+        "minimum_nights": "Minimum Stay Requirement",
+    }
+    
+    features = [name_map.get(k, k) for k in list(importance_dict.keys())[::-1]]
+    values = list(importance_dict.values())[::-1]
+    
+    # Highlight AQI with a distinctive accent color
+    colors = ["#ff5a5f" if "AQI" in f else ("#3b82f6" if tc["is_dark"] else "#2563eb") for f in features]
+    
+    fig = go.Figure(
+        go.Bar(
+            x=values,
+            y=features,
+            orientation="h",
+            marker=dict(color=colors, line=dict(width=0)),
+            text=[f"{v:.2f}%" for v in values],
+            textposition="outside",
+            cliponaxis=False,
+        )
+    )
+    fig.update_layout(
+        template=template,
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        xaxis=dict(
+            title="Relative Importance Weight (%)",
+            gridcolor=tc["grid_col"],
+            zerolinecolor=tc["line_col"],
+        ),
+        yaxis=dict(gridcolor=tc["grid_col"]),
+        margin=dict(l=10, r=40, t=30, b=40),
+        height=350,
+    )
+    return fig
+
+
+def plot_kmeans_3d_clusters_interactive(df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
+    """3D Plotly Scatter Plot of K-Means Listing Archetypes."""
+    tc = _get_theme_colors(template)
+    
+    # Sample down to 2,000 points if dataframe is large for smooth 60fps WebGL 3D rendering
+    plot_df = df.sample(n=min(len(df), 2500), random_state=42) if len(df) > 2500 else df
+    
+    color_map = {
+        "Eco-Luxury Havens (Clean Air & High Rate)": "#2ecc71",
+        "Urban Budget Commuters (High AQI / Budget)": "#e74c3c",
+        "Cluster 1 (Balanced Urban Segment)": "#3498db",
+        "Standard High-Availability Rentals": "#f39c12",
+    }
+    
+    fig = px.scatter_3d(
+        plot_df,
+        x="aqi",
+        y="price_inr",
+        z="review_scores_rating",
+        color="archetype",
+        color_discrete_map=color_map,
+        labels={
+            "aqi": "Air Quality (AQI)",
+            "price_inr": "Nightly Price (₹ INR)",
+            "review_scores_rating": "Review Rating (1-5)",
+            "archetype": "Market Archetype",
+        },
+        hover_data={"city": True, "room_type": True, "availability_365": True},
+        opacity=0.72,
+        template=template,
+    )
+    fig.update_traces(marker=dict(size=3.5))
+    fig.update_layout(
+        paper_bgcolor=tc["paper_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        scene=dict(
+            xaxis=dict(title="Air Quality (AQI)", backgroundcolor=tc["plot_bg"], gridcolor=tc["grid_col"]),
+            yaxis=dict(title="Nightly Price (₹)", backgroundcolor=tc["plot_bg"], gridcolor=tc["grid_col"]),
+            zaxis=dict(title="Rating", backgroundcolor=tc["plot_bg"], gridcolor=tc["grid_col"]),
+        ),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-0.15,
+            xanchor="center",
+            x=0.5,
+            bgcolor="rgba(0,0,0,0)",
+        ),
+        margin=dict(l=0, r=0, t=10, b=20),
+        height=550,
+    )
+    return fig
+
+
+def plot_cluster_comparison_bar(profile_df: pd.DataFrame, template: str = "plotly_dark") -> go.Figure:
+    """Grouped bar chart comparing Cluster Mean Price vs Mean AQI."""
+    tc = _get_theme_colors(template)
+    
+    # Sort by price descending
+    df_sorted = profile_df.sort_values(by="price_inr", ascending=False).copy()
+    
+    # Shorten names for clean x-axis
+    df_sorted["short_name"] = df_sorted["archetype"].apply(
+        lambda s: s.split("(")[0].strip() if "(" in str(s) else str(s)
+    )
+    
+    fig = go.Figure()
+    fig.add_trace(
+        go.Bar(
+            x=df_sorted["short_name"],
+            y=df_sorted["price_inr"],
+            name="Mean Price (₹ INR)",
+            marker_color="#ff5a5f",
+            yaxis="y",
+            text=[f"₹{p:,.0f}" for p in df_sorted["price_inr"]],
+            textposition="auto",
+        )
+    )
+    fig.add_trace(
+        go.Bar(
+            x=df_sorted["short_name"],
+            y=df_sorted["aqi"],
+            name="Mean AQI (Pollution)",
+            marker_color="#f59e0b" if tc["is_dark"] else "#d97706",
+            yaxis="y2",
+            text=[f"AQI {a:.1f}" for a in df_sorted["aqi"]],
+            textposition="auto",
+        )
+    )
+    fig.update_layout(
+        template=template,
+        paper_bgcolor=tc["paper_bg"],
+        plot_bgcolor=tc["plot_bg"],
+        font=dict(color=tc["text_col"], family="Inter, sans-serif"),
+        barmode="group",
+        yaxis=dict(
+            title=dict(text="Mean Nightly Price (₹ INR)", font=dict(color="#ff5a5f")),
+            tickfont=dict(color="#ff5a5f"),
+            gridcolor=tc["grid_col"],
+        ),
+        yaxis2=dict(
+            title=dict(text="Mean AQI Index", font=dict(color="#d97706")),
+            tickfont=dict(color="#d97706"),
+            overlaying="y",
+            side="right",
+            gridcolor="rgba(0,0,0,0)",
+        ),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=1.02,
+            xanchor="right",
+            x=1,
+            bgcolor="rgba(0,0,0,0)",
+        ),
+        margin=dict(l=40, r=40, t=30, b=40),
+        height=380,
+    )
+    return fig
+

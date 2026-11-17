@@ -1,0 +1,15 @@
+{
+  "r2_test": 0.4712,
+  "r2_train": 0.6346,
+  "rmse_test": 7229.47,
+  "mae_test": 5680.21,
+  "feature_importances": {
+    "city": 98.23,
+    "room_type": 0.52,
+    "aqi": 0.4,
+    "review_scores_rating": 0.24,
+    "availability_365": 0.21,
+    "number_of_reviews": 0.2,
+    "minimum_nights": 0.2
+  }
+}

@@ -1,18 +1,49 @@
-# Python Cache & Environments
+# Python Bytecode & Cache
 __pycache__/
 *.py[cod]
 *$py.class
-venv/
-env/
-.env
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
 
-# Streamlit Local Cache
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+*.env
+
+# Streamlit Local Cache & Config
 .streamlit/
 
-# Node / Frontend (if not sharing React stack)
+# Node / Frontend Build & Dependencies
+node_modules/
+**/node_modules/
 frontend/node_modules/
 frontend/dist/
+dist/
+build/
+.npm
 
-# OS Specific
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# OS Specific & Temp Files
 .DS_Store
 Thumbs.db
+desktop.ini
+*.tmp
+*.log
+
