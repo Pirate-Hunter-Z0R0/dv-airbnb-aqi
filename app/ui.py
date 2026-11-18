@@ -232,6 +232,32 @@ def inject_css(dark: bool = False) -> None:
     border-radius: 0.75rem !important;
     box-shadow: {card_shadow} !important;
   }}
+
+  /* All Graphs & Charts: Thin Outline Border Cards */
+  [data-testid='stPlotlyChart'],
+  .stPlotlyChart {{
+    background-color: {card_bg} !important;
+    border: 1px solid {border_subtle} !important;
+    border-radius: 0.75rem !important;
+    box-shadow: {card_shadow} !important;
+    padding: 0.6rem 0.5rem 0.25rem 0.5rem !important;
+    overflow: hidden !important;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease !important;
+  }}
+  [data-testid='stPlotlyChart']:hover,
+  .stPlotlyChart:hover {{
+    border-color: {border_strong} !important;
+  }}
+
+  [data-testid='stDeckGlChart'],
+  .stDeckGlChart {{
+    background-color: {card_bg} !important;
+    border: 1px solid {border_subtle} !important;
+    border-radius: 0.75rem !important;
+    box-shadow: {card_shadow} !important;
+    overflow: hidden !important;
+  }}
+
   [data-testid='stMetric'] {{
     background-color: {card_bg} !important;
   }}
