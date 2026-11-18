@@ -37,6 +37,7 @@ from interactive_viz import (  # noqa: E402
     plot_room_type_by_city,
     plot_room_type_interactive,
     regression_summary,
+    within_city_aqi_summary,
 )
 
 st.set_page_config(
@@ -45,7 +46,8 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
-ui.inject_css()
+st.session_state.setdefault("dark_mode", False)
+ui.inject_css(dark=st.session_state["dark_mode"])
 
 ALL = "All cities"
 DATA_PATH = ROOT / "data" / "processed" / "merged_listings.csv"
@@ -54,7 +56,49 @@ MODELS_DIR = ROOT / "models"
 
 
 def chart(fig) -> None:
-    st.plotly_chart(fig, width="stretch", theme="streamlit", config={"displaylogo": False})
+    dark = st.session_state["dark_mode"]
+    fig.update_layout(template="plotly_dark" if dark else "plotly_white")
+    fig.update_layout(
+        paper_bgcolor="rgba(0,0,0,0)",
+        plot_bgcolor="rgba(0,0,0,0)",
+        font=dict(
+            color="#ECEAE4" if dark else "#0F172A",
+            family="Geist, -apple-system, BlinkMacSystemFont, sans-serif",
+        ),
+        margin=dict(l=10, r=12, t=36 if fig.layout.showlegend else 14, b=10),
+    )
+    if not dark:
+        fig.update_xaxes(
+            gridcolor="rgba(0,0,0,0.06)",
+            zerolinecolor="rgba(0,0,0,0.12)",
+            tickfont=dict(color="#475569"),
+            title_font=dict(color="#0F172A"),
+        )
+        fig.update_yaxes(
+            gridcolor="rgba(0,0,0,0.06)",
+            zerolinecolor="rgba(0,0,0,0.12)",
+            tickfont=dict(color="#475569"),
+            title_font=dict(color="#0F172A"),
+        )
+        fig.update_layout(
+            hoverlabel=dict(
+                bgcolor="#FFFFFF",
+                font_color="#0F172A",
+                bordercolor="#E2E8F0",
+                font_size=12,
+            ),
+        )
+    if hasattr(fig.layout, "scene") and fig.layout.scene is not None:
+        grid_col = "rgba(255,255,255,0.08)" if dark else "rgba(0,0,0,0.08)"
+        bg_col = "rgba(0,0,0,0)"
+        fig.update_layout(
+            scene=dict(
+                xaxis=dict(gridcolor=grid_col, backgroundcolor=bg_col),
+                yaxis=dict(gridcolor=grid_col, backgroundcolor=bg_col),
+                zaxis=dict(gridcolor=grid_col, backgroundcolor=bg_col),
+            )
+        )
+    st.plotly_chart(fig, width="stretch", theme=None, config={"displaylogo": False})
 
 
 # ---------------------------------------------------------------------------
@@ -116,6 +160,7 @@ def reset_filters() -> None:
 # ---------------------------------------------------------------------------
 with st.sidebar:
     ui.brand()
+    st.toggle("Dark mode", key="dark_mode", help="Switch the dashboard between light and dark themes.")
     st.selectbox("City", [ALL] + CITIES, key="f_city")
     st.pills("Room type", ROOM_TYPES, selection_mode="multi", key="f_rooms")
     st.slider("AQI", 0, AQI_MAX, key="f_aqi", help="US EPA scale: 0–50 good, 51–100 moderate, 101+ unhealthy for some or all.")
@@ -176,10 +221,42 @@ def overview() -> None:
         sig = "statistically significant" if fit["p"] < 0.05 else "not statistically significant"
         p_text = "< 0.001" if fit["p"] < 0.001 else f"= {fit['p']:.3f}"
         ui.finding(
-            "Key finding",
+            "Pooled association",
             f"Every 10 extra AQI points goes with a nightly price about <b>₹{abs(per10):,.0f} {direction}</b>.",
             f"Linear fit over {fit['n']:,} listings · r = {fit['r']:.2f} · {sig} (p {p_text}). "
-            "Correlation, not causation: city wealth drives both.",
+            "This pooled comparison mixes within-city patterns with differences between cities; it is not causal.",
+        )
+
+    within, city_estimates = within_city_aqi_summary(df)
+    with st.container(border=True):
+        st.subheader("Comparing listings within cities")
+        st.caption(
+            "This comparison subtracts each city's average AQI and price first. "
+            "It asks whether listings with higher-than-usual AQI in their own city also have higher or lower-than-usual prices."
+        )
+        if within is not None:
+            per10 = within["slope_per_10_aqi"]
+            direction = "lower" if per10 < 0 else "higher"
+            st.metric(
+                "Within-city price difference per 10 AQI points",
+                f"₹{abs(per10):,.0f} {direction}",
+                help="Descriptive pooled slope after removing each city's average. This is an association, not a causal effect.",
+            )
+            st.caption(
+                f"Uses {within['listings']:,} listings across {within['cities']} cities with AQI variation. "
+                "Unlike the pooled result above, between-city price levels do not determine this slope."
+            )
+        else:
+            st.info("There is not enough variation across multiple cities in the current filtered data for a pooled within-city comparison.")
+        if not city_estimates.empty:
+            st.markdown("**Per-city estimates**")
+            shown = city_estimates.copy()
+            shown["Price difference per 10 AQI points (₹)"] = shown.pop("slope_per_10_aqi").map(lambda v: f"{v:+,.0f}")
+            shown = shown.rename(columns={"city": "City", "listings": "Listings"})
+            st.dataframe(shown, hide_index=True, width="stretch")
+        st.caption(
+            "City estimates are shown only where at least three listings and two distinct AQI values are available. "
+            "These simple comparisons do not control for room type, neighborhood, or other listing differences."
         )
 
     if city != ALL:
@@ -242,7 +319,7 @@ def map_page() -> None:
                           get_radius=40 if city_view else 600, radius_min_pixels=2.5, radius_max_pixels=9,
                           stroked=False, pickable=True, auto_highlight=True)
 
-    dark = st.context.theme.type == "dark"
+    dark = st.session_state["dark_mode"]
     st.pydeck_chart(
         pdk.Deck(
             layers=[layer],
@@ -250,8 +327,9 @@ def map_page() -> None:
             map_style=pdk.map_styles.CARTO_DARK if dark else pdk.map_styles.CARTO_LIGHT,
             tooltip={
                 "html": "<b>{neighbourhood}, {city}</b><br/>{room_type}<br/>{price_label} / night · AQI {aqi_label} ({aqi_category})",
-                "style": {"fontFamily": "Geist, sans-serif", "fontSize": "12px", "padding": "8px 10px", "borderRadius": "8px",
-                          "backgroundColor": "#1E1D1B" if dark else "#FFFFFF", "color": "#ECEAE4" if dark else "#1C1B19"},
+                "style": {"fontFamily": "Geist, sans-serif", "fontSize": "12px", "padding": "8px 12px", "borderRadius": "8px",
+                          "backgroundColor": "#1E1D1B" if dark else "#FFFFFF", "color": "#ECEAE4" if dark else "#0F172A",
+                          "border": "1px solid #302E2A" if dark else "1px solid #E2E8F0", "boxShadow": "0 4px 14px rgba(0,0,0,0.12)"},
             },
         ),
         height=560,

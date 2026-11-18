@@ -80,6 +80,46 @@ def regression_summary(df: pd.DataFrame, x: str = "aqi", y: str = "price_inr") -
     return {"slope": r.slope, "intercept": r.intercept, "r": r.rvalue, "p": r.pvalue, "n": len(sub)}
 
 
+def within_city_aqi_summary(df: pd.DataFrame) -> tuple[dict | None, pd.DataFrame]:
+    """Estimate the pooled AQI-price slope after removing each city's mean.
+
+    City centering compares listings relative to their own city's averages,
+    so differences in average prices between cities do not drive the slope.
+    Per-city slopes are returned for context; they are descriptive estimates.
+    """
+    sub = df[["city", "aqi", "price_inr"]].dropna().copy()
+    if sub.empty:
+        return None, pd.DataFrame(columns=["city", "slope_per_10_aqi", "listings"])
+
+    sub["aqi_centered"] = sub["aqi"] - sub.groupby("city")["aqi"].transform("mean")
+    sub["price_centered"] = sub["price_inr"] - sub.groupby("city")["price_inr"].transform("mean")
+    usable = sub["aqi_centered"].pow(2).sum()
+    if sub["city"].nunique() < 2 or usable == 0:
+        pooled = None
+    else:
+        slope = (sub["aqi_centered"] * sub["price_centered"]).sum() / usable
+        pooled = {
+            "slope_per_10_aqi": float(slope * 10),
+            "listings": int(len(sub)),
+            "cities": int(sub.loc[sub["aqi_centered"] != 0, "city"].nunique()),
+        }
+
+    city_rows = []
+    for city_name, group in sub.groupby("city"):
+        if len(group) < 3 or group["aqi"].nunique() < 2:
+            continue
+        fit = stats.linregress(group["aqi"], group["price_inr"])
+        city_rows.append({
+            "city": city_name,
+            "slope_per_10_aqi": float(fit.slope * 10),
+            "listings": int(len(group)),
+        })
+    estimates = pd.DataFrame(city_rows)
+    if not estimates.empty:
+        estimates = estimates.sort_values("slope_per_10_aqi")
+    return pooled, estimates
+
+
 def _fit_line(fig: go.Figure, fit: dict, x_min: float, x_max: float, name: str = "Linear fit") -> None:
     xs = np.array([x_min, x_max])
     fig.add_trace(
@@ -88,7 +128,7 @@ def _fit_line(fig: go.Figure, fit: dict, x_min: float, x_max: float, name: str =
             y=fit["intercept"] + fit["slope"] * xs,
             mode="lines",
             name=name,
-            line=dict(color="rgba(128,128,128,0.95)", width=2, dash="dash"),
+            line=dict(color="#C8453A", width=2.5, dash="dash"),
             hoverinfo="skip",
         )
     )
